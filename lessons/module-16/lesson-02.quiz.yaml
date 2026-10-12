@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A friend says: "Israel never joined the ICC, so the Court cannot touch an Israeli soldier for
+    anything." Under art. 12(2) of the Rome Statute, why is that incomplete?
+  options:
+    - >-
+      Because Israel joined the Statute automatically when it ratified the Geneva Conventions.
+    - >-
+      Because the Security Council referred the situation in Gaza to the Court in 2023.
+    - >-
+      Because jurisdiction can rest on the territory where the conduct occurred.
+    - >-
+      Because the ICJ ordered Israel to accept the ICC's jurisdiction in 2024.
+  correct: 2
+  explanation: >-
+    Jurisdiction follows either the accused's nationality or the territory of the conduct. The Court
+    treats Palestine as a State Party, so it claims jurisdiction over conduct there by anyone.
+    Israel disputes that Palestine can delegate jurisdiction.
+- id: q2
+  question: >-
+    A newsletter writes in October 2026: "In April 2025 the ICC ruled it has no jurisdiction and
+    cancelled the warrants." What did the Appeals Chamber actually decide on 24 April 2025?
+  options:
+    - >-
+      It sent Israel's jurisdiction challenge back for a ruling on the substance and left the warrants in force.
+    - >-
+      It held that Palestine is not a state and closed the whole investigation for lack of jurisdiction.
+    - >-
+      It suspended the warrants until Israel completes its own investigations into the same conduct.
+    - >-
+      It confirmed jurisdiction finally, so Israel can no longer raise any challenge at all.
+  correct: 0
+  explanation: >-
+    The Appeals Chamber found the Pre-Trial Chamber had not properly addressed Israel's art. 19(2)
+    argument and remanded it; it dismissed the request to suspend the warrants. Check the docket for
+    any later ruling.
+- id: q3
+  question: >-
+    An activist writes that the warrant for a senior official means he "has been found guilty". What
+    standard did the Pre-Trial Chamber actually apply?
+  options:
+    - >-
+      Proof beyond reasonable doubt, the same standard as at trial.
+    - >-
+      A balance of probabilities, as in civil cases.
+    - >-
+      A finding that the evidence is clear and convincing.
+    - >-
+      Reasonable grounds to believe the person committed a crime.
+  correct: 3
+  explanation: >-
+    Art. 58(1)(a) requires reasonable grounds to believe. It is far below the trial standard, and
+    there is no trial in absentia (art. 63), so nobody in this situation has been tried.
+- id: q4
+  question: >-
+    Your group's status note must say who leads the ICC Office of the Prosecutor in October 2026 and
+    whether that affects the Palestine investigation. Which statement matches the sources checked?
+  options:
+    - >-
+      Prosecutor Khan leads it; his removal was only proposed and never voted.
+    - >-
+      The Deputy Prosecutors lead it after Khan's removal; the investigation continues.
+    - >-
+      The Office was closed after the removal, so the investigation has stopped.
+    - >-
+      The ICC President now acts as Prosecutor until the next election.
+  correct: 1
+  explanation: >-
+    The Assembly of States Parties removed Khan on 24 July 2026 for serious misconduct. The Deputy
+    Prosecutors have run the Office since May 2025, and the investigation continues.

@@ -8,6 +8,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Administrative Petition (עתירה מינהלית)](administrative-petition.md)
 - [Affidavit (תצהיר)](affidavit.md)
 - [Arrest Card (כרטיס זכויות במעצר)](arrest-card.md)
+- [Article 15 Communication to the ICC Prosecutor](article-15-communication.md)
 - [Request to Change Closure Grounds (בקשה לשינוי עילת סגירה)](closure-grounds-request.md)
 - [Request to Take Part in a Knesset Committee Session (בקשה להשתתף בדיון בוועדת הכנסת)](committee-participation-request.md)
 - [Request to an MK or a Council Member to Ask a Question (פנייה לחבר כנסת או לחבר מועצה — בקשה להגשת שאילתה)](council-question-request.md)

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    French prosecutors open an investigation into a soldier who holds both French and Israeli
+    citizenship, over the treatment of detainees in Gaza. On what basis does France most likely
+    claim jurisdiction?
+  options:
+    - >-
+      Territorial jurisdiction, because Gaza is under French protection.
+    - >-
+      Active personality: the suspect is a French national.
+    - >-
+      Passive personality: the victims are French nationals.
+    - >-
+      ICC jurisdiction delegated to France by the Pre-Trial Chamber.
+  correct: 1
+  explanation: >-
+    Jurisdiction based on the suspect's nationality is active personality. UJAR 2026 records the
+    French cases against Franco-Israeli suspects on that basis, not as universal jurisdiction.
+- id: q2
+  question: >-
+    An Israeli prosecutor wants to charge a foreign national for an offence committed abroad under
+    Penal Law s. 16 (an offence Israel undertook by treaty to punish). What does the Penal Law
+    require before the indictment?
+  options:
+    - >-
+      Approval of the Knesset Constitution Committee.
+    - >-
+      A request from the state where the act took place.
+    - >-
+      The Attorney General's prosecution or written consent.
+    - >-
+      A prior conviction of the suspect in another country.
+  correct: 2
+  explanation: >-
+    Section 9(b) says a foreign offence is prosecuted only by the Attorney General or with his
+    written consent.
+- id: q3
+  question: >-
+    A newsletter says the 2026 Israeli law on the 7 October perpetrators "set up an international
+    tribunal in The Hague". What does the law actually provide?
+  options:
+    - >-
+      A special military court sitting in Jerusalem with jurisdiction over listed offences.
+    - >-
+      A joint Israeli-ICC chamber that applies the Rome Statute to Hamas members.
+    - >-
+      A civilian court in Tel Aviv limited to ordinary Penal Law offences only.
+    - >-
+      A UN-appointed panel that issues non-binding findings on responsibility.
+  correct: 0
+  explanation: >-
+    Sections 3 and 4 create proceedings before a military court in Jerusalem, with jurisdiction
+    including the 1950 Genocide Law, Penal Law ss. 97–99 and the Counter-Terrorism Law.
+- id: q4
+  question: >-
+    In 2026 a private group in London wants a magistrate to issue an arrest warrant against a
+    visiting foreign officer for grave breaches of the Geneva Conventions. What stands in the way
+    under UK law?
+  options:
+    - >-
+      Nothing; any magistrate must issue the warrant on request.
+    - >-
+      Only the ICC can request arrests for war crimes in the UK.
+    - >-
+      The officer must first be convicted in his own country.
+    - >-
+      The warrant needs the consent of the Director of Public Prosecutions.
+  correct: 3
+  explanation: >-
+    Section 153 of the Police Reform and Social Responsibility Act 2011 requires DPP consent for
+    private warrant applications for these offences committed abroad.

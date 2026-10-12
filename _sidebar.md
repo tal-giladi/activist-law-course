@@ -121,3 +121,10 @@
   - [79 · ICJ Advisory Opinions and Israel's Positions](lessons/module-15/lesson-04.md)
   - [80 · Analysing an Incident Under IHL, Neutrally](lessons/module-15/lesson-05.md)
   - [Module 15 quiz](assessments/module-15-quiz.md)
+- **Module 16 — International Criminal Law and Accountability (about 15 hours)**
+  - [81 · International Crimes](lessons/module-16/lesson-01.md)
+  - [82 · The ICC and Israel](lessons/module-16/lesson-02.md)
+  - [83 · Complementarity and Israeli Investigation Mechanisms](lessons/module-16/lesson-03.md)
+  - [84 · Universal Jurisdiction](lessons/module-16/lesson-04.md)
+  - [85 · Sending Information to International Bodies](lessons/module-16/lesson-05.md)
+  - [Module 16 quiz](assessments/module-16-quiz.md)

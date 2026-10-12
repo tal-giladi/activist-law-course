@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A volunteer wants to send the ICC Prosecutor information about an incident in Gaza in 2024.
+    She asks whether she needs a lawyer, a fee, or a special form. What is correct?
+  options:
+    - >-
+      She needs a lawyer admitted to the ICC list of counsel to file anything.
+    - >-
+      She must first be recognised as a victim by the Pre-Trial Chamber.
+    - >-
+      She can send it herself through OTPLink or by post; no fee or set format.
+    - >-
+      She must pay a filing fee and use the official Article 15 form.
+  correct: 2
+  explanation: >-
+    Under art. 15 anyone may send information. The OTP accepts it through OTPLink or by post; the
+    Statute sets no format, and there is no fee.
+- id: q2
+  question: >-
+    Three months after submitting, a family has received only an automatic acknowledgement. What
+    does that tell them?
+  options:
+    - >-
+      Their information was received; it says nothing about how it will be used.
+    - >-
+      The Office has opened a separate case about their incident.
+    - >-
+      The information was rejected, since accepted files get a full reply.
+    - >-
+      They must resubmit every month or the file will be deleted.
+  correct: 0
+  explanation: >-
+    Every sender gets an acknowledgement (OTP policy, para. 88). The Office does not usually report
+    how information was used; it must reply only if it finds no reasonable basis in a preliminary
+    examination (art. 15(6)).
+- id: q3
+  question: >-
+    Before uploading videos to OTPLink, a group trims them to the key seconds and re-saves them in a
+    smaller format. What is the main problem?
+  options:
+    - >-
+      OTPLink accepts only written text documents, never video files.
+    - >-
+      Edited files are harder to authenticate than originals.
+    - >-
+      All videos must be dubbed into French before any submission.
+    - >-
+      The ICC forbids any video evidence recorded on mobile phones.
+  correct: 1
+  explanation: >-
+    Altering files weakens their authenticity. Keep the originals untouched, record hash values and
+    how each file was obtained, and send copies of the originals.
+- id: q4
+  question: >-
+    A human-rights group has detailed evidence about one incident but has filed nothing in Israel.
+    Why should its Article 15 communication still describe domestic steps?
+  options:
+    - >-
+      Because the ICC refuses any communication from a group that has not sued in Israel.
+    - >-
+      Because Israel's consent is required before the Prosecutor reads any file.
+    - >-
+      Because the Statute requires exhaustion of all domestic remedies first.
+    - >-
+      Because admissibility depends on whether Israel genuinely acts on the same case.
+  correct: 3
+  explanation: >-
+    Complementarity (arts 17–18) asks whether a state with jurisdiction is genuinely investigating
+    the same person and conduct. Domestic complaints and their outcomes are directly relevant, even
+    though exhaustion is not a formal requirement.

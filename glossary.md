@@ -36,6 +36,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ביקורת שיפוטית על חוקים** (bikoret shiputit al chukim) — Judicial review of statutes.
 - **בית דין לעבודה** (beit din la-avoda) — Labour Court.
 - **בית הדין הבינלאומי לצדק** (beit hadin habeinleumi letzedek) — International Court of Justice (ICJ), the principal judicial organ of the UN.
+- **בית הדין הפלילי הבינלאומי** (beit hadin haplili habeinle'umi) — International Criminal Court (ICC), The Hague; tries individuals, unlike the ICJ.
 - **בית המשפט המחוזי** (beit ha-mishpat ha-mechozi) — District Court.
 - **בית משפט השלום** (beit mishpat ha-shalom) — Magistrates' Court.
 - **בית משפט לעניינים מינהליים** (beit mishpat le-inyanim minhaliyim) — Administrative Affairs Court.
@@ -122,6 +123,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הליך שנוי במחלוקת** (halich shanuy bemachloket) — Contentious case at the ICJ: a dispute between states ending in a binding judgment.
 - **הלכה** (halacha) — Binding legal rule set by a court (precedent).
 - **הלכה פסוקה / הלכה** (halacha psuka / halacha) — binding precedent; the holding of a case.
+- **הלשכה המקדמית** (halishka hamukdemet) — Pre-Trial Chamber of the ICC, which authorises investigations and issues warrants.
 - **המהפכה החוקתית** (hamahapecha hachukatit) — The "constitutional revolution": the 1992 Basic Laws and the Mizrahi Bank ruling (1995).
 - **המועצה הארצית לתכנון ולבניה** (hamo'atza ha'artzit) — National Planning and Building Council; decides national outline plans and appeals against district committees (s. 110).
 - **המחלקה לחקירות שוטרים (מח״ש)** (hamachlaka lechakirot shotrim, Machash) — Police Investigations Department in the Ministry of Justice.
@@ -159,6 +161,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפליה / אפליה** (haflaya / aflaya) — Discrimination; statutes use הפליה, everyday Hebrew says אפליה.
 - **הפקדה** (hafkada) — Deposit: publication of a plan for public objections.
 - **הפרעה לשוטר** (hafra'a leshoter) — Obstructing a police officer (Penal Law s. 275).
+- **הפרקליט הצבאי הראשי (פצ״ר)** (hapraklit hatzva'i harashi, patzar) — Military Advocate General (MAG), head of the IDF's legal and prosecution corps.
 - **הפרת הוראה חוקית** (hafarat hora'a chukit) — Breach of a lawful order (Penal Law s. 287).
 - **הצדק במלחמה / הצדק לפתוח במלחמה** (hatzedek bamilchama / hatzedek liftoach bemilchama) — Jus in bello (conduct of war) / jus ad bellum (resort to force).
 - **הצהרה לפי סעיף 36(2)** (hatzhara lefi se'if 36(2)) — Optional-clause declaration accepting the ICJ's compulsory jurisdiction (Israel has none in force).
@@ -174,6 +177,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הרכב** (herkev) — panel of judges.
 - **הרשות להגנת הפרטיות** (harashut lehaganat hapratiyut) — Privacy Protection Authority, Ministry of Justice.
 - **השגה** (hasaga) — Challenge to a national infrastructure plan (s. 76ג(8)).
+- **השמדת עם (רצח עם)** (hashmadat am, retzach am) — Genocide: listed acts committed with intent to destroy a national, ethnic, racial or religious group as such; defined in Israel by the Genocide Law of 1950.
 - **השתתפות ישירה בלחימה** (hishtatfut yeshira belechima) — Direct participation in hostilities: civilians lose protection only for such time as they take part.
 - **התאמות נגישות** (hat'amot negishut) — Accessibility adjustments.
 - **התוספת הראשונה** (hatosefet harishona) — First Schedule of the Administrative Courts Law: matters the Administrative Court hears.
@@ -193,6 +197,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ועדת אמנה** (va'adat amana) — Treaty body: the expert committee that monitors one UN treaty.
 - **ועדת הסכמות** (va'adat haskamot) — Agreements committee that approves committee sessions during the election recess.
 - **ועדת חקירה בינלאומית** (va'adat chakira beinle'umit) — International commission of inquiry created by the Council.
+- **ועדת טירקל** (va'adat Turkel) — Turkel Commission: public commission on the 2010 flotilla incident; its 2013 second report reviewed Israel's investigation mechanisms.
 - **ועדת ערר** (va'adat arar) — appeals committee (a tribunal).
 - **זימון עד** (zimun ed) — Summons of a witness by the court.
 - **זכויות נגזרות** (zchuyot nigzarot) — Derived rights: rights the courts read into human dignity.
@@ -216,6 +221,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חוק־יסוד: החקיקה** (chok yesod: hachakika) — A proposed Basic Law on how laws and Basic Laws are made; not enacted.
 - **חוקה** (chuka) — Constitution.
 - **חוקר** (choker) — Investigator appointed to hear objections and recommend (s. 107א).
+- **חוקת רומא (אמנת רומא)** (chukat Roma, amanat Roma) — The Rome Statute of the International Criminal Court (1998); Israel is not a party.
 - **חזקה** (chazaka) — Presumption that shifts the burden of proof (services law s. 6; disability law s. 19סה).
 - **חזקת ההתאמה (הפרשנית)** (chezkat hahat'ama haparshanit) — Presumption of compatibility: reading Israeli law, as far as possible, in line with Israel's international obligations.
 - **חזקת התקינות** (chezkat hatkinut) — Presumption of regularity: an authority is presumed to have acted lawfully until shown otherwise.
@@ -249,6 +255,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **כבוד האדם** (kvod ha'adam) — Human dignity; the source of several derived rights.
 - **כבילת שיקול הדעת** (kvilat shikul hada'at) — Fettering discretion: a rigid rule that leaves no room for the individual case.
 - **כוונה לפגוע** (kavana lifgo'a) — Intent to harm: needed for the defamation offence and doubles the s. 7א ceiling.
+- **כוונה מיוחדת** (kavana meyuchedet) — Special intent (dolus specialis); for genocide, the intent to destroy a protected group as such.
 - **כללי הצדק הטבעי** (klalei hatzedek hativ'i) — Rules of natural justice.
 - **כפייה** (kfiya) — Coercion.
 - **כתב הגנה** (ktav hagana) — Statement of defence.
@@ -297,6 +304,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מכתב התראה לפני הגשת עתירה** (michtav hatra'a lifnei hagashat atira) — Pre-petition (warning) letter.
 - **מכתב טענות** (michtav te'anot) — Letter of allegation by Special Procedures.
 - **ממונה על חופש המידע** (memune al chofesh hameida) — FOI officer every public authority must appoint (FOI Law s. 3).
+- **מנגנון בירור עובדתי (מטכ״לי)** (manganon birur uvdati) — The General Staff Fact-Finding Assessment (FFA) Mechanism, which examines exceptional incidents for the MAG.
 - **מנהג בינלאומי** (minhag beinleumi) — International custom: a general practice accepted as law.
 - **מספר הליך** (mispar halich) — Case number, for example בג״ץ 5658/23.
 - **מעמד מייעץ ב-ECOSOC** (ma'amad meya'etz) — ECOSOC consultative status, which lets an NGO speak at the Council.
@@ -305,6 +313,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מערער / תובע / נתבע** (me'arer / tove'a / nitba) — appellant / plaintiff / defendant.
 - **מפגע סביבתי** (mifga svivati) — Environmental hazard as defined in the 1992 Civil Claims Law.
 - **מפקח** (mefake'ach) — Supervisor who undertakes to watch a released person.
+- **מצ״ח** (metzach) — Military Police Criminal Investigation Division (MPCID).
 - **מצב מאושר / מצב מוצע** (matzav me'ushar / matzav mutza) — Approved situation / proposed situation on a plan's map.
 - **מצהיר** (matzhir) — Declarant: the person making an affidavit.
 - **מצלמת גוף** (matzlemat guf) — Police body camera.
@@ -366,6 +375,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ספר החוקים** (Sefer HaHukim) — The gazette series for Knesset laws (cited ס״ח).
 - **ספרות משפטית** (sifrut mishpatit) — Legal literature (books and articles).
 - **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence that is not a contravention (Arrests Law s. 23).
+- **עבירות נגד משפט העמים** (avirot neged mishpat ha'amim) — Offences against the law of nations: foreign offences Israel undertook by treaty to punish (Penal Law s. 16).
+- **עבירת חוץ** (avirat chutz) — Foreign offence: an offence committed outside Israel; prosecuted only by or with the consent of the Attorney General (Penal Law s. 9(b)).
 - **עבירת משמעת** (averat mishma'at) — Disciplinary offence.
 - **עבירת קנס** (avirat knas) — Fine offence, dealt with by a fine notice instead of an indictment.
 - **עוון** (avon) — Misdemeanour: maximum above three months and up to three years.
@@ -385,6 +396,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עצרת עם** (atzeret am) — Public rally of 500+ people under the Public Places Safety Law; needs a 5-day notice.
 - **עקרון ההבחנה** (ikron havchana) — Principle of distinction: attacks only against combatants and military objectives.
 - **עקרון המידתיות (בדיני הלחימה)** (ikron hamidatiyut) — Proportionality in attack: expected incidental civilian harm must not be excessive in relation to the anticipated concrete and direct military advantage.
+- **עקרון המשלימות** (ekron hamashlimut) — Complementarity: the ICC acts only where national systems do not genuinely investigate or prosecute.
 - **עקרון חוקיות המינהל** (ikron chukiyut haminhal) — The principle of administrative legality: an authority may act only under a power given by law.
 - **עקרונות כלליים של המשפט** (ekronot klaliyim shel hamishpat) — General principles of law, the third source in Article 38(1)(c) of the ICJ Statute.
 - **ערבון / ערבות** (eravon / arvut) — Cash deposit / guarantee given for release.
@@ -408,6 +420,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פיצוי ללא הוכחת נזק** (pitzui lelo hochachat nezek) — Compensation without proof of damage; CPI-linked ceilings in Defamation Law s. 7א and Privacy Law s. 29א.
 - **פנייה** (pniya) — Request or letter to an authority.
 - **פנייה דחופה** (pniya dchufa) — Urgent appeal by Special Procedures for grave imminent harm.
+- **פנייה לפי סעיף 15** (pniya lefi se'if 15) — Article 15 communication: information sent to the ICC Prosecutor by any person or organisation.
 - **פנייה מוקדמת** (pniya mukdemet) — Prior written request to the authority before filing a petition.
 - **פניית ציבור למבקר המדינה** (pniyat tzibur lemevaker hamedina) — Public inquiry to the State Comptroller: general information, not a personal complaint.
 - **פסק דין** (psak din) — Judgment: the final decision in a case.
@@ -427,6 +440,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פרסום** (pirsum) — Publication: any means of expression that reaches, or in writing is likely to reach, someone other than the injured person (s. 2).
 - **פרסום מותר** (pirsum mutar) — Permitted (privileged) publication that can never ground a claim (s. 13).
 - **פשע** (pesha) — Felony: an offence with a maximum penalty above three years' imprisonment (Penal Law s. 24).
+- **פשע התוקפנות** (pesha hatokfanut) — The crime of aggression: a leadership crime concerning a state's unlawful use of force; defined for the ICC in Kampala in 2010.
+- **פשע מלחמה** (pesha milchama) — War crime: a serious violation of the law of armed conflict that entails individual criminal responsibility.
+- **פשע נגד האנושות** (pesha neged ha'enoshut) — Crime against humanity: listed acts committed as part of a widespread or systematic attack on a civilian population.
+- **פשעים בינלאומיים** (pesha'im beinle'umiyim) — International crimes: offences defined by international law for which individuals are criminally responsible (genocide, crimes against humanity, war crimes, aggression).
 - **צד שלישי** (tzad shlishi) — Third party whose information is requested, entitled to object (FOI Law s. 13).
 - **צו ארעי** (tzav ar'i) — Temporary order given before the other side responds.
 - **צו ביניים** (tzav beinayim) — Interim order until judgment.
@@ -434,9 +451,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צו לאמצעים זמניים** (tzav le'emtza'im zmaniyim) — Provisional measures order: interim measures pending judgment.
 - **צו מוחלט** (tzav muchlat) — Final (absolute) order.
 - **צו מניעת הטרדה מאיימת** (tzav meni'at hatrada me'ayemet) — Restraining order against threatening harassment, from the Magistrates' Court.
+- **צו מעצר (בינלאומי)** (tzav ma'atzar) — Arrest warrant; at the ICC issued on "reasonable grounds to believe" (art. 58).
 - **צו נגישות** (tzav negishut) — Accessibility order (disability law s. 19מג).
 - **צו על תנאי** (tzav al tnai) — Order nisi: an order to show cause.
 - **צו על תנאי / צו מוחלט** (tzav al tnai / tzav muchlat) — order nisi / order made absolute.
+- **קבילות (של תיק בבית הדין הפלילי הבינלאומי)** (kvilut) — Admissibility of a case before the ICC (art. 17).
 - **קבלה לרישום** (kabala lerishum) — Acceptance of a document for filing by the court registry (reg. 33).
 - **קדם־משפט** (kdam mishpat) — Pre-trial hearing.
 - **קו בניין** (kav binyan) — Building line: minimum distance from the plot boundary.
@@ -466,6 +485,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שיהוי** (shihui) — Delay in filing a petition.
 - **שימוש חורג** (shimush chorig) — Non-conforming use permitted against a plan.
 - **שימוש לרעה בהליכי משפט** (shimush lera'a behalichei mishpat) — Abuse of process (Civil Procedure Regulations, reg. 4).
+- **שיפוט אוניברסלי** (shiput universali) — Universal jurisdiction: a state's power to try certain grave crimes regardless of where or by whom they were committed.
 - **שיקול דעת** (shikul da'at) — Discretion: the authority's choice within its power.
 - **שיקול זר** (shikul zar) — Extraneous consideration: one outside the purpose of the law.
 - **שירות ציבורי** (sherut tziburi) — Public service as defined in the services law (s. 2) or the disability law (s. 19ה).
@@ -474,6 +494,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שמירת דינים** (shmirat dinim) — Preservation of laws: pre-1992 laws stay valid despite Basic Law: Human Dignity and Liberty (s. 10).
 - **שפיטות** (shfitut) — Justiciability: whether a matter is suitable for a court to decide (normative and institutional).
 - **שריון / סעיף משוריין** (shiryun / se'if meshuryan) — Entrenchment / an entrenched section that can be changed only by a special majority.
+- **שרשרת משמורת** (sharsheret mishmoret) — Chain of custody: the record of who held a piece of evidence, when and how.
 - **תביעה אזרחית** (tvi'a ezrachit) — Civil claim: a private person suing for money or another remedy.
 - **תביעה שכנגד** (tvi'a shekeneged) — Counterclaim.
 - **תביעת השתקה** (tvi'at hashtaka) — SLAPP: a suit meant to silence public participation.
@@ -485,6 +506,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תוספת** (tosefet) — schedule at the end of a law.
 - **תועלת שולית** (to'elet shulit) — Marginal benefit.
 - **תזכיר חוק** (tazkir chok) — Government draft bill published for public and ministry comments before it reaches the Knesset.
+- **תחולה אישית פעילה / סבילה** (tchula ishit pe'ila / svila) — Active / passive personality jurisdiction: based on the nationality of the suspect / of the victim.
 - **תחולה טריטוריאלית** (tchula teritoryalit) — Territorial scope of a treaty; disputed between Israel and the treaty bodies.
 - **תחולת יתר / תחולת חסר** (tchulat yeter / tchulat choser) — Over-inclusiveness / under-inclusiveness of a measure.
 - **תחילה** (tchila) — Commencement: the date a provision takes effect.

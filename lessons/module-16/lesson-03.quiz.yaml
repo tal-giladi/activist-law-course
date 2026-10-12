@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A state argues that the ICC must stop a case because its own military police "are looking into
+    the general conduct of the campaign". Under art. 17, what does the state need to show?
+  options:
+    - >-
+      That it has any investigation at all open about the same war.
+    - >-
+      That it is not a party to the Rome Statute and never accepted it.
+    - >-
+      That a parliament committee has published a report on the campaign.
+    - >-
+      Genuine proceedings against the same person for substantially the same conduct.
+  correct: 3
+  explanation: >-
+    Admissibility is tested case by case. A general review of a campaign does not make a specific
+    case inadmissible; the proceedings must concern the same person and substantially the same
+    conduct, and be genuine.
+- id: q2
+  question: >-
+    A Gaza resident's family, through an Israeli NGO, wants to complain that soldiers killed a
+    relative at a checkpoint. Which channel does the IDF itself describe for such a complaint?
+  options:
+    - >-
+      A complaint to the MAG, directly or through an NGO or a lawyer.
+    - >-
+      Only a civil damages claim in a magistrates' court in Israel.
+    - >-
+      Only a complaint to the Department for Investigation of Police Officers.
+    - >-
+      Nothing is possible, because non-residents cannot complain in Israel.
+  correct: 0
+  explanation: >-
+    The IDF states that people outside Israel can complain to the MAG through the liaison
+    mechanism, an NGO or a lawyer, and that complainants are notified of the MAG's decision.
+- id: q3
+  question: >-
+    A settler's car was torched and the police closed the file for "insufficient evidence". The
+    owner believes key witnesses were never questioned. What is the next step under Israeli law?
+  options:
+    - >-
+      Petition the ICC at once, since the Israeli police failed to investigate.
+    - >-
+      File a new identical complaint at a different police station nearby.
+    - >-
+      Appeal the closure under s. 64 within the deadline.
+    - >-
+      Ask the MAG to take over, since the area is under military command.
+  correct: 2
+  explanation: >-
+    Section 64 gives the complainant an appeal against a decision not to investigate or prosecute.
+    The ICC deals with the core crimes only, and the MAG handles soldiers, not civilian suspects.
+- id: q4
+  question: >-
+    Your report says "Israel fully implemented the Turkel recommendations". According to the State
+    Comptroller's 2018 audit, which statement is accurate?
+  options:
+    - >-
+      All 18 recommendations were enacted in a single law in 2016.
+    - >-
+      A fact-finding mechanism exists, but war-crimes legislation was not submitted.
+    - >-
+      None of the recommendations were implemented, including the FFA Mechanism.
+    - >-
+      The Turkel Commission was cancelled before it made recommendations.
+  correct: 1
+  explanation: >-
+    The FFA Mechanism was established and the Comptroller found it acted in good faith, with
+    flaws. Bills on war crimes and command responsibility had not been submitted, and the MAG
+    appointment reform was not legislated.

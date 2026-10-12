@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    A settlers' council publishes a statement calling a shooting attack on a bus "a crime against
+    humanity". The attack was a single incident by two gunmen. Which correction keeps the statement
+    legally sound?
+  options:
+    - >-
+      Call it genocide instead, since all the victims were Jewish.
+    - >-
+      Say it is no crime at all, since the two attackers were not soldiers.
+    - >-
+      Call it murder and terror; add the label only with facts on a wider attack.
+    - >-
+      Say only the ICJ can decide what it was, so no label may be used.
+  correct: 2
+  explanation: >-
+    A crime against humanity needs a widespread or systematic attack on civilians. A single
+    incident is a grave domestic crime; the international label needs facts on the wider context.
+- id: q2
+  question: >-
+    A Palestinian students' group writes: "The ICJ issued arrest warrants for Israeli leaders in
+    2024." Which correction is accurate?
+  options:
+    - >-
+      The ICC issued them against individuals; the ICJ hears states.
+    - >-
+      The UN Security Council issued the warrants and asked the ICJ to enforce them.
+    - >-
+      The ICJ issued them, but only as advisory opinions that bind no one.
+    - >-
+      No warrants were issued; only the Prosecutor's applications exist.
+  correct: 0
+  explanation: >-
+    Pre-Trial Chamber I of the ICC issued warrants on 21 November 2024. The ICJ deals with state
+    responsibility (lesson 13.4) and issues no warrants against individuals.
+- id: q3
+  question: >-
+    An Israeli think-tank asks you to summarise the state of Israel's jurisdiction challenge at the
+    ICC as of October 2026, using only the sources checked in this module. What do you write?
+  options:
+    - >-
+      The Court finally accepted the challenge in April 2025 and cancelled the warrants.
+    - >-
+      The Appeals Chamber remanded it in April 2025; no new ruling was found by 13 Oct 2026.
+    - >-
+      The challenge was withdrawn by Israel after the Prosecutor's removal.
+    - >-
+      The Court ruled in 2021 that Israel can never challenge jurisdiction.
+  correct: 1
+  explanation: >-
+    On 24 April 2025 the Appeals Chamber sent the challenge back for a ruling on the substance and
+    did not suspend the warrants. Record the date of your check, and look for later rulings.
+- id: q4
+  question: >-
+    A Bedouin family's son was injured by gunfire during an army operation in the Negev, and the
+    family believes soldiers fired without cause. Which first step creates the record every
+    international body will ask about?
+  options:
+    - >-
+      An Article 15 communication to the ICC, which has priority over Israeli bodies.
+    - >-
+      A UN Special Procedures communication, which replaces any domestic step.
+    - >-
+      A complaint to the MAG, directly or through the police, an NGO or a lawyer.
+    - >-
+      A civil claim abroad under universal jurisdiction.
+  correct: 2
+  explanation: >-
+    Alleged misconduct by soldiers goes to the MAG, through any police or MPCID station, an NGO or a
+    lawyer. The domestic record is the basis for any later complementarity argument.
+- id: q5
+  question: >-
+    The police close a file about an arson attack on a Palestinian family's home for "unknown
+    offender". The family's lawyer sees that neighbours' CCTV was never collected. What should the
+    family do next?
+  options:
+    - >-
+      Nothing; a closure for unknown offender cannot be challenged.
+    - >-
+      Send the CCTV to the ICC, which will reopen the police file.
+    - >-
+      Ask the MAG to investigate the police officers who closed the file.
+    - >-
+      Request the material and appeal the closure under s. 64 within the deadline.
+  correct: 3
+  explanation: >-
+    Section 64 allows a complainant to appeal a decision not to investigate or not to prosecute;
+    the deadline is in current numbers. A petition to the High Court can follow.
+- id: q6
+  question: >-
+    A journalist asks whether Israel accepted the Turkel Commission's recommendation to legislate
+    war crimes. What do the 2015 and 2018 sources show?
+  options:
+    - >-
+      Approved in principle; by 2018 no bills had been submitted.
+    - >-
+      The Knesset enacted a full war-crimes code in 2016, as Turkel asked.
+    - >-
+      The Ciechanover team rejected the recommendation outright in 2015.
+    - >-
+      Turkel never addressed legislation; it dealt only with the flotilla.
+  correct: 0
+  explanation: >-
+    The Ciechanover team recorded the AG's decision to promote bills on torture and crimes against
+    humanity; the 2018 State Comptroller report found that no bills had been submitted.
+- id: q7
+  question: >-
+    Belgian police question two visiting Israeli soldiers after an NGO complaint, and release them.
+    A pro-Israel website writes "Belgium arrested and charged IDF soldiers". What is the accurate
+    description?
+  options:
+    - >-
+      Belgium convicted them in absentia and issued an international warrant.
+    - >-
+      They were questioned and released; the case was referred to the ICC.
+    - >-
+      The ICC ordered Belgium to arrest them under the 2024 warrants.
+    - >-
+      Belgium refused to act, because Israel is not a party to the Statute.
+  correct: 1
+  explanation: >-
+    The Federal Prosecutor found it may have jurisdiction, police questioned and released the two,
+    and according to UJAR 2026 the complaints were referred to the ICC on 30 July 2025.
+- id: q8
+  question: >-
+    A French family whose relative was killed by Hamas on 7 October 2023 asks whether French
+    courts have any role. On what basis has France investigated such killings?
+  options:
+    - >-
+      Universal jurisdiction, which requires the suspects to be in France.
+    - >-
+      Territorial jurisdiction, because the kibbutz is French territory.
+    - >-
+      ICC delegation, because France is a State Party.
+    - >-
+      Passive personality: the victims are French nationals.
+  correct: 3
+  explanation: >-
+    The PNAT opened an investigation on 12 October 2023 into killings and abductions of French
+    nationals. Jurisdiction based on the victims' nationality is passive personality.
+- id: q9
+  question: >-
+    An Israeli prosecutor considers charging a foreign national, now in Israel, with genocide
+    committed abroad. Which Israeli provision gives the court jurisdiction over the act abroad?
+  options:
+    - >-
+      Section 5 of the Genocide Law of 1950.
+    - >-
+      Article 12 of the Rome Statute, applied directly by Israeli courts.
+    - >-
+      Section 58 of the Criminal Procedure Law.
+    - >-
+      The Nazis and Nazi Collaborators Law, which covers any period.
+  correct: 0
+  explanation: >-
+    Section 5 lets Israel try genocide committed outside Israel as if committed in Israel; the AG's
+    consent rule for foreign offences (Penal Law s. 9(b)) also applies. The Nazis law is limited to
+    the Nazi period.
+- id: q10
+  question: >-
+    A clinic prepares an Article 15 communication for a family. It has dated photos, a hospital
+    record, a MAG complaint number and a witness who refuses to be named. What should the file do
+    with the witness?
+  options:
+    - >-
+      Name her anyway, since the ICC keeps every sender's file secret forever.
+    - >-
+      Drop her evidence entirely, since unnamed witnesses are never allowed.
+    - >-
+      Describe her as "Witness A", record her refusal, and note the risk.
+    - >-
+      Send her details only by post, because posted names are never disclosed.
+  correct: 2
+  explanation: >-
+    Without consent she must not be named. The Office protects senders but may have to disclose
+    material at trial, so the file describes her without identifying details and states the risk.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A group's report describes soldiers killing three unarmed detainees in a single incident during
+    an armed conflict. It calls this "a crime against humanity". Which element is most clearly
+    missing from the facts as described?
+  options:
+    - >-
+      An armed conflict and a link between the killings and that conflict.
+    - >-
+      A widespread or systematic attack directed against a civilian population.
+    - >-
+      Proof that Israel is a party to the Rome Statute of the ICC.
+    - >-
+      A UN resolution that first labels the incident as a crime.
+  correct: 1
+  explanation: >-
+    Crimes against humanity need a widespread or systematic attack on civilians. A single incident
+    in an armed conflict fits the war crime of wilful killing better; the armed-conflict element is
+    already present.
+- id: q2
+  question: >-
+    A draft complaint says a massacre was "genocide" and lists the number of victims, their ages and
+    the weapons used. What must be added before the label can be argued seriously?
+  options:
+    - >-
+      The names and ranks of the commanders of every unit present that day.
+    - >-
+      A statement that all the victims were civilians and not combatants.
+    - >-
+      Facts showing intent to destroy a protected group as such.
+    - >-
+      Evidence that the victims numbered more than a fixed legal threshold.
+  correct: 2
+  explanation: >-
+    Genocide is defined by its special intent. Numbers alone do not prove it; there is no numerical
+    threshold. Without facts on intent, the act may still be a war crime or a crime against
+    humanity.
+- id: q3
+  question: >-
+    You want to cite the Israeli statute that defines genocide in a letter to a ministry. Which law
+    do you cite?
+  options:
+    - >-
+      חוק בדבר מניעתו וענישתו של הפשע השמדת עם, התש״י–1950.
+    - >-
+      חוק העונשין, התשל״ז–1977, because it has a chapter on war crimes.
+    - >-
+      חוק השיפוט הצבאי, התשט״ו–1955, because genocide is a military offence.
+    - >-
+      Only the Rome Statute, since Israel has no genocide statute of its own.
+  correct: 0
+  explanation: >-
+    The Genocide Law of 1950 copies the Convention definition. The Penal Law has no general
+    war-crimes chapter, and the Rome Statute does not bind Israel, which is not a party.
+- id: q4
+  question: >-
+    An NGO writes that because a UN commission of inquiry found that an army "committed war crimes",
+    the soldiers involved are now convicted war criminals. What is wrong?
+  options:
+    - >-
+      Nothing; commission findings are final judgments binding on national courts.
+    - >-
+      Only the ICJ can find that an individual committed a war crime.
+    - >-
+      War crimes can be found only after a state ratifies the Geneva Conventions twice.
+    - >-
+      A commission makes findings, not convictions; only a criminal court can convict.
+  correct: 3
+  explanation: >-
+    Commissions of inquiry, like ICC arrest-warrant decisions, apply standards short of a criminal
+    conviction. Write "the Commission found…" and never present a finding as a conviction.

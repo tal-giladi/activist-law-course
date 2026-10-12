@@ -21094,3 +21094,1340 @@
     - '"No conclusion is possible about anything in war."'
   correct: 1
   explanation: It states what the evidence supports and what would decide the question.
+- id: m16-001
+  module: 16
+  lesson: '16.1'
+  subject: core-crimes
+  difficulty: 1
+  question: Which list matches the four crimes in art. 5(1) of the Rome Statute?
+  options:
+    - Genocide, terrorism, war crimes and torture.
+    - War crimes, piracy, apartheid and aggression.
+    - Genocide, crimes against humanity, war crimes and aggression.
+    - Crimes against humanity, drug trafficking, genocide and terrorism.
+  correct: 2
+  explanation: >-
+    Art. 5(1) lists exactly four core crimes. Terrorism, trafficking and piracy are dealt with by
+    national law and specific treaties.
+- id: m16-002
+  module: 16
+  lesson: '16.1'
+  subject: contextual-elements
+  difficulty: 1
+  question: Which element turns murder into a crime against humanity?
+  options:
+    - Being part of a widespread or systematic attack on civilians, with knowledge.
+    - Being committed by a soldier in uniform during any military operation abroad.
+    - Being committed against a member of a religious or national minority.
+    - Being reported by at least one UN body or NGO as a serious violation.
+  correct: 0
+  explanation: >-
+    Art. 7(1) requires the act to be part of a widespread or systematic attack directed against a
+    civilian population, with knowledge of the attack.
+- id: m16-003
+  module: 16
+  lesson: '16.1'
+  subject: contextual-elements
+  difficulty: 1
+  question: What must exist for an act to be a war crime?
+  options:
+    - A declaration of war by a parliament or government.
+    - A Security Council resolution naming the conflict.
+    - A treaty between the parties that defines the crime.
+    - An armed conflict and a link between the act and that conflict.
+  correct: 3
+  explanation: >-
+    War crimes are serious violations of the law of armed conflict. No formal declaration of war is
+    required, but there must be an armed conflict and a nexus to it.
+- id: m16-004
+  module: 16
+  lesson: '16.1'
+  subject: genocide-intent
+  difficulty: 2
+  question: >-
+    A report shows thousands of deaths in a city but says nothing about why the attackers acted.
+    Which genocide element is missing?
+  options:
+    - A minimum number of deaths fixed in the Convention.
+    - The special intent to destroy a protected group as such.
+    - Proof that the victims all held the same citizenship.
+    - A finding by a court that an armed conflict existed.
+  correct: 1
+  explanation: >-
+    Genocide is defined by the special intent (dolus specialis). There is no numerical threshold,
+    and genocide does not require an armed conflict.
+- id: m16-005
+  module: 16
+  lesson: '16.1'
+  subject: genocide-intent
+  difficulty: 2
+  question: Which of these acts can be an underlying act of genocide under art. 6?
+  options:
+    - Expelling foreign journalists from the conflict zone.
+    - Forcibly transferring children of the group to another group.
+    - Destroying a military base belonging to the group's state.
+    - Confiscating land for a road used by everyone in the area.
+  correct: 1
+  explanation: >-
+    Art. 6(e) lists the forcible transfer of children of the group. The other acts may breach other
+    rules but are not among the five genocidal acts.
+- id: m16-006
+  module: 16
+  lesson: '16.1'
+  subject: israeli-statutes
+  difficulty: 1
+  question: Which Israeli law was Adolf Eichmann tried under?
+  options:
+    - The Rome Statute, applied directly by the Jerusalem District Court.
+    - The Counter-Terrorism Law of 2016, retroactively.
+    - The Military Justice Law of 1955, as a soldier.
+    - The Nazis and Nazi Collaborators (Punishment) Law, 1950.
+  correct: 3
+  explanation: >-
+    The Nazis and Nazi Collaborators Law defines crimes against the Jewish people, crimes against
+    humanity and war crimes for the Nazi period and the Second World War.
+- id: m16-007
+  module: 16
+  lesson: '16.1'
+  subject: israeli-statutes
+  difficulty: 2
+  question: Why can a prosecutor not use the Nazis and Nazi Collaborators Law for crimes committed in 2023?
+  options:
+    - It applies only to acts in the Nazi period and the Second World War.
+    - It was repealed when Israel ratified the Genocide Convention.
+    - It applies only to Israeli citizens who live abroad.
+    - It allows only civil claims for damages, not charges.
+  correct: 0
+  explanation: >-
+    Section 1 covers acts done during the Nazi regime or the Second World War in an enemy country.
+    Other statutes apply to later events.
+- id: m16-008
+  module: 16
+  lesson: '16.1'
+  subject: israeli-statutes
+  difficulty: 2
+  question: What maximum penalty does Israel's 1950 Genocide Law set for genocide?
+  options:
+    - Life imprisonment only, since the death penalty was abolished.
+    - Twenty years, the same maximum as for murder in the Penal Law.
+    - Death, with a minimum of ten years in limited mitigating circumstances.
+    - A fine only, because the law is mainly a declaration.
+  correct: 2
+  explanation: >-
+    Section 2 sets the death penalty, with imprisonment of at least ten years in narrow
+    circumstances described there.
+- id: m16-009
+  module: 16
+  lesson: '16.1'
+  subject: not-international-crime
+  difficulty: 2
+  question: >-
+    A state keeps detainees in overcrowded cells. A group calls it 'a war crime'. What is the most
+    precise first classification?
+  options:
+    - Automatically a war crime, because detention during any conflict is one.
+    - Automatically genocide, because all the detainees share one nationality.
+    - Not a legal matter at all, because detention is a purely security decision.
+    - A possible human-rights or IHL breach by the state; a crime needs more.
+  correct: 3
+  explanation: >-
+    State breaches of detention standards are first assessed as human-rights or IHL violations.
+    Individual criminal responsibility needs the elements of a specific crime, such as inhuman
+    treatment.
+- id: m16-010
+  module: 16
+  lesson: '16.1'
+  subject: not-international-crime
+  difficulty: 2
+  question: >-
+    A civilian is killed in a strike that was not expected to cause excessive harm and was aimed at
+    a military target. Under IHL as taught in 15.1, what follows?
+  options:
+    - It is always a war crime because a civilian died.
+    - It is a crime against humanity because the victim was a civilian.
+    - This is not a war crime on these facts.
+    - It is genocide if the victim belonged to the other side's nation.
+  correct: 2
+  explanation: >-
+    IHL accepts incidental harm that is not excessive. A war crime needs a serious violation, such
+    as intentionally attacking civilians or launching an attack known to be excessive.
+- id: m16-011
+  module: 16
+  lesson: '16.1'
+  subject: not-international-crime
+  difficulty: 1
+  question: Who is the defendant in an international criminal case?
+  options:
+    - A state.
+    - An individual person.
+    - An international organisation.
+    - A political party.
+  correct: 1
+  explanation: >-
+    International criminal law concerns individual criminal responsibility. Cases against states,
+    such as at the ICJ, concern state responsibility.
+- id: m16-012
+  module: 16
+  lesson: '16.1'
+  subject: attribution-language
+  difficulty: 2
+  question: Which sentence correctly reports an ICC arrest-warrant decision?
+  options:
+    - The Chamber found reasonable grounds to believe X is responsible.
+    - The Chamber convicted X of the crimes listed in the warrant.
+    - The Chamber proved beyond reasonable doubt that X committed them.
+    - The Chamber declared X guilty, subject to a later appeal.
+  correct: 0
+  explanation: >-
+    A warrant rests on 'reasonable grounds to believe' (art. 58). It is not a conviction, and
+    writing that it is can also be defamatory.
+- id: m16-013
+  module: 16
+  lesson: '16.1'
+  subject: attribution-language
+  difficulty: 3
+  question: 'Spot the mistake: ''Hamas committed genocide on 7 October, as the ICC confirmed in 2024.'''
+  options:
+    - Nothing; the ICC confirmed genocide when it issued the Deif warrant.
+    - Only the date is wrong; the ICC confirmed it in 2023.
+    - The ICC issued a warrant on other charges; it confirmed no genocide.
+    - The ICC cannot deal with non-state armed groups at all.
+  correct: 2
+  explanation: >-
+    The Deif warrant listed crimes such as murder, extermination and hostage-taking, on a
+    reasonable-grounds standard. The sentence also states an allegation as a fact.
+- id: m16-014
+  module: 16
+  lesson: '16.1'
+  subject: attribution-language
+  difficulty: 3
+  question: 'Spot the mistake: ''Israel committed the war crime of starvation, as the ICJ ruled.'''
+  options:
+    - The ICJ tries no one; starvation is alleged in ICC warrants Israel rejects.
+    - Nothing; the ICJ convicted Israeli leaders of starvation in its 2024 orders.
+    - Only the court is wrong; the Security Council ruled on starvation in 2024.
+    - The ICC cannot deal with starvation, since it is not listed in the Statute.
+  correct: 0
+  explanation: >-
+    Starvation as a method of warfare is a war crime in art. 8(2)(b)(xxv); the ICC's warrants refer
+    to it. The ICJ deals with states, and a warrant is not a ruling of guilt.
+- id: m16-015
+  module: 16
+  lesson: '16.1'
+  subject: aggression
+  difficulty: 2
+  question: When was the definition of the crime of aggression adopted for the Rome Statute?
+  options:
+    - At the Rome Conference in July 1998, with the other crimes.
+    - At the Nuremberg trials in 1946.
+    - By the ICJ in its 2004 advisory opinion.
+    - At the Kampala Review Conference in June 2010.
+  correct: 3
+  explanation: >-
+    Art. 5(2) of the original Statute left aggression for later; the amendments were adopted in
+    Kampala on 11 June 2010.
+- id: m16-016
+  module: 16
+  lesson: '16.1'
+  subject: core-crimes
+  difficulty: 2
+  question: >-
+    Hostage-taking during an armed conflict, as part of a large coordinated attack on civilians, can
+    be classified as:
+  options:
+    - Only a domestic kidnapping offence, never an international crime.
+    - Both a war crime and, if the context is shown, a crime against humanity.
+    - Only genocide, because hostage-taking targets a group.
+    - Only a human-rights violation by the state of the victims.
+  correct: 1
+  explanation: >-
+    The same act can fit several crimes. Hostage-taking is a war crime in armed conflict;
+    imprisonment or other acts can be crimes against humanity when part of a widespread or
+    systematic attack.
+- id: m16-017
+  module: 16
+  lesson: '16.1'
+  subject: israeli-statutes
+  difficulty: 3
+  question: >-
+    A petition says 'the soldier should be charged with a war crime under Israeli law'. What is the
+    problem?
+  options:
+    - Nothing; the Penal Law has had a full war-crimes chapter since 1977.
+    - Israel has no general war-crimes offence; charges use the Penal Law or military law.
+    - Soldiers can be charged only before the ICC, never in Israeli courts.
+    - Israeli law forbids charging soldiers for any act done during combat.
+  correct: 1
+  explanation: >-
+    As the Turkel Commission noted, the only explicit 'war crimes' reference is the Nazis law; IHL
+    violations are prosecuted through ordinary offences and military law.
+- id: m16-018
+  module: 16
+  lesson: '16.2'
+  subject: icc-jurisdiction
+  difficulty: 1
+  question: 'Under art. 12(2), the ICC may exercise jurisdiction if the State Party concerned is:'
+  options:
+    - The state of nationality of the victims, wherever they were harmed.
+    - Any state that has formally recognised the victims' state.
+    - Any permanent member of the UN Security Council.
+    - The territorial state, or the accused's state of nationality.
+  correct: 3
+  explanation: >-
+    Art. 12(2) uses territory (a) or the nationality of the accused (b). Victims' nationality is not
+    a basis at the ICC.
+- id: m16-019
+  module: 16
+  lesson: '16.2'
+  subject: icc-jurisdiction
+  difficulty: 2
+  question: Which three ways can a situation reach the ICC Prosecutor under art. 13?
+  options:
+    - Referral by a State Party or the Security Council, or proprio motu.
+    - An ICJ referral, a General Assembly referral, or a victim's petition.
+    - Any state's request, an NGO petition, or a UN rapporteur's report.
+    - Only a Security Council resolution adopted under Chapter VII.
+  correct: 0
+  explanation: >-
+    Art. 13: a State Party referral, a Security Council referral under Chapter VII, or a proprio
+    motu investigation under art. 15.
+- id: m16-020
+  module: 16
+  lesson: '16.2'
+  subject: israel-position
+  difficulty: 1
+  question: What did Israel tell the UN Secretary-General on 28 August 2002 about the Rome Statute?
+  options:
+    - That it ratifies the Statute with a reservation excluding art. 8.
+    - That it accepts the Court's jurisdiction for crimes inside Israel only.
+    - That it does not intend to become a party and has no obligations from signing.
+    - That it will join once a Palestinian state is recognised by the UN.
+  correct: 2
+  explanation: >-
+    Israel signed on 31 December 2000 and on 28 August 2002 announced that it does not intend to
+    become a party (UN Treaty Collection).
+- id: m16-021
+  module: 16
+  lesson: '16.2'
+  subject: palestine-timeline
+  difficulty: 1
+  question: When did the Prosecutor open the investigation in the Situation in the State of Palestine?
+  options:
+    - 7 October 2023.
+    - 20 May 2024.
+    - 1 April 2015.
+    - 3 March 2021.
+  correct: 3
+  explanation: >-
+    Prosecutor Bensouda opened the investigation on 3 March 2021, after the Pre-Trial Chamber's
+    jurisdiction ruling of 5 February 2021.
+- id: m16-022
+  module: 16
+  lesson: '16.2'
+  subject: palestine-timeline
+  difficulty: 2
+  question: From what date does the Palestine investigation cover alleged crimes?
+  options:
+    - 1 April 2015, when the Statute entered into force for Palestine.
+    - 7 October 2023, the date of the Hamas attack.
+    - 13 June 2014, the date in Palestine's art. 12(3) declaration.
+    - 5 June 1967, the start of the occupation.
+  correct: 2
+  explanation: >-
+    Palestine's declaration of 1 January 2015 accepted jurisdiction from 13 June 2014, and the
+    investigation covers alleged crimes since then.
+- id: m16-023
+  module: 16
+  lesson: '16.2'
+  subject: palestine-timeline
+  difficulty: 2
+  question: What did Pre-Trial Chamber I decide on 5 February 2021?
+  options:
+    - That Palestine is a sovereign state under general international law.
+    - That jurisdiction covers Gaza and the West Bank, including East Jerusalem.
+    - That Israel must join the Rome Statute within one year of the ruling.
+    - That the borders between Israel and Palestine are the 1967 lines.
+  correct: 1
+  explanation: >-
+    The majority ruled on the scope of territorial jurisdiction for the Statute's purposes and said
+    it was not ruling on borders or statehood in general.
+- id: m16-024
+  module: 16
+  lesson: '16.2'
+  subject: warrants
+  difficulty: 1
+  question: On what date did the ICC issue warrants for Netanyahu, Gallant and Deif?
+  options:
+    - 21 Nov 2024
+    - 20 May 2024
+    - 24 Apr 2025
+    - 3 Mar 2021
+  correct: 0
+  explanation: >-
+    The Prosecutor applied on 20 May 2024; Pre-Trial Chamber I issued the three warrants on 21
+    November 2024.
+- id: m16-025
+  module: 16
+  lesson: '16.2'
+  subject: warrants
+  difficulty: 2
+  question: What happened to the warrant for Mohammed Deif?
+  options:
+    - It was transferred to Israel's 2026 military court in Jerusalem.
+    - It was suspended pending Israel's jurisdiction challenge in 2025.
+    - Proceedings ended in February 2025 after his reported death.
+    - It is still pending execution by the States Parties.
+  correct: 2
+  explanation: >-
+    Pre-Trial Chamber I terminated the proceedings on 26 February 2025, rendering the warrant
+    without effect, without prejudice if he were found alive.
+- id: m16-026
+  module: 16
+  lesson: '16.2'
+  subject: warrants
+  difficulty: 2
+  question: Why can no ICC trial take place while the Netanyahu and Gallant warrants remain unexecuted?
+  options:
+    - Art. 63 requires the accused to be present during the trial.
+    - Art. 27 grants heads of government full immunity at trial.
+    - Art. 12 forbids trials of nationals of non-party states.
+    - Art. 58 allows only confirmation of charges, never a trial.
+  correct: 0
+  explanation: >-
+    There is no trial in absentia at the ICC; art. 27 in fact makes official capacity irrelevant to
+    responsibility.
+- id: m16-027
+  module: 16
+  lesson: '16.2'
+  subject: warrants
+  difficulty: 3
+  question: >-
+    Under art. 86, who is obliged to cooperate with the ICC in arresting a person named in a
+    warrant?
+  options:
+    - Every UN member state, including non-parties.
+    - Only the state of nationality of the accused.
+    - Only the Netherlands, as host state.
+    - The States Parties to the Rome Statute.
+  correct: 3
+  explanation: >-
+    Art. 86 binds States Parties. Non-parties have no duty under the Statute, and states have
+    disputed how immunities of non-party officials apply.
+- id: m16-028
+  module: 16
+  lesson: '16.2'
+  subject: israel-position
+  difficulty: 2
+  question: In the Attorney General's 2019 memorandum, why does the ICC lack jurisdiction?
+  options:
+    - Israel's courts already examined and closed every relevant case.
+    - No sovereign Palestinian state exists that could delegate jurisdiction.
+    - The Statute does not cover any conduct during armed conflicts.
+    - The Security Council never authorised the investigation.
+  correct: 1
+  explanation: >-
+    The memorandum argues that only sovereign states can delegate jurisdiction and that Palestine
+    lacks statehood; it also relies on the Oslo Accords.
+- id: m16-029
+  module: 16
+  lesson: '16.2'
+  subject: israel-position
+  difficulty: 3
+  question: Which Israeli argument relies on the Oslo Accords?
+  options:
+    - The Accords made Israel a party to the Rome Statute in 1995.
+    - Palestinians lack criminal jurisdiction over Area C, Jerusalem and Israelis.
+    - The Accords give the ICC jurisdiction over Gaza only, not the West Bank.
+    - The Accords require all disputes to go to the ICJ before the ICC.
+  correct: 1
+  explanation: >-
+    Israel argues that even if non-sovereign entities could delegate jurisdiction, the Accords show
+    the Palestinians have none over Area C, Jerusalem and Israeli nationals.
+- id: m16-030
+  module: 16
+  lesson: '16.2'
+  subject: palestine-timeline
+  difficulty: 3
+  question: What did the Appeals Chamber decide on 15 December 2025?
+  options:
+    - The warrants became void because the Prosecutor was later removed.
+    - Israel's jurisdiction challenge succeeded and the case was closed.
+    - The investigation must restart with a new notice served on Israel.
+    - No new art. 18(1) notice was needed for post-7 October conduct.
+  correct: 3
+  explanation: >-
+    By majority, the Appeals Chamber upheld the refusal to order a new notice, so no new deferral
+    window under art. 18(2) opened.
+- id: m16-031
+  module: 16
+  lesson: '16.2'
+  subject: otp-leadership
+  difficulty: 2
+  question: Why was Prosecutor Karim Khan removed in July 2026?
+  options:
+    - The Assembly of States Parties found serious misconduct by him.
+    - The Appeals Chamber annulled all his warrant applications.
+    - The Security Council deferred the Palestine investigation.
+    - He resigned after the US sanctions on him took effect.
+  correct: 0
+  explanation: >-
+    On 24 July 2026 the Assembly voted 82-13 with 15 abstentions to remove him for serious
+    misconduct; the removal was not a ruling on the Palestine case.
+- id: m16-032
+  module: 16
+  lesson: '16.2'
+  subject: sanctions
+  difficulty: 2
+  question: Which US measure authorises sanctions on persons assisting ICC actions against Israel?
+  options:
+    - The Rome Statute's art. 16 deferral mechanism.
+    - A Security Council resolution of 2024.
+    - Executive Order 14203 of 6 February 2025.
+    - The ICJ's provisional measures order.
+  correct: 2
+  explanation: >-
+    EO 14203 names the warrants against Netanyahu and Gallant among its reasons. Designations have
+    included ICC officials and three Palestinian NGOs.
+- id: m16-033
+  module: 16
+  lesson: '16.2'
+  subject: sanctions
+  difficulty: 3
+  question: A news piece says US sanctions 'cancelled the ICC warrants'. What is the correct relationship?
+  options:
+    - The sanctions transferred the case to the US federal courts.
+    - The sanctions suspended the Rome Statute for all its parties.
+    - The sanctions require the ICC to obtain Israel's prior consent.
+    - Sanctions bind US dealings; only the Court can withdraw its warrants.
+  correct: 3
+  explanation: >-
+    Sanctions block property and dealings under US jurisdiction. They have no legal effect on the
+    Court's decisions, though they affect its work.
+- id: m16-034
+  module: 16
+  lesson: '16.2'
+  subject: icc-jurisdiction
+  difficulty: 3
+  question: >-
+    A Hamas commander from Gaza is suspected of crimes in southern Israel on 7 October. On what
+    basis does the ICC claim jurisdiction?
+  options:
+    - Israel is the territorial state and has accepted jurisdiction.
+    - Hamas signed the Rome Statute as a non-state party.
+    - The suspect is a national of Palestine, a State Party.
+    - The Security Council referred the attack to the Court.
+  correct: 2
+  explanation: >-
+    Art. 12(2)(b) covers nationals of States Parties anywhere. Israel has not accepted jurisdiction
+    and there was no Security Council referral.
+- id: m16-035
+  module: 16
+  lesson: '16.3'
+  subject: complementarity
+  difficulty: 1
+  question: What does 'complementary' in art. 1 of the Rome Statute mean?
+  options:
+    - The ICC reviews every national verdict as an appeal court.
+    - The ICC acts only where national systems do not genuinely do so.
+    - National courts must defer to the ICC in every case.
+    - The ICC and national courts must sit together as one bench.
+  correct: 1
+  explanation: >-
+    The Court supplements national jurisdictions. Art. 17 makes cases inadmissible when a state
+    genuinely investigates or prosecutes them.
+- id: m16-036
+  module: 16
+  lesson: '16.3'
+  subject: complementarity
+  difficulty: 2
+  question: Which factor does art. 17(2) list as showing a state is 'unwilling'?
+  options:
+    - Proceedings conducted to shield the person from responsibility.
+    - Proceedings conducted in a language other than English or French.
+    - Proceedings in which the accused is eventually acquitted.
+    - Proceedings that last more than one year from the charge.
+  correct: 0
+  explanation: >-
+    Art. 17(2): shielding, unjustified delay, or lack of independence or impartiality. An acquittal
+    or a long trial is not in itself unwillingness.
+- id: m16-037
+  module: 16
+  lesson: '16.3'
+  subject: complementarity
+  difficulty: 2
+  question: >-
+    Under art. 18(2), how long does a state have, after the Prosecutor's notification, to ask for
+    deferral to its own investigation?
+  options:
+    - Six months.
+    - One year.
+    - One month.
+    - No time limit.
+  correct: 2
+  explanation: >-
+    Art. 18(2) gives one month from receipt of the notification; the Pre-Trial Chamber can still
+    authorise the investigation on the Prosecutor's application.
+- id: m16-038
+  module: 16
+  lesson: '16.3'
+  subject: mag-process
+  difficulty: 1
+  question: Who appoints the Military Advocate General under the Military Justice Law?
+  options:
+    - The Minister of Defence, on the Chief of Staff's advice.
+    - The Knesset Foreign Affairs and Defence Committee.
+    - The President of the Supreme Court, after a hearing.
+    - The Attorney General alone, without any minister.
+  correct: 0
+  explanation: >-
+    Section 177(a). Turkel and the Ciechanover team proposed AG involvement; the amendment was never
+    legislated.
+- id: m16-039
+  module: 16
+  lesson: '16.3'
+  subject: mag-process
+  difficulty: 2
+  question: According to the IDF, what happens at once when a detainee dies in IDF custody?
+  options:
+    - An FFA fact-finding review decides whether to investigate.
+    - The case goes to the commander for disciplinary action.
+    - The ICC is notified under its cooperation rules.
+    - A criminal investigation is opened immediately.
+  correct: 3
+  explanation: >-
+    The IDF says that, by long-standing policy, a criminal investigation is launched immediately
+    regarding a detainee's death.
+- id: m16-040
+  module: 16
+  lesson: '16.3'
+  subject: ffa-mechanism
+  difficulty: 1
+  question: What is the FFA Mechanism?
+  options:
+    - A Knesset committee that reviews and reverses MAG decisions.
+    - A General Staff body that checks facts of exceptional incidents.
+    - An ICC unit that checks whether Israeli investigations are genuine.
+    - A special police unit that investigates offences by settlers.
+  correct: 1
+  explanation: >-
+    The Fact-Finding Assessment Mechanism, recommended by Turkel and set up in 2014, gathers facts
+    so the MAG can decide whether to open a criminal investigation.
+- id: m16-041
+  module: 16
+  lesson: '16.3'
+  subject: ffa-mechanism
+  difficulty: 2
+  question: >-
+    Why does the IDF refer most civilian deaths in combat to the FFA Mechanism rather than straight
+    to criminal investigation?
+  options:
+    - Because Israeli law forbids criminal investigations during a war.
+    - It says such deaths alone usually do not show a reasonable suspicion.
+    - Because the MPCID has no jurisdiction outside Israeli territory.
+    - Because the ICC requires a fact-finding stage before any investigation.
+  correct: 1
+  explanation: >-
+    The IDF states that harm to civilians in combat, while tragic, in most cases does not by itself
+    indicate criminal conduct, so facts are gathered first.
+- id: m16-042
+  module: 16
+  lesson: '16.3'
+  subject: ffa-mechanism
+  difficulty: 3
+  question: >-
+    What did the State Comptroller's 2018 audit find about the FFA Mechanism's timing in the 2014
+    operation?
+  options:
+    - All examinations were completed within 48 hours.
+    - The Mechanism did not exist in 2014.
+    - It met every timetable but lacked any experts.
+    - Over 80% of examinations exceeded the set timetables.
+  correct: 3
+  explanation: >-
+    The audit found the Mechanism acted in good faith but had flaws, including delays in over 80% of
+    cases and no legal advisers in field teams.
+- id: m16-043
+  module: 16
+  lesson: '16.3'
+  subject: police-complaints
+  difficulty: 1
+  question: Who may file a complaint with the Israel Police about an offence?
+  options:
+    - Any person.
+    - Only the victim.
+    - Only an Israeli citizen.
+    - Only a lawyer.
+  correct: 0
+  explanation: 'Criminal Procedure Law s. 58: any person may file a complaint that an offence was committed.'
+- id: m16-044
+  module: 16
+  lesson: '16.3'
+  subject: police-complaints
+  difficulty: 2
+  question: Which closure grounds can a complainant appeal under s. 64 of the Criminal Procedure Law?
+  options:
+    - Only closures for 'no guilt', never for insufficient evidence.
+    - Only closures decided personally by the Attorney General.
+    - '''Circumstances as a whole'', insufficient evidence, or no guilt.'
+    - Only closures in files where soldiers are the suspects.
+  correct: 2
+  explanation: >-
+    Section 64(a) covers decisions not to investigate or prosecute on all three grounds; the level
+    that hears the appeal depends on who decided.
+- id: m16-045
+  module: 16
+  lesson: '16.3'
+  subject: police-complaints
+  difficulty: 2
+  question: Where is the appeal deadline against closure of a police file kept in this course?
+  options:
+    - In the Rome Statute, art. 18(2).
+    - In the Turkel Commission's second report.
+    - Nowhere; there is no deadline for such an appeal.
+    - 'On the current numbers page (source: s. 65).'
+  correct: 3
+  explanation: >-
+    Deadlines are kept on references/current-numbers.md. The source is s. 65 of the Criminal
+    Procedure Law.
+- id: m16-046
+  module: 16
+  lesson: '16.3'
+  subject: mag-process
+  difficulty: 2
+  question: >-
+    A MAG decision not to open an investigation seems unreasonable. What review routes does the IDF
+    itself describe?
+  options:
+    - An appeal to the Military Court of Appeals, and nothing more.
+    - A request to the Defence Minister to reverse the decision.
+    - A challenge before the Attorney General, then the High Court.
+    - A complaint to the ICC, which reviews every MAG decision.
+  correct: 2
+  explanation: >-
+    Complainants and NGOs may challenge MAG decisions before the AG, and the High Court of Justice
+    can review both.
+- id: m16-047
+  module: 16
+  lesson: '16.3'
+  subject: turkel
+  difficulty: 1
+  question: What was the Turkel Commission's overall conclusion on Israel's investigation mechanisms (2013)?
+  options:
+    - They fail international law and should be replaced by the ICC.
+    - They generally comply with international law, with changes needed.
+    - They are flawless and need no change of any kind.
+    - It reached no conclusion and only listed the facts it found.
+  correct: 1
+  explanation: >-
+    Turkel II, para. 29: the mechanisms 'generally comply' with Israel's obligations, but several
+    areas need amendment and policy change.
+- id: m16-048
+  module: 16
+  lesson: '16.3'
+  subject: turkel
+  difficulty: 2
+  question: Which Turkel recommendation had been implemented by 2018, per the State Comptroller?
+  options:
+    - Establishing a fact-finding assessment mechanism.
+    - Enacting a war-crimes offence in the Penal Law.
+    - Enacting command responsibility in statute.
+    - Legislating a new MAG appointment procedure.
+  correct: 0
+  explanation: >-
+    The FFA Mechanism exists; the Comptroller found bills on war crimes and command responsibility
+    had not been submitted, and the appointment reform was not legislated.
+- id: m16-049
+  module: 16
+  lesson: '16.3'
+  subject: turkel
+  difficulty: 3
+  question: >-
+    The Ciechanover team recommended a time limit for the MAG's decision on a complaint. Where
+    should an activist check the current figure?
+  options:
+    - In the Rome Statute's admissibility articles.
+    - In the Military Justice Law, s. 177.
+    - Current numbers, citing the Ciechanover report.
+    - In the first chapter of the Turkel report.
+  correct: 2
+  explanation: >-
+    The limit comes from an internal guideline proposed by the Ciechanover team, not from a statute;
+    the course keeps it on the current-numbers page.
+- id: m16-050
+  module: 16
+  lesson: '16.3'
+  subject: complementarity-debate
+  difficulty: 2
+  question: >-
+    In November 2024 the ICC Prosecutor said 'the door to complementarity continues to remain open'.
+    What did he say it requires?
+  options:
+    - Genuine domestic proceedings for the same people and conduct.
+    - Israel's ratification of the Rome Statute before any deferral.
+    - A Security Council resolution approving Israel's courts.
+    - A public apology by Israel's government to the victims.
+  correct: 0
+  explanation: >-
+    His statement tied complementarity to genuine domestic investigations and any necessary
+    prosecution of the same individuals for substantially the same conduct.
+- id: m16-051
+  module: 16
+  lesson: '16.3'
+  subject: complementarity-debate
+  difficulty: 3
+  question: In the Sde Teiman affair, what did the new MAG do on 12 March 2026?
+  options:
+    - Filed new genocide charges under the 1950 Genocide Law.
+    - Referred the whole case to the ICC under art. 18.
+    - Obtained a conviction of the reservists in a military court.
+    - Withdrew the indictments against five reservists.
+  correct: 3
+  explanation: >-
+    The new MAG withdrew the charges; reactions ranged from the Defence Minister's welcome to
+    academic warnings about complementarity.
+- id: m16-052
+  module: 16
+  lesson: '16.3'
+  subject: complementarity-debate
+  difficulty: 3
+  question: >-
+    Which source is an Israeli centrist think tank arguing that a state commission of inquiry could
+    satisfy complementarity?
+  options:
+    - B'Tselem, in its 2020 position paper.
+    - Israel Democracy Institute, Shany and Cohen (2024).
+    - The UN Commission of Inquiry, in its 2026 report.
+    - The Israel Ministry of Foreign Affairs, on its ICC page.
+  correct: 1
+  explanation: >-
+    The IDI article argues a properly empowered commission could meet the Statute's test and that
+    merely asserting investigations is not enough.
+- id: m16-053
+  module: 16
+  lesson: '16.4'
+  subject: jurisdiction-bases
+  difficulty: 1
+  question: 'Jurisdiction based on the victim''s nationality is called:'
+  options:
+    - Active personality.
+    - Passive personality.
+    - Territorial jurisdiction.
+    - Universal jurisdiction.
+  correct: 1
+  explanation: Passive personality relies on the victim's nationality; active personality on the suspect's.
+- id: m16-054
+  module: 16
+  lesson: '16.4'
+  subject: jurisdiction-bases
+  difficulty: 1
+  question: What distinguishes pure universal jurisdiction from the other bases?
+  options:
+    - It applies only to crimes in the state's territory.
+    - It requires the suspect to be the state's national.
+    - It requires an ICC referral first.
+    - No link to the place, suspect or victim is required.
+  correct: 3
+  explanation: >-
+    Universal jurisdiction rests on the nature of the crime. Many states add conditions such as the
+    suspect's presence or a prosecutor's consent.
+- id: m16-055
+  module: 16
+  lesson: '16.4'
+  subject: european-cases
+  difficulty: 2
+  question: >-
+    What did Belgium's Federal Prosecutor do with the 2025 complaints against two Israeli soldiers,
+    according to UJAR 2026?
+  options:
+    - Had them questioned, then referred the complaints to the ICC.
+    - Charged them and held a trial in their absence.
+    - Rejected the complaints for lack of any jurisdiction at all.
+    - Sent the files to Israel's MAG for prosecution there.
+  correct: 0
+  explanation: >-
+    Police located and questioned the two at Tomorrowland and released them; on 30 July 2025 the
+    Office referred the complaints to the ICC.
+- id: m16-056
+  module: 16
+  lesson: '16.4'
+  subject: european-cases
+  difficulty: 2
+  question: Which German step concerning 7 October is verified in this lesson?
+  options:
+    - A German court convicted Hamas leaders in absentia in 2024.
+    - Germany referred the 7 October attack to the ICC in late 2023.
+    - The Federal Prosecutor opened a Hamas investigation on 10 Oct 2023.
+    - Germany issued international arrest warrants for all Hamas leaders.
+  correct: 2
+  explanation: >-
+    The investigation concerns membership in a terrorist organisation, hostage-taking and murder of
+    German nationals.
+- id: m16-057
+  module: 16
+  lesson: '16.4'
+  subject: european-cases
+  difficulty: 2
+  question: On what basis are the French investigations into Franco-Israeli suspects described in UJAR 2026?
+  options:
+    - Universal jurisdiction over any foreigner.
+    - 'Passive personality: the victims are French.'
+    - An ICC delegation of jurisdiction to France.
+    - 'Active personality: the suspects are French.'
+  correct: 3
+  explanation: >-
+    They rest on the suspects' French nationality. The investigation into the deaths of two French
+    children in Gaza rests on the victims' nationality.
+- id: m16-058
+  module: 16
+  lesson: '16.4'
+  subject: european-cases
+  difficulty: 3
+  question: 'Spot the mistake: ''In 2009 a London court issued a warrant and Tzipi Livni was arrested.'''
+  options:
+    - Nothing; she was arrested and later released on bail.
+    - The warrant was issued by the ICC, not by a London court.
+    - 'A warrant was issued, then withdrawn: she was not in the UK.'
+    - She was arrested in Belgium, not in the United Kingdom.
+  correct: 2
+  explanation: >-
+    Westminster Magistrates issued a warrant in December 2009; it was revoked because she was not in
+    the country. The UK later required DPP consent.
+- id: m16-059
+  module: 16
+  lesson: '16.4'
+  subject: uk-safeguards
+  difficulty: 2
+  question: >-
+    What change did the UK make in 2011 to private arrest-warrant applications for listed offences
+    abroad?
+  options:
+    - They now need a formal request from the ICC Prosecutor.
+    - They need the consent of the Director of Public Prosecutions.
+    - They were abolished completely for all offences.
+    - They now require the written consent of the suspect.
+  correct: 1
+  explanation: >-
+    Section 153 of the Police Reform and Social Responsibility Act 2011 requires DPP consent for
+    warrants on private applications for these offences.
+- id: m16-060
+  module: 16
+  lesson: '16.4'
+  subject: israeli-extraterritorial
+  difficulty: 1
+  question: >-
+    Which section of the Penal Law applies Israeli law to foreign offences Israel undertook by
+    treaty to punish?
+  options:
+    - Section 16.
+    - Section 9.
+    - Section 58.
+    - Section 97.
+  correct: 0
+  explanation: >-
+    Section 16 ('offences against the law of nations') covers such offences wherever and by whomever
+    committed. Section 9(b) requires AG consent to prosecute.
+- id: m16-061
+  module: 16
+  lesson: '16.4'
+  subject: israeli-extraterritorial
+  difficulty: 2
+  question: Which two Israeli statutes of 1950 define international crimes?
+  options:
+    - The Penal Law and the Military Justice Law.
+    - The Counter-Terrorism Law and the Penal Law, together.
+    - The Genocide Law and the Nazis and Nazi Collaborators Law.
+    - 'Basic Law: Human Dignity and Liberty and the Genocide Law.'
+  correct: 2
+  explanation: >-
+    Both were enacted in 1950. The Penal Law dates from 1977, the Military Justice Law from 1955 and
+    the Counter-Terrorism Law from 2016.
+- id: m16-062
+  module: 16
+  lesson: '16.4'
+  subject: israeli-extraterritorial
+  difficulty: 2
+  question: 'Spot the mistake: ''Israel''s Genocide Law covers only acts committed on Israeli territory.'''
+  options:
+    - Section 5 extends it to acts committed outside Israel.
+    - Nothing; the law is strictly territorial, like most offences.
+    - The law covers only acts by Israeli citizens, wherever done.
+    - The law was replaced by the Rome Statute in 2002.
+  correct: 0
+  explanation: >-
+    Section 5 allows a person who did a genocidal act outside Israel to be tried and punished in
+    Israel as if the act had been done in Israel.
+- id: m16-063
+  module: 16
+  lesson: '16.4'
+  subject: oct7-law
+  difficulty: 1
+  question: When did the Knesset pass the law on prosecuting the 7 October perpetrators?
+  options:
+    - 7 October 2024.
+    - 1 January 2025.
+    - 13 October 2026.
+    - 11 May 2026.
+  correct: 3
+  explanation: It passed on 11 May 2026 (93-0) and was published in Sefer HaChukim 3527 on 13 May 2026.
+- id: m16-064
+  module: 16
+  lesson: '16.4'
+  subject: oct7-law
+  difficulty: 2
+  question: Where does the special court under the 2026 law sit?
+  options:
+    - In Tel Aviv.
+    - In Jerusalem.
+    - In Be'er Sheva.
+    - In The Hague.
+  correct: 1
+  explanation: Section 4 sets the seat of the military court for these proceedings in Jerusalem.
+- id: m16-065
+  module: 16
+  lesson: '16.4'
+  subject: oct7-law
+  difficulty: 2
+  question: Which offences does s. 3(b) of the 2026 law expressly allow the court to try?
+  options:
+    - Only Rome Statute crimes, applied directly by the court.
+    - Genocide Law, Penal Law ss. 97–99 and counter-terrorism offences.
+    - Only ordinary property offences under the Penal Law.
+    - Only offences committed inside Gaza after January 2024.
+  correct: 1
+  explanation: >-
+    The section gives jurisdiction over offences under any law, including the Genocide Law, Penal
+    Law ss. 97–99 and the Counter-Terrorism Law.
+- id: m16-066
+  module: 16
+  lesson: '16.4'
+  subject: oct7-law
+  difficulty: 3
+  question: Which period of offences does the 2026 law cover?
+  options:
+    - Any offence by any Palestinian resident since June 1967.
+    - Only offences committed on 7 October 2023 inside kibbutzim.
+    - Any offence committed during the war until a ceasefire.
+    - 7–10 October 2023, plus later offences against those abducted.
+  correct: 3
+  explanation: >-
+    Section 3(a) defines offences committed in the attack between 7 and 10 October 2023, including
+    later offences against those abducted (including the dead) to Gaza.
+- id: m16-067
+  module: 16
+  lesson: '16.4'
+  subject: israel-uj-position
+  difficulty: 2
+  question: How did Israel describe universal jurisdiction in its 2017 Sixth Committee statement?
+  options:
+    - A last resort that must respect subsidiarity and resist political abuse.
+    - As illegal under international law in every possible case.
+    - As the preferred basis, ahead of territory and nationality.
+    - As a matter only for the ICC and never for national courts.
+  correct: 0
+  explanation: >-
+    Israel supports combating impunity but wants subsidiarity honoured and safeguards against
+    political abuse.
+- id: m16-068
+  module: 16
+  lesson: '16.4'
+  subject: israel-uj-position
+  difficulty: 3
+  question: In its 11 October 2023 Sixth Committee statement, what did Israel say about Hamas's conduct?
+  options:
+    - That universal jurisdiction should never apply to non-state actors.
+    - That only the ICC may judge members of Hamas for the attack.
+    - Hamas committed grave crimes; those responsible must be held accountable.
+    - That the matter is purely domestic and not international at all.
+  correct: 2
+  explanation: >-
+    Israel called the attack 'grave war crimes and crimes against humanity' and said 'those
+    responsible must be held accountable'.
+- id: m16-069
+  module: 16
+  lesson: '16.5'
+  subject: choosing-forum
+  difficulty: 1
+  question: >-
+    Which body should get a request for a criminal investigation of a specific incident in Israel
+    first?
+  options:
+    - The International Court of Justice in The Hague.
+    - The UN Human Rights Council in Geneva.
+    - The ICC Assembly of States Parties.
+    - The Israel Police or the MAG, by suspect.
+  correct: 3
+  explanation: >-
+    Domestic channels come first: police for civilians, the MAG for soldiers. They create the record
+    international bodies ask about.
+- id: m16-070
+  module: 16
+  lesson: '16.5'
+  subject: choosing-forum
+  difficulty: 2
+  question: >-
+    A family wants a UN letter to Israel's government about a son's detention last week. Which tool
+    fits best?
+  options:
+    - An Article 15 communication to the ICC.
+    - A UPR stakeholder submission in 2027.
+    - A Special Procedures communication.
+    - A complaint to a foreign national prosecutor.
+  correct: 2
+  explanation: >-
+    Special Procedures handle specific, recent cases and write to governments quickly. The ICC
+    prosecutes individuals for core crimes.
+- id: m16-071
+  module: 16
+  lesson: '16.5'
+  subject: choosing-forum
+  difficulty: 2
+  question: >-
+    A group wants a person prosecuted for crimes in Gaza in 2024, and the suspect is a dual national
+    of a European state. Which routes are open?
+  options:
+    - Only the ICJ, which hears cases about nationals.
+    - Domestic complaint, ICC communication, that state's prosecutor.
+    - Only the ICC, because Gaza excludes national courts.
+    - Only the UN Human Rights Council's complaint procedure.
+  correct: 1
+  explanation: >-
+    The routes can run in parallel; the European state can rely on active personality jurisdiction
+    (lesson 16.4).
+- id: m16-072
+  module: 16
+  lesson: '16.5'
+  subject: otplink
+  difficulty: 1
+  question: What is OTPLink?
+  options:
+    - The ICC Prosecutor's online portal for information.
+    - The ICC's public database of judgments and orders.
+    - A UN portal for Special Procedures complaints.
+    - Israel's MFA portal for its filings at the ICC.
+  correct: 0
+  explanation: >-
+    OTPLink was launched on 24 May 2023 as the single online entry point for Article 15
+    communications and other information.
+- id: m16-073
+  module: 16
+  lesson: '16.5'
+  subject: otplink
+  difficulty: 2
+  question: Can a sender use OTPLink without giving a name?
+  options:
+    - No; only registered lawyers may submit.
+    - No; the ICC requires a national ID number.
+    - Yes; anonymity is an option.
+    - Yes, but anonymous files are deleted unread.
+  correct: 2
+  explanation: >-
+    Just Security's description of OTPLink notes that submitters can remain anonymous or provide
+    their name and contact details.
+- id: m16-074
+  module: 16
+  lesson: '16.5'
+  subject: otplink
+  difficulty: 2
+  question: Where do you check OTPLink's current file limits before uploading?
+  options:
+    - The current numbers page and the portal itself.
+    - Article 15 of the Rome Statute, which sets them.
+    - The OTP 2013 policy paper on examinations.
+    - The ICJ Rules of Court, annex on evidence.
+  correct: 0
+  explanation: >-
+    Limits can change; the course keeps the checked figure on current numbers, and the portal shows
+    the live limit.
+- id: m16-075
+  module: 16
+  lesson: '16.5'
+  subject: otplink
+  difficulty: 2
+  question: Which languages are best for an Article 15 communication?
+  options:
+    - Hebrew or Arabic, the languages of the parties.
+    - Dutch, the language of the host state.
+    - Any language; the ICC translates everything.
+    - English or French, the ICC's working languages.
+  correct: 3
+  explanation: >-
+    English or French are preferred; other official languages are accepted, and the OTP may try
+    informal translation of others.
+- id: m16-076
+  module: 16
+  lesson: '16.5'
+  subject: after-submission
+  difficulty: 1
+  question: What does every sender of a communication receive, according to the OTP's policy paper?
+  options:
+    - A case number in the Court's public record.
+    - An acknowledgement of receipt.
+    - A decision within 60 days.
+    - A meeting with an analyst.
+  correct: 1
+  explanation: >-
+    Para. 88: all senders receive an acknowledgement; the Office does not disclose their identity to
+    the public.
+- id: m16-077
+  module: 16
+  lesson: '16.5'
+  subject: after-submission
+  difficulty: 2
+  question: In Phase 1 of the OTP's process, what happens to communications?
+  options:
+    - They are all forwarded directly to the Pre-Trial Chamber.
+    - They are filtered, then analysed or linked to existing work.
+    - They are published on the ICC website within a month.
+    - They are sent to the state concerned for its reply.
+  correct: 1
+  explanation: >-
+    Para. 78 describes this initial assessment; information about an existing investigation goes to
+    that investigation.
+- id: m16-078
+  module: 16
+  lesson: '16.5'
+  subject: after-submission
+  difficulty: 3
+  question: Why might material you send to the OTP later be seen by the defence?
+  options:
+    - Because all communications are public by law.
+    - Because the defence runs the evidence unit.
+    - Because the ICC sends every file to the accused's state.
+    - If a case goes to trial, disclosure obligations may apply.
+  correct: 3
+  explanation: >-
+    The OTP protects confidentiality, but when it seeks information it confers with providers about
+    possible use and disclosure obligations at trial.
+- id: m16-079
+  module: 16
+  lesson: '16.5'
+  subject: after-submission
+  difficulty: 2
+  question: When must the Prosecutor inform those who provided information under art. 15(6)?
+  options:
+    - When it finds no reasonable basis to investigate.
+    - Whenever a warrant is issued in the situation.
+    - Every six months during an open investigation.
+    - Only if the sender paid the filing fee.
+  correct: 0
+  explanation: >-
+    Art. 15(6) requires notice when the preliminary examination finds no reasonable basis; new facts
+    can still be considered.
+- id: m16-080
+  module: 16
+  lesson: '16.5'
+  subject: evidence-handling
+  difficulty: 1
+  question: What does a hash value show about a file?
+  options:
+    - Who created the file, and at what place.
+    - Whether the events shown really happened.
+    - Whether it changed since the hash was taken.
+    - The legal weight a court will give it.
+  correct: 2
+  explanation: >-
+    A hash is a digital fingerprint; matching hashes show the file is unchanged. It does not prove
+    what the file depicts.
+- id: m16-081
+  module: 16
+  lesson: '16.5'
+  subject: evidence-handling
+  difficulty: 2
+  question: Which practice best preserves the authenticity of a video for a communication?
+  options:
+    - Trim the original to the key moments to save space.
+    - Add captions and arrows directly onto the original.
+    - Convert it to a smaller format and delete the original.
+    - Keep the original untouched, hash it, and edit only copies.
+  correct: 3
+  explanation: >-
+    Altering originals weakens authenticity. Keep the original and a chain-of-custody record; edit
+    only copies.
+- id: m16-082
+  module: 16
+  lesson: '16.5'
+  subject: evidence-handling
+  difficulty: 2
+  question: 'Spot the mistake in a draft: ''Sources: various social-media posts (attached as screenshots).'''
+  options:
+    - Social media can never be mentioned to the ICC.
+    - Screenshots must be printed and posted, not uploaded.
+    - No dates, links, authors or archives are given.
+    - The OTP accepts only sworn and certified affidavits.
+  correct: 2
+  explanation: Each item needs its URL, author, date, an archived copy and a hash; screenshots lose metadata.
+- id: m16-083
+  module: 16
+  lesson: '16.5'
+  subject: consent-safety
+  difficulty: 1
+  question: Before naming a witness in a communication, what must you have?
+  options:
+    - The witness's lawyer's signature.
+    - The witness's informed consent.
+    - Israel's permission.
+    - A court order.
+  correct: 1
+  explanation: Never name a person without informed consent; record it in the template's consent record.
+- id: m16-084
+  module: 16
+  lesson: '16.5'
+  subject: consent-safety
+  difficulty: 3
+  question: >-
+    A US citizen volunteer wants to help an NGO prepare material for the ICC. What should she check
+    first?
+  options:
+    - Whether US sanctions affect her role, with a sanctions lawyer.
+    - Whether Israel will issue her a visa to visit The Hague.
+    - Whether the ICC accepts any submissions from US citizens.
+    - Whether the UN Human Rights Council approves the NGO.
+  correct: 0
+  explanation: >-
+    EO 14203 restricts dealings with designated persons; lawsuits challenge it. Her exposure depends
+    on facts only a sanctions lawyer can assess.
+- id: m16-085
+  module: 16
+  lesson: '16.5'
+  subject: consent-safety
+  difficulty: 2
+  question: A witness agrees to send information but fears identification. What does the file do?
+  options:
+    - Leaves the witness's information out of the file entirely.
+    - Names the witness, since all ICC files are kept confidential.
+    - Describes the witness without identifying details and states the risk.
+    - Sends the information only to the media first, then the ICC.
+  correct: 2
+  explanation: Describe the witness ('Witness A'), state the security concern, and keep the consent record.
+- id: m16-086
+  module: 16
+  lesson: '16.5'
+  subject: choosing-forum
+  difficulty: 3
+  question: >-
+    A family has filed a MAG complaint and received no reply after the guideline period. Before any
+    Article 15 communication, what should they do?
+  options:
+    - Ask the MAG in writing for the decision; record the reply.
+    - Withdraw the MAG complaint so that the ICC can act instead.
+    - Wait for the MAG to contact the ICC on the family's behalf.
+    - File the same complaint again at five police stations.
+  correct: 0
+  explanation: >-
+    A dated written follow-up creates the record relevant to complementarity; withdrawing the
+    complaint would remove it.
+- id: m16-087
+  module: 16
+  lesson: '16.5'
+  subject: otplink
+  difficulty: 3
+  question: 'Spot the mistake in a plan: ''We will e-mail our communication to the OTP''s general address.'''
+  options:
+    - Nothing; e-mail is the only accepted channel.
+    - Communications must be delivered in person in The Hague.
+    - Communications must go through Israel's MFA.
+    - Use OTPLink or the postal route; check the ICC contact page.
+  correct: 3
+  explanation: >-
+    The Coalition for the ICC describes OTPLink and the post as the channels; check the ICC's
+    contact page for any change.

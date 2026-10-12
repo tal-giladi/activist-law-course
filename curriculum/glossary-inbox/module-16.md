@@ -1,0 +1,24 @@
+# Glossary inbox — Module 16
+
+- **פשעים בינלאומיים** (pesha'im beinle'umiyim) — International crimes: offences defined by international law for which individuals are criminally responsible (genocide, crimes against humanity, war crimes, aggression).
+- **השמדת עם (רצח עם)** (hashmadat am, retzach am) — Genocide: listed acts committed with intent to destroy a national, ethnic, racial or religious group as such; defined in Israel by the Genocide Law of 1950.
+- **פשע נגד האנושות** (pesha neged ha'enoshut) — Crime against humanity: listed acts committed as part of a widespread or systematic attack on a civilian population.
+- **פשע מלחמה** (pesha milchama) — War crime: a serious violation of the law of armed conflict that entails individual criminal responsibility.
+- **פשע התוקפנות** (pesha hatokfanut) — The crime of aggression: a leadership crime concerning a state's unlawful use of force; defined for the ICC in Kampala in 2010.
+- **כוונה מיוחדת** (kavana meyuchedet) — Special intent (dolus specialis); for genocide, the intent to destroy a protected group as such.
+- **חוקת רומא (אמנת רומא)** (chukat Roma, amanat Roma) — The Rome Statute of the International Criminal Court (1998); Israel is not a party.
+- **בית הדין הפלילי הבינלאומי** (beit hadin haplili habeinle'umi) — International Criminal Court (ICC), The Hague; tries individuals, unlike the ICJ.
+- **הלשכה המקדמית** (halishka hamukdemet) — Pre-Trial Chamber of the ICC, which authorises investigations and issues warrants.
+- **צו מעצר (בינלאומי)** (tzav ma'atzar) — Arrest warrant; at the ICC issued on "reasonable grounds to believe" (art. 58).
+- **עקרון המשלימות** (ekron hamashlimut) — Complementarity: the ICC acts only where national systems do not genuinely investigate or prosecute.
+- **קבילות (של תיק בבית הדין הפלילי הבינלאומי)** (kvilut) — Admissibility of a case before the ICC (art. 17).
+- **הפרקליט הצבאי הראשי (פצ״ר)** (hapraklit hatzva'i harashi, patzar) — Military Advocate General (MAG), head of the IDF's legal and prosecution corps.
+- **מנגנון בירור עובדתי (מטכ״לי)** (manganon birur uvdati) — The General Staff Fact-Finding Assessment (FFA) Mechanism, which examines exceptional incidents for the MAG.
+- **מצ״ח** (metzach) — Military Police Criminal Investigation Division (MPCID).
+- **ועדת טירקל** (va'adat Turkel) — Turkel Commission: public commission on the 2010 flotilla incident; its 2013 second report reviewed Israel's investigation mechanisms.
+- **שיפוט אוניברסלי** (shiput universali) — Universal jurisdiction: a state's power to try certain grave crimes regardless of where or by whom they were committed.
+- **עבירת חוץ** (avirat chutz) — Foreign offence: an offence committed outside Israel; prosecuted only by or with the consent of the Attorney General (Penal Law s. 9(b)).
+- **עבירות נגד משפט העמים** (avirot neged mishpat ha'amim) — Offences against the law of nations: foreign offences Israel undertook by treaty to punish (Penal Law s. 16).
+- **תחולה אישית פעילה / סבילה** (tchula ishit pe'ila / svila) — Active / passive personality jurisdiction: based on the nationality of the suspect / of the victim.
+- **פנייה לפי סעיף 15** (pniya lefi se'if 15) — Article 15 communication: information sent to the ICC Prosecutor by any person or organisation.
+- **שרשרת משמורת** (sharsheret mishmoret) — Chain of custody: the record of who held a piece of evidence, when and how.
