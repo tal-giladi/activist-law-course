@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    At a licensed rally, a counter-demonstration gathers across the street and shouts threats. The officer
+    in charge declares the licensed rally an unlawful assembly because "the other side might attack".
+    What is the legal problem?
+  options:
+    - >-
+      Only a magistrate may declare an unlawful assembly at a licensed event.
+    - >-
+      The reasonable fear must arise from the rally's own conduct, not from opponents.
+    - >-
+      An unlawful assembly needs at least 50 participants, and the rally is smaller.
+    - >-
+      A licensed rally can never become an unlawful assembly while the licence is valid.
+  correct: 1
+  explanation: >-
+    Under Penal Law s. 151 as the AG guideline reads it (para. 20(ד)), the fear must come from the
+    gatherers' conduct. The police must protect a lawful rally from those who threaten it.
+- id: q2
+  question: >-
+    Noa was detained at a protest at 19:00 to establish her identity, together with about 40 others. At
+    22:30 she is still held, and no officer has recorded reasons for an extension. What is her position?
+  options:
+    - >-
+      The detention is still lawful, because detention may last up to 24 hours.
+    - >-
+      The detention is lawful as long as she is in a police vehicle, not a station.
+    - >-
+      The detention has exceeded 3 hours without recorded reasons for extending it.
+    - >-
+      The detention is lawful, because mass events allow 6 hours automatically.
+  correct: 2
+  explanation: >-
+    Section 73(ב) limits detention to 3 hours. With many people involved, the officer in charge may extend
+    by up to 3 more hours, but only with reasons recorded in writing.
+- id: q3
+  question: >-
+    You film an arrest from the pavement, about five metres away. An officer orders you to stop, then
+    demands that you unlock your phone and show him the video. What is the best response?
+  options:
+    - >-
+      Unlock the phone and show the clip, since refusing is obstruction of an officer.
+    - >-
+      Step back and keep filming, refuse physical contact, and leave the scene with the phone.
+    - >-
+      Keep filming, say you are not interfering, and decline to unlock the phone without a warrant.
+    - >-
+      Delete the clip in front of the officer so the phone cannot be seized.
+  correct: 2
+  explanation: >-
+    Filming from a distance is lawful and is not obstruction. Searching a phone's contents needs a judge's
+    warrant (s. 23א), so do not unlock it; never resist if it is physically taken. Deleting the clip destroys
+    your own evidence.
+- id: q4
+  question: >-
+    A uniformed officer who pushed a protester has no name tag. When asked, he refuses to give his name or
+    number, saying "it's a hectic event". What does the law say?
+  options:
+    - >-
+      He must give name and number unless that would defeat the action or risk safety.
+    - >-
+      Officers at protests are exempt from wearing name tags under the dispersal rules.
+    - >-
+      He must give his name only if the protester has been formally arrested.
+    - >-
+      He may refuse, but must give his details to the commander within 24 hours.
+  correct: 0
+  explanation: >-
+    Police Ordinance s. 5א requires a visible name tag and details on request. The exceptions are narrow:
+    defeating the action or a safety risk, and the duty revives once the circumstances pass (s. 5א(ו)).

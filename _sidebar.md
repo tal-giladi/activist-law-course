@@ -48,3 +48,10 @@
   - [28 · Administrative Petition, Self-Represented](lessons/module-05/lesson-06.md)
   - [29 · High Court Petition, Self-Represented](lessons/module-05/lesson-07.md)
   - [Module 5 quiz](assessments/module-05-quiz.md)
+- **Module 6 — Protest, Expression and Police (about 11 hours)**
+  - [30 · Freedom of Expression and Assembly in Israeli Law](lessons/module-06/lesson-01.md)
+  - [31 · Permits: When You Need One](lessons/module-06/lesson-02.md)
+  - [32 · At the Protest: Police Powers, Dispersal and Filming Police](lessons/module-06/lesson-03.md)
+  - [33 · Complaints About Police Conduct](lessons/module-06/lesson-04.md)
+  - [34 · Social Media, Signs and the Limits of Incitement](lessons/module-06/lesson-05.md)
+  - [Module 6 quiz](assessments/module-06-quiz.md)

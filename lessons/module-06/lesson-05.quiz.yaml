@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    An hour after a deadly attack, an activist with 40,000 followers posts the attacker's photo with the
+    caption "A hero. May many follow him." Which offence is the most direct fit?
+  options:
+    - >-
+      Gross offence to religious feelings, because the post concerns a religious conflict.
+    - >-
+      Praise of terror with a real possibility of more terror (s. 24(ב)).
+    - >-
+      Incitement to racism, which needs no proof of purpose when the audience is large.
+    - >-
+      Defamation of the victims, a civil wrong rather than an offence.
+  correct: 1
+  explanation: >-
+    Praise of a terror act is an offence when content and circumstances create a real possibility of
+    terror. A large audience, the timing and "may many follow him" all point that way.
+- id: q2
+  question: >-
+    At an anti-government rally, a sign reads "This government is a disgrace — resign now!" An officer
+    orders it removed as "incitement". What is the best way to handle it?
+  options:
+    - >-
+      Hold on to the sign physically, since the order is unlawful and you may resist it.
+    - >-
+      Leave the protest, because any sign an officer objects to makes the rally unlawful.
+    - >-
+      Ask which offence, state it is lawful criticism, comply if he insists, then document and complain.
+    - >-
+      Tear up the sign yourself and post a photo of the officer with his home address.
+  correct: 2
+  explanation: >-
+    Harsh criticism is protected, so the order is very likely wrong — but physical resistance creates an
+    obstruction case. Comply, film the demand and complain afterwards (06.3, 06.4).
+- id: q3
+  question: >-
+    Which feature turns a post praising violence into the offence of incitement to violence under Penal Law
+    s. 144ד2?
+  options:
+    - >-
+      A real possibility, from content and context, of leading to violence.
+    - >-
+      Proof that someone actually committed violence after reading it.
+    - >-
+      The Attorney General's written consent before the post was published.
+    - >-
+      The post being false, since true statements are never incitement.
+  correct: 0
+  explanation: >-
+    The test is a real possibility based on content and circumstances; no actual violence is needed. The
+    AG's consent is required to prosecute racism incitement (s. 144ה), not for this offence.
+- id: q4
+  question: >-
+    A protest group's WhatsApp admin sees a member post "Let's go to the judge's house tonight and make
+    him pay." What should the admin do?
+  options:
+    - >-
+      Leave it, since only the member who wrote it can be liable.
+    - >-
+      Reply with a disagreeing comment and leave the post up for transparency.
+    - >-
+      Forward it to other groups to show what the other side is facing.
+    - >-
+      Remove the post, restate the group rules, and keep a record of the removal.
+  correct: 3
+  explanation: >-
+    The post calls for action at a named person's home and may be incitement or a threat. Keeping or
+    forwarding it can make others part of its distribution; removal and clear rules protect the group.

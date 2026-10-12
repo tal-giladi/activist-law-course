@@ -1,0 +1,38 @@
+# Glossary inbox — Module 6
+
+- **חופש הביטוי** (chofesh habitui) — Freedom of expression.
+- **חירות ההפגנה** (cheirut hahafgana) — Freedom of demonstration; the title of AG guideline 3.1200.
+- **ודאות קרובה** (vada'ut krova) — Near certainty: the probability of serious harm the police need before restricting a protest.
+- **תנאים של מקום, זמן ואופן** (tna'im shel makom, zman ve'ofen) — Time, place and manner conditions on a protest.
+- **איזון אנכי / איזון אופקי** (izun anchi / izun ofki) — Vertical balance (right against public interest) / horizontal balance (right against another person's right).
+- **שמירת דינים** (shmirat dinim) — Preservation of laws: pre-1992 laws stay valid despite Basic Law: Human Dignity and Liberty (s. 10).
+- **אסיפה** (asefa) — Assembly: 50+ people gathered outdoors to hear a speech on a political matter (Police Ordinance s. 83).
+- **תהלוכה** (tahalucha) — Procession: 50+ people walking, or gathering to walk, together; includes a vehicle convoy.
+- **נושא בעל עניין מדיני** (nose ba'al inyan medini) — Political matter, read narrowly as foreign relations and security.
+- **רישיון להפגנה** (rishayon lehafgana) — Protest licence from the district commander (Police Ordinance s. 85); free of charge.
+- **טופס יידוע ותיאום** (tofes yidu'a vetei'um) — Notice-and-coordination form for a protest that needs no licence.
+- **עצרת עם** (atzeret am) — Public rally of 500+ people under the Public Places Safety Law; needs a 5-day notice.
+- **הממונה על המחוז** (hamemune al hamachoz) — District Commissioner of the Interior Ministry.
+- **ערובה** (arubba) — Security deposit the police may demand for a licensed event, in exceptional cases.
+- **התקהלות בלתי חוקית** (hitkahalut bilti chukit) — Unlawful assembly under the Police Ordinance (s. 89).
+- **התקהלות אסורה** (hitkahalut asura) — Unlawful assembly under the Penal Law: 3+ people whose conduct gives reasonable grounds to fear a breach of the peace (s. 151).
+- **התפרעות** (hitpar'ut) — Riot (Penal Law s. 152).
+- **הוראת התפזרות** (hora'at hitpazrut) — Dispersal order (Penal Law s. 153).
+- **עיכוב** (ikuv) — Detention: holding a person briefly to identify, question or search; up to 3 hours (6 with written reasons in multi-person events).
+- **תג זיהוי** (tag zihui) — Name tag a uniformed officer must wear (Police Ordinance s. 5א).
+- **הפרעה לשוטר** (hafra'a leshoter) — Obstructing a police officer (Penal Law s. 275).
+- **מכת"זית** (makatazit) — Water cannon truck; clean water only (Police Ordinance s. 89א).
+- **מצלמת גוף** (matzlemat guf) — Police body camera.
+- **המחלקה לחקירות שוטרים (מח״ש)** (hamachlaka lechakirot shotrim, Machash) — Police Investigations Department in the Ministry of Justice.
+- **היחידה לתלונות הציבור** (hayechida letlunot hatzibur) — Police Public Complaints Unit (disciplinary and service complaints).
+- **עבירת משמעת** (averat mishma'at) — Disciplinary offence.
+- **בדיקה מקדימה** (bdika mukdemet) — Preliminary check before a criminal investigation.
+- **חקירה באזהרה** (chakira be'azhara) — Investigation under caution.
+- **ערר על סגירת תיק** (arar al sgirat tik) — Appeal against a decision to close a criminal file; 60 days (Criminal Procedure Law s. 65).
+- **גישור** (gishur) — Mediation.
+- **הסתה לאלימות** (hasata le'alimut) — Incitement to violence (Penal Law s. 144ד2).
+- **הסתה לגזענות** (hasata legiz'anut) — Incitement to racism (Penal Law s. 144ב).
+- **אפשרות ממשית** (efsharut mamashit) — Real possibility: the probability test for incitement to violence and terror.
+- **הזדהות עם ארגון טרור** (hizdahut im irgun teror) — Identifying with a terror organisation (Counter-Terrorism Law s. 24).
+- **דין וחשבון נכון והוגן** (din vecheshbon nachon vehogen) — Fair and accurate report, a defence to incitement offences.
+- **פגיעה ברגשי דת** (pgi'a beregshei dat) — Gross offence to religious feelings (Penal Law s. 173).

@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A district commander refuses a licence for a Haredi march against the draft law, writing that
+    "secular residents along the route will be offended and may attack the marchers". No intelligence
+    of planned violence is cited. What is the strongest legal answer?
+  options:
+    - >-
+      The refusal stands, because preventing offence to residents is a public-order interest.
+    - >-
+      Police must protect the march first; hostile onlookers alone do not justify a ban.
+    - >-
+      The refusal stands until the organisers pay for the extra officers needed to protect them.
+    - >-
+      Religious marches are exempt from licensing, so the refusal has no legal effect.
+  correct: 1
+  explanation: >-
+    Under Levi and AG guideline 3.1200 paras. 16–17, the police must protect a lawful protest against
+    those who threaten it; a hostile audience is not, by itself, a near certainty of harm. Policing costs
+    may not be charged to organisers (Majority Camp).
+- id: q2
+  question: >-
+    Which of these is a lawful reason for the police to attach a condition to a protest licence?
+  options:
+    - >-
+      The protest criticises a government decision in harsh language.
+    - >-
+      The organisers led a protest last year that the commander disagreed with.
+    - >-
+      The planned route passes the only ambulance entrance of a hospital at shift change.
+    - >-
+      The protest will need officers who are wanted elsewhere that evening.
+  correct: 2
+  explanation: >-
+    Blocking emergency access is a concrete public-order interest best answered with a route or time
+    condition. Content and past disagreements are not grounds; a shortage of forces justifies changing the
+    date or conditions only in special circumstances.
+- id: q3
+  question: >-
+    The Police Ordinance's licensing rules come from the Mandate era. Why do they still apply after Basic
+    Law: Human Dignity and Liberty?
+  options:
+    - >-
+      The preservation-of-laws clause (s. 10) keeps older laws valid, though courts read them narrowly.
+    - >-
+      The Knesset re-enacted them word for word in 1992 as part of the Basic Law.
+    - >-
+      Basic Laws do not apply to the police, which is a security organisation.
+    - >-
+      They apply only in districts where the commander has published a fresh notice since 1992.
+  correct: 0
+  explanation: >-
+    Section 10 preserves laws that existed before 1992. The courts still interpret them in the light of
+    the right to protest, which is why "political matter" in s. 83 is read narrowly.
+- id: q4
+  question: >-
+    An organiser wants to change the route the police set for a march next week. To whom should the
+    written request go?
+  options:
+    - >-
+      The National Security Minister, who sets police policy under s. 8ג.
+    - >-
+      The Attorney General, whose guideline governs protest licensing.
+    - >-
+      The municipality, which owns the streets on the route.
+    - >-
+      The district commander, with a copy to the police legal adviser.
+  correct: 3
+  explanation: >-
+    Licences and conditions are decided by the district commander (Police Ordinance ss. 84–85). The
+    Minister sets general policy only; the courts have barred operational instructions on specific protests.

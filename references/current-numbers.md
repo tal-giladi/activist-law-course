@@ -31,6 +31,10 @@ The numbers change on fixed dates:
 | Appeal to the Supreme Court from an Administrative Court judgment | 60 days | Administrative Courts (Procedure) Regulations, reg. 33(a) |
 | HCJ skeleton arguments | at least 3 days before the hearing | HCJ Procedure Regulations, reg. 16(a) |
 | Court-fee refund when a case ends early: fixed deduction | ₪588 | Court Fees Regulations, item 33 |
+| Police licence for an assembly or procession: when needed | 50+ people (assembly with speeches, or procession) | Police Ordinance, s. 83 |
+| Police licence request | at least 5 days before the event; no fee | Police Ordinance, ss. 84(a), 86 |
+| Safety notice for a public rally | 500+ participants; at least 5 days before | Safety in Public Places Law, ss. 5, 7 |
+| Detention (עיכוב) | up to 3 hours; +3 with written reasons when many people are involved | Criminal Procedure (Arrest) Law, s. 73(b) |
 | High Court petition fee (בג"ץ) | ₪2,144 | Court Fees Regulations, item 24, 2026 indexation |
 | Administrative petition fee (עתירה מינהלית) | ₪2,329 | Court Fees Regulations, item 20, 2026 indexation |
 | Administrative appeal fee | ₪1,654 | Kovetz Takanot 12149 (25.12.2025) |

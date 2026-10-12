@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A residents' group plans a rally of about 300 people in a city square, with speeches against a
+    planned landfill. Nobody will march. Which requirement applies?
+  options:
+    - >-
+      A police licence, filed at least 5 days ahead, because there are speeches.
+    - >-
+      A safety notice to the Interior Ministry, because the rally has more than 50 people.
+    - >-
+      No licence is needed; a coordination form with the local station is optional.
+    - >-
+      A permit from the municipality, which replaces the police licence for local issues.
+  correct: 2
+  explanation: >-
+    Only assemblies on a "political matter" in the narrow sense (foreign relations and security) need a
+    licence (AG guideline 3.1200 para. 8). The safety notice starts at 500 participants.
+- id: q2
+  question: >-
+    Sixty students want to walk together from campus to the Ministry of Education to protest tuition
+    fees, without any speeches. What do they need?
+  options:
+    - >-
+      A police licence, because 50 or more people walking together is a procession.
+    - >-
+      Nothing, because tuition is not a political matter in the narrow sense.
+    - >-
+      Nothing, because there are no speeches and the narrow test is not met.
+    - >-
+      Only a safety notice, because they will walk on public roads.
+  correct: 0
+  explanation: >-
+    The narrow "political matter" reading applies to assemblies. A procession of 50+ needs a licence
+    whatever its subject (s. 83; AG guideline para. 8).
+- id: q3
+  question: >-
+    An organiser filed a licence request 7 days before a march. The licence arrives with a condition
+    that the march start at 01:00, when the streets are empty, and no other reason is given. What is the
+    best response?
+  options:
+    - >-
+      Accept it, since the commander may attach any condition under s. 85(2).
+    - >-
+      Object in writing that the hour defeats the protest and propose another time.
+    - >-
+      Hold the march at the original time anyway, since the condition is unlawful.
+    - >-
+      Ask the Interior Ministry District Commissioner to cancel the condition.
+  correct: 1
+  explanation: >-
+    The AG guideline (section ז) says a time or route that defeats the aim of drawing public attention is
+    not a fair balance. Breaking a condition makes the march an unlawful assembly (s. 89), so challenge it
+    in writing and, if needed, in court.
+- id: q4
+  question: >-
+    A group expects 2,000 people at a stationary rally on the cost of living, with speeches about the
+    government's housing policy. No licence is needed. What must the organisers still do?
+  options:
+    - >-
+      Pay the licence fee, which is due for any event over 500 people.
+    - >-
+      Get the Knesset Speaker's permit, required for every rally over 1,000 people.
+    - >-
+      Nothing more; without a licence requirement, no notice is due.
+    - >-
+      Send the Interior Ministry a written safety notice 5 days ahead.
+  correct: 3
+  explanation: >-
+    A rally of 500+ is a public rally under the Public Places Safety Law, s. 5, and needs the notice even
+    when the Police Ordinance requires no licence. Licences are free (s. 86).

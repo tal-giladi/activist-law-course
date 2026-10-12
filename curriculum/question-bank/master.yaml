@@ -6860,3 +6860,1382 @@
   explanation: >-
     Threshold grounds include exhaustion, delay, standing, alternative remedy and justiciability;
     reasonableness and proportionality are merits questions.
+- id: m06-001
+  module: 6
+  lesson: '06.1'
+  subject: right-sources
+  difficulty: 1
+  question: Where does the constitutional status of the right to protest in Israel come from?
+  options:
+    - 'An explicit article on freedom of assembly in Basic Law: The Knesset, adopted in 1958.'
+    - 'Case law deriving it from human dignity in Basic Law: Human Dignity and Liberty.'
+    - The Police Ordinance, which grants a right to march.
+    - The Declaration of Independence, which courts apply as a binding statute.
+  correct: 1
+  explanation: >-
+    No Basic Law names freedom of expression or assembly. The High Court derived both, first from
+    the democratic character of the state (Kol Ha'am) and later from human dignity (s. 2).
+- id: m06-002
+  module: 6
+  lesson: '06.1'
+  subject: right-sources
+  difficulty: 1
+  question: >-
+    Which document sets out, for the police, the considerations for licensing and conditioning
+    protests?
+  options:
+    - Attorney General guideline 3.1200, "Freedom of Demonstration".
+    - The Public Places Safety Regulations on assemblies, issued under the 1962 law.
+    - The Knesset Building and Precincts Law.
+    - The Counter-Terrorism Law, 2016.
+  correct: 0
+  explanation: >-
+    AG guideline 3.1200, last updated 5.1.2022, summarises the case law and binds the police when
+    they decide on licences, conditions and dispersal.
+- id: m06-003
+  module: 6
+  lesson: '06.1'
+  subject: near-certainty
+  difficulty: 1
+  question: What probability of harm must the police show before restricting a protest?
+  options:
+    - A reasonable suspicion that someone may be offended.
+    - Any risk at all, since public order comes first.
+    - A near certainty of serious harm to public order or safety.
+    - Proof beyond reasonable doubt that violence will happen.
+  correct: 2
+  explanation: >-
+    The test from Kol Ha'am and the AG guideline is a near certainty of serious, real harm, based on
+    concrete facts — not offence and not a mere risk.
+- id: m06-004
+  module: 6
+  lesson: '06.1'
+  subject: hecklers-veto
+  difficulty: 2
+  question: >-
+    A left-wing group's licensed vigil is threatened by a right-wing group that announces it will
+    "break it up". What must the police do first?
+  options:
+    - Cancel the vigil's licence to remove the cause of the threat.
+    - Ask the vigil's organisers to pay for extra officers.
+    - Move the vigil to an indoor hall where opponents cannot see or reach it.
+    - Protect the lawful vigil with reasonable means against those threatening it.
+  correct: 3
+  explanation: >-
+    Levi and AG guideline paras. 16–17 require the police to protect a lawful protest from hostile
+    groups. Banning the target of the threat rewards the threat.
+- id: m06-005
+  module: 6
+  lesson: '06.1'
+  subject: content-neutrality
+  difficulty: 2
+  question: >-
+    A commander attaches a condition to a pro-government rally: "No signs praising the government's
+    judicial plan." Why is this condition defective?
+  options:
+    - It restricts the message rather than time, place or manner.
+    - Pro-government rallies need no licence at all.
+    - Only a magistrate may restrict signs at a rally.
+    - Conditions must be given orally on the day, not in writing.
+  correct: 0
+  explanation: >-
+    The subject and ideology of a protest are not the police's business (AG para. 13(ב)). Signs may
+    be restricted only if they amount to an offence such as incitement.
+- id: m06-006
+  module: 6
+  lesson: '06.1'
+  subject: time-place-manner
+  difficulty: 2
+  question: >-
+    Residents complain that a nightly protest outside a minister's office keeps them awake. What
+    kind of response fits the law?
+  options:
+    - A ban on the protest until the residents and the organisers reach an agreement.
+    - A limit on amplification and hours after a set time, keeping the protest in place.
+    - Moving the protest to another city where the minister has no office.
+    - Requiring protesters to register their names with the police.
+  correct: 1
+  explanation: >-
+    Conflicts with other people's rights are solved with time, place and manner conditions — the
+    horizontal balance — not with a ban or a move that defeats the protest.
+- id: m06-007
+  module: 6
+  lesson: '06.1'
+  subject: near-certainty
+  difficulty: 2
+  question: >-
+    The police refuse a march, writing only: "intelligence assessment indicates risk". The
+    organisers ask what the risk is and get no answer. What is their best next step?
+  options:
+    - Hold the march anyway, since a refusal without stated reasons is automatically void.
+    - Accept the refusal, because intelligence cannot be reviewed by courts.
+    - Ask in writing for the factual basis and propose conditions, then petition if refused.
+    - Complain to מח״ש that the commander abused his authority.
+  correct: 2
+  explanation: >-
+    A restriction needs a concrete factual basis. Asking for it and offering less restrictive
+    conditions builds the record for an urgent petition; marching without a required licence makes
+    it unlawful.
+- id: m06-008
+  module: 6
+  lesson: '06.1'
+  subject: minister-role
+  difficulty: 1
+  question: >-
+    Since Amendment 37 (2022), what may the National Security Minister do regarding the police under
+    s. 8ג of the Police Ordinance?
+  options:
+    - Decide the route of each licensed protest.
+    - Order the arrest of protest organisers.
+    - Appoint district commanders who then approve or refuse protests in their district.
+    - Set police policy and general principles of its activity.
+  correct: 3
+  explanation: >-
+    Section 8ג lets the Minister set policy and general principles. The courts have held that this
+    does not extend to operational instructions about specific protests.
+- id: m06-009
+  module: 6
+  lesson: '06.1'
+  subject: minister-role
+  difficulty: 2
+  question: The High Court struck down which part of Amendment 37 in HCJ 8987/22 (2.1.2025)?
+  options:
+    - Section 8ד, on the Minister's policy in investigations.
+    - Section 8ג, on the Minister's general policy and principles powers.
+    - Section 84, on licensing assemblies.
+    - Section 5א, on officers' identification.
+  correct: 0
+  explanation: >-
+    Wikisource marks s. 8ד as struck down by HCJ 8987/22. Section 8ג remains, read so that it does
+    not cover operational decisions on specific protests.
+- id: m06-010
+  module: 6
+  lesson: '06.1'
+  subject: right-sources
+  difficulty: 2
+  question: Why do Mandate-era licensing rules survive the 1992 Basic Law?
+  options:
+    - The Basic Law expressly lists the Police Ordinance as an exception.
+    - The preservation-of-laws clause (s. 10) keeps earlier laws in force.
+    - Courts have no power to review police legislation.
+    - The Ordinance was re-enacted by the Knesset in 2022.
+  correct: 1
+  explanation: >-
+    Section 10 preserves laws that existed before 1992. Courts still read them in the light of the
+    right, for example the narrow "political matter" test.
+- id: m06-011
+  module: 6
+  lesson: '06.1'
+  subject: time-place-manner
+  difficulty: 3
+  question: >-
+    A Haredi group wants to protest on a Shabbat afternoon in a secular neighbourhood against
+    cinemas opening on Shabbat. The police propose the same protest two streets away, near the
+    cinemas, at the same hour. Is that likely lawful?
+  options:
+    - No, any change of place is a ban in disguise.
+    - No, because protests with a religious message may not be conditioned at all.
+    - Yes, because religious content can be restricted more freely.
+    - Yes, if it meets a concrete risk and still reaches its audience.
+  correct: 3
+  explanation: >-
+    A place condition is lawful when it addresses a concrete risk and leaves an effective protest.
+    The content is irrelevant; the test is the least restrictive effective condition.
+- id: m06-012
+  module: 6
+  lesson: '06.1'
+  subject: hecklers-veto
+  difficulty: 3
+  question: >-
+    Police have concrete intelligence that a small group plans to attack a Pride march with knives.
+    What response best fits the case law?
+  options:
+    - Cancel the march, since the risk to participants' lives is concrete and serious.
+    - Allow the march only if participants sign a waiver.
+    - Act against the attackers and secure the march; restrict only if that fails.
+    - Move the march to a closed stadium where the participants can be kept safe.
+  correct: 2
+  explanation: >-
+    The duty is to protect the lawful march and deal with those who threaten it; a ban is a last
+    resort only if reasonable police measures cannot prevent the harm (Levi).
+- id: m06-013
+  module: 6
+  lesson: '06.1'
+  subject: content-neutrality
+  difficulty: 3
+  question: >-
+    A municipality lets a pro-government group protest in the courtyard of city hall but refuses an
+    opposition group the same courtyard on the same terms. What is the main legal defect?
+  options:
+    - Municipalities may never allow protests on their property.
+    - Discrimination by viewpoint in access to public property open for protests.
+    - The opposition group did not apply to the municipality 30 days ahead of time.
+    - Only the police may decide where protests take place.
+  correct: 1
+  explanation: >-
+    The AG guideline says distinguishing between protests that criticise and those that support the
+    government is an improper distinction when deciding on access to public property.
+- id: m06-014
+  module: 6
+  lesson: '06.1'
+  subject: near-certainty
+  difficulty: 1
+  question: Which of these is NOT, by itself, a lawful reason to refuse a licence?
+  options:
+    - The protest will need police officers who are busy elsewhere.
+    - Credible intelligence that organisers plan to set fires.
+    - The route blocks the only access to a hospital at peak hour.
+    - The planned site is private land and the owner refused consent.
+  correct: 0
+  explanation: >-
+    The cost of policing alone does not justify a refusal (AG section ח; Majority Camp). Only in
+    special circumstances may the police ask to change the date or set conditions.
+- id: m06-015
+  module: 6
+  lesson: '06.1'
+  subject: minister-role
+  difficulty: 3
+  question: >-
+    An organiser wants to challenge a police decision to block her protest's route. A friend says
+    she should write to the Minister, who "sets protest policy". What is the better route?
+  options:
+    - Write to the Minister and wait for him to instruct the district commander.
+    - Write to the Knesset Interior Committee, which licenses protests.
+    - Write to the State Comptroller, who supervises police operations.
+    - Write to the district commander and police legal adviser, then petition if needed.
+  correct: 3
+  explanation: >-
+    Decisions on specific protests are the commander's under ss. 84–85 and the AG guideline. The
+    courts have barred the Minister from operational instructions on specific protests.
+- id: m06-016
+  module: 6
+  lesson: '06.1'
+  subject: right-sources
+  difficulty: 1
+  question: Which 1953 ruling first held that speech may be limited only on a near certainty of real harm?
+  options:
+    - Levi v. Commander of the Southern District.
+    - Kol Ha'am v. Minister of the Interior.
+    - Dayan v. Wilk.
+    - Majority Camp v. Israel Police.
+  correct: 1
+  explanation: >-
+    Kol Ha'am (HCJ 73/53) set the near-certainty test for closing a newspaper; later protest cases
+    applied it to demonstrations.
+- id: m06-017
+  module: 6
+  lesson: '06.1'
+  subject: content-neutrality
+  difficulty: 2
+  question: >-
+    A licence for an anti-war vigil comes with the condition "only Israeli flags allowed". Which
+    question decides whether the condition is lawful?
+  options:
+    - Whether a specific flag here creates a high probability of serious disorder.
+    - Whether most citizens would find the vigil's message offensive.
+    - Whether the organisers are registered as an amuta.
+    - Whether the vigil's subject is a political matter in the narrow sense.
+  correct: 0
+  explanation: >-
+    A blanket flag rule restricts expression; it is lawful only where a specific display creates a
+    high probability of serious disorder (Police Ordinance s. 82; HCJ 1386/22 Diab as summarised by
+    the IDI).
+- id: m06-018
+  module: 6
+  lesson: '06.2'
+  subject: licence-test
+  difficulty: 1
+  question: How many people make an "assembly" or a "procession" under s. 83 of the Police Ordinance?
+  options:
+    - 10 or more.
+    - 3 or more.
+    - 50 or more.
+    - 500 or more.
+  correct: 2
+  explanation: >-
+    Both definitions start at 50 people. Three is the threshold for the Penal Law's unlawful
+    assembly; 500 is the Safety Law's public rally; 10 is the Knesset plaza rule.
+- id: m06-019
+  module: 6
+  lesson: '06.2'
+  subject: licence-test
+  difficulty: 1
+  question: After HCJ 6536/17 and the AG guideline, which assemblies need a police licence?
+  options:
+    - Any outdoor gathering of 50 or more people about any issue of public interest.
+    - Any gathering with a stage and amplification.
+    - Outdoor gatherings of 50+ to hear speeches on foreign relations or security.
+    - Gatherings within 100 metres of a government building.
+  correct: 2
+  explanation: >-
+    "Political matter" is read narrowly as foreign relations and security. Rallies on corruption,
+    the rule of law, prices or religion need no licence.
+- id: m06-020
+  module: 6
+  lesson: '06.2'
+  subject: procession
+  difficulty: 1
+  question: >-
+    A farmers' convoy of 80 tractors and cars plans to drive slowly from Gedera to Jerusalem. Does
+    it need a licence?
+  options:
+    - No, vehicles are covered by traffic law, not protest law.
+    - Yes, a vehicle convoy of 50+ is a procession.
+    - No, because farmers' income is not a political matter.
+    - Only if it enters the Knesset plaza.
+  correct: 1
+  explanation: >-
+    The police procedure defines a procession to include a vehicle convoy; processions of 50+ need a
+    licence whatever their subject.
+- id: m06-021
+  module: 6
+  lesson: '06.2'
+  subject: filing
+  difficulty: 1
+  question: To whom is a licence request filed under the police procedure?
+  options:
+    - The operations officer of the police station where the event takes place.
+    - The National Security Minister's office, which sets the police's protest policy.
+    - The municipality's events department.
+    - The Inspector General of the police.
+  correct: 0
+  explanation: >-
+    Procedure 221.110.19 directs requests to the station operations officer; the district commander
+    decides.
+- id: m06-022
+  module: 6
+  lesson: '06.2'
+  subject: filing
+  difficulty: 1
+  question: How much does a police protest licence cost?
+  options:
+    - The same as an FOI request fee.
+    - 1% of the expected policing cost.
+    - A fixed fee updated every January.
+    - Nothing; no fee is charged.
+  correct: 3
+  explanation: 'Police Ordinance s. 86: no fee is due for a licence under s. 85.'
+- id: m06-023
+  module: 6
+  lesson: '06.2'
+  subject: safety-notice
+  difficulty: 2
+  question: >-
+    A rally of 1,200 people on the cost of living needs no police licence. The organisers send
+    nothing. What is the consequence under the Public Places Safety Law?
+  options:
+    - None, since the Safety Law applies only to licensed events.
+    - The rally needs a permit from the Interior Ministry's appointee instead.
+    - The organisers must pay a fine before the rally can start.
+    - The police must convert the rally into a licensed procession.
+  correct: 1
+  explanation: Without the 5-day notice under s. 5, a public rally of 500+ needs a prior permit (s. 7).
+- id: m06-024
+  module: 6
+  lesson: '06.2'
+  subject: safety-notice
+  difficulty: 2
+  question: Who must be named in the safety notice for a public rally?
+  options:
+    - 'A safety officer: an adult resident who accepts responsibility in writing.'
+    - A licensed lawyer who represents the organisers and signs the notice for them.
+    - The local police station commander.
+    - A municipal engineer who approves the site.
+  correct: 0
+  explanation: >-
+    Safety Law s. 6: the notice names the person responsible for safety, with written consent; that
+    person must be an adult resident of Israel.
+- id: m06-025
+  module: 6
+  lesson: '06.2'
+  subject: knesset-holy
+  difficulty: 2
+  question: Fifteen students want to hold a silent vigil with signs on the Knesset plaza. What do they need?
+  options:
+    - Nothing, since they are fewer than 50.
+    - A police licence filed 5 days ahead.
+    - A permit from the Knesset Speaker.
+    - A safety notice to the Interior Ministry.
+  correct: 2
+  explanation: >-
+    The Knesset Building and Precincts Law s. 7 restricts assemblies and signs on the plaza; the
+    police procedure notes a Speaker's permit for 10+ people.
+- id: m06-026
+  module: 6
+  lesson: '06.2'
+  subject: conditions
+  difficulty: 2
+  question: >-
+    A licence requires the organisers to deposit ₪50,000 as security. The group has never broken a
+    condition. What does the procedure say about deposits?
+  options:
+    - Deposits are mandatory for every licensed procession, whatever the organiser's record.
+    - Deposits are forbidden in all cases.
+    - Deposits are set at a fixed rate per participant.
+    - Deposits are exceptional, need a concrete reason, and must fit the organiser's means.
+  correct: 3
+  explanation: >-
+    Under procedure 221.110.19 a deposit is for licensable events only, in exceptional cases such as
+    a history of breaches, and must reflect the organiser's means.
+- id: m06-027
+  module: 6
+  lesson: '06.2'
+  subject: conditions
+  difficulty: 2
+  question: By when should the police send their decision and conditions if you filed 5 days ahead?
+  options:
+    - Within 24 hours of filing.
+    - Up to 48 hours before the event.
+    - On the morning of the event.
+    - There is no time limit at all.
+  correct: 1
+  explanation: >-
+    The police procedure says the district commander's decision is sent up to 48 hours before the
+    event where the request was filed at least 5 days ahead, and published on the police website.
+- id: m06-028
+  module: 6
+  lesson: '06.2'
+  subject: public-figure-homes
+  difficulty: 2
+  question: >-
+    Activists want to protest outside a cabinet minister's private home. There is no effective
+    alternative site. What will the police lawfully do?
+  options:
+    - Set conditions of distance from the home, hours and noise.
+    - Ban the protest, since homes are always off-limits.
+    - Allow it with no conditions, as for any public street.
+    - Require the minister's written consent.
+  correct: 0
+  explanation: >-
+    AG guideline section ה: where there is no effective alternative, the police set place, time and
+    manner conditions balancing privacy against effective protest.
+- id: m06-029
+  module: 6
+  lesson: '06.2'
+  subject: public-figure-homes
+  difficulty: 3
+  question: >-
+    Protesters gather opposite the Prime Minister's official residence in Jerusalem. The police cite
+    the rule on public figures' private homes to push them 300 metres away. What is wrong with that
+    reasoning?
+  options:
+    - The rule for homes applies only to judges.
+    - Official residences are not private homes; the ordinary protest rules apply there.
+    - The police may never set any distance condition near official sites or residences.
+    - Only the Knesset Speaker may set conditions near official residences.
+  correct: 1
+  explanation: >-
+    The AG guideline excludes official residences, such as the Prime Minister's and the President's,
+    from the private-home rule; ordinary balances apply.
+- id: m06-030
+  module: 6
+  lesson: '06.2'
+  subject: procession
+  difficulty: 3
+  question: >-
+    A licensed stationary rally of 400 people ends, and the organisers spontaneously lead the crowd
+    on a march to the mayor's office. What is the legal risk?
+  options:
+    - None, because the rally already had a licence.
+    - The mayor may fine the organisers for trespass on municipal property near the office.
+    - The march needed its own licence; unlicensed, it is an unlawful assembly.
+    - The rally's safety notice becomes invalid retroactively.
+  correct: 2
+  explanation: >-
+    A procession of 50+ needs a licence, and conduct outside a licence's conditions makes the event
+    an unlawful assembly (s. 89) — the basis for dispersal and arrests.
+- id: m06-031
+  module: 6
+  lesson: '06.2'
+  subject: filing
+  difficulty: 3
+  question: >-
+    A government decision is announced at 10:00 on Monday. Organisers want a protest march at 19:00
+    the same day. What is the best course?
+  options:
+    - March without filing, since the 5-day rule cannot apply to same-day events.
+    - Wait 5 days, since an urgent request is legally impossible.
+    - Hold a stationary rally instead and avoid any contact with the police beforehand.
+    - File at once explaining the urgency, or hold a stationary rally instead.
+  correct: 3
+  explanation: >-
+    The commander has discretion to decide a late request; urgency must be explained. A stationary
+    rally on a non-security topic needs no licence and may be the safer option; coordinating still
+    helps.
+- id: m06-032
+  module: 6
+  lesson: '06.2'
+  subject: conditions
+  difficulty: 3
+  question: >-
+    Spot the mistake. An organiser's reply to a police condition reads: "We reject all conditions.
+    Our cause is just and the public supports us." What should the reply have contained?
+  options:
+    - The accepted conditions, the legal objection to one, and an alternative.
+    - A copy of opinion polls supporting the cause.
+    - A warning that the group will march without a licence if the conditions are not dropped.
+    - A request that the Minister overrule the commander.
+  correct: 0
+  explanation: >-
+    Commanders and courts weigh legal tests, not the justice of the cause. A precise objection with
+    an alternative builds the record for review.
+- id: m06-033
+  module: 6
+  lesson: '06.2'
+  subject: licence-test
+  difficulty: 2
+  question: >-
+    An indoor conference of 300 people on a peace agreement is planned in a hotel hall. Does it need
+    a police licence?
+  options:
+    - Yes, because the subject is foreign relations.
+    - No, because the definition covers outdoor assemblies only.
+    - Yes, because it has more than 50 participants gathered together.
+    - Only if a minister speaks.
+  correct: 1
+  explanation: >-
+    The district notices and the police procedure apply to gatherings under the open sky; indoor
+    events need the owner's consent, not a police licence (AG guideline para. 8(ג)).
+- id: m06-034
+  module: 6
+  lesson: '06.2'
+  subject: knesset-holy
+  difficulty: 2
+  question: >-
+    A group plans to raise signs and give a speech at the Western Wall plaza. Besides the police,
+    what must they consider?
+  options:
+    - Nothing more; holy sites follow the same rules as any other public place.
+    - A permit from the Knesset Speaker.
+    - A safety notice regardless of numbers.
+    - The Holy Places Regulations, which restrict speeches and signs there.
+  correct: 3
+  explanation: >-
+    The Regulations for the Protection of Holy Places to Jews restrict speeches, loud announcements
+    and signs at holy sites; the police procedure requires coordination with the site's
+    administrator.
+- id: m06-035
+  module: 6
+  lesson: '06.3'
+  subject: unlawful-assembly
+  difficulty: 1
+  question: How many people does the Penal Law's offence of unlawful assembly (s. 151) require?
+  options:
+    - Three or more.
+    - Fifty or more.
+    - Ten or more.
+    - Any number, even one.
+  correct: 0
+  explanation: >-
+    Section 151 starts at three people whose conduct gives reasonable grounds to fear a breach of
+    the peace.
+- id: m06-036
+  module: 6
+  lesson: '06.3'
+  subject: unlawful-assembly
+  difficulty: 2
+  question: >-
+    A quiet vigil of 20 people stands on the pavement. Passers-by shout at them, and the police say
+    the vigil is now an unlawful assembly. Is that correct?
+  options:
+    - Yes, any gathering that attracts anger is unlawful.
+    - Yes, because the vigil did not obtain a licence from the police in advance.
+    - No, the fear must come from the vigil's conduct, not others' reaction.
+    - No, unlawful assembly requires at least 50 participants.
+  correct: 2
+  explanation: >-
+    The AG guideline (para. 20(ד)) says the reasonable fear must arise from the gatherers' conduct,
+    not from others' opposition. A vigil of 20 needs no licence.
+- id: m06-037
+  module: 6
+  lesson: '06.3'
+  subject: dispersal
+  difficulty: 1
+  question: >-
+    Under the AG guideline, what should police normally do before dispersing a protest where an
+    offence is occurring?
+  options:
+    - Arrest the organisers first, to stop the offence at its source.
+    - Demand that the protesters stop the specific conduct.
+    - Use the water cannon as a warning.
+    - Call the Minister for approval.
+  correct: 1
+  explanation: >-
+    Para. 22(א) prefers a demand to stop the specific conduct (leave the road, remove a sign) so the
+    protest can continue lawfully.
+- id: m06-038
+  module: 6
+  lesson: '06.3'
+  subject: dispersal
+  difficulty: 2
+  question: Who may give a formal dispersal order to rioters under Penal Law s. 153?
+  options:
+    - Any police officer or police volunteer present at the scene, after a single warning call.
+    - Only the Inspector General of the police.
+    - Only a judge sitting in court.
+    - A senior district official, a magistrate, or failing them a senior officer on site.
+  correct: 3
+  explanation: >-
+    Section 153 lists who may order dispersal after announcing their presence; continuing after a
+    reasonable time is an offence (s. 155).
+- id: m06-039
+  module: 6
+  lesson: '06.3'
+  subject: detention-arrest
+  difficulty: 1
+  question: What is the basic maximum length of a detention (עיכוב)?
+  options:
+    - 3 hours.
+    - 24 hours.
+    - 1 hour.
+    - 48 hours.
+  correct: 0
+  explanation: >-
+    Arrests Law s. 73(ב): no more than 3 hours, extendable by up to 3 more with written reasons when
+    many people are involved.
+- id: m06-040
+  module: 6
+  lesson: '06.3'
+  subject: detention-arrest
+  difficulty: 2
+  question: A protester is held and asks, "Am I detained or arrested?" Why does the answer matter?
+  options:
+    - It decides whether the protest's licence remains valid for the rest of the evening.
+    - It determines the time limits and the rights and procedures that apply.
+    - Only arrested people must give their names.
+    - Detained people may leave whenever they wish.
+  correct: 1
+  explanation: >-
+    Detention is short and limited (3 hours, s. 73); an arrest needs a statutory ground and leads to
+    a judge within 24 hours, with the rights covered in Module 7.
+- id: m06-041
+  module: 6
+  lesson: '06.3'
+  subject: officer-id
+  difficulty: 1
+  question: What must a uniformed police officer wear under Police Ordinance s. 5א?
+  options:
+    - A body camera at all times.
+    - A badge showing only the unit's name.
+    - A visible name tag with first name and surname.
+    - A personal number but no name, for the officer's own safety.
+  correct: 2
+  explanation: >-
+    Section 5א(א) requires a visible name tag with first name and surname; s. 5א(ד) requires giving
+    name and personal number on request.
+- id: m06-042
+  module: 6
+  lesson: '06.3'
+  subject: officer-id
+  difficulty: 2
+  question: A plain-clothes officer grabs a protester's arm. What must the officer do under s. 5א(ב)?
+  options:
+    - Nothing until the protester has been brought to the police station for questioning.
+    - Show a written order from the commander.
+    - Give only a first name.
+    - Identify himself as a police officer and show his appointment card.
+  correct: 3
+  explanation: >-
+    A plain-clothes officer using police powers must identify by name or official alias and as a
+    police officer, and show the appointment card, unless that would defeat the action or endanger
+    someone.
+- id: m06-043
+  module: 6
+  lesson: '06.3'
+  subject: filming
+  difficulty: 1
+  question: Is it lawful to film police officers carrying out their duties at a public protest?
+  options:
+    - Yes, in general; only physically obstructing them is an offence.
+    - No, filming officers on duty requires their consent, as with any private person.
+    - Only with a press card.
+    - Only from at least 50 metres away.
+  correct: 0
+  explanation: >-
+    No law forbids filming police in public, and an officer generally may not order you to stop. The
+    limit is obstruction (Penal Law s. 275).
+- id: m06-044
+  module: 6
+  lesson: '06.3'
+  subject: filming
+  difficulty: 2
+  question: Which filming habit makes protest footage most useful as evidence?
+  options:
+    - Recording only the moment of force, to keep files short and easy to send to investigators.
+    - Keeping time and date on, filming the before and after, and never editing the original.
+    - Adding captions explaining what happened.
+    - Posting an edited version immediately and deleting the raw file.
+  correct: 1
+  explanation: >-
+    Context, metadata and an untouched original let investigators trust the footage; edits and
+    deletions weaken it.
+- id: m06-045
+  module: 6
+  lesson: '06.3'
+  subject: phone-search
+  difficulty: 2
+  question: >-
+    An officer says: "Give me the code; I just want to look at your video." What legal effect does
+    unlocking the phone have?
+  options:
+    - None at all; the police need a judge's warrant whatever you do.
+    - It only allows viewing the last video.
+    - It may count as consent, replacing the judge's warrant.
+    - It makes the footage inadmissible in court.
+  correct: 2
+  explanation: >-
+    Searching computer material needs a judge's warrant (s. 23א) unless you consent. Unlocking on
+    request can be treated as consent; decline politely.
+- id: m06-046
+  module: 6
+  lesson: '06.3'
+  subject: water-cannon
+  difficulty: 2
+  question: >-
+    Under the 2026 amendment adding s. 89א to the Police Ordinance, what may a water cannon spray at
+    a protest?
+  options:
+    - Water with a coloured dye, to identify participants later.
+    - Water with a foul-smelling additive, if approved by a commander.
+    - Any liquid approved by the Ministry of Health.
+    - Clean water only, with no added colour, smell or substance.
+  correct: 3
+  explanation: >-
+    Section 89א(א) limits water-cannon use to clean water; from 15.2.2027 its use must also be
+    filmed and the footage kept for at least a year.
+- id: m06-047
+  module: 6
+  lesson: '06.3'
+  subject: safety-brief
+  difficulty: 1
+  question: What is the single most important rule to brief every participant before a tense protest?
+  options:
+    - Never resist physically, even an order you believe is unlawful.
+    - Refuse to give your name to any officer until a lawyer has arrived.
+    - Keep marching if the police block the route.
+    - Hand your phone to officers to show you have nothing to hide.
+  correct: 0
+  explanation: >-
+    Physical resistance creates offences like obstructing or assaulting an officer. Comply, document
+    and challenge later in writing or in court.
+- id: m06-048
+  module: 6
+  lesson: '06.3'
+  subject: detention-arrest
+  difficulty: 3
+  question: >-
+    Spot the mistake in this detention card: "1. Ask if I am detained or arrested. 2. Refuse to give
+    my name until I see a lawyer. 3. Ask the officer's name and number. 4. Do not consent to a phone
+    search."
+  options:
+    - Point 1, since officers need not say whether you are detained.
+    - Point 3, since asking for an officer's details is obstruction.
+    - 'Point 2: refusing identity details can itself justify detention or arrest.'
+    - Point 4, since phones may always be searched at protests.
+  correct: 2
+  explanation: >-
+    You must give identity details when lawfully asked; everything else can wait for a lawyer. The
+    other points are correct.
+- id: m06-049
+  module: 6
+  lesson: '06.3'
+  subject: unlawful-assembly
+  difficulty: 3
+  question: >-
+    Two hundred reservists sit on a junction for ten minutes, without a licence, to protest a
+    government decision; they ignore a demand to leave. A week later, one is charged with unlawful
+    assembly. What must the indictment set out?
+  options:
+    - The political content of the protest's slogans and the identity of its organisers.
+    - The facts from which the reasonable fear of a breach of the peace arose.
+    - Proof that the defendant organised the protest.
+    - The number of officers needed to clear the road.
+  correct: 1
+  explanation: >-
+    AG guideline para. 22(ד): an indictment under s. 151 must set out the facts that created the
+    reasonable fear; blocking a road and ignoring a demand may supply them.
+- id: m06-050
+  module: 6
+  lesson: '06.3'
+  subject: filming
+  difficulty: 3
+  question: >-
+    An activist films an arrest by standing one metre from the officers and shouting at them, and
+    keeps stepping between them and the arrested man. He is charged with obstruction. What is the
+    likely outcome?
+  options:
+    - Acquittal, because filming police is always protected.
+    - Acquittal, because obstruction requires violence against the officers.
+    - Conviction is impossible because the arrest was at a protest.
+    - 'The charge may stand: physical interference is not protected filming.'
+  correct: 3
+  explanation: >-
+    Filming is lawful; stepping between officers and the person arrested can be obstruction under s.
+    275. Film from a reasonable distance.
+- id: m06-051
+  module: 6
+  lesson: '06.3'
+  subject: safety-brief
+  difficulty: 2
+  question: Which item does NOT belong in a protester's personal kit?
+  options:
+    - A pocket knife "for emergencies".
+    - An identity card.
+    - A charged phone with cloud backup.
+    - A legal hotline number written on the arm.
+  correct: 0
+  explanation: >-
+    Knives and anything that looks like a weapon can be seized and lead to arrest (Police Ordinance
+    s. 79 orders, Penal Law). Leave them at home.
+- id: m06-052
+  module: 6
+  lesson: '06.4'
+  subject: complaint-channel
+  difficulty: 1
+  question: Which body investigates suspected criminal offences by police officers?
+  options:
+    - The police's own investigations division, in the district where it happened.
+    - The Police Investigations Department (מח״ש) in the Ministry of Justice.
+    - The Public Complaints Commissioner.
+    - The Knesset's National Security Committee.
+  correct: 1
+  explanation: >-
+    Police Ordinance s. 49ט assigns investigations of offences by officers to the department in the
+    Ministry of Justice.
+- id: m06-053
+  module: 6
+  lesson: '06.4'
+  subject: complaint-channel
+  difficulty: 1
+  question: Which offences by officers are outside מח״ש's usual remit?
+  options:
+    - Assault causing injury during an arrest.
+    - Threats made to a protester by an officer who was off duty.
+    - Offences punishable by up to a year, and traffic offences.
+    - Accepting bribes from a protest's opponents.
+  correct: 2
+  explanation: >-
+    The First Schedule excludes offences punishable by up to one year (unless the State Attorney and
+    the Inspector General decide otherwise) and traffic offences.
+- id: m06-054
+  module: 6
+  lesson: '06.4'
+  subject: disciplinary
+  difficulty: 1
+  question: Where does a complaint about an officer's rude language go?
+  options:
+    - The police Public Complaints Unit.
+    - The Police Investigations Department (מח״ש).
+    - The Magistrates' Court of the area.
+    - The Attorney General's office.
+  correct: 0
+  explanation: >-
+    Rudeness and improper conduct are disciplinary matters handled by the police Public Complaints
+    Unit, which may offer mediation.
+- id: m06-055
+  module: 6
+  lesson: '06.4'
+  subject: mahash-process
+  difficulty: 1
+  question: How is a complaint to מח״ש filed, according to the gov.il page?
+  options:
+    - By fax to the department.
+    - In person at any police station.
+    - By registered mail only.
+    - Through the online form only.
+  correct: 3
+  explanation: >-
+    The page says complaints are filed through the online form only; the fax number is for other
+    inquiries, and *2906 is the information line.
+- id: m06-056
+  module: 6
+  lesson: '06.4'
+  subject: appeal
+  difficulty: 1
+  question: What is the deadline for appealing a decision to close a file about police violence?
+  options:
+    - 30 days from the date of the incident itself.
+    - 45 days from the decision.
+    - 60 days from receiving the closing notice.
+    - One year from the complaint.
+  correct: 2
+  explanation: >-
+    Criminal Procedure Law s. 65: 60 days after the notice was delivered; the deciding authority may
+    extend.
+- id: m06-057
+  module: 6
+  lesson: '06.4'
+  subject: evidence
+  difficulty: 2
+  question: Which request in a complaint helps most to secure footage that may otherwise disappear?
+  options:
+    - A request to preserve body-camera and security footage of the incident.
+    - A request to suspend the officer immediately until the investigation ends.
+    - A request for the officer's home address.
+    - A request that the protest's licence be published.
+  correct: 0
+  explanation: >-
+    Body-camera and security systems may overwrite footage; asking for preservation early keeps the
+    key evidence available.
+- id: m06-058
+  module: 6
+  lesson: '06.4'
+  subject: lawyer-first
+  difficulty: 2
+  question: Why might a protester consult a lawyer before giving a detailed statement to מח״ש?
+  options:
+    - Statements to מח״ש are invalid unless a lawyer is present when they are given.
+    - Her statement could be used against her if she is charged over the same event.
+    - מח״ש charges a fee that a lawyer can waive.
+    - Only lawyers may file complaints about police.
+  correct: 1
+  explanation: >-
+    Anyone may complain. But if the complainant may face charges from the same event, what she says
+    can be used in her own case.
+- id: m06-059
+  module: 6
+  lesson: '06.4'
+  subject: mahash-process
+  difficulty: 2
+  question: >-
+    According to the gov.il page, roughly how long is a מח״ש investigation phase usually meant to
+    take?
+  options:
+    - About 3 working days, from the complaint to the decision.
+    - About 2 years, because of the department's backlog.
+    - About 24 hours, since protest cases are treated as urgent.
+    - About 75 days, unless special circumstances justify more.
+  correct: 3
+  explanation: >-
+    The page gives about 3 days for the initial review, about 75 days for the investigation and
+    about 6 months for the prosecution decision.
+- id: m06-060
+  module: 6
+  lesson: '06.4'
+  subject: disciplinary
+  difficulty: 2
+  question: >-
+    A district Public Complaints officer rejects your complaint about an officer who refused to give
+    his number. What can you do?
+  options:
+    - Appeal to the head of the national Public Complaints Unit.
+    - Nothing; disciplinary decisions are final.
+    - Appeal to מח״ש within 60 days of the district officer's decision.
+    - Petition the Magistrates' Court.
+  correct: 0
+  explanation: >-
+    The police guide says area decisions are appealed to the district officer, and district
+    decisions to the head of the national unit.
+- id: m06-061
+  module: 6
+  lesson: '06.4'
+  subject: complaint-channel
+  difficulty: 2
+  question: A private security guard at a mall roughly pushes a protester out. Can מח״ש investigate?
+  options:
+    - Yes, it covers anyone who enforces order at a protest, including guards.
+    - Yes, if the protest was licensed.
+    - No; a guard is not a police officer, so complain to the police.
+    - No; private guards cannot commit offences while on duty.
+  correct: 2
+  explanation: >-
+    מח״ש handles offences by police officers (and police volunteers on duty). Offences by guards,
+    inspectors or prison staff go to the regular authorities.
+- id: m06-062
+  module: 6
+  lesson: '06.4'
+  subject: evidence
+  difficulty: 3
+  question: >-
+    Spot the weakest part of this complaint: "On Saturday night at Kaplan, a big policeman beat me
+    badly for no reason, like they always do. Everyone saw it."
+  options:
+    - It mentions Saturday night instead of the exact date.
+    - It names the place only as Kaplan, not as a street address.
+    - It says the force was used without any reason at all.
+    - No time, officer identifiers, injury record or named witnesses.
+  correct: 3
+  explanation: >-
+    Investigators need exact time, officer identifiers, a medical record and named witnesses; "like
+    they always do" adds nothing and hurts credibility.
+- id: m06-063
+  module: 6
+  lesson: '06.4'
+  subject: appeal
+  difficulty: 3
+  question: >-
+    Your מח״ש file was closed because "the circumstances as a whole do not justify prosecution". You
+    think the decision is wrong. What is the correct route?
+  options:
+    - A petition to the Administrative Court within 45 days.
+    - An appeal (ערר) under s. 64 within 60 days of the notice.
+    - A new complaint to the Public Complaints Unit.
+    - A complaint to the Public Complaints Commissioner within a year.
+  correct: 1
+  explanation: >-
+    Section 64 allows a complainant's appeal against closures for lack of public interest,
+    insufficient evidence or no guilt; s. 65 sets 60 days. A petition comes only after that route.
+- id: m06-064
+  module: 6
+  lesson: '06.4'
+  subject: lawyer-first
+  difficulty: 3
+  question: >-
+    Talia was hit by an officer while she was blocking a road without a licence. Which complaint
+    strategy is best?
+  options:
+    - >-
+      Describe the whole protest in detail, including the road block, to show the officer's
+      unfairness.
+    - Do not complain, since blocking the road makes any force lawful.
+    - With legal advice, complain about the blow itself, with full details and evidence.
+    - Complain to the Public Complaints Unit only, to avoid investigators.
+  correct: 2
+  explanation: >-
+    Unlawful conduct by a protester does not make unreasonable force lawful. A focused complaint,
+    shaped with a lawyer, avoids admitting a separate offence.
+- id: m06-065
+  module: 6
+  lesson: '06.4'
+  subject: disciplinary
+  difficulty: 2
+  question: >-
+    The Public Complaints Unit offers mediation for a complaint about an officer's insulting
+    language. What happens if mediation succeeds?
+  options:
+    - The matter is closed and cannot be raised again.
+    - The officer is automatically disciplined.
+    - The complaint is passed to מח״ש.
+    - You receive compensation set by the mediator.
+  correct: 0
+  explanation: >-
+    Mediation is voluntary, without lawyers; the agreement includes finality, so a successful
+    mediation closes the matter.
+- id: m06-066
+  module: 6
+  lesson: '06.4'
+  subject: evidence
+  difficulty: 2
+  question: >-
+    From 15.2.2027, what new evidence will a person hurt by a water cannon at a protest be able to
+    request?
+  options:
+    - The names of all officers on duty that day.
+    - The minister's operational instructions.
+    - The cannon's maintenance and safety-inspection records for the year.
+    - The video and sound recording of the water-cannon use.
+  correct: 3
+  explanation: >-
+    Police Ordinance s. 89א(ב)–(ד): use must be filmed, the footage kept at least a year, and a
+    person hurt may request it.
+- id: m06-067
+  module: 6
+  lesson: '06.4'
+  subject: complaint-channel
+  difficulty: 3
+  question: >-
+    Many protesters report that officers at weekly protests in one city routinely do not wear name
+    tags. Which tool best addresses the pattern?
+  options:
+    - A single complaint to מח״ש on behalf of all the protesters who were affected.
+    - An FOI request for complaint data, then a letter to oversight bodies.
+    - A small claims suit against the city.
+    - A petition to the Magistrates' Court for an injunction.
+  correct: 1
+  explanation: >-
+    Individual complaints address individual acts; systemic patterns are better documented with FOI
+    data and raised with oversight bodies (05.2, 05.4).
+- id: m06-068
+  module: 6
+  lesson: '06.4'
+  subject: mahash-process
+  difficulty: 2
+  question: Can a Border Police officer's conduct at a protest in Judea and Samaria be investigated by מח״ש?
+  options:
+    - No; only the Military Police investigates incidents there.
+    - No; Border Police are soldiers.
+    - Yes, Border Police officers are within מח״ש's remit.
+    - Only if the protester is a resident of Israel proper.
+  correct: 2
+  explanation: >-
+    The gov.il page lists police officers including Border Police (מג״ב) as within the department's
+    remit, on duty or off duty.
+- id: m06-069
+  module: 6
+  lesson: '06.5'
+  subject: incitement-violence
+  difficulty: 1
+  question: >-
+    What test decides whether praise of violence is the offence of incitement to violence (s.
+    144ד2)?
+  options:
+    - Whether the speaker belongs to an extremist group.
+    - Whether content and circumstances make violence a real possibility.
+    - Whether the post received more than 1,000 views.
+    - Whether violence actually followed within a week of the publication.
+  correct: 1
+  explanation: >-
+    Section 144ד2(א) uses a "real possibility" test based on content and circumstances; actual
+    violence is not required.
+- id: m06-070
+  module: 6
+  lesson: '06.5'
+  subject: racism-incitement
+  difficulty: 1
+  question: >-
+    Under s. 144א, racism is hostility or humiliation against a public because of which
+    characteristics?
+  options:
+    - Political views or party membership.
+    - Religion or religious observance only.
+    - Colour, race or national-ethnic origin.
+    - Sexual orientation or gender.
+  correct: 2
+  explanation: >-
+    The definition covers colour, race and national-ethnic origin. Other groups are protected by
+    other offences, such as incitement to violence.
+- id: m06-071
+  module: 6
+  lesson: '06.5'
+  subject: racism-incitement
+  difficulty: 1
+  question: What is required before an indictment for incitement to racism may be filed?
+  options:
+    - The Attorney General's written consent.
+    - A complaint from a member of the targeted group.
+    - A prior warning letter from the police.
+    - A court order removing the publication.
+  correct: 0
+  explanation: 'Penal Law s. 144ה: no indictment under the racism chapter without the AG''s written consent.'
+- id: m06-072
+  module: 6
+  lesson: '06.5'
+  subject: terror-support
+  difficulty: 1
+  question: >-
+    Which of these is always an offence under Counter-Terrorism Law s. 24(ב)(1), without any
+    probability test?
+  options:
+    - Criticising the army's conduct in a war in a signed newspaper column.
+    - Calling for a ceasefire.
+    - Mourning a relative killed in a military operation.
+    - Publishing a direct call to commit an act of terror.
+  correct: 3
+  explanation: >-
+    A direct call to terror is an offence in itself (five years); praise of terror needs a real
+    possibility of leading to terror (s. 24(ב)(2)).
+- id: m06-073
+  module: 6
+  lesson: '06.5'
+  subject: terror-support
+  difficulty: 2
+  question: >-
+    A student waves the flag of a designated terror organisation at a campus rally to show support
+    for it. Which offence fits?
+  options:
+    - Public identification with a terror organisation (CT Law s. 24(א)).
+    - Gross offence to religious feelings (s. 173) of other students.
+    - Unlawful assembly (s. 151), since a rally was involved.
+    - Defamation of the State and its institutions.
+  correct: 0
+  explanation: >-
+    Section 24(א) makes public identification with a terror organisation — including waving its flag
+    or displaying its symbol — punishable by three years.
+- id: m06-074
+  module: 6
+  lesson: '06.5'
+  subject: flags
+  difficulty: 2
+  question: >-
+    Under Police Ordinance s. 82, who may ban the display of a flag likely to provoke a breach of
+    the peace?
+  options:
+    - Any officer at the scene, permanently and without any general order.
+    - The Inspector General, generally or for set times and places.
+    - The municipality where the protest is held.
+    - The Knesset National Security Committee.
+  correct: 1
+  explanation: >-
+    Section 82(א)–(ב) gives the Inspector General the power; officers may remove a flag shown in
+    breach of such a ban or in circumstances provoking a breach of the peace (s. 82(ג)).
+- id: m06-075
+  module: 6
+  lesson: '06.5'
+  subject: online-liability
+  difficulty: 2
+  question: Does reposting someone else's call to violence protect you because you did not write it?
+  options:
+    - Yes, only the original author is liable.
+    - Yes, if you add the words "not my words" above the shared post.
+    - No; sharing can be publication or holding for distribution.
+    - No, but only if you have more followers than the author.
+  correct: 2
+  explanation: >-
+    Publishing and holding for distribution are both offences (ss. 144ד2, 144ד3). A clearly framed,
+    fair and accurate report is protected; a plain repost is not.
+- id: m06-076
+  module: 6
+  lesson: '06.5'
+  subject: online-liability
+  difficulty: 2
+  question: >-
+    A journalist quotes a politician's call to "wipe out" a village, in an article criticising the
+    call. Is the journalist liable for incitement?
+  options:
+    - Yes, repeating any incitement is an offence.
+    - Yes, unless the politician has agreed in writing to be quoted.
+    - No, journalists are exempt from the Penal Law.
+    - No, a fair and accurate report is not an offence.
+  correct: 3
+  explanation: >-
+    Sections 144ג(א) and 144ד2(ג) protect a fair and accurate report. The framing must make clear it
+    is a report, not endorsement.
+- id: m06-077
+  module: 6
+  lesson: '06.5'
+  subject: threats
+  difficulty: 2
+  question: >-
+    A protester messages a council member: "We know where your children study. Vote yes, or else."
+    Which offence is the most direct fit?
+  options:
+    - Threats (Penal Law s. 192).
+    - Incitement to racism (s. 144ב).
+    - Unlawful assembly (s. 151).
+    - Gross offence to religious feelings (s. 173).
+  correct: 0
+  explanation: >-
+    Threatening harm to a person or another, to frighten or harass them, is the offence of threats;
+    the message targets a specific person.
+- id: m06-078
+  module: 6
+  lesson: '06.5'
+  subject: sign-at-protest
+  difficulty: 1
+  question: An officer demands that you lower a sign you believe is lawful. What is the first thing to do?
+  options:
+    - Refuse and hold the sign tighter until a lawyer arrives.
+    - Ask which offence the sign is said to commit.
+    - Hand the sign to another protester.
+    - Leave the protest immediately.
+  correct: 1
+  explanation: >-
+    Asking which offence clarifies the order and creates a record. If the officer insists, comply,
+    film and complain later.
+- id: m06-079
+  module: 6
+  lesson: '06.5'
+  subject: incitement-violence
+  difficulty: 2
+  question: Which sign at an anti-government rally is the clearest example of protected speech?
+  options:
+    - '"Hang the traitors in the square."'
+    - A photo of the PM with his home address and "Visit him tonight."
+    - '"This government is destroying the country — go home!"'
+    - '"Whoever stops the minister with force is a hero."'
+  correct: 2
+  explanation: >-
+    Harsh criticism is protected. The others call for, praise or invite violence or harassment
+    against specific people.
+- id: m06-080
+  module: 6
+  lesson: '06.5'
+  subject: racism-incitement
+  difficulty: 3
+  question: >-
+    At a march, a group chants a slogan wishing death to an entire national group. Which offences
+    should the organisers have anticipated?
+  options:
+    - Only defamation, since no individual is named.
+    - Nothing, because chants are not "publications".
+    - Only a disciplinary matter for the stewards.
+    - Incitement to racism and possibly incitement to violence.
+  correct: 3
+  explanation: >-
+    A public chant is a publication; hostility to a national group is racism under s. 144א; a call
+    for death may meet the violence test too. Organisers should ban such chants in the briefing.
+- id: m06-081
+  module: 6
+  lesson: '06.5'
+  subject: terror-support
+  difficulty: 3
+  question: >-
+    Under the temporary provision in Counter-Terrorism Law s. 24(ג1), renewed from 27.11.2025, what
+    is the offence?
+  options:
+    - Systematic, continuous consumption of listed terror groups' publications.
+    - Any single viewing of a news report that quotes a statement by a terror organisation.
+    - Following foreign news channels during wartime.
+    - Criticising the government's counter-terror policy online.
+  correct: 0
+  explanation: >-
+    Section 24(ג1) targets systematic and continuous consumption of listed organisations'
+    publications, in circumstances showing identification with them — not news consumption or
+    criticism.
+- id: m06-082
+  module: 6
+  lesson: '06.5'
+  subject: online-liability
+  difficulty: 3
+  question: >-
+    A farmers' protest group plans to print 2,000 flyers. One member's draft says the ministry's
+    inspectors "should be beaten when they come tomorrow". The group's treasurer, who will store the
+    flyers, asks whether she is at risk too. What is the best answer?
+  options:
+    - No; only the author of a text can ever commit an incitement offence.
+    - Yes; holding an inciting publication for distribution is an offence.
+    - No; printed flyers are not "publications" under the Penal Law at all.
+    - Only if the flyers are handed out inside a government building.
+  correct: 1
+  explanation: >-
+    Penal Law s. 144ד3 makes holding an inciting publication for distribution an offence (one year).
+    The group should rewrite the flyer before printing.
+- id: m06-083
+  module: 6
+  lesson: '06.5'
+  subject: incitement-violence
+  difficulty: 3
+  question: >-
+    The same post — "They will pay for this" — is published by two people. When is it more likely to
+    meet the real-possibility test?
+  options:
+    - When posted by a private person to 20 friends on a calm day.
+    - When posted with a smiling emoji at the end of the message.
+    - When posted in English rather than in Hebrew or Arabic.
+    - When sent to 50,000 followers right after an attack, naming a target.
+  correct: 3
+  explanation: >-
+    The test looks at content and circumstances: audience, timing, a named target and tension all
+    increase the real possibility of violence.
+- id: m06-084
+  module: 6
+  lesson: '06.5'
+  subject: sign-at-protest
+  difficulty: 2
+  question: Which licence condition on signs is most likely lawful?
+  options:
+    - '"No signs criticising the police or their conduct at earlier protests."'
+    - '"No signs in Arabic."'
+    - '"No signs that amount to incitement or show terror symbols."'
+    - '"Only signs approved in advance by the district commander may be raised."'
+  correct: 2
+  explanation: >-
+    A condition that targets criminal speech is lawful; conditions based on criticism, language or
+    prior approval of content restrict the message itself.
+- id: m06-085
+  module: 6
+  lesson: '06.5'
+  subject: racism-incitement
+  difficulty: 2
+  question: >-
+    A religious group's sign quotes a verse from Scripture critical of another people. When can this
+    be incitement to racism?
+  options:
+    - Only when quoted with the purpose of inciting racism.
+    - Always, because religious texts are not protected.
+    - Never, because religious quotes are fully exempt.
+    - Only if more than 50 people see it.
+  correct: 0
+  explanation: >-
+    Section 144ג(ב) exempts quotes from religious texts unless made with the purpose of inciting
+    racism.

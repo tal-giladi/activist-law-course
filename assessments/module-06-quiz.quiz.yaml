@@ -1,0 +1,181 @@
+- id: q1
+  question: >-
+    Settlers' organisations plan a march of 3,000 people from Jerusalem's Chords Bridge to the Prime
+    Minister's Office against a proposed territorial deal, with speeches at the end. Today is Sunday; the
+    march is on Thursday. What is the legal position?
+  options:
+    - >-
+      No licence is needed, because speeches against government policy are not a political matter.
+    - >-
+      A licence is needed but cannot be granted, because filing is less than 5 days ahead.
+    - >-
+      Only the safety notice is needed, because rallies over 500 are handled by the Interior Ministry.
+    - >-
+      A licence is needed; file at once explaining the timing, and send the 500+ safety notice too.
+  correct: 3
+  explanation: >-
+    It is a procession, and its speeches concern borders, a political matter in the narrow sense. Four
+    days is under the 5-day rule, so file immediately with reasons; the 3,000 participants also require
+    the Safety Law notice.
+- id: q2
+  question: >-
+    Police refuse a licence for an Arab citizens' march in Haifa against crime in Arab towns, citing a
+    general fear of "tension" and offering no intelligence. The organisers have a clean record. What is
+    the strongest argument against the refusal?
+  options:
+    - >-
+      A ban needs concrete evidence of a near certainty of serious harm, and conditions must come first.
+    - >-
+      Marches about crime are exempt from licensing because crime is not a political matter.
+    - >-
+      The police must grant every licence requested at least 5 days in advance.
+    - >-
+      Only the Minister may refuse a licence for a protest by a minority community.
+  correct: 0
+  explanation: >-
+    Kol Ha'am, Levi and AG guideline 3.1200 para. 13 require concrete facts showing near certainty of
+    serious harm, and the least restrictive measure. A procession still needs a licence whatever its
+    subject.
+- id: q3
+  question: >-
+    At a licensed anti-government rally, protesters leave the approved area and sit down on a main road.
+    Officers announce that the road must be cleared within five minutes. What should a protester who wants
+    to avoid a criminal file do?
+  options:
+    - >-
+      Stay seated, because a licensed rally cannot be dispersed.
+    - >-
+      Stay seated but refuse to give identity details if detained.
+    - >-
+      Move back to the approved area and continue protesting there.
+    - >-
+      Leave the area entirely, since one breach cancels the whole licence.
+  correct: 2
+  explanation: >-
+    Breaking a licence condition makes that conduct unlawful (s. 89), and the demand to clear the road is
+    the first step the AG guideline expects. Returning to the approved area keeps the protest lawful.
+- id: q4
+  question: >-
+    Rachel is detained at a road block at 20:00 with 60 others. At 23:30 an officer says the detention has
+    been "extended" but nothing was written down. Rachel gave her name and ID. What can she say?
+  options:
+    - >-
+      That detention may not exceed 24 hours, so she will wait calmly.
+    - >-
+      That going past 3 hours needs written reasons, and ask to see them.
+    - >-
+      That detention requires a judge's order once it passes one hour.
+    - >-
+      That she is free to leave and will walk away if not released immediately.
+  correct: 1
+  explanation: >-
+    Arrests Law s. 73(ב): 3 hours, extendable by up to 3 more in multi-person events, with written reasons.
+    She should ask for them and note the answer, not walk away, which risks a new offence.
+- id: q5
+  question: >-
+    A journalist-activist films police dispersing a Haredi protest from the pavement across the road. An
+    officer confiscates the phone and tells her it will be "checked at the station". What is correct?
+  options:
+    - >-
+      The police may seize a phone in some cases, but searching its contents needs a judge's warrant.
+    - >-
+      Filming any police operation is obstruction, so the confiscation and search are lawful.
+    - >-
+      The officer may search the phone at the station, because it was taken at a protest.
+    - >-
+      Seizing a phone is never allowed, so she may physically take it back.
+  correct: 0
+  explanation: >-
+    Filming from a distance is lawful. Even where a phone is seized, computer material may be searched only
+    under a judge's warrant (Criminal Procedure Ordinance (Arrest and Search) s. 23א). Never resist
+    physically.
+- id: q6
+  question: >-
+    After a protest against a gas rig, an environmental activist was hit on the head with a baton while
+    lying on the ground, and an officer also cursed her. She has a hospital record and a video. Where
+    should she complain?
+  options:
+    - >-
+      Only the Public Complaints Unit, because the incident happened at a protest.
+    - >-
+      The local police station, which investigates offences in its area.
+    - >-
+      The Public Complaints Commissioner, which handles all complaints against the police.
+    - >-
+      מח״ש for the blow; the cursing can be included and will be passed on for discipline.
+  correct: 3
+  explanation: >-
+    Assault by an officer is an offence over one year, investigated only by מח״ש (s. 49ט). Disciplinary
+    aspects are passed to the police if needed.
+- id: q7
+  question: >-
+    Yossi's complaint about violence at an outpost evacuation was closed for "insufficient evidence". The
+    notice reached him on 1 May. On 20 June he still has not received the investigation material he asked
+    for. What should he do?
+  options:
+    - >-
+      Wait for the material, since the 60 days start only when it arrives.
+    - >-
+      Before 30 June, ask the appeals unit in writing for an extension.
+    - >-
+      Petition the HCJ, because closing decisions cannot be appealed.
+    - >-
+      File a new complaint about the same incident, which restarts all deadlines.
+  correct: 1
+  explanation: >-
+    Criminal Procedure Law s. 65 counts 60 days from the notice (1 May + 60 = 30 June); the deciding
+    authority may extend. Ask before the deadline, in writing, with reasons.
+- id: q8
+  question: >-
+    A group plans a protest outside the private home of a ministry planning officer, a mid-level civil
+    servant who signed a demolition order. What does the AG guideline say?
+  options:
+    - >-
+      The protest is allowed with distance and quiet conditions, like any protest near a minister's home.
+    - >-
+      The protest is allowed only with a licence, because homes are private property.
+    - >-
+      Protests at a junior official's home are not allowed; protest at the ministry instead.
+    - >-
+      The protest is allowed if fewer than 50 people attend, since no licence is needed.
+  correct: 2
+  explanation: >-
+    AG guideline 3.1200 section ה distinguishes senior and elected office-holders from civil servants who
+    do not set policy; protests at or near the latter's homes are not allowed, even if the office is a less
+    effective site.
+- id: q9
+  question: >-
+    Before a counter-protest at a Pride march, a member of a religious group posts in its chat: "Whoever
+    has the courage — stop them with your own hands tomorrow." What is the main legal risk?
+  options:
+    - >-
+      Incitement to racism, because the post targets a group by its identity.
+    - >-
+      Gross offence to religious feelings of the march participants.
+    - >-
+      Defamation of the march organisers, a civil matter only.
+    - >-
+      Incitement to violence: a call with a real chance of violence.
+  correct: 3
+  explanation: >-
+    Section 144ד2 covers calls to violence with a real possibility of leading to it; the timing and the
+    planned confrontation make that possibility real. Sexual orientation is not a racism ground under
+    s. 144א.
+- id: q10
+  question: >-
+    At a rally after a military operation, an officer orders a participant to lower a Palestinian flag,
+    saying "it is always forbidden". There are no clashes. What best describes the law?
+  options:
+    - >-
+      Displaying the flag is always an offence under the Counter-Terrorism Law.
+    - >-
+      It may be restricted only on a high probability of serious disorder.
+    - >-
+      Flags are protected absolutely, so the participant may resist removal.
+    - >-
+      Any officer may ban any flag at any time under the Penal Law.
+  correct: 1
+  explanation: >-
+    Police Ordinance s. 82 allows banning a flag likely to provoke a breach of the peace, and HCJ 1386/22
+    Diab requires a high probability of serious disorder. The terror offence concerns a terror
+    organisation's flag displayed in identification with it. Comply and complain rather than resist.

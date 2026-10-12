@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    At a protest, an officer calls a woman an insulting name and refuses to give his personal number.
+    Nobody was touched. Where should her complaint go?
+  options:
+    - >-
+      The police Public Complaints Unit, because this is conduct, not a serious offence.
+    - >-
+      The Police Investigations Department, because every complaint about officers goes there.
+    - >-
+      The district police station's investigations unit, as for any criminal complaint.
+    - >-
+      The Public Complaints Commissioner, which handles all police matters exclusively.
+  correct: 0
+  explanation: >-
+    מח״ש investigates offences punishable by more than a year (s. 49ט and First Schedule). Rudeness and
+    refusing to identify are disciplinary matters for the police Public Complaints Unit.
+- id: q2
+  question: >-
+    Your complaint to מח״ש about being kicked during an arrest was closed. You received the notice on
+    10 June. By what date must your appeal be filed, unless you get an extension?
+  options:
+    - >-
+      10 July, 30 days after the notice.
+    - >-
+      25 July, 45 days after the notice, as for petitions.
+    - >-
+      9 August, 60 days after the notice.
+    - >-
+      10 June of the next year, one year after the notice.
+  correct: 2
+  explanation: >-
+    Criminal Procedure Law s. 65 gives 60 days from receiving the closing notice. If copying the file
+    takes long, ask the appeals unit for an extension before the date passes.
+- id: q3
+  question: >-
+    Dan was pushed by an officer at a road block and was also detained for blocking the road. He wants
+    to complain to מח״ש tomorrow. What should he do first?
+  options:
+    - >-
+      File immediately with a full account of the whole protest, so nothing is hidden.
+    - >-
+      Talk to a lawyer, since his statement could be used if he is charged for the road block.
+    - >-
+      Wait until any charges are decided, then file, since complaints during a case are void.
+    - >-
+      File a civil damages claim first, which is required before a criminal complaint.
+  correct: 1
+  explanation: >-
+    What Dan says to investigators can be used in his own case. A lawyer helps him complain about the
+    push without admitting a separate offence. Waiting months loses footage and witnesses.
+- id: q4
+  question: >-
+    Which detail in a police complaint does most to prevent a closure for "officer not identified"?
+  options:
+    - >-
+      A strong description of how unfair the protest's treatment was overall.
+    - >-
+      A statement that several officers were present and all behaved badly.
+    - >-
+      A copy of the protest licence and the conditions the police set.
+    - >-
+      The time, exact place, unit or vehicle number, and a photo or video of the officer.
+  correct: 3
+  explanation: >-
+    Investigators need to match the act to a person. Time, place, unit, vehicle and image let them check
+    duty rosters and body-camera footage.
