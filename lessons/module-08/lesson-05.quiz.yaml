@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    An anonymous account posts your home address with the comment "time for a visit". You want it gone
+    today. What should you do first?
+  options:
+    - >-
+      Report the post on the platform at once, before anything else.
+    - >-
+      Reply under the post so that others see you are not afraid.
+    - >-
+      Screenshot it with the URL and time, then report it and tell the police.
+    - >-
+      Ask a court for a restraining order against the anonymous account.
+  correct: 2
+  explanation: >-
+    Preserve first: once removed, the post cannot be shown to the police or a court. A threat tied to
+    your home is a police matter; a restraining order needs a known person.
+- id: q2
+  question: >-
+    A known local businessman, angry at your campaign, sends you ten messages a day on three platforms,
+    some saying "watch yourself". Which legal tool fits best?
+  options:
+    - >-
+      A complaint to the Privacy Protection Authority about his databases.
+    - >-
+      A restraining order under the Prevention of Stalking Law.
+    - >-
+      A defamation claim, since the messages harm your reputation.
+    - >-
+      A request to the State Attorney's Cyber Unit to delete his accounts.
+  correct: 1
+  explanation: >-
+    Repeated contact "by any means" with threats is threatening harassment. The order is free, can be
+    given ex parte the same day, and can forbid any contact, including online.
+- id: q3
+  question: >-
+    A municipal official asks the Magistrates' Court for a restraining order against an activist who
+    films and posts the official's public decisions at council meetings and criticises him harshly. What
+    is likely?
+  options:
+    - >-
+      The order is granted, because any repeated posting about a person is harassment.
+    - >-
+      The order is granted for six months, after which the activist may post again.
+    - >-
+      The court sends the matter to the Privacy Protection Authority to decide.
+    - >-
+      The court refuses, because conduct with a public-interest privacy defence is excluded.
+  correct: 3
+  explanation: >-
+    Section 4(ג) of the Prevention of Stalking Law excludes conduct covered by privacy-law defences,
+    including justified public interest (s. 18(3)). Criticism of public conduct is not stalking.
+- id: q4
+  question: >-
+    A page publishes a false claim that you embezzled your group's donations. You report it in the app
+    and get "this does not violate our community standards". What is the better next step?
+  options:
+    - >-
+      Use the platform's legal-removal form, citing the Defamation Law.
+    - >-
+      Report it again from twenty friends' accounts until it is removed.
+    - >-
+      Apply to the court to unmask the page owner under the 2026 unmasking law.
+    - >-
+      Publish the page owner's home address so readers can judge them.
+  correct: 0
+  explanation: >-
+    Defamation often breaks local law but not platform rules, so the legal-removal channel fits. There is
+    no unmasking law, mass reporting is unreliable, and doxxing exposes you to claims.

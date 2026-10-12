@@ -62,3 +62,10 @@
   - [38 · Remand Hearings and Release Conditions](lessons/module-07/lesson-04.md)
   - [39 · After the Case: Closed Files, Criminal and Police Records](lessons/module-07/lesson-05.md)
   - [Module 7 quiz](assessments/module-07-quiz.md)
+- **Module 8 — Defamation, Privacy and Online Speech (about 11 hours)**
+  - [40 · Defamation Basics](lessons/module-08/lesson-01.md)
+  - [41 · Defences: Truth, Public Interest and Good Faith](lessons/module-08/lesson-02.md)
+  - [42 · Threat Letters and SLAPP Suits: What to Do](lessons/module-08/lesson-03.md)
+  - [43 · Privacy Law for Activists](lessons/module-08/lesson-04.md)
+  - [44 · Platforms, Takedowns and Online Harassment](lessons/module-08/lesson-05.md)
+  - [Module 8 quiz](assessments/module-08-quiz.md)

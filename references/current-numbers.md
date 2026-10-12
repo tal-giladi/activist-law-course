@@ -64,3 +64,12 @@ The numbers change on fixed dates:
 | Appeal against a Public Defender refusal | 7 days | Public Defender Regulations, reg. 2(b) |
 | Request to cancel a closed-file police record (adults) | 5 years from the event for a misdemeanour (עוון), 7 for a felony (פשע) | Criminal Information and Rehabilitation of Offenders regulations (police records), 2009 |
 | Complainant's appeal (ערר) against closing a file | 60 days from the notice | Criminal Procedure Law, s. 65 |
+
+## Compensation without proof of damage (linked to the price index)
+
+These amounts change every month with the consumer price index, so the numbers below are approximate. Before you claim, recalculate them with the Central Bureau of Statistics index calculator, starting from the base amount and base date written in the law.
+
+| Item | About (October 2026) | Source |
+|---|---|---|
+| Defamation, without proof of damage | ₪84,400; double (about ₪168,900) if published with intent to harm | Defamation Prohibition Law, s. 7A |
+| Privacy breach, without proof of damage | ₪72,600 | Protection of Privacy Law, s. 29A |

@@ -1,0 +1,178 @@
+- id: q1
+  question: >-
+    A group opposing a new yeshiva in a secular neighbourhood posts: "Rabbi Cohen, the yeshiva's head,
+    forged signatures on the building application." Its only basis is a rumour from a neighbour. The
+    group argues the post is protected because the yeshiva is a public issue. What is the position?
+  options:
+    - >-
+      Protected under s. 15(4), because it is an opinion about a public matter.
+    - >-
+      Protected under s. 14, because the building application is of public interest.
+    - >-
+      Not protected: an accusation of a crime needs proof, not only public interest.
+    - >-
+      Not defamation, because a rabbi is a public figure and must accept criticism.
+  correct: 2
+  explanation: >-
+    Truth (s. 14) needs both truth and public interest; a rumour proves nothing. Forgery is a fact, not
+    an opinion, and s. 16(ב)(2) presumes bad faith where a false claim was published without checking.
+- id: q2
+  question: >-
+    An environmental NGO's director writes to the Ministry of Environmental Protection's enforcement unit
+    that a named factory manager ordered night-time discharges, attaching a worker's affidavit. The
+    manager sues. Which defence is strongest for the letter itself?
+  options:
+    - >-
+      Good faith under s. 15(8), a complaint to the authority competent to investigate.
+    - >-
+      A permitted publication under s. 13, because the ministry is a government body.
+    - >-
+      No defence is needed, because a letter to one official is not a publication.
+    - >-
+      Truth under s. 14, which applies automatically to any complaint to a ministry.
+  correct: 0
+  explanation: >-
+    A letter to one person besides the target is a publication for civil purposes (s. 7). Section 15(8)
+    protects complaints to a competent authority made in good faith; s. 13 covers what the government
+    publishes, not what is sent to it.
+- id: q3
+  question: >-
+    A religious-Zionist youth movement receives a letter from a left-wing NGO demanding ₪169,000 and an
+    apology over a post that said the NGO's report "invented two of its five testimonies". The movement
+    can prove that two witnesses publicly denied giving testimony, but not that anyone "invented" them.
+    What is the best reply strategy?
+  options:
+    - >-
+      Pay part of the sum before the letter's deadline to avoid a court claim.
+    - >-
+      Ignore the letter, because NGOs as organisations cannot sue for defamation.
+    - >-
+      Apologise for the whole post, since one word cannot be proven.
+    - >-
+      Keep the documented denials, drop "invented", and admit nothing.
+  correct: 3
+  explanation: >-
+    Choose per sentence: stand by what can be proven, correct what cannot, and admit nothing. An NGO is a
+    corporation and can sue; a letter's deadline is not binding.
+- id: q4
+  question: >-
+    A developer files defamation claims for the maximum amount against fifteen residents who commented on
+    its planning application, a week before the planning hearing. On 13.10.2026, what can the residents'
+    lawyer ask the court to do?
+  options:
+    - >-
+      Dismiss the claims under the anti-SLAPP section that the Knesset passed in 2026.
+    - >-
+      Strike out the claims as vexatious or abusive and award costs against the developer.
+    - >-
+      Cap each claim at ₪1,000, as the 2026 amendment requires for comments.
+    - >-
+      Transfer the claims to the planning committee as part of the objection process.
+  correct: 1
+  explanation: >-
+    The 2026 anti-SLAPP bills were only tabled and the Knesset dissolved. The Civil Procedure Regulations
+    allow striking out vexatious or abusive claims (regs. 41–42) and costs for abuse (reg. 151(ג)).
+- id: q5
+  question: >-
+    At a Pride march counter-protest, a volunteer for the LGBTQ organisation films counter-protesters and
+    wants to post close-ups of three of them with the caption "meet the bigots of Jerusalem". What should
+    the organisation decide?
+  options:
+    - >-
+      Post them, because anyone who protests in public waives privacy completely.
+    - >-
+      Post them only if the three are named, so the post is accurate.
+    - >-
+      Post a crowd shot or blur faces; mocking close-ups risk privacy claims.
+    - >-
+      Do not film counter-protests at all, because filming in public needs consent.
+  correct: 2
+  explanation: >-
+    Filming in a public place is lawful, but publishing a photo that may humiliate is an invasion (s. 2(4)),
+    and the caption may defame. A crowd shot or blurred faces keeps the documentation.
+- id: q6
+  question: >-
+    A settlers' advocacy group collects 3,000 supporters' names, phones and ID numbers through an online
+    form, "for future campaigns". After Amendment 13, which change is most needed?
+  options:
+    - >-
+      Register the list with the Privacy Protection Authority before using it again.
+    - >-
+      Convert the list to paper, because paper lists are outside the law.
+    - >-
+      Ask each supporter to sign a waiver of all privacy rights.
+    - >-
+      Drop ID numbers, add a purpose notice, and limit who can access the list.
+  correct: 3
+  explanation: >-
+    A supporters' list is a database revealing political opinions. Registration applies to data brokers
+    and public bodies only, but purpose limits, the s. 11 notice and security apply to every group.
+- id: q7
+  question: >-
+    A municipality's contractor passed your phone number and the tag "protest supporter" to a political
+    campaign. You wrote to the contractor a month ago and got no answer. You want enforcement and
+    compensation. What is the right plan?
+  options:
+    - >-
+      Complain to the Authority with your request attached; claim compensation in court.
+    - >-
+      File only with the Authority, which will award compensation without proof of damage.
+    - >-
+      File a restraining order against the contractor under the Prevention of Stalking Law.
+    - >-
+      Petition the High Court, because a municipal contractor is a public authority.
+  correct: 0
+  explanation: >-
+    The Authority enforces against database misuse but does not award compensation. Compensation needs a
+    civil claim (s. 29א), within seven years.
+- id: q8
+  question: >-
+    After a TV debate, a known man sends an Arab feminist activist dozens of messages, including "you will
+    regret coming to Umm al-Fahm". Which response combines the right tools?
+  options:
+    - >-
+      Reply publicly with his phone number so others can pressure him.
+    - >-
+      Preserve, report the threat to police, and seek a restraining order.
+    - >-
+      Report to the platform only, because threats sent online are not crimes.
+    - >-
+      Send him a defamation demand letter for ₪84,000 over the messages.
+  correct: 1
+  explanation: >-
+    A threat is a police matter (Penal Law s. 192), and repeated threatening contact by a known person fits
+    a restraining order, which can cover online contact. Doxxing him back exposes her to claims.
+- id: q9
+  question: >-
+    An anti-corruption group's video about a minister is removed by a platform. It suspects a government
+    request was involved. What can it realistically do?
+  options:
+    - >-
+      Nothing, because the High Court has banned any appeal against platform removals.
+    - >-
+      Sue the State Attorney's Cyber Unit for automatic reinstatement under the takedown law.
+    - >-
+      Ask the minister concerned to order the platform to reinstate the video.
+    - >-
+      Appeal, ask whether a government request was involved, and file an FOI request.
+  correct: 3
+  explanation: >-
+    There is no general takedown law; the Cyber Unit sends voluntary requests, upheld in HCJ 7846/19.
+    Platform appeals, transparency questions, FOI and your own backups are the available tools.
+- id: q10
+  question: >-
+    Your group plans a report naming five municipal officials over a tender. Which order of steps best
+    reduces legal risk before publishing?
+  options:
+    - >-
+      Publish first, then archive the reactions, then check the facts if a letter arrives.
+    - >-
+      Ask a court for advance approval of the report under the Defamation Law.
+    - >-
+      Scan each sentence, match evidence and a defence, give a right of reply, then decide.
+    - >-
+      Remove the officials' names but keep the accusations, so no one can sue.
+  correct: 2
+  explanation: >-
+    The pre-publication check — scan, evidence and defence, right of reply, privacy and safety — is what
+    builds a good-faith record. Courts give no advance approval, and context can identify unnamed people.

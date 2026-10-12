@@ -27,6 +27,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בית משפט השלום** (beit mishpat ha-shalom) — Magistrates' Court.
 - **בית משפט לעניינים מינהליים** (beit mishpat le-inyanim minhaliyim) — Administrative Affairs Court.
 - **בלי לפגוע בזכויות** (bli lifgo'a bezchuyot) — "Without prejudice to rights".
+- **במעמד צד אחד** (bema'amad tzad echad) — Ex parte: in the absence of the other side.
+- **בעל שליטה** (ba'al shlita) — Controller of a database: who decides the purposes of processing.
 - **בקשה להארכת מעצר** (bakasha leha'arachat ma'atzar) — Police request to extend custody (remand).
 - **בקשת חופש מידע** (bakashat chofesh meida) — Freedom of Information (FOI) request.
 - **בשלות** (bshelut) — Ripeness: whether a case is ready to be decided.
@@ -43,7 +45,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דעה נעולה** (de'a ne'ula) — A closed mind: a decision made in advance, whatever is said.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority / minority opinion.
 - **דרך עיסוק** (derech isuk) — as an occupation; one trigger of the Bar Association Law s. 20 reservation.
+- **הבעת דעה** (havat de'a) — Expression of opinion, as opposed to a statement of fact (קביעה עובדתית).
 - **הגדרות** (hagdarot) — definitions section.
+- **הגנת אמת הפרסום** (haganat emet hapirsum) — Truth defence: true and in the public interest (s. 14).
+- **הגנת תום לב** (haganat tom lev) — Good-faith defence in one of the circumstances listed in s. 15.
 - **הודעת הארכה** (hoda'at ha'arracha) — Written, reasoned notice extending an FOI deadline.
 - **הודעת עדכון** (hoda'at idkun) — Update notice, often filed by the State when it changes position.
 - **הוועדה לבחירת שופטים** (havaada livchirat shoftim) — The Judicial Selection Committee.
@@ -56,6 +61,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הזכות לשוויון** (hazchut leshivyon) — The right to equality.
 - **החלטה** (hachlata) — Decision: a ruling on an interim matter.
 - **החלטת הררי** (hachlatat Harari) — The Harari decision (13.6.1950): the constitution will be written chapter by chapter, each chapter a Basic Law.
+- **הטרדה מאיימת** (hatrada me'ayemet) — Threatening harassment (stalking), including online (Prevention of Stalking Law s. 2).
 - **היוועצות בעורך דין** (hiva'atzut be'orech din) — Consulting a lawyer before or during interrogation.
 - **היחידה הממשלתית לחופש המידע** (hayechida hamemshaltit lechofesh hameida) — Government FOI Unit in the Ministry of Justice, supervising ministries and their units.
 - **היחידה לתלונות הציבור** (hayechida letlunot hatzibur) — Police Public Complaints Unit (disciplinary and service complaints).
@@ -78,6 +84,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסדרים ראשוניים** (hesderim rishoniyim) — Primary arrangements: basic policy choices the Knesset itself must make.
 - **הסמכה** (hasmacha) — authorisation: the section that gives a power.
 - **הסמכה מפורשת** (hasmacha meforeshet) — Express statutory authorisation, required to limit a basic right.
+- **הסרת תוכן** (hasarat tochen) — Content removal (takedown).
 - **הסתה לאלימות** (hasata le'alimut) — Incitement to violence (Penal Law s. 144ד2).
 - **הסתה לגזענות** (hasata legiz'anut) — Incitement to racism (Penal Law s. 144ב).
 - **העתק** (he'etek) — Copy (cc).
@@ -87,6 +94,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who decides on custody or release.
 - **הרחקה** (harchaka) — Exclusion order from a place or area.
 - **הרכב** (herkev) — panel of judges.
+- **הרשות להגנת הפרטיות** (harashut lehaganat hapratiyut) — Privacy Protection Authority, Ministry of Justice.
 - **התוספת הראשונה** (hatosefet harishona) — First Schedule of the Administrative Courts Law: matters the Administrative Court hears.
 - **התוספת הרביעית** (hatosefet harevi'it) — Fourth Schedule: Judea and Samaria matters heard by the Administrative Court in Jerusalem.
 - **התיישנות / מחיקה** (hitya'shnut / mechika) — Limitation / deletion periods of a criminal-register entry.
@@ -100,6 +108,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **זכויות נגזרות** (zchuyot nigzarot) — Derived rights: rights the courts read into human dignity.
 - **זכות הטיעון / שימוע** (zchut hate'un / shimu'a) — The right to be heard / a hearing.
 - **זכות השתיקה** (zchut hashtika) — Right to silence.
+- **זכות עיון** (zchut iyun) — Right of access to personal information about you held in a database (Privacy Law s. 13).
 - **זכות עמידה** (zchut amida) — Standing: the right to bring a case.
 - **חובת ההנמקה** (chovat hahanmaka) — The duty to give reasons.
 - **חוסר אשמה** (choser ashma) — Lack of guilt: the closure ground that removes the police record.
@@ -122,6 +131,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חקירה באזהרה** (chakira be'azhara) — Investigation under caution.
 - **חקירה נגדית** (chakira negdit) — Cross-examination.
 - **חריגה מסמכות** (chariga mismchut) — Acting beyond one's legal power (ultra vires).
+- **חשיפת זהות** (chasifat zehut) — Unmasking an anonymous user.
 - **טופס יידוע ותיאום** (tofes yidu'a vetei'um) — Notice-and-coordination form for a protest that needs no licence.
 - **טענה חלופית** (ta'ana chalufit) — Alternative argument ("even if…").
 - **ידיעה אישית** (yedi'a ishit) — Personal knowledge.
@@ -134,6 +144,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **יציבות החוק** (yatzivut hachok) — Stability clause: protection of a Basic Law against emergency regulations.
 - **כבוד האדם** (kvod ha'adam) — Human dignity; the source of several derived rights.
 - **כבילת שיקול הדעת** (kvilat shikul hada'at) — Fettering discretion: a rigid rule that leaves no room for the individual case.
+- **כוונה לפגוע** (kavana lifgo'a) — Intent to harm: needed for the defamation offence and doubles the s. 7א ceiling.
 - **כללי הצדק הטבעי** (klalei hatzedek hativ'i) — Rules of natural justice.
 - **כפייה** (kfiya) — Coercion.
 - **כתב התחייבות** (ktav hitchayvut) — Advance undertaking to pay FOI handling and production fees up to a cap.
@@ -143,12 +154,17 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **לאקונה** (lacuna) — a gap that no law or precedent answers.
 - **לבוא וליתן טעם** (lavo velitten ta'am) — "To come and show cause": the standard wording of an HCJ remedy.
 - **לרבות / למעט** (lerabot / lema'et) — including / except.
+- **לשון הרע** (leshon hara) — Defamation: a matter whose publication may humiliate, degrade or harm a person or corporation (Defamation Law s. 1).
 - **מאגר החקיקה הלאומי** (ma'agar hachakika haleumi) — The Knesset's National Legislation Database.
 - **מאגר התשובות** (ma'agar hatshuvot) — The Government FOI Unit's database of answers already given.
+- **מאגר מידע** (ma'agar meida) — Database: a digitally processed collection of personal information, with narrow exceptions.
 - **מבחן האמצעי שפגיעתו פחותה** (mivchan ha'emtza'i shepgi'ato pchuta) — Least harmful means test.
 - **מבחן הקשר הרציונלי** (mivchan hakesher harationali) — Rational connection test.
 - **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
 - **מחוסר אמצעים** (mechusar emtza'im) — Without means: the economic test for a public defender.
+- **מחיקה על הסף** (mechika al hasaf) — Striking out a claim at the threshold (Civil Procedure Regulations, regs. 41–42).
+- **מידע אישי** (meida ishi) — Personal information: any data about an identified or identifiable person (Privacy Law s. 3, Amendment 13).
+- **מידע בעל רגישות מיוחדת** (meida ba'al regishut meyuchedet) — Information of special sensitivity, including health, sex life, origin, criminal past and political opinions.
 - **מידע על איכות הסביבה** (meida al eichut hasviva) — Environmental information authorities must publish (FOI Law s. 6א).
 - **מידתיות** (midatiyut) — Proportionality.
 - **מידתיות במובן הצר** (midatiyut bamuvan hatzar) — Proportionality in the narrow sense: benefit against harm.
@@ -156,6 +172,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מינהל תקין** (minhal takin) — Proper administration.
 - **מכת"זית** (makatazit) — Water cannon truck; clean water only (Police Ordinance s. 89א).
 - **מכתב דרישה** (michtav drisha) — Demand letter with a deadline and a stated next step.
+- **מכתב התראה** (michtav hatra'a) — Demand letter before legal action ("cease and desist").
 - **מכתב התראה לפני הגשת עתירה** (michtav hatra'a lifnei hagashat atira) — Pre-petition (warning) letter.
 - **ממונה על חופש המידע** (memune al chofesh hameida) — FOI officer every public authority must appoint (FOI Law s. 3).
 - **מספר הליך** (mispar halich) — Case number, for example בג״ץ 5658/23.
@@ -208,7 +225,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עילת הסבירות** (ilat hasvirut) — The reasonableness ground of judicial review.
 - **עילת מעצר** (ilat ma'atzar) — Ground for arrest or remand (obstruction, danger, investigative acts).
 - **עילת סגירה** (ilat sgira) — Closure ground of a criminal file.
+- **עיצום כספי** (itzum kaspi) — Administrative fine.
 - **עיקרי טיעון** (ikarei ti'un) — Skeleton arguments.
+- **עיתונאות אחראית** (itona'ut achra'it) — Responsible journalism, recognised in Anonymous v. Orbach (CFH 2121/12).
 - **על אף / בכפוף ל…** (al af / bechafuf le…) — notwithstanding / subject to.
 - **עצרת עם** (atzeret am) — Public rally of 500+ people under the Public Places Safety Law; needs a 5-day notice.
 - **עקרון חוקיות המינהל** (ikron chukiyut haminhal) — The principle of administrative legality: an authority may act only under a power given by law.
@@ -222,9 +241,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עתירה תאורטית** (atira te'oretit) — A theoretical (moot) petition.
 - **פ״ד** (piskei din) — The official law reports of the Supreme Court.
 - **פגיעה בזכות** (pgi'a bazchut) — Infringement of a right: stage one of a constitutional analysis.
+- **פגיעה בפרטיות** (pgi'a bapratiyut) — Invasion of privacy: one of the acts in Privacy Law s. 2.
 - **פגיעה ברגשי דת** (pgi'a beregshei dat) — Gross offence to religious feelings (Penal Law s. 173).
 - **פגם** (pgam) — Legal defect in an administrative decision.
 - **פטור מאגרה** (ptor me'agra) — Fee exemption (FOI fees or court fees).
+- **פיצוי ללא הוכחת נזק** (pitzui lelo hochachat nezek) — Compensation without proof of damage; CPI-linked ceilings in Defamation Law s. 7א and Privacy Law s. 29א.
 - **פנייה** (pniya) — Request or letter to an authority.
 - **פנייה מוקדמת** (pniya mukdemet) — Prior written request to the authority before filing a petition.
 - **פניית ציבור למבקר המדינה** (pniyat tzibur lemevaker hamedina) — Public inquiry to the State Comptroller: general information, not a personal complaint.
@@ -234,29 +255,37 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause in a Basic Law.
 - **פסקת התגברות** (piskat hitgabrut) — Override clause: a law valid "notwithstanding" a Basic Law (exists only in Freedom of Occupation s. 8).
 - **פקודה** (pkuda) — ordinance: a law from the British Mandate period or the first months of the state.
+- **פרט לוואי** (prat levai) — Incidental detail: an unproven side detail that does no real harm does not defeat the truth defence.
 - **פרטיות וצנעת הפרט** (pratiyut vetzin'at haprat) — Privacy and private life.
+- **פרסום** (pirsum) — Publication: any means of expression that reaches, or in writing is likely to reach, someone other than the injured person (s. 2).
+- **פרסום מותר** (pirsum mutar) — Permitted (privileged) publication that can never ground a claim (s. 13).
 - **פשע** (pesha) — Felony: an offence with a maximum penalty above three years' imprisonment (Penal Law s. 24).
 - **צד שלישי** (tzad shlishi) — Third party whose information is requested, entitled to object (FOI Law s. 13).
 - **צו ארעי** (tzav ar'i) — Temporary order given before the other side responds.
 - **צו ביניים** (tzav beinayim) — Interim order until judgment.
 - **צו מוחלט** (tzav muchlat) — Final (absolute) order.
+- **צו מניעת הטרדה מאיימת** (tzav meni'at hatrada me'ayemet) — Restraining order against threatening harassment, from the Magistrates' Court.
 - **צו על תנאי** (tzav al tnai) — Order nisi: an order to show cause.
 - **צו על תנאי / צו מוחלט** (tzav al tnai / tzav muchlat) — order nisi / order made absolute.
+- **קובלנה** (kovlana) — Private criminal complaint filed by the injured person instead of the state (s. 8).
 - **קובץ התקנות** (Kovetz HaTakanot) — The gazette series for regulations and notices (cited ק״ת).
 - **רגשות דתיים** (regashot dati'im) — Religious feelings: a legitimate consideration, not an absolute right (Horev).
 - **רוב של חברי הכנסת** (rov shel chavrei haKnesset) — A majority of all MKs (61), not just of those voting.
 - **רישיון להפגנה** (rishayon lehafgana) — Protest licence from the district commander (Police Ordinance s. 85); free of charge.
 - **רשאי / חייב** (rashai / chayav) — may (power) / must (duty).
 - **רשומות** (Reshumot) — The official gazette where laws and regulations are published.
+- **רשות היחיד / רשות הרבים** (reshut hayachid / reshut harabim) — Private place / public place.
 - **רשות מכוננת** (rashut mechonenet) — Constituent authority: the power to make a constitution, which Barak P. attributed to the Knesset in Mizrahi Bank.
 - **רשות ציבורית** (reshut tziburit) — Public authority, as defined in s. 2 of the FOI Law.
 - **שאלה משפטית / סוגיה** (she'ela mishpatit / sugya) — Legal issue: the question the reader must decide.
 - **שיהוי** (shihui) — Delay in filing a petition.
+- **שימוש לרעה בהליכי משפט** (shimush lera'a behalichei mishpat) — Abuse of process (Civil Procedure Regulations, reg. 4).
 - **שיקול דעת** (shikul da'at) — Discretion: the authority's choice within its power.
 - **שיקול זר** (shikul zar) — Extraneous consideration: one outside the purpose of the law.
 - **שמירת דינים** (shmirat dinim) — Preservation of laws: pre-1992 laws stay valid despite Basic Law: Human Dignity and Liberty (s. 10).
 - **שפיטות** (shfitut) — Justiciability: whether a matter is suitable for a court to decide (normative and institutional).
 - **שריון / סעיף משוריין** (shiryun / se'if meshuryan) — Entrenchment / an entrenched section that can be changed only by a special majority.
+- **תביעת השתקה** (tvi'at hashtaka) — SLAPP: a suit meant to silence public participation.
 - **תג זיהוי** (tag zihui) — Name tag a uniformed officer must wear (Police Ordinance s. 5א).
 - **תגובה מקדמית** (tguva mukdemet) — Preliminary response ordered from a respondent.
 - **תהלוכה** (tahalucha) — Procession: 50+ people walking, or gathering to walk, together; includes a vehicle convoy.

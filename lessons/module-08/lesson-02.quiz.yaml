@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A disability-rights activist sends a detailed complaint about a care-home director to the Ministry
+    of Welfare's supervision unit, and the same evening posts the complaint's full text on Facebook. The
+    director sues over both. Which statement is right?
+  options:
+    - >-
+      Both are protected, because the post only repeats a complaint that was already filed.
+    - >-
+      The complaint can be protected under s. 15(8); the post needs its own defence.
+    - >-
+      Neither is protected, because complaints about named people are always defamation.
+    - >-
+      Only the post is protected, because publishing makes the complaint transparent.
+  correct: 1
+  explanation: >-
+    Section 15(8) protects a complaint to the competent authority but says expressly that it does not
+    protect another publication of the complaint or its content. The post must rely on truth or another
+    s. 15 head.
+- id: q2
+  question: >-
+    A settlers' group publishes, with documents, that a human-rights NGO's report misquoted three
+    witnesses. The documents prove the misquotes. The NGO sues, saying one minor date in the post was
+    wrong. What is the strongest defence?
+  options:
+    - >-
+      Good faith under s. 15(10), because the post denied earlier defamation.
+    - >-
+      A permitted publication under s. 13, because NGO reports are public documents.
+    - >-
+      No defence, because one wrong detail means the publication was not true.
+    - >-
+      Truth with public interest under s. 14; a harmless incidental detail does not defeat it.
+  correct: 3
+  explanation: >-
+    The sting (the misquotes) is proven and concerns a public debate. Section 14 says the defence is not
+    lost only because an incidental detail that does no real harm was not proven.
+- id: q3
+  question: >-
+    Before publishing an investigation that a named school principal falsified exam grades, what step
+    most strengthens a later good-faith defence?
+  options:
+    - >-
+      Checking with a second source and giving the principal a chance to respond.
+    - >-
+      Adding "allegedly" to every sentence so no claim reads as a fact.
+    - >-
+      Publishing late at night so that the post reaches fewer readers at first.
+    - >-
+      Posting from the group's page rather than from a personal account.
+  correct: 0
+  explanation: >-
+    Section 16(ב)(2) presumes bad faith where a false claim was published without reasonable checking.
+    Verification and a fair right of reply are the core of responsible publication (Orbach).
+- id: q4
+  question: >-
+    An activist posted that a named MK "lied to the committee". It turns out the MK had corrected the
+    figure the next day. What should the activist do now to reduce exposure?
+  options:
+    - >-
+      Delete the post quietly, so that there is nothing left to sue over.
+    - >-
+      Add a comment below the post saying "some claim this is inaccurate".
+    - >-
+      Publish an unconditional correction in the same place and manner.
+    - >-
+      Repost it as an opinion, adding "in my view" before "lied".
+  correct: 2
+  explanation: >-
+    Section 19(4) lets the court consider an apology or correction published in the same place, extent
+    and manner, without reservations. Quiet deletion keeps the liability and loses the mitigation.

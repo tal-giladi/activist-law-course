@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You receive a lawyer's letter demanding that you remove a post, apologise and pay ₪84,000 within 7
+    days. What should you do first?
+  options:
+    - >-
+      Delete the post at once, so the damage stops growing before you reply.
+    - >-
+      Archive the post and its comments with dates before changing anything.
+    - >-
+      Post the letter publicly with a caption explaining why the sender is wrong.
+    - >-
+      Pay part of the sum before the deadline to show good faith.
+  correct: 1
+  explanation: >-
+    Without an archived copy you cannot prove what you published or its context. Deleting, posting the
+    letter with new accusations, or paying under a letter's deadline all come later, if at all.
+- id: q2
+  question: >-
+    Your post said a contractor "built in the wadi without a permit and bribed someone to get away with
+    it". You hold an inspection report proving the first part and nothing on the second. Which reply
+    strategy fits best?
+  options:
+    - >-
+      Stand by the whole post, since part of it is proven true.
+    - >-
+      Apologise for the whole post, so that the dispute ends quickly.
+    - >-
+      Ignore the letter, since a demand letter has no legal force.
+    - >-
+      Keep the permit claim, drop the bribe claim, admit nothing.
+  correct: 3
+  explanation: >-
+    Choose per sentence. The permit claim is provable and in the public interest; the bribe claim is an
+    unprovable accusation of a crime and should go. A full apology gives up a true claim.
+- id: q3
+  question: >-
+    A quarry company sends letters demanding the maximum compensation from twelve residents for comments
+    made during a planning objection, two weeks before the hearing. On 13.10.2026, which tool can a court
+    use if the company sues?
+  options:
+    - >-
+      Striking out a vexatious claim and costs for abuse of process (regs. 41, 42, 151).
+    - >-
+      Dismissal under the anti-SLAPP section 7ב of the Defamation Law.
+    - >-
+      Automatic capping of compensation at ₪1,000 per comment under the 2026 amendment.
+    - >-
+      Transfer of the claim to the planning committee, which hears disputes about objections.
+  correct: 0
+  explanation: >-
+    No anti-SLAPP statute is in force; s. 7ב and the ₪1,000 cap are only bills that were tabled. Courts
+    can strike out vexatious or abusive claims (regs. 41–42) and award costs (reg. 151(ג)).
+- id: q4
+  question: >-
+    A statement of claim for defamation is served on you by the Magistrates' Court. The plaintiff's
+    earlier letter had given you 7 days to apologise. Which deadline really binds you?
+  options:
+    - >-
+      The 7 days in the letter, because it was sent before the claim.
+    - >-
+      None, because defamation defendants may answer at the first hearing.
+    - >-
+      Filing a defence within 60 days of service, unless the court extends it.
+    - >-
+      Filing a defence within 7 days of service, matching the letter's demand.
+  correct: 2
+  explanation: >-
+    A lawyer's letter sets no legal deadline. In the regular civil courts reg. 9(ב) gives 60 days from
+    service to file a defence; missing it risks judgment without a hearing.

@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    At a large protest on a main street, you film the crowd. One passer-by who is not part of the
+    protest appears for a few seconds. Later she asks you to remove the video. What is the legal position?
+  options:
+    - >-
+      You must remove it, because filming any identifiable person needs consent.
+    - >-
+      You must blur every face, because protests reveal political opinions.
+    - >-
+      She has no claim: an incidental appearance in a public-place video is a defence.
+    - >-
+      She can complain to the Privacy Protection Authority, which will order removal.
+  correct: 2
+  explanation: >-
+    Section 18(2)(ה) protects photos taken in a public place where the person appears incidentally. You
+    may still choose to blur her as a courtesy, but the law does not require it.
+- id: q2
+  question: >-
+    A campaign for disability benefits keeps a Google Sheet of 800 supporters: name, phone, city and
+    "joined the march: yes/no". Under the Privacy Law as amended by Amendment 13, which statement is right?
+  options:
+    - >-
+      It is a database revealing political views, so notice, access and security duties apply.
+    - >-
+      It is not a database, because it has fewer than 10,000 people and is not for sale.
+    - >-
+      It must be registered with the Authority before the campaign may use it.
+    - >-
+      It is exempt as a personal collection, because volunteers run the campaign.
+  correct: 0
+  explanation: >-
+    A digital collection of personal information is a database; support for a cause reveals political
+    opinions. Registration applies only to data brokers and public bodies, but the other duties apply.
+- id: q3
+  question: >-
+    A counter-group posts your photo, your workplace and the caption "the traitor who marches every
+    Saturday". You want it removed and you want compensation. What does the Privacy Protection Authority
+    route give you?
+  options:
+    - >-
+      Compensation without proof of damage, decided by the Authority within 30 days.
+    - >-
+      A court order against the group, which the Authority files for you.
+    - >-
+      Nothing, because the Authority deals only with government databases.
+    - >-
+      Enforcement against data misuse, but no compensation; that needs a civil claim.
+  correct: 3
+  explanation: >-
+    The Authority investigates and enforces, and can order a breach to stop, but it does not award
+    compensation or help prepare private claims. A civil claim under s. 29א (and defamation) is separate.
+- id: q4
+  question: >-
+    An activist receives screenshots of a private WhatsApp chat between two neighbours who oppose her
+    campaign, mocking her. She wants to post them. What is the main legal risk?
+  options:
+    - >-
+      None, because the neighbours were mocking her and she may answer back.
+    - >-
+      Copying or using a private message not meant for publication is an invasion of privacy.
+    - >-
+      Only defamation, because chats are not covered by the Privacy Law.
+    - >-
+      Only a platform violation, because WhatsApp's terms forbid sharing screenshots.
+  correct: 1
+  explanation: >-
+    Section 2(5) covers copying or using a private letter or electronic message without permission, and
+    s. 2(10) covers passing on what was obtained by such an invasion. Mockery between neighbours is
+    rarely a public interest.

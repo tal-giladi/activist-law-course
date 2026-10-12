@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    An animal-rights activist posts: "In my opinion, the owner of Kfar Yarok poultry farm, Avi Segal,
+    forges his veterinary reports." Avi Segal's lawyer says this is defamation. What is the best
+    assessment?
+  options:
+    - >-
+      It is safe, because the words "in my opinion" make any statement an opinion.
+    - >-
+      It is not a publication, because Segal must first prove that readers believed it.
+    - >-
+      It is a factual accusation of a crime about a named person, so it needs proof.
+    - >-
+      It is defamation of a group, which no individual farmer can sue over.
+  correct: 2
+  explanation: >-
+    Forging reports is a checkable fact, and adding "in my opinion" does not change that. Segal is
+    named, the claim lowers him, and a post is a publication; without evidence there is no defence.
+- id: q2
+  question: >-
+    During a heated debate in a 300-member WhatsApp group of residents, a member writes that a named
+    council planner "takes envelopes from developers". Another member forwards it to two other groups,
+    and a third member only adds a thumbs-up reaction. Who has published the claim?
+  options:
+    - >-
+      The writer and the member who forwarded it, but not the one who only reacted.
+    - >-
+      Only the writer, because the forward is someone else's text.
+    - >-
+      Nobody, because a closed WhatsApp group is a private conversation.
+    - >-
+      All three, because any reaction to a defamatory text is a publication.
+  correct: 0
+  explanation: >-
+    Writing that may reach others is a publication (s. 2), and forwarding or sharing is a new
+    publication (LCA 1239/19). A like or reaction alone was held not to be a publication.
+- id: q3
+  question: >-
+    A leaflet says "The settlers of the hills are thieves of land." Yossi, who lives in an outpost in
+    the hills, wants to sue the author for compensation. What does the Defamation Law say?
+  options:
+    - >-
+      He can sue, because every member of a defamed group is a person defamed.
+    - >-
+      He can sue only if he proves the author intended to harm the outpost residents.
+    - >-
+      He can file a private criminal complaint (קובלנה) instead of a civil claim.
+    - >-
+      He cannot sue unless the text points to him personally; group defamation is for the AG.
+  correct: 3
+  explanation: >-
+    Under s. 4, defamation of a group that is not a corporation gives no civil claim or private
+    complaint; prosecution needs the Attorney General. If context identifies Yossi personally (s. 3),
+    the answer changes.
+- id: q4
+  question: >-
+    A company sues a protest group over one post and claims the full amount of compensation without
+    proof of damage. What does that mean for the group?
+  options:
+    - >-
+      The company must still prove that it lost money before any amount is awarded.
+    - >-
+      The court may award up to a CPI-linked ceiling, doubled if intent to harm is proved.
+    - >-
+      The court must award the full ceiling once it finds the post was defamation.
+    - >-
+      Companies cannot receive compensation without proof of damage; only individual people can.
+  correct: 1
+  explanation: >-
+    Section 7א lets the court award up to the ceiling with no proof of damage, and double with intent
+    to harm. It is a maximum, not a fixed sum, and "person" includes a corporation.

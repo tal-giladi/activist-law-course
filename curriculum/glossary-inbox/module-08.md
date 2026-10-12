@@ -1,0 +1,32 @@
+# Glossary inbox — Module 8
+
+- **לשון הרע** (leshon hara) — Defamation: a matter whose publication may humiliate, degrade or harm a person or corporation (Defamation Law s. 1).
+- **פרסום** (pirsum) — Publication: any means of expression that reaches, or in writing is likely to reach, someone other than the injured person (s. 2).
+- **קובלנה** (kovlana) — Private criminal complaint filed by the injured person instead of the state (s. 8).
+- **פיצוי ללא הוכחת נזק** (pitzui lelo hochachat nezek) — Compensation without proof of damage; CPI-linked ceilings in Defamation Law s. 7א and Privacy Law s. 29א.
+- **כוונה לפגוע** (kavana lifgo'a) — Intent to harm: needed for the defamation offence and doubles the s. 7א ceiling.
+- **הבעת דעה** (havat de'a) — Expression of opinion, as opposed to a statement of fact (קביעה עובדתית).
+- **פרסום מותר** (pirsum mutar) — Permitted (privileged) publication that can never ground a claim (s. 13).
+- **הגנת אמת הפרסום** (haganat emet hapirsum) — Truth defence: true and in the public interest (s. 14).
+- **פרט לוואי** (prat levai) — Incidental detail: an unproven side detail that does no real harm does not defeat the truth defence.
+- **הגנת תום לב** (haganat tom lev) — Good-faith defence in one of the circumstances listed in s. 15.
+- **עיתונאות אחראית** (itona'ut achra'it) — Responsible journalism, recognised in Anonymous v. Orbach (CFH 2121/12).
+- **מכתב התראה** (michtav hatra'a) — Demand letter before legal action ("cease and desist").
+- **תביעת השתקה** (tvi'at hashtaka) — SLAPP: a suit meant to silence public participation.
+- **בלי לפגוע בזכויות** (bli lifgo'a bizchuyot) — "Without prejudice to rights": reserves your arguments in correspondence.
+- **מחיקה על הסף** (mechika al hasaf) — Striking out a claim at the threshold (Civil Procedure Regulations, regs. 41–42).
+- **שימוש לרעה בהליכי משפט** (shimush lera'a behalichei mishpat) — Abuse of process (Civil Procedure Regulations, reg. 4).
+- **פגיעה בפרטיות** (pgi'a bapratiyut) — Invasion of privacy: one of the acts in Privacy Law s. 2.
+- **רשות היחיד / רשות הרבים** (reshut hayachid / reshut harabim) — Private place / public place.
+- **מידע אישי** (meida ishi) — Personal information: any data about an identified or identifiable person (Privacy Law s. 3, Amendment 13).
+- **מידע בעל רגישות מיוחדת** (meida ba'al regishut meyuchedet) — Information of special sensitivity, including health, sex life, origin, criminal past and political opinions.
+- **מאגר מידע** (ma'agar meida) — Database: a digitally processed collection of personal information, with narrow exceptions.
+- **בעל שליטה** (ba'al shlita) — Controller of a database: who decides the purposes of processing.
+- **זכות עיון** (zchut iyun) — Right of access to personal information about you held in a database (Privacy Law s. 13).
+- **הרשות להגנת הפרטיות** (harashut lehaganat hapratiyut) — Privacy Protection Authority, Ministry of Justice.
+- **עיצום כספי** (itzum kaspi) — Administrative fine.
+- **הטרדה מאיימת** (hatrada me'ayemet) — Threatening harassment (stalking), including online (Prevention of Stalking Law s. 2).
+- **צו מניעת הטרדה מאיימת** (tzav meni'at hatrada me'ayemet) — Restraining order against threatening harassment, from the Magistrates' Court.
+- **במעמד צד אחד** (bema'amad tzad echad) — Ex parte: in the absence of the other side.
+- **הסרת תוכן** (hasarat tochen) — Content removal (takedown).
+- **חשיפת זהות** (chasifat zehut) — Unmasking an anonymous user.

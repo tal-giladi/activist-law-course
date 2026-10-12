@@ -1,0 +1,1904 @@
+# Module 8 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m08-001
+  module: 8
+  lesson: "08.1"
+  subject: defamation-definition
+  difficulty: 1
+  question: >-
+    Under s. 1 of the Defamation Law, what must a plaintiff show about the harm a publication caused?
+  options:
+    - >-
+      That the publication actually lowered them in the eyes of at least one reader.
+    - >-
+      That they lost money or work because of the publication.
+    - >-
+      That the publication may humiliate or harm them; actual harm is not required.
+    - >-
+      That the publisher knew the statement was false when it was made.
+  correct: 2
+  explanation: >-
+    Section 1 defines defamation as a matter whose publication "may" (עלול) humiliate, degrade or harm a
+    person. The test is the likely effect on a reasonable reader, not proven harm.
+- id: m08-002
+  module: 8
+  lesson: "08.1"
+  subject: defamation-definition
+  difficulty: 1
+  question: >-
+    Which of these can sue for defamation under the Defamation Law?
+  options:
+    - >-
+      A registered company whose products were falsely said to be poisonous.
+    - >-
+      "The Haredi public", represented by a volunteer organisation.
+    - >-
+      "Right-wing voters", through a class action by one voter.
+    - >-
+      A city's residents, through a petition signed by 500 of them.
+  correct: 0
+  explanation: >-
+    "Person" in s. 1 includes a corporation. Groups that are not corporations have no civil claim (s. 4),
+    so an unincorporated public cannot sue.
+- id: m08-003
+  module: 8
+  lesson: "08.1"
+  subject: publication
+  difficulty: 1
+  question: >-
+    You send an email accusing a neighbour of theft only to the neighbour himself. Is it a publication
+    for a civil defamation claim?
+  options:
+    - >-
+      Yes, because any written statement is a publication by definition.
+    - >-
+      Yes, because email is stored on a server owned by a third party.
+    - >-
+      No, because publication requires at least two readers besides the target.
+    - >-
+      No, unless it was likely to reach someone other than him.
+  correct: 3
+  explanation: >-
+    Under s. 2(ב)(2), writing is a publication if it was likely, in the circumstances, to reach someone
+    other than the injured person. A private email to the target alone usually is not.
+- id: m08-004
+  module: 8
+  lesson: "08.1"
+  subject: publication
+  difficulty: 2
+  question: >-
+    At a closed meeting of a residents' committee, you say aloud that the building contractor "steals
+    materials". Two committee members hear it. Which statement is right?
+  options:
+    - >-
+      It is a civil publication, and the criminal offence would also need intent to harm.
+    - >-
+      It is not a publication, because spoken words are never defamation.
+    - >-
+      It is not a publication, because the meeting was closed to the public.
+    - >-
+      It is only a criminal matter, because it was said to two or more people.
+  correct: 0
+  explanation: >-
+    Spoken words that reach someone other than the target are a publication (s. 2). The civil wrong needs
+    one listener (s. 7); the offence needs two and intent to harm (s. 6).
+- id: m08-005
+  module: 8
+  lesson: "08.1"
+  subject: fact-opinion
+  difficulty: 2
+  question: >-
+    Which of these statements about a mayor is most clearly an opinion rather than a fact?
+  options:
+    - >-
+      "The mayor took money from the contractor who won the tender."
+    - >-
+      "In my opinion, the mayor lied to the council about the budget."
+    - >-
+      "The mayor's decision to close the library was short-sighted and cruel."
+    - >-
+      "The mayor's brother owns the company that won the tender, I believe."
+  correct: 2
+  explanation: >-
+    A value judgement on a known decision is opinion. "In my opinion he lied" and "I believe his brother
+    owns" still state checkable facts.
+- id: m08-006
+  module: 8
+  lesson: "08.1"
+  subject: fact-opinion
+  difficulty: 2
+  question: >-
+    A campaign leaflet says: "We think the CEO falsified the emissions data." The CEO's lawyer says it
+    is defamation. What is the best analysis?
+  options:
+    - >-
+      "We think" makes it opinion, so it is protected without any further step.
+    - >-
+      It is opinion if the leaflet goes only to the group's own members and supporters.
+    - >-
+      Falsifying data is a checkable fact; the framing does not remove the need for proof.
+    - >-
+      It is a fact, but only facts about public officials need proof in court.
+  correct: 2
+  explanation: >-
+    Adding "we think" does not convert a factual accusation into opinion. Falsification is a checkable
+    fact and needs evidence or another defence.
+- id: m08-007
+  module: 8
+  lesson: "08.1"
+  subject: groups-and-dead
+  difficulty: 2
+  question: >-
+    A post says "the leaders of the settlers' council are thieves". The council has seven members, all
+    publicly known. Can one member sue?
+  options:
+    - >-
+      No, because s. 4 bars every claim about any group of people, however small.
+    - >-
+      Yes, if a reasonable reader would see the post as referring to him personally.
+    - >-
+      No, because public officials can never sue for defamation over their public role.
+    - >-
+      Yes, but only the council itself, as a corporation, can be awarded compensation.
+  correct: 1
+  explanation: >-
+    Section 4 covers groups that are not corporations. But under s. 3 a small, defined group can make each
+    member identifiable; a reader may see the post as referring to each of the seven.
+- id: m08-008
+  module: 8
+  lesson: "08.1"
+  subject: groups-and-dead
+  difficulty: 1
+  question: >-
+    A blog post falsely accuses a man who died last year of having been a police informer. What does the
+    Defamation Law allow his family to do?
+  options:
+    - >-
+      Sue for compensation without proof of damage on his behalf, as his heirs.
+    - >-
+      Nothing at all, because the law says the dead cannot be defamed in any way.
+    - >-
+      File a private criminal complaint (קובלנה) in their own names as his family.
+    - >-
+      Ask for an indictment, which the law allows at close family's request.
+  correct: 3
+  explanation: >-
+    Under s. 5, defamation of the dead gives no civil claim or private complaint, but an indictment may be
+    filed if the spouse, a child, grandchild, parent or sibling asks for it.
+- id: m08-009
+  module: 8
+  lesson: "08.1"
+  subject: civil-criminal
+  difficulty: 1
+  question: >-
+    What is a קובלנה in a defamation case?
+  options:
+    - >-
+      A criminal prosecution brought by the injured person, not the state.
+    - >-
+      A civil claim heard in the small claims court without a lawyer.
+    - >-
+      A demand letter that must be sent before any defamation lawsuit.
+    - >-
+      A request to the police to remove a post that defames someone.
+  correct: 0
+  explanation: >-
+    Section 8 allows the injured person to prosecute the defamation offence privately by filing a
+    קובלנה. It is rarer and harder than a civil claim.
+- id: m08-010
+  module: 8
+  lesson: "08.1"
+  subject: civil-criminal
+  difficulty: 2
+  question: >-
+    An activist is reported to the police for a post about a councillor. What must the prosecution prove
+    for the criminal offence that a civil plaintiff would not need?
+  options:
+    - >-
+      That the councillor lost income or votes because of the post.
+    - >-
+      That the post was read by at least 100 people in the town.
+    - >-
+      That the activist knew the councillor personally before posting.
+    - >-
+      Intent to harm, and publication to two or more people besides him.
+  correct: 3
+  explanation: >-
+    Section 6 requires intent to harm and two recipients; the civil wrong in s. 7 needs one recipient and
+    no intent.
+- id: m08-011
+  module: 8
+  lesson: "08.1"
+  subject: compensation
+  difficulty: 1
+  question: >-
+    Why is the compensation ceiling for defamation without proof of damage today much higher than the
+    ₪50,000 written in s. 7א?
+  options:
+    - >-
+      Courts raised it in a 2014 Supreme Court ruling on media defamation.
+    - >-
+      It is linked to the consumer price index from September 1998.
+    - >-
+      The Knesset doubles it every ten years by a dedicated amendment.
+    - >-
+      Lawyers add VAT and their fees to the figure written in the statute.
+  correct: 1
+  explanation: >-
+    Section 7א(ה) updates the amounts every month by the CPI, against the September 1998 index. The current
+    figure is in current numbers.
+- id: m08-012
+  module: 8
+  lesson: "08.1"
+  subject: compensation
+  difficulty: 2
+  question: >-
+    A plaintiff proves that a defendant published defamation deliberately, to hurt him. What changes
+    about compensation without proof of damage?
+  options:
+    - >-
+      Nothing; intent to harm matters only in the criminal case.
+    - >-
+      The court must then award the full ceiling, with no discretion.
+    - >-
+      The ceiling doubles, and the court may award up to that amount.
+    - >-
+      The plaintiff may claim it again for every reader who saw it.
+  correct: 2
+  explanation: >-
+    Section 7א(ג) doubles the ceiling where intent to harm is proved. It remains a maximum; s. 7א(ד) bars
+    receiving it more than once for the same defamation.
+- id: m08-013
+  module: 8
+  lesson: "08.1"
+  subject: online-publication
+  difficulty: 2
+  question: >-
+    Under LCA 1239/19, which online action was held to be a publication of defamation?
+  options:
+    - >-
+      Sharing another user's defamatory post on Facebook.
+    - >-
+      Liking another user's defamatory post on Facebook.
+    - >-
+      Following the page that published the defamatory post.
+    - >-
+      Viewing the post without reacting to it in any way.
+  correct: 0
+  explanation: >-
+    The courts held that a share actively spreads the post to new readers and is a publication; a like is
+    an expression of opinion whose spread depends on the algorithm, and was not held a publication.
+- id: m08-014
+  module: 8
+  lesson: "08.1"
+  subject: online-publication
+  difficulty: 3
+  question: >-
+    You want to share a post that falsely accuses a rabbi of abuse, in order to criticise the post. How
+    do you reduce risk?
+  options:
+    - >-
+      Share it as it is; your readers will understand that you disagree with it.
+    - >-
+      Do not share it; write your own post criticising it without its details.
+    - >-
+      Share it with a "?" so that it is clearly a question and not a claim.
+    - >-
+      Share it only to a closed group, where it is not a publication at all.
+  correct: 1
+  explanation: >-
+    Sharing without a clear rejecting frame repeats the defamation. Your own post can criticise the claim
+    without spreading its content; a closed group is still a publication.
+- id: m08-015
+  module: 8
+  lesson: "08.1"
+  subject: civil-criminal
+  difficulty: 1
+  question: >-
+    What is the limitation period for a civil defamation claim, as Kol Zchut summarises it?
+  options:
+    - >-
+      One year from the publication.
+    - >-
+      Seven years from the publication.
+    - >-
+      Three years from when the plaintiff learned of it.
+    - >-
+      There is no limitation period for defamation.
+  correct: 1
+  explanation: >-
+    The general Prescription Law applies: seven years from the publication, longer in some cases where the
+    plaintiff could not have known of it.
+- id: m08-016
+  module: 8
+  lesson: "08.1"
+  subject: defamation-definition
+  difficulty: 3
+  question: >-
+    A leaflet describes "a senior inspector in the Arava office who drives a red jeep" taking gifts from
+    farmers, without naming him. Only one inspector fits. What follows?
+  options:
+    - >-
+      No claim, because no name was published anywhere in the leaflet.
+    - >-
+      A claim only if the inspector proves that the farmers recognised him.
+    - >-
+      A claim only by the ministry, as his employer and a corporation.
+    - >-
+      A claim is possible: he is identifiable from the context.
+  correct: 3
+  explanation: >-
+    Section 3 says it makes no difference whether the defamation and its reference to the person are
+    express or implied from the publication or outside circumstances.
+- id: m08-017
+  module: 8
+  lesson: "08.1"
+  subject: fact-opinion
+  difficulty: 3
+  question: >-
+    Spot the riskiest sentence in this draft post about a hospital: (A) "Waiting times in the ER reached
+    9 hours last month, per the ministry's data." (B) "This is a disgrace." (C) "The director falsifies
+    the waiting-time reports." (D) "Patients deserve better."
+  options:
+    - >-
+      A, because it quotes government data about a named hospital.
+    - >-
+      B, because "disgrace" is an insult to the hospital.
+    - >-
+      C, because it is a factual accusation of dishonesty against a person.
+    - >-
+      D, because it implies the staff do not care about patients.
+  correct: 2
+  explanation: >-
+    C accuses an identifiable person of falsification, a fact needing proof. A is sourced data, B and D are
+    opinions on stated facts.
+- id: m08-018
+  module: 8
+  lesson: "08.2"
+  subject: permitted-publications
+  difficulty: 1
+  question: >-
+    Which publication can never ground a defamation claim under s. 13?
+  options:
+    - >-
+      An activist's speech at a public rally about a minister.
+    - >-
+      A witness's testimony in court proceedings.
+    - >-
+      A newspaper editorial about a judge.
+    - >-
+      A post by an MK on her private Facebook account.
+  correct: 1
+  explanation: >-
+    Section 13(5) covers publications by judges, parties, lawyers and witnesses in the course of
+    proceedings. An MK's Facebook post is not automatically within parliamentary immunity.
+- id: m08-019
+  module: 8
+  lesson: "08.2"
+  subject: permitted-publications
+  difficulty: 2
+  question: >-
+    Your group posts an accurate summary of what a witness said in a public court hearing about a
+    developer. The developer sues. Which provision protects you?
+  options:
+    - >-
+      s. 13(7): a fair and accurate report of a public court hearing.
+    - >-
+      s. 14: truth, because the witness said it under oath.
+    - >-
+      s. 15(8): a complaint to a competent authority.
+    - >-
+      None, because only journalists may report on court hearings.
+  correct: 0
+  explanation: >-
+    A fair and accurate report of a public hearing is a permitted publication, unless publication was
+    barred. You do not need to prove the witness was right.
+- id: m08-020
+  module: 8
+  lesson: "08.2"
+  subject: truth-defence
+  difficulty: 1
+  question: >-
+    What two conditions must the truth defence in s. 14 meet?
+  options:
+    - >-
+      The statement was true and the publisher honestly believed it.
+    - >-
+      The statement was true and was published in a newspaper or broadcast.
+    - >-
+      The publisher checked the facts and gave the subject a right of reply.
+    - >-
+      The statement was true and publishing it was in the public interest.
+  correct: 3
+  explanation: >-
+    Section 14 requires truth and public interest. Belief and checking belong to good faith (ss. 15–16).
+- id: m08-021
+  module: 8
+  lesson: "08.2"
+  subject: truth-defence
+  difficulty: 2
+  question: >-
+    A post accurately reports that a council member was convicted of fraud ten years ago, in a thread
+    about his candidacy for mayor. Does the truth defence fit?
+  options:
+    - >-
+      No, because old convictions are private and never in the public interest.
+    - >-
+      Yes, likely: it is true and relevant to a candidate for public office.
+    - >-
+      No, because only the court may publish a conviction.
+    - >-
+      Yes, but only if the post also states his rehabilitation.
+  correct: 1
+  explanation: >-
+    True facts about a candidate's integrity are usually of public interest. (Criminal-record rules limit
+    what authorities disclose, not what is already public.)
+- id: m08-022
+  module: 8
+  lesson: "08.2"
+  subject: truth-defence
+  difficulty: 3
+  question: >-
+    You proved that a factory dumped waste on 12 nights. Your post said "every night for a year". The
+    factory sues. What is the risk?
+  options:
+    - >-
+      None, because the year is an incidental detail under s. 14.
+    - >-
+      None, because environmental issues always meet the public-interest test.
+    - >-
+      The court may find the sting exaggerated, so truth may not cover the post.
+    - >-
+      Only the criminal route is open, since the core was true.
+  correct: 2
+  explanation: >-
+    The incidental-detail rule protects only details that do no real harm. "Every night for a year" changes
+    the sting, so the defence may fail for the exaggeration.
+- id: m08-023
+  module: 8
+  lesson: "08.2"
+  subject: good-faith
+  difficulty: 1
+  question: >-
+    Under s. 16(א), when is a publisher presumed to have acted in good faith?
+  options:
+    - >-
+      In a s. 15 circumstance, without exceeding what was reasonable.
+    - >-
+      Whenever the publisher honestly believes that the statement is true.
+    - >-
+      Whenever the target of the publication is a public figure or official.
+    - >-
+      When the publication was removed within 24 hours of a complaint.
+  correct: 0
+  explanation: >-
+    The presumption needs both a s. 15 circumstance and staying within reasonable bounds.
+- id: m08-024
+  module: 8
+  lesson: "08.2"
+  subject: presumptions
+  difficulty: 2
+  question: >-
+    Which situation creates a presumption of bad faith under s. 16(ב)?
+  options:
+    - >-
+      The publisher was angry when writing the post and used harsh words.
+    - >-
+      The statement was false and was not reasonably checked first.
+    - >-
+      The publisher belongs to a political party opposing the target's party.
+    - >-
+      The publication reached more than 10,000 people on social media.
+  correct: 1
+  explanation: >-
+    Section 16(ב)(2) presumes bad faith where the statement was false and no reasonable checking was done.
+    Anger or politics alone do not.
+- id: m08-025
+  module: 8
+  lesson: "08.2"
+  subject: opinion-defence
+  difficulty: 2
+  question: >-
+    A columnist writes that a minister's handling of a crisis "shows contempt for citizens". The facts
+    behind the opinion are described in the column and are true. Which defence fits?
+  options:
+    - >-
+      s. 13(3): publications made by the government or a minister.
+    - >-
+      s. 15(10): a publication made only to deny earlier defamation.
+    - >-
+      s. 15(4): opinion on conduct in a public role.
+    - >-
+      No defence is needed, since ministers cannot sue for defamation.
+  correct: 2
+  explanation: >-
+    Section 15(4) protects opinions on conduct in an official or public role, based on facts that are true
+    and known.
+- id: m08-026
+  module: 8
+  lesson: "08.2"
+  subject: opinion-defence
+  difficulty: 3
+  question: >-
+    A post says: "Given that the rabbi hid a sex offender in his yeshiva, he is unfit to lead." The
+    "hid a sex offender" claim is false. Why does the opinion defence fail?
+  options:
+    - >-
+      Because opinions about religious leaders are never protected.
+    - >-
+      Because the word "unfit" is too harsh for a protected opinion.
+    - >-
+      Because the post was published after a court case began.
+    - >-
+      Because the opinion rests on a false factual claim stated in the post.
+  correct: 3
+  explanation: >-
+    Opinion is protected when it is based on true facts. An opinion built on a false accusation does not
+    cure the accusation.
+- id: m08-027
+  module: 8
+  lesson: "08.2"
+  subject: complaint-defence
+  difficulty: 1
+  question: >-
+    Which complaint is protected by s. 15(8)?
+  options:
+    - >-
+      A good-faith complaint to the Ombudsman about a clerk's conduct.
+    - >-
+      A complaint posted on the clerk's personal Facebook page for all to see.
+    - >-
+      A complaint sent by letter to all of the clerk's neighbours on the street.
+    - >-
+      A complaint published as a paid advertisement in the local newspaper.
+  correct: 0
+  explanation: >-
+    Section 15(8) protects complaints to a person who supervises the target or to the authority competent to
+    deal with the matter — not other publications of the complaint.
+- id: m08-028
+  module: 8
+  lesson: "08.2"
+  subject: complaint-defence
+  difficulty: 2
+  question: >-
+    You suspect a school principal of hiding abuse reports. Which channel gives you the strongest
+    protection for raising it?
+  options:
+    - >-
+      A detailed post in the school's parents' WhatsApp group.
+    - >-
+      A letter to the readers' column of the local newspaper.
+    - >-
+      A complaint to the ministry's supervisor and the police.
+    - >-
+      A large sign outside the school gate during pick-up time.
+  correct: 2
+  explanation: >-
+    A complaint to the supervising and investigating authorities is protected by s. 15(8) if made in good
+    faith; public posts need a separate defence.
+- id: m08-029
+  module: 8
+  lesson: "08.2"
+  subject: good-faith
+  difficulty: 2
+  question: >-
+    A tenant warns other tenants in the building, by a note in their letterboxes, that the cleaner they
+    all employ took cash from her flat, based on a camera recording. Which head of s. 15 best fits?
+  options:
+    - >-
+      s. 15(6): criticism of a public work or an act done in public.
+    - >-
+      s. 15(3): protecting a legitimate interest of those addressed.
+    - >-
+      s. 15(12): a live radio or television broadcast not recorded in advance.
+    - >-
+      s. 15(11): passing information to an editor so that it may be checked.
+  correct: 1
+  explanation: >-
+    Warning people who share an interest in the matter can fall under s. 15(3) (or (2)), if done in good
+    faith and within reasonable bounds.
+- id: m08-030
+  module: 8
+  lesson: "08.2"
+  subject: good-faith
+  difficulty: 3
+  question: >-
+    In Anonymous v. Orbach (CFH 2121/12), what did the Supreme Court say a publisher on a matter of
+    significant public interest needs, to be protected under good faith even if a fact turns out wrong?
+  options:
+    - >-
+      A press licence from the Government Press Office for the publisher.
+    - >-
+      A prior court approval of the publication before it goes out.
+    - >-
+      Proof that the person written about is a public figure or official.
+    - >-
+      Strict responsible-journalism standards, including verification.
+  correct: 3
+  explanation: >-
+    The Court recognised protection under the duty-to-inform head, s. 15(2), for publication meeting strict
+    criteria of responsible journalism on matters of significant public interest.
+- id: m08-031
+  module: 8
+  lesson: "08.2"
+  subject: correction-apology
+  difficulty: 1
+  question: >-
+    What does s. 19 allow a court to consider in the defendant's favour?
+  options:
+    - >-
+      An unconditional apology or correction, in the same place and manner.
+    - >-
+      A private apology sent only to the plaintiff's lawyer by email.
+    - >-
+      Removal of the post after the claim was filed, with no comment at all.
+    - >-
+      The defendant's political motive or cause for publishing the post.
+  correct: 0
+  explanation: >-
+    Section 19(4) covers an apology, correction or denial published in the same place, extent and manner,
+    without reservations, or steps to stop distribution.
+- id: m08-032
+  module: 8
+  lesson: "08.2"
+  subject: correction-apology
+  difficulty: 2
+  question: >-
+    Spot the mistake in this correction: "We apologise if anyone was hurt by our post, although
+    everything in it was true. We stand by our words."
+  options:
+    - >-
+      It does not name the platform on which the original post appeared.
+    - >-
+      It is conditional and reaffirms the claim, so it is no real correction.
+    - >-
+      It was published too soon after the original post to count legally.
+    - >-
+      It should have been sent privately, only to the plaintiff's lawyer.
+  correct: 1
+  explanation: >-
+    Section 19 mitigation needs an unconditional apology or correction. A "sorry, but it was true" text
+    helps neither side; decide whether to stand by it or correct it.
+- id: m08-033
+  module: 8
+  lesson: "08.2"
+  subject: truth-defence
+  difficulty: 2
+  question: >-
+    Which evidence is most useful for proving the truth of "the municipality paid ₪1 million without a
+    tender"?
+  options:
+    - >-
+      Screenshots of residents' comments on Facebook saying so.
+    - >-
+      A news article quoting an anonymous source in the municipality.
+    - >-
+      A council member's public statement that "everyone knows it".
+    - >-
+      The municipality's FOI answer showing payment and method.
+  correct: 3
+  explanation: >-
+    An official document is admissible and directly proves the sting. Rumours, anonymous sources and
+    comments do not.
+- id: m08-034
+  module: 8
+  lesson: "08.2"
+  subject: permitted-publications
+  difficulty: 3
+  question: >-
+    An activist copies, accurately, an entry from the public Companies Register showing that a minister's
+    spouse is a director of a company receiving state grants. Which statement is right?
+  options:
+    - >-
+      A fair copy of a public register is a permitted publication under s. 13(10).
+    - >-
+      It is protected only if the activist also proves wrongdoing by the minister.
+    - >-
+      It is a privacy invasion, so the Defamation Law defences do not apply.
+    - >-
+      Only journalists may republish register entries.
+  correct: 0
+  explanation: >-
+    Section 13(10) protects a correct and fair copy or summary of a register open to the public by law.
+    Any added accusation needs its own defence.
+- id: m08-035
+  module: 8
+  lesson: "08.2"
+  subject: presumptions
+  difficulty: 3
+  question: >-
+    A group publishes a true report on a hospital's failures but adds the director's home address and
+    the comment "let her feel what patients feel". Why may the good-faith defence fail for that part?
+  options:
+    - >-
+      Because the report was true, so good faith is not relevant to any part.
+    - >-
+      Because hospitals are public bodies that cannot be criticised by name.
+    - >-
+      Because it aims to harm more than is reasonable to protect s. 15 values.
+    - >-
+      Because the good-faith defence applies only to professional journalists.
+  correct: 2
+  explanation: >-
+    Section 16(ב)(3) presumes bad faith where the publisher intended to harm more than was reasonable. The
+    address and comment add harm, not information, and raise privacy and threat issues too.
+- id: m08-036
+  module: 8
+  lesson: "08.3"
+  subject: demand-letter-triage
+  difficulty: 1
+  question: >-
+    Is there a legal duty to answer a lawyer's demand letter about defamation?
+  options:
+    - >-
+      Yes, within the deadline the letter sets, or you lose your defences.
+    - >-
+      Yes, within 30 days under the Civil Procedure Regulations.
+    - >-
+      No legal duty, though a short reply is usually wise.
+    - >-
+      No, and answering it is always an admission of liability.
+  correct: 2
+  explanation: >-
+    A demand letter is not a court document; its deadline binds no one. A short, careful reply often helps
+    resolve the matter and shows good faith.
+- id: m08-037
+  module: 8
+  lesson: "08.3"
+  subject: demand-letter-triage
+  difficulty: 1
+  question: >-
+    What is the correct order of the first steps after receiving a demand letter?
+  options:
+    - >-
+      Reply, then archive, then analyse.
+    - >-
+      Delete the post, then reply, then archive.
+    - >-
+      Analyse, then delete, then reply.
+    - >-
+      Archive, then analyse, then decide and reply.
+  correct: 3
+  explanation: >-
+    Preserve the publication first, then run the defamation and defence analysis, then choose an option
+    and reply in writing.
+- id: m08-038
+  module: 8
+  lesson: "08.3"
+  subject: reply-strategy
+  difficulty: 2
+  question: >-
+    What does marking a reply "בלי לפגוע בזכויות" mean?
+  options:
+    - >-
+      The reply reserves your rights and arguments and is not a waiver.
+    - >-
+      The reply cannot be shown to a court under any circumstances.
+    - >-
+      The reply is confidential and the other side may not quote it.
+    - >-
+      The reply admits the facts but not the legal claims.
+  correct: 0
+  explanation: >-
+    The phrase signals that nothing in the letter waives your rights or arguments. It does not make the
+    letter secret or inadmissible in every case.
+- id: m08-039
+  module: 8
+  lesson: "08.3"
+  subject: reply-strategy
+  difficulty: 2
+  question: >-
+    Spot the mistake in this reply to a demand letter: "Without prejudice. Your client is a liar and a
+    crook, as everyone in town knows. I copy this letter to the 3,000 members of our group."
+  options:
+    - >-
+      It is not signed with the writer's ID number, as replies must be.
+    - >-
+      It repeats and widens the accusation: a new publication.
+    - >-
+      It was sent by email instead of by registered mail with confirmation.
+    - >-
+      It does not demand that the other side pay the legal costs so far.
+  correct: 1
+  explanation: >-
+    Copying the reply to 3,000 people and adding insults is a fresh publication of defamation. Reply only
+    to the sender, briefly and politely.
+- id: m08-040
+  module: 8
+  lesson: "08.3"
+  subject: reply-strategy
+  difficulty: 3
+  question: >-
+    Your post was accurate, but one sentence called the plaintiff "a criminal" without proof. Which
+    option fits best?
+  options:
+    - >-
+      Stand by the whole post, because most of it is true.
+    - >-
+      Apologise for the whole post and promise never to write about him.
+    - >-
+      Correct the one sentence without admission and stand by the rest.
+    - >-
+      Pay a small amount to end the matter before the deadline.
+  correct: 2
+  explanation: >-
+    Choose per sentence: correct what you cannot prove, keep what you can. A promise of silence and early
+    payment give up more than needed.
+- id: m08-041
+  module: 8
+  lesson: "08.3"
+  subject: court-deadlines
+  difficulty: 1
+  question: >-
+    How long do you have to file a statement of defence in the Magistrates' Court after a statement of
+    claim is served on you?
+  options:
+    - >-
+      7 days, matching the usual deadline in a demand letter.
+    - >-
+      30 days, like an appeal against a decision of an authority.
+    - >-
+      45 days, like an administrative petition against a decision.
+    - >-
+      60 days, unless the court extends it.
+  correct: 3
+  explanation: >-
+    Civil Procedure Regulations 2018, reg. 9(ב): 60 days from service, extendable by the court. Small
+    claims have their own procedure.
+- id: m08-042
+  module: 8
+  lesson: "08.3"
+  subject: court-deadlines
+  difficulty: 2
+  question: >-
+    You ignore a defamation claim that was served on you, thinking it is just another threat. What is the
+    main risk?
+  options:
+    - >-
+      The court may give judgment against you without a hearing.
+    - >-
+      The plaintiff must send you a second demand letter first.
+    - >-
+      Nothing happens until you are arrested.
+    - >-
+      The claim expires after 30 days if you do not answer.
+  correct: 0
+  explanation: >-
+    Failing to file a defence on time can lead to judgment in default. If that happens, apply at once to
+    set it aside with reasons.
+- id: m08-043
+  module: 8
+  lesson: "08.3"
+  subject: slapp-signs
+  difficulty: 1
+  question: >-
+    What does SLAPP stand for?
+  options:
+    - >-
+      Strategic Lawsuit Against Public Participation.
+    - >-
+      Statutory Limit on Awards for Public Posts.
+    - >-
+      Special Litigation Against Private Persons.
+    - >-
+      Summary Libel Action for Public Protection.
+  correct: 0
+  explanation: >-
+    A SLAPP (תביעת השתקה) is a lawsuit whose main aim is to silence participation in public debate, not to
+    win compensation.
+- id: m08-044
+  module: 8
+  lesson: "08.3"
+  subject: slapp-signs
+  difficulty: 2
+  question: >-
+    Which feature is most typical of a SLAPP?
+  options:
+    - >-
+      A modest claim by an individual neighbour over a personal insult.
+    - >-
+      A claim filed by a public authority against a large private company.
+    - >-
+      A maximum-sum claim by a powerful party against many critics.
+    - >-
+      A claim over a publication that the defendant has already corrected.
+  correct: 2
+  explanation: >-
+    SLAPP signs include a powerful plaintiff, public-participation speech, high sums, many defendants and
+    timing linked to a campaign milestone.
+- id: m08-045
+  module: 8
+  lesson: "08.3"
+  subject: slapp-tools
+  difficulty: 2
+  question: >-
+    Under the Civil Procedure Regulations, on which ground can a court strike out a claim at the
+    threshold?
+  options:
+    - >-
+      The defendant is an activist acting in the public interest.
+    - >-
+      The claim is vexatious on its face or discloses no cause of action.
+    - >-
+      The plaintiff did not send a demand letter first.
+    - >-
+      The claim was filed in a district far from the defendant.
+  correct: 1
+  explanation: >-
+    Reg. 41(א) allows striking out a claim that discloses no cause of action or is vexatious; reg. 42 adds
+    abuse of process.
+- id: m08-046
+  module: 8
+  lesson: "08.3"
+  subject: slapp-tools
+  difficulty: 2
+  question: >-
+    What can a court do under reg. 151(ג) when a plaintiff abused the process?
+  options:
+    - >-
+      Order the plaintiff to pay costs to the injured party or the state.
+    - >-
+      Award the defendant compensation equal to the full sum the plaintiff claimed.
+    - >-
+      Bar the plaintiff from ever filing another claim in any court.
+    - >-
+      Refer the plaintiff to the police for prosecution for abuse of process.
+  correct: 0
+  explanation: >-
+    Reg. 151(ג) allows costs against a party that abused the process. Compensation up to the claim amount
+    was only proposed in bill P/6532/25.
+- id: m08-047
+  module: 8
+  lesson: "08.3"
+  subject: anti-slapp-bills
+  difficulty: 1
+  question: >-
+    What would bill P/6515/25 (2026) change in the Defamation Law?
+  options:
+    - >-
+      Add a duty to send a demand letter before suing.
+    - >-
+      Create a special SLAPP court.
+    - >-
+      Make defamation a criminal offence only.
+    - >-
+      Replace ₪50,000 with ₪1,000 in s. 7א.
+  correct: 3
+  explanation: >-
+    MK Tali Gottlieb's bill would cut compensation without proof of damage from ₪50,000 (CPI-linked) to
+    ₪1,000. It was tabled on 26.1.2026 and had no preliminary reading.
+- id: m08-048
+  module: 8
+  lesson: "08.3"
+  subject: anti-slapp-bills
+  difficulty: 2
+  question: >-
+    What is the status of the 2026 anti-SLAPP bills P/6515/25 and P/6532/25 on 13.10.2026?
+  options:
+    - >-
+      Both passed into law in July 2026 and now apply to all new claims.
+    - >-
+      P/6532/25 passed a first reading and continues automatically.
+    - >-
+      Both were only tabled, and lapse unless tabled again.
+    - >-
+      Both were struck down by the High Court before reaching a vote.
+  correct: 2
+  explanation: >-
+    The Knesset database shows both at the "tabled for preliminary discussion" stage. The Knesset dissolved
+    on 17.7.2026, and a private bill without a first reading does not carry over.
+- id: m08-049
+  module: 8
+  lesson: "08.3"
+  subject: anti-slapp-bills
+  difficulty: 2
+  question: >-
+    Which proposal is in bill P/6532/25 (MK Keti Shitrit)?
+  options:
+    - >-
+      A ₪1,000 cap for online comments, and costs for abuse.
+    - >-
+      Abolishing the criminal defamation offence in s. 6 of the law.
+    - >-
+      A duty on platforms to remove defamatory comments within 48 hours.
+    - >-
+      Unmasking anonymous commenters by court order on a plaintiff's request.
+  correct: 0
+  explanation: >-
+    The bill would add s. 7א(ד1), capping compensation for a comment at ₪1,000, and s. 7ב on abuse of
+    process. It remained a tabled bill.
+- id: m08-050
+  module: 8
+  lesson: "08.3"
+  subject: slapp-signs
+  difficulty: 3
+  question: >-
+    Twelve residents receive identical letters over comments in a planning dispute. What is the best way
+    for them to respond?
+  options:
+    - >-
+      Each replies alone, in their own words, to show independence.
+    - >-
+      They agree the facts together, consult one clinic, and reply consistently.
+    - >-
+      They post the letters online with comments about the company's owner.
+    - >-
+      They all delete their comments and do not reply.
+  correct: 1
+  explanation: >-
+    Coordinated, consistent replies based on agreed facts avoid contradictions and share the cost of advice.
+    Posting attacks on the owner creates new risk.
+- id: m08-051
+  module: 8
+  lesson: "08.3"
+  subject: reply-strategy
+  difficulty: 3
+  question: >-
+    A demand letter asks you to promise "not to publish anything about our client in the future". What is
+    the best response?
+  options:
+    - >-
+      Agree, since it costs nothing and is the fastest way to end the dispute.
+    - >-
+      Agree to it, but only for one year from the date of the letter.
+    - >-
+      Refuse to answer the letter at all, so as not to engage with it.
+    - >-
+      Decline it; at most, agree not to repeat one specific sentence.
+  correct: 3
+  explanation: >-
+    A general promise of silence gives up lawful criticism. Limiting any undertaking to a specific
+    unprovable sentence protects your future speech.
+- id: m08-052
+  module: 8
+  lesson: "08.3"
+  subject: demand-letter-triage
+  difficulty: 3
+  question: >-
+    The letter demands ₪169,000 within 7 days. Your evidence is strong, but the plaintiff is wealthy. Which
+    is the most accurate statement?
+  options:
+    - >-
+      Only a court can order you to pay; the letter's figure is not binding.
+    - >-
+      You must pay half within the 7 days to keep your defences open later.
+    - >-
+      The figure is fixed by law, and the court will award all of it if you lose.
+    - >-
+      Wealthy plaintiffs cannot claim compensation without proof of damage.
+  correct: 0
+  explanation: >-
+    The figure is usually the doubled s. 7א ceiling, a maximum rather than a fixed award. Only a court
+    judgment creates a duty to pay.
+- id: m08-053
+  module: 8
+  lesson: "08.3"
+  subject: court-deadlines
+  difficulty: 2
+  question: >-
+    Which court hears a defamation claim of ₪30,000 against an individual?
+  options:
+    - >-
+      The District Court, which is where all defamation cases are heard.
+    - >-
+      The Supreme Court, because freedom of speech is a constitutional matter.
+    - >-
+      Small claims if within its ceiling, otherwise the Magistrates' Court.
+    - >-
+      Only the Labour Court, which hears every claim between two individuals.
+  correct: 2
+  explanation: >-
+    The court depends on the amount: small claims up to its ceiling (current numbers), the Magistrates'
+    Court above it. The Labour Court hears it only if it arises from employment.
+- id: m08-054
+  module: 8
+  lesson: "08.4"
+  subject: privacy-acts
+  difficulty: 1
+  question: >-
+    Which act is an invasion of privacy under s. 2?
+  options:
+    - >-
+      Photographing a minister giving a speech at a public rally.
+    - >-
+      Filming people inside their home through a window.
+    - >-
+      Quoting an official's public statement in a newspaper.
+    - >-
+      Filming a crowd at a protest in a public square.
+  correct: 1
+  explanation: >-
+    Section 2(3) covers photographing a person in a private place. Public speeches and crowds in public
+    places are not covered.
+- id: m08-055
+  module: 8
+  lesson: "08.4"
+  subject: privacy-acts
+  difficulty: 1
+  question: >-
+    What is the maximum penalty for deliberately invading privacy in most of the ways listed in s. 2?
+  options:
+    - >-
+      A fine only.
+    - >-
+      One year's imprisonment.
+    - >-
+      Five years' imprisonment.
+    - >-
+      Ten years' imprisonment.
+  correct: 2
+  explanation: >-
+    Section 5 makes deliberate invasion under s. 2(1), (3)–(7) and (9)–(11) an offence punishable by five
+    years.
+- id: m08-056
+  module: 8
+  lesson: "08.4"
+  subject: privacy-acts
+  difficulty: 2
+  question: >-
+    A protest group publishes that a named opposing activist is undergoing psychiatric treatment. What
+    is the main legal problem?
+  options:
+    - >-
+      Defamation only, and only if the information turns out to be false.
+    - >-
+      None at all, as long as the information about her is true.
+    - >-
+      Incitement, because it encourages others to attack the activist.
+    - >-
+      Publishing health details is a privacy invasion even if true.
+  correct: 3
+  explanation: >-
+    Section 2(11) covers publishing matters about a person's health or intimate life. Truth is not a defence
+    to privacy invasion; public interest might be, but rarely for a private activist's health.
+- id: m08-057
+  module: 8
+  lesson: "08.4"
+  subject: privacy-defences
+  difficulty: 1
+  question: >-
+    Which defence covers a passer-by who appears in your photo of a street protest?
+  options:
+    - >-
+      Incidental appearance in a public-place photo (s. 18(2)(ה)).
+    - >-
+      The permitted publications in s. 13 of the Defamation Law.
+    - >-
+      The exemption for security authorities in s. 19 of the Privacy Law.
+    - >-
+      There is no defence; you must get the passer-by's written consent.
+  correct: 0
+  explanation: >-
+    Section 18(2)(ה) protects photos taken in a public place in which the person appears incidentally.
+- id: m08-058
+  module: 8
+  lesson: "08.4"
+  subject: privacy-defences
+  difficulty: 2
+  question: >-
+    What is the condition attached to the public-interest defence in s. 18(3) when the invasion was by
+    publication?
+  options:
+    - >-
+      The publication must be approved by the Privacy Protection Authority.
+    - >-
+      The publication must not be false.
+    - >-
+      The target must be a public official.
+    - >-
+      The publication must be in a newspaper.
+  correct: 1
+  explanation: >-
+    Section 18(3) protects an invasion justified by public interest, provided that if it was a
+    publication, it was not false.
+- id: m08-059
+  module: 8
+  lesson: "08.4"
+  subject: photos-protests
+  difficulty: 3
+  question: >-
+    A volunteer films an injured woman lying on the ground after police dispersed a protest, her face
+    visible, and wants to post it to show police violence. What is the best decision?
+  options:
+    - >-
+      Post as is, because police violence is a public interest.
+    - >-
+      Do not post anything about the incident.
+    - >-
+      Post with her face blurred, or with her consent.
+    - >-
+      Post only to a closed group, which is not a publication.
+  correct: 2
+  explanation: >-
+    Section 2(4א) covers identifiable photos of a victim at or just after an incident. Blurring keeps the
+    evidence of police conduct while protecting her.
+- id: m08-060
+  module: 8
+  lesson: "08.4"
+  subject: photos-protests
+  difficulty: 2
+  question: >-
+    Which caption on a close-up of a counter-protester creates the highest privacy risk?
+  options:
+    - >-
+      "Counter-protesters gathered at the corner."
+    - >-
+      "Hundreds marched on Saturday."
+    - >-
+      "The crowd at Habima Square."
+    - >-
+      "Meet the village idiot of the right."
+  correct: 3
+  explanation: >-
+    Publishing a photo in circumstances that may humiliate the person is an invasion under s. 2(4). Neutral
+    captions on crowd shots are not.
+- id: m08-061
+  module: 8
+  lesson: "08.4"
+  subject: private-messages
+  difficulty: 2
+  question: >-
+    A leaked email from a ministry official to a lobbyist shows the official promising a permit in return
+    for a job for her son. A group wants to publish it. What is the best analysis?
+  options:
+    - >-
+      Using a private letter is an invasion, but public interest can justify it.
+    - >-
+      It is forbidden in all cases, because emails are always private letters.
+    - >-
+      It is allowed in all cases, because public officials have no privacy.
+    - >-
+      It is allowed only after the official is convicted of an offence.
+  correct: 0
+  explanation: >-
+    Using a private letter without permission is an invasion, but public interest can justify it if the
+    publication is not false. Evidence of corruption is a strong case; still, take advice first.
+- id: m08-062
+  module: 8
+  lesson: "08.4"
+  subject: private-messages
+  difficulty: 3
+  question: >-
+    Someone hacked an activist's phone and sends you her private chats. You want to publish them to show
+    her group's internal disputes. What is the main problem?
+  options:
+    - >-
+      None, since you did not hack the phone yourself and only received the chats.
+    - >-
+      Only a copyright problem, because the chats are her own written texts.
+    - >-
+      Passing on what was obtained by a privacy invasion is itself one.
+    - >-
+      Only a platform-rules problem, since WhatsApp forbids sharing chats.
+  correct: 2
+  explanation: >-
+    Section 2(10) covers publishing or passing on anything obtained by an invasion under s. 2(1)–(7) or
+    (9). Internal disputes are rarely a public interest that justifies it.
+- id: m08-063
+  module: 8
+  lesson: "08.4"
+  subject: amendment-13
+  difficulty: 1
+  question: >-
+    When did Amendment 13 to the Protection of Privacy Law take effect?
+  options:
+    - >-
+      1 January 2024.
+    - >-
+      14 August 2025.
+    - >-
+      1 October 2026.
+    - >-
+      It has not yet taken effect.
+  correct: 1
+  explanation: >-
+    Amendment 13 (ס"ח תשפ"ד 1430) took effect on 14.8.2025, giving the Authority wider powers and new
+    definitions.
+- id: m08-064
+  module: 8
+  lesson: "08.4"
+  subject: amendment-13
+  difficulty: 1
+  question: >-
+    Under the amended s. 3, which of these is "information of special sensitivity"?
+  options:
+    - >-
+      A person's email address.
+    - >-
+      A person's city of residence.
+    - >-
+      A person's political opinions.
+    - >-
+      A person's first name.
+  correct: 2
+  explanation: >-
+    The list includes political opinions, religious beliefs, health, sex life, origin, criminal past,
+    biometrics, location data and more.
+- id: m08-065
+  module: 8
+  lesson: "08.4"
+  subject: amendment-13
+  difficulty: 2
+  question: >-
+    Which collection is outside the definition of "database" after Amendment 13?
+  options:
+    - >-
+      A campaign's Google Sheet of its volunteers and their phones.
+    - >-
+      An NGO's donor list kept in a CRM system in the cloud.
+    - >-
+      A party branch's WhatsApp community export of its members.
+    - >-
+      A purely personal contacts list on your phone.
+  correct: 3
+  explanation: >-
+    The definition excludes a collection for personal use not for business purposes. Organisational lists
+    are databases.
+- id: m08-066
+  module: 8
+  lesson: "08.4"
+  subject: own-lists
+  difficulty: 2
+  question: >-
+    Which group must register its database with the Privacy Protection Authority after Amendment 13?
+  options:
+    - >-
+      A company selling lists of 50,000 people to campaigns.
+    - >-
+      A local protest group with 2,000 supporters on a list.
+    - >-
+      A synagogue's list of 300 members and their families.
+    - >-
+      A sports club's list of the 800 parents of its players.
+  correct: 0
+  explanation: >-
+    Registration is required for databases whose main purpose is passing data to others for payment with
+    over 10,000 people, and for public bodies (s. 8א(א)). Other duties still apply to everyone.
+- id: m08-067
+  module: 8
+  lesson: "08.4"
+  subject: own-lists
+  difficulty: 2
+  question: >-
+    What must a group tell people when it asks for their personal information for its database (s. 11)?
+  options:
+    - >-
+      Only the group's registration number with the Privacy Protection Authority.
+    - >-
+      Voluntariness, purpose, controller, recipients and access rights.
+    - >-
+      Only that the information will be kept secure and not sold to anyone.
+    - >-
+      Nothing at all, if the form is on the group's own website.
+  correct: 1
+  explanation: >-
+    Section 11 requires notice of whether there is a duty to give the data, the purpose, the controller
+    and contact, recipients, and the rights of access and correction.
+- id: m08-068
+  module: 8
+  lesson: "08.4"
+  subject: own-lists
+  difficulty: 3
+  question: >-
+    Spot the mistake in this volunteer form: "Name, phone, ID number, party you voted for, email. Your
+    details will be used for this campaign."
+  options:
+    - >-
+      It asks for an email address, which counts as sensitive information.
+    - >-
+      It names the campaign, which reveals the group's political position.
+    - >-
+      It collects unneeded ID numbers and votes, and the notice is partial.
+    - >-
+      It does not ask for the volunteer's home address for deliveries.
+  correct: 2
+  explanation: >-
+    Collect only what the purpose needs; voting choice is sensitive and ID numbers unnecessary. The notice
+    also lacks voluntariness, controller, recipients and access rights (s. 11).
+- id: m08-069
+  module: 8
+  lesson: "08.4"
+  subject: access-rights
+  difficulty: 1
+  question: >-
+    Which right does s. 13 give you?
+  options:
+    - >-
+      To see the personal information about you held in a database.
+    - >-
+      To see all the internal documents of any public authority in Israel.
+    - >-
+      To demand that a newspaper publish your response to an article.
+    - >-
+      To receive compensation for any use of your data by any body.
+  correct: 0
+  explanation: >-
+    Section 13 gives access to personal information about you in a database; s. 14 lets you ask to correct
+    or delete it. Public documents in general fall under the FOI Law.
+- id: m08-070
+  module: 8
+  lesson: "08.4"
+  subject: access-rights
+  difficulty: 2
+  question: >-
+    After a campaign texts you, you want to know how it got your number. Which first step fits best?
+  options:
+    - >-
+      File an FOI request with the campaign under the Freedom of Information Law.
+    - >-
+      Sue the campaign in the small claims court immediately for compensation.
+    - >-
+      Ask the Magistrates' Court for a restraining order against the campaign.
+    - >-
+      Send the campaign a s. 13 request for the data and its source.
+  correct: 3
+  explanation: >-
+    A s. 13 request creates a record and may reveal the source. FOI applies to public authorities, not
+    campaigns; a lawsuit or order comes later if needed.
+- id: m08-071
+  module: 8
+  lesson: "08.4"
+  subject: ppa-complaint
+  difficulty: 1
+  question: >-
+    Can you complain to the Privacy Protection Authority anonymously?
+  options:
+    - >-
+      No, the Authority requires your full ID number on every complaint.
+    - >-
+      Yes, though it may then be harder to investigate.
+    - >-
+      Only through a lawyer who files the complaint in their own name.
+    - >-
+      Only for complaints about government bodies, not about private ones.
+  correct: 1
+  explanation: >-
+    The Authority's public-complaints page says you may complain anonymously.
+- id: m08-072
+  module: 8
+  lesson: "08.4"
+  subject: ppa-complaint
+  difficulty: 2
+  question: >-
+    In which case is the Privacy Protection Authority likely not to investigate your complaint?
+  options:
+    - >-
+      The complaint is about a private company's database.
+    - >-
+      The complaint includes screenshots.
+    - >-
+      The same matter is already pending before a court.
+    - >-
+      You attached your earlier request to the company.
+  correct: 2
+  explanation: >-
+    The Authority lists matters pending in or decided by a court among the cases it may not investigate,
+    as well as requests for legal advice.
+- id: m08-073
+  module: 8
+  lesson: "08.4"
+  subject: ppa-complaint
+  difficulty: 2
+  question: >-
+    What should you attach to a complaint to the Privacy Protection Authority about a company?
+  options:
+    - >-
+      Your earlier request to the company and its answer.
+    - >-
+      A lawyer's written opinion that the company broke the law.
+    - >-
+      A court decision finding that the company breached privacy.
+    - >-
+      Nothing; the Authority collects all the evidence on its own.
+  correct: 0
+  explanation: >-
+    The Authority asks complainants to attach their approach to the body and its response.
+- id: m08-074
+  module: 8
+  lesson: "08.4"
+  subject: privacy-compensation
+  difficulty: 2
+  question: >-
+    How is the compensation ceiling for privacy invasion without proof of damage (s. 29א) updated?
+  options:
+    - >-
+      It is fixed at ₪50,000 in the statute and never changes.
+    - >-
+      The Privacy Protection Authority sets a new figure each year.
+    - >-
+      It follows the Defamation Law's indexed figure exactly.
+    - >-
+      It is CPI-linked to May 2007 and updated monthly.
+  correct: 3
+  explanation: >-
+    Section 29א(ד) links the amounts to the CPI against the May 2007 index, so the figure differs from the
+    Defamation Law's (September 1998 base).
+- id: m08-075
+  module: 8
+  lesson: "08.4"
+  subject: privacy-compensation
+  difficulty: 3
+  question: >-
+    A rival campaign's blog publishes your medical history and your employer's name. You want the post
+    removed, the leak investigated and compensation. Which combination is right?
+  options:
+    - >-
+      Authority complaint for the money; a police complaint for removal.
+    - >-
+      Platform for removal; court for money; Authority for database misuse.
+    - >-
+      A restraining order for the money; the Authority for the removal.
+    - >-
+      A single High Court petition against the group for all three.
+  correct: 1
+  explanation: >-
+    Platforms remove content; courts award compensation (s. 29א, and defamation); the Authority enforces
+    database rules and does not award money.
+- id: m08-076
+  module: 8
+  lesson: "08.5"
+  subject: evidence-preservation
+  difficulty: 1
+  question: >-
+    Which item is most important to record with a screenshot of a harassing post?
+  options:
+    - >-
+      The direct URL of the post, and the date and time.
+    - >-
+      The number of likes on your own posts on the same day.
+    - >-
+      The reply you wrote to the harasser under the post.
+    - >-
+      The harasser's other, unrelated posts from that week.
+  correct: 0
+  explanation: >-
+    The URL, account and time let the platform, police or court find and verify the content even after it
+    changes.
+- id: m08-077
+  module: 8
+  lesson: "08.5"
+  subject: evidence-preservation
+  difficulty: 2
+  question: >-
+    Why should you preserve before you report a harassing post?
+  options:
+    - >-
+      Platforms refuse to accept reports that have no screenshots attached.
+    - >-
+      The police require two printed copies of every post in a complaint.
+    - >-
+      Once removed, it may no longer be available as evidence.
+    - >-
+      Reporting a post before saving it counts as an admission in court.
+  correct: 2
+  explanation: >-
+    Removal is the goal, but evidence disappears with it. Preserve first so a complaint or restraining order
+    can still be supported.
+- id: m08-078
+  module: 8
+  lesson: "08.5"
+  subject: platform-routes
+  difficulty: 1
+  question: >-
+    A false accusation does not break a platform's community rules. Which channel is designed for content
+    illegal under local law?
+  options:
+    - >-
+      The in-app "spam" report under the post.
+    - >-
+      Blocking the account so you no longer see it.
+    - >-
+      The platform's advertising and business help centre.
+    - >-
+      The platform's legal-removal (local-law) channel.
+  correct: 3
+  explanation: >-
+    Google's "report content for legal reasons" form and Meta's local-law restrictions exist for content
+    illegal in a specific country, such as defamation.
+- id: m08-079
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 1
+  question: >-
+    Where do you apply for a צו מניעת הטרדה מאיימת against a stranger who harasses you online?
+  options:
+    - >-
+      The District Court.
+    - >-
+      The Magistrates' Court.
+    - >-
+      The Privacy Protection Authority.
+    - >-
+      The police station.
+  correct: 1
+  explanation: >-
+    The Magistrates' Court (or the family court for relatives, or the youth court for minors) hears
+    applications under the Prevention of Stalking Law.
+- id: m08-080
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 2
+  question: >-
+    How long can a restraining order under the Prevention of Stalking Law last?
+  options:
+    - >-
+      Up to 6 months, extendable to 1 year, rarely 2.
+    - >-
+      Up to 30 days, renewable again and again without limit.
+    - >-
+      Indefinitely, until the harasser applies to cancel it.
+    - >-
+      Exactly one year from the hearing, with no extension.
+  correct: 0
+  explanation: >-
+    Section 6: up to six months, extendable to a total of one year, and for special reasons up to two
+    years.
+- id: m08-081
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 3
+  question: >-
+    Spot the mistake in this plan: "File for a restraining order against the anonymous account
+    @truthteller99; ask the court to delete all its posts."
+  options:
+    - >-
+      It should be filed at the District Court, not the Magistrates' Court.
+    - >-
+      It needs a lawyer's signature before the court will accept it at all.
+    - >-
+      An order needs a known person, and deletes no posts.
+    - >-
+      It must first be approved by the police before being filed in court.
+  correct: 2
+  explanation: >-
+    The order is addressed to a known person and forbids conduct. For an anonymous account, use the
+    platform and the police; for existing posts, the platform route.
+- id: m08-082
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 3
+  question: >-
+    An order was given ex parte against a man who sent threats. What happens next under s. 7?
+  options:
+    - >-
+      Nothing; ex parte orders are final.
+    - >-
+      The order expires after 48 hours unless the police renew it.
+    - >-
+      The harasser has 60 days to file a defence.
+    - >-
+      A hearing with both sides is held within 7 days.
+  correct: 3
+  explanation: >-
+    Section 7(ב) requires a hearing in the presence of both sides as soon as possible and no later than
+    seven days after an ex parte order.
+- id: m08-083
+  module: 8
+  lesson: "08.5"
+  subject: unmasking
+  difficulty: 2
+  question: >-
+    What did the Supreme Court decide in Mor v. Barak (LCA 4447/07, 2010)?
+  options:
+    - >-
+      Platforms must reveal anonymous users on request by any plaintiff who sues.
+    - >-
+      The majority would not create an unmasking procedure without legislation.
+    - >-
+      Anonymous speech is never protected under Israeli law in any case.
+    - >-
+      The police may unmask users, but only in criminal defamation cases.
+  correct: 1
+  explanation: >-
+    The majority left unmasking to the Knesset. A 2022 private bill on unmasking did not pass a first
+    reading before the Knesset dissolved.
+- id: m08-084
+  module: 8
+  lesson: "08.5"
+  subject: removed-content
+  difficulty: 2
+  question: >-
+    What did the High Court decide in Adalah v. State Attorney's Office (HCJ 7846/19, 2021) about the
+    Cyber Unit?
+  options:
+    - >-
+      It dismissed the petition; the unit's voluntary requests continue.
+    - >-
+      It ordered the unit to stop sending all requests to online platforms.
+    - >-
+      It required the unit to notify every affected user before any request.
+    - >-
+      It transferred the unit's powers to the Privacy Protection Authority.
+  correct: 0
+  explanation: >-
+    The Court dismissed the petition. Petitioners argue the practice is censorship without due process;
+    the State argues platforms decide independently.
+- id: m08-085
+  module: 8
+  lesson: "08.5"
+  subject: takedown-bills
+  difficulty: 2
+  question: >-
+    Is there a general Israeli law, as of October 2026, letting a court order platforms to remove any
+    content that is a criminal offence?
+  options:
+    - >-
+      Yes, the "Facebook law" passed in 2018.
+    - >-
+      Yes, under Amendment 13 of the Privacy Law.
+    - >-
+      No; private bills in the 25th Knesset were only tabled.
+    - >-
+      Yes, under the Counter-Terrorism Law for all offences.
+  correct: 2
+  explanation: >-
+    No general takedown law exists. P/707/25 and P/4173/25 were tabled only, and the Knesset dissolved in
+    July 2026.
+- id: m08-086
+  module: 8
+  lesson: "08.5"
+  subject: intimate-images
+  difficulty: 2
+  question: >-
+    An ex-partner posts sexual images of an activist to discredit her. Which law makes this an offence?
+  options:
+    - >-
+      Only the Defamation Law, and only if the images are fake.
+    - >-
+      The Counter-Terrorism Law, as a form of intimidation.
+    - >-
+      None; publishing such images is a civil matter only.
+    - >-
+      The Prevention of Sexual Harassment Law, s. 3(א)(5א).
+  correct: 3
+  explanation: >-
+    Publishing a sexual image that may humiliate, without consent, is sexual harassment, punished like a
+    deliberate privacy invasion. Report to the police and the platform.
+- id: m08-087
+  module: 8
+  lesson: "08.5"
+  subject: removed-content
+  difficulty: 3
+  question: >-
+    Your campaign page is suspended after mass reporting by opponents. Which step protects your work
+    best in the long run?
+  options:
+    - >-
+      Open new accounts under other names to evade the suspension.
+    - >-
+      Appeal, and keep regular backups of your content outside the platform.
+    - >-
+      Report the opponents' pages in return until they are suspended.
+    - >-
+      Sue the platform in the Magistrates' Court for reinstatement.
+  correct: 1
+  explanation: >-
+    An appeal under the platform's own rules is the fastest route; backups make a suspension survivable.
+    Evading suspensions breaks platform rules, and mass counter-reporting escalates.
+- id: m08-088
+  module: 8
+  lesson: "08.5"
+  subject: platform-routes
+  difficulty: 3
+  question: >-
+    An anonymous account posts a photo of your car with its licence plate and the words "we know what you
+    drive and where you park". Which combination of routes is best?
+  options:
+    - >-
+      Preserve, report it to the platform, and complain to the police.
+    - >-
+      A restraining order against the anonymous account, plus a defamation claim.
+    - >-
+      A complaint to the Privacy Protection Authority, then wait for its decision.
+    - >-
+      Post the suspected owner's home address in response, as a warning.
+  correct: 0
+  explanation: >-
+    A veiled threat tied to your car and movements is a police matter; the platform removes private
+    information; a restraining order needs a known person. Retaliation creates new risk.
+- id: m08-089
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 1
+  question: >-
+    What does it cost to file a request for a restraining order under the Prevention of Stalking Law?
+  options:
+    - >-
+      The small-claims fee: 1% of a nominal amount, at least ₪50.
+    - >-
+      The full Magistrates' Court civil fee for a claim.
+    - >-
+      Nothing: no court fee is charged for the request.
+    - >-
+      A fixed police processing fee paid at the station.
+  correct: 2
+  explanation: >-
+    Kol Zchut (checked 13.10.2026) states that filing the request carries no court fee. You need the
+    harasser's details and your evidence.
+- id: m08-090
+  module: 8
+  lesson: "08.5"
+  subject: platform-routes
+  difficulty: 3
+  question: >-
+    A fake profile in your name posts racist comments to discredit your campaign. Which first step fits
+    best?
+  options:
+    - >-
+      Reply from your real account to every comment the fake profile writes.
+    - >-
+      Open a second fake profile to post corrections in its name.
+    - >-
+      Complain to the Privacy Protection Authority and wait for a decision.
+    - >-
+      Preserve it, report it as impersonation, and post one factual denial.
+  correct: 3
+  explanation: >-
+    Platforms remove impersonation quickly under their own rules. A short denial on your own page is
+    protected (Defamation Law s. 15(10)); replying everywhere spreads the content.
+- id: m08-091
+  module: 8
+  lesson: "08.5"
+  subject: restraining-order
+  difficulty: 3
+  question: >-
+    A company asks for a restraining order against a consumer activist who posts weekly, documented
+    reviews of its service and tags its CEO. What should the court do?
+  options:
+    - >-
+      Refuse: the posts are public-interest criticism, which s. 4(ג) excludes.
+    - >-
+      Grant it, because weekly posts are repeated contact with the CEO.
+    - >-
+      Grant it for six months, after which the activist may post again.
+    - >-
+      Transfer the case to the Privacy Protection Authority for a decision.
+  correct: 0
+  explanation: >-
+    Section 4(ג) excludes conduct covered by privacy-law defences such as justified public interest.
+    Documented consumer criticism is not stalking; harassment orders are not a SLAPP tool.
+- id: m08-092
+  module: 8
+  lesson: "08.5"
+  subject: evidence-preservation
+  difficulty: 3
+  question: >-
+    You find a threatening video about you on a channel that often deletes its posts. Which preservation
+    method is strongest?
+  options:
+    - >-
+      Write down what the video says from memory after watching it.
+    - >-
+      Screen-record it with the URL visible, note the time, and log it.
+    - >-
+      Ask a friend to watch it so that there is a witness who saw it.
+    - >-
+      Comment under it so that your comment proves the video existed.
+  correct: 1
+  explanation: >-
+    A screen recording with the URL and time, plus a log entry, preserves the content itself. Memory and
+    witnesses are weaker; commenting engages the harasser.
+- id: m08-093
+  module: 8
+  lesson: "08.5"
+  subject: takedown-bills
+  difficulty: 2
+  question: >-
+    What happened to the private bill on unmasking anonymous users (P/301/25) in the 25th Knesset?
+  options:
+    - >-
+      It passed all three readings and took effect in 2025 as a new law.
+    - >-
+      It reached committee stage but did not pass a first reading.
+    - >-
+      It was struck down by the High Court as unconstitutional.
+    - >-
+      It was merged into Amendment 13 of the Privacy Law.
+  correct: 1
+  explanation: >-
+    The Knesset database lists it at "preparation for first reading". It did not pass a first reading
+    before the Knesset dissolved on 17.7.2026, so it does not carry over automatically.
