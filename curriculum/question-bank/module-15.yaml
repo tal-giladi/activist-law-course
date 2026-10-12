@@ -1,0 +1,1901 @@
+# Module 15 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m15-001
+  module: 15
+  lesson: "15.1"
+  subject: ihl-application
+  difficulty: 1
+  question: >-
+    Which body of law regulates how hostilities are conducted, whoever started the conflict?
+  options:
+    - >-
+      Jus ad bellum: the law on the resort to force by states.
+    - >-
+      The domestic criminal law of the attacking state only.
+    - >-
+      Jus in bello: international humanitarian law.
+    - >-
+      The law of state responsibility for breaches of treaties.
+  correct: 2
+  explanation: >-
+    IHL (jus in bello) governs conduct in armed conflict and applies equally to all parties; jus ad bellum governs whether force may be used at all.
+- id: m15-002
+  module: 15
+  lesson: "15.1"
+  subject: ihl-application
+  difficulty: 1
+  question: >-
+    Under Common Article 3 of the Geneva Conventions, who is bound in a non-international armed conflict?
+  options:
+    - >-
+      Each party to the conflict, including organised armed groups.
+    - >-
+      Only the state on whose territory the fighting takes place.
+    - >-
+      Only states that have also ratified Additional Protocol II.
+    - >-
+      Only parties that have formally declared war on each other.
+  correct: 0
+  explanation: >-
+    Common Article 3 binds "each Party to the conflict" in an armed conflict not of an international character.
+- id: m15-003
+  module: 15
+  lesson: "15.1"
+  subject: treaty-vs-custom
+  difficulty: 1
+  question: >-
+    Israel is a party to which of these instruments as a treaty?
+  options:
+    - >-
+      Additional Protocol I of 1977, on international conflicts.
+    - >-
+      Additional Protocol II of 1977, on internal conflicts.
+    - >-
+      Hague Convention IV of 1907 and its Regulations.
+    - >-
+      The four Geneva Conventions of 1949.
+  correct: 3
+  explanation: >-
+    Israel has been a party to the Geneva Conventions since 1951; it is not a party to the Additional Protocols or Hague Convention IV, which bind it only as custom.
+- id: m15-004
+  module: 15
+  lesson: "15.1"
+  subject: treaty-vs-custom
+  difficulty: 2
+  question: >-
+    Why do careful writers cite ICRC customary Rule 14 rather than only Article 51(5)(b) of AP I when writing about an Israeli attack?
+  options:
+    - >-
+      AP I was repealed when the ICRC published its customary study in 2005.
+    - >-
+      Israel is not a party to AP I, so the rule binds it only as custom.
+    - >-
+      Rule 14 is stricter than AP I and so always favours the petitioners.
+    - >-
+      Israeli courts are allowed to quote only ICRC publications on IHL.
+  correct: 1
+  explanation: >-
+    Treaty status matters: AP I binds Israel only where it reflects custom. Rule 14 states proportionality as customary law.
+- id: m15-005
+  module: 15
+  lesson: "15.1"
+  subject: treaty-vs-custom
+  difficulty: 2
+  question: >-
+    Israel's government says it views Hague Convention IV, to which it is not a party, as what?
+  options:
+    - >-
+      A non-binding guideline that Israel follows only as a matter of policy.
+    - >-
+      Reflecting customary law, so its provisions bind Israel.
+    - >-
+      A treaty that applies only to wars between European states.
+    - >-
+      An obsolete instrument fully replaced by the Geneva Conventions.
+  correct: 1
+  explanation: >-
+    Israel's 2015 report (n. 397) says Israel views the Convention as reflecting custom and so binding on it; the Supreme Court also treats the Regulations as custom.
+- id: m15-006
+  module: 15
+  lesson: "15.1"
+  subject: distinction
+  difficulty: 1
+  question: >-
+    According to customary Rule 6, when do civilians lose protection from attack?
+  options:
+    - >-
+      Whenever they live in a building that an armed group also uses.
+    - >-
+      Once they express public support for an armed group or its aims.
+    - >-
+      When they are close relatives of members of an armed group.
+    - >-
+      Unless and for such time as they take a direct part in hostilities.
+  correct: 3
+  explanation: >-
+    Rule 6: civilians are protected "unless and for such time as they take a direct part in hostilities".
+- id: m15-007
+  module: 15
+  lesson: "15.1"
+  subject: distinction
+  difficulty: 2
+  question: >-
+    A bridge carries both civilian traffic and weapons. Which test decides whether it is a military objective?
+  options:
+    - >-
+      Rule 8: its contribution to military action and the definite advantage.
+    - >-
+      Whether most of the traffic crossing it is civilian on an average day.
+    - >-
+      Whether the bridge was originally built by the army or by civilians.
+    - >-
+      Whether the enemy has declared the bridge a protected cultural site.
+  correct: 0
+  explanation: >-
+    Rule 8 looks at nature, location, purpose or use, effective contribution and definite military advantage "in the circumstances ruling at the time".
+- id: m15-008
+  module: 15
+  lesson: "15.1"
+  subject: proportionality
+  difficulty: 1
+  question: >-
+    What two things does the proportionality rule compare?
+  options:
+    - >-
+      The number of soldiers on each side and the weapons they use.
+    - >-
+      The total harm suffered by each side over the whole conflict.
+    - >-
+      Expected civilian harm and anticipated military advantage.
+    - >-
+      Civilian deaths in the area before and after the attack.
+  correct: 2
+  explanation: >-
+    Rule 14 prohibits attacks where expected incidental harm would be excessive in relation to the concrete and direct military advantage anticipated.
+- id: m15-009
+  module: 15
+  lesson: "15.1"
+  subject: proportionality
+  difficulty: 2
+  question: >-
+    An analyst says proportionality must be judged "over the whole war". What is the problem with this?
+  options:
+    - >-
+      The rule applies only to the first attack launched in a conflict.
+    - >-
+      The rule compares only military losses and ignores civilian harm.
+    - >-
+      The rule applies only after an international court rules on the war.
+    - >-
+      The rule applies attack by attack, to expected harm and advantage.
+  correct: 3
+  explanation: >-
+    Rule 14 speaks of "an attack" and its anticipated "concrete and direct" advantage; overall war aims are a different question.
+- id: m15-010
+  module: 15
+  lesson: "15.1"
+  subject: precautions
+  difficulty: 1
+  question: >-
+    Which customary rule requires effective advance warning of attacks that may affect civilians?
+  options:
+    - >-
+      Rule 1, in every attack without any exception.
+    - >-
+      Rule 97, but only for attacks on residential buildings.
+    - >-
+      Rule 20, unless circumstances do not permit.
+    - >-
+      Common Article 3, but only in occupied territory.
+  correct: 2
+  explanation: >-
+    Rule 20 requires effective advance warning "unless circumstances do not permit".
+- id: m15-011
+  module: 15
+  lesson: "15.1"
+  subject: precautions
+  difficulty: 2
+  question: >-
+    An armed group places a weapons store inside a residential block. Which customary rules does this raise for the group?
+  options:
+    - >-
+      Rule 22 on protecting civilians, and possibly Rule 97 on human shields.
+    - >-
+      Rule 14 on proportionality, which binds only the defending party in war.
+    - >-
+      Rule 20 on warnings, which the group must give to the attacking army.
+    - >-
+      No rule at all, because IHL binds only states and never armed groups.
+  correct: 0
+  explanation: >-
+    The defender must take feasible precautions to protect civilians under its control (Rule 22); using civilians to shield military objectives is prohibited (Rule 97).
+- id: m15-012
+  module: 15
+  lesson: "15.1"
+  subject: jus-ad-bellum-vs-in-bello
+  difficulty: 2
+  question: >-
+    A statement says: "Because our war is one of self-defence, every strike we make is lawful." What is the legal error?
+  options:
+    - >-
+      Self-defence is never a lawful reason for any state to use force.
+    - >-
+      It merges jus ad bellum with jus in bello; each strike must meet IHL.
+    - >-
+      IHL applies only to the party that started the conflict, not to others.
+    - >-
+      Self-defence makes proportionality apply only to enemy soldiers.
+  correct: 1
+  explanation: >-
+    A lawful resort to force does not make each attack lawful; distinction, proportionality and precautions apply to every party.
+- id: m15-013
+  module: 15
+  lesson: "15.1"
+  subject: conflict-classification
+  difficulty: 2
+  question: >-
+    How did Israel's government describe the classification of its conflict with armed groups in Gaza in November 2023?
+  options:
+    - >-
+      Debated, while applying the rules of both IAC and NIAC in practice.
+    - >-
+      A purely internal law-enforcement operation that falls outside IHL.
+    - >-
+      An international armed conflict governed by AP I as a treaty.
+    - >-
+      An occupation governed only by the Fourth Geneva Convention.
+  correct: 0
+  explanation: >-
+    The MFA's Key Legal Aspects paper says classification has been debated and that Israel applies the rules governing both IAC and NIAC, including distinction, precautions and proportionality.
+- id: m15-014
+  module: 15
+  lesson: "15.1"
+  subject: conflict-classification
+  difficulty: 3
+  question: >-
+    Lawyers dispute whether a conflict is international or non-international. For an analysis of one airstrike, why might it matter less than people think?
+  options:
+    - >-
+      Neither kind of armed conflict has any rules about airstrikes.
+    - >-
+      Distinction, proportionality and precautions apply in both kinds.
+    - >-
+      Only the international kind has any rules protecting civilians.
+    - >-
+      Classification affects only prisoners of war and never targeting.
+  correct: 1
+  explanation: >-
+    The ICRC study marks these rules [IAC/NIAC]; classification matters for other issues such as status and detention.
+- id: m15-015
+  module: 15
+  lesson: "15.1"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does the Hebrew term "השתתפות ישירה בלחימה" mean?
+  options:
+    - >-
+      Military necessity in occupied territory.
+    - >-
+      Belligerent occupation of territory.
+    - >-
+      Direct participation in hostilities.
+    - >-
+      Incidental harm to civilian objects.
+  correct: 2
+  explanation: >-
+    It is the concept in Rule 6 and in the Targeted Killings ruling: civilians lose protection only while taking a direct part.
+- id: m15-016
+  module: 15
+  lesson: "15.1"
+  subject: distinction
+  difficulty: 3
+  question: >-
+    A writer says a strike on a TV station was lawful "because the station supports the enemy's propaganda". What is the strongest neutral response?
+  options:
+    - >-
+      Media buildings are always military objectives once a war begins.
+    - >-
+      Media buildings can never be attacked under any circumstances at all.
+    - >-
+      The answer depends only on who owns the station and its licence.
+    - >-
+      Ask whether its use made an effective contribution to military action.
+  correct: 3
+  explanation: >-
+    Rule 8 requires an effective contribution to military action and a definite advantage; general support or propaganda is widely disputed as a basis. State the test and the facts it needs.
+- id: m15-017
+  module: 15
+  lesson: "15.1"
+  subject: proportionality
+  difficulty: 3
+  question: >-
+    After an attack, more civilians died than the commander expected. Under the approach Israel's government sets out, how is lawfulness judged?
+  options:
+    - >-
+      By the final death toll, compared with the enemy's own losses.
+    - >-
+      Only by an international court, and never by the state itself.
+    - >-
+      By what a reasonable commander could anticipate at the time.
+    - >-
+      By whether the attack actually achieved its intended military aim.
+  correct: 2
+  explanation: >-
+    Israel's 2015 report (para. 332) and the MFA's 2023 paper describe a forward-looking, conduct-oriented test; critics argue outcomes can still be evidence of what was expected.
+- id: m15-018
+  module: 15
+  lesson: "15.1"
+  subject: treaty-vs-custom
+  difficulty: 3
+  question: >-
+    A petition to an Israeli court relies on a rule found in AP I. What should the petitioner add to make the argument usable?
+  options:
+    - >-
+      Evidence or a ruling that the rule is customary.
+    - >-
+      A statement that Israel signed AP I, which makes it fully binding.
+    - >-
+      A General Assembly resolution approving AP I for all member states.
+    - >-
+      Nothing, because Israeli courts apply every IHL treaty directly.
+  correct: 0
+  explanation: >-
+    Customary law is part of Israeli law (lesson 13.5); a rule in a treaty Israel did not join must be shown to be custom.
+- id: m15-019
+  module: 15
+  lesson: "15.1"
+  subject: precautions
+  difficulty: 3
+  question: >-
+    An attacker could hit the same military objective with a smaller weapon at night, when fewer civilians are present. Which rule does this raise?
+  options:
+    - >-
+      Rule 1: the basic distinction between civilians and combatants.
+    - >-
+      Rule 97: the prohibition of using civilians as human shields.
+    - >-
+      Rule 6: when civilians take a direct part in hostilities.
+    - >-
+      Rule 17: feasible precautions in choosing means and methods.
+  correct: 3
+  explanation: >-
+    Rule 17 requires feasible precautions in the choice of means and methods to avoid or minimise incidental harm.
+- id: m15-020
+  module: 15
+  lesson: "15.2"
+  subject: occupation-test
+  difficulty: 1
+  question: >-
+    Under Hague Regulations art. 42, when is territory considered occupied?
+  options:
+    - >-
+      When a peace treaty later assigns it to the stronger state.
+    - >-
+      When it is actually under the authority of the hostile army.
+    - >-
+      When the UN General Assembly declares that it is occupied.
+    - >-
+      When the army has stayed there for more than one full year.
+  correct: 1
+  explanation: >-
+    Art. 42 is a factual test: actual authority of the hostile army, extending only where that authority is established and can be exercised.
+- id: m15-021
+  module: 15
+  lesson: "15.2"
+  subject: occupation-test
+  difficulty: 2
+  question: >-
+    An army controls a town's outskirts but cannot enter its centre, which the local authority still runs. Under art. 42, what follows?
+  options:
+    - >-
+      The whole town is occupied because its outskirts are occupied.
+    - >-
+      Occupation extends only where its authority can be exercised.
+    - >-
+      Nothing is occupied until the whole town has been taken.
+    - >-
+      Occupation depends only on whether the army intends to stay.
+  correct: 1
+  explanation: >-
+    Art. 42's second paragraph: occupation "extends only to the territory where such authority has been established and can be exercised".
+- id: m15-022
+  module: 15
+  lesson: "15.2"
+  subject: occupation-test
+  difficulty: 2
+  question: >-
+    What distinguishes the functional approach to occupation from the binary approach?
+  options:
+    - >-
+      It treats any control of a border as full occupation of the whole area.
+    - >-
+      It ends occupation as soon as any local authority exists in the area.
+    - >-
+      It looks only at the occupant's declared intentions, not at control.
+    - >-
+      Duties tied to functions still controlled continue after withdrawal.
+  correct: 3
+  explanation: >-
+    Under the functional approach, obligations follow the degree of control retained; the binary approach asks only whether the territory is occupied or not.
+- id: m15-023
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 1
+  question: >-
+    Which Hague Regulation obliges the occupant to restore and ensure public order and safety?
+  options:
+    - >-
+      Article 43.
+    - >-
+      Article 46.
+    - >-
+      Article 52.
+    - >-
+      Article 55.
+  correct: 0
+  explanation: >-
+    Art. 43 also requires respect for the laws in force unless absolutely prevented.
+- id: m15-024
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 1
+  question: >-
+    Under Hague Regulations art. 46, what is the rule on private property in occupied territory?
+  options:
+    - >-
+      It may be confiscated for the occupant's own citizens.
+    - >-
+      It may be confiscated if compensation is paid later.
+    - >-
+      It must be respected and cannot be confiscated.
+    - >-
+      It is protected only if registered before occupation.
+  correct: 2
+  explanation: >-
+    Art. 46: private property must be respected; "Private property cannot be confiscated." Requisition is a separate, limited power (art. 52).
+- id: m15-025
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 2
+  question: >-
+    A requisition order seizes private land to build a road for a new civilian neighbourhood. Under which rule is the order most exposed?
+  options:
+    - >-
+      Art. 55: the occupant may use private land as usufructuary.
+    - >-
+      Art. 43: public order justifies any civilian construction.
+    - >-
+      GC IV art. 59: relief schemes allow the seizure of land.
+    - >-
+      Art. 52: requisition only for the needs of the army.
+  correct: 3
+  explanation: >-
+    Requisition is limited to the army's needs; the Supreme Court cancelled a requisition for a civilian settlement in Elon Moreh.
+- id: m15-026
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 2
+  question: >-
+    Under art. 55, what is the occupant's role regarding public buildings, forests and state land of the occupied territory?
+  options:
+    - >-
+      Owner, free to sell the property to private buyers at will.
+    - >-
+      Trustee holding the property only for its own citizens.
+    - >-
+      Administrator and usufructuary, who must safeguard the capital.
+    - >-
+      None at all: public property falls outside the Regulations.
+  correct: 2
+  explanation: >-
+    Art. 55: the occupant is "only … administrator and usufructuary" and must safeguard the capital.
+- id: m15-027
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 2
+  question: >-
+    The population of an occupied area is inadequately supplied. What does GC IV art. 59 require of the occupant?
+  options:
+    - >-
+      To agree to relief schemes and facilitate them by all means.
+    - >-
+      To supply everything itself and refuse any outside relief.
+    - >-
+      Nothing, unless the Security Council orders relief first.
+    - >-
+      To allow relief only from states it has relations with.
+  correct: 0
+  explanation: >-
+    Art. 59 requires the occupant to agree to and facilitate relief schemes; art. 55 adds a duty to ensure food and medical supplies to the fullest extent of its means.
+- id: m15-028
+  module: 15
+  lesson: "15.2"
+  subject: settlements-art49
+  difficulty: 1
+  question: >-
+    What does the sixth paragraph of GC IV art. 49 say?
+  options:
+    - >-
+      The occupant may move its own citizens into the territory after one year.
+    - >-
+      The occupant shall not deport or transfer parts of its own civilians into the territory.
+    - >-
+      Protected persons may be deported from the territory for security reasons.
+    - >-
+      The occupant must build housing in the territory for its own citizens.
+  correct: 1
+  explanation: >-
+    This is the provision at the centre of the settlement debate; its interpretation is contested.
+- id: m15-029
+  module: 15
+  lesson: "15.2"
+  subject: settlements-art49
+  difficulty: 2
+  question: >-
+    How does Israel's government read GC IV art. 49(6), according to the MFA page archived in 2016?
+  options:
+    - >-
+      It targets forced transfers, not voluntary settlement.
+    - >-
+      It covers every move of any citizen into any occupied area.
+    - >-
+      It was never actually part of the Fourth Geneva Convention.
+    - >-
+      It applies only to Gaza and not to Judea and Samaria.
+  correct: 0
+  explanation: >-
+    The MFA argued that voluntary settlement does not match the forced transfers art. 49(6) contemplated; the ICJ read it to cover measures that organise or encourage transfers.
+- id: m15-030
+  module: 15
+  lesson: "15.2"
+  subject: settlements-art49
+  difficulty: 2
+  question: >-
+    How did the ICJ read GC IV art. 49(6) in 2004?
+  options:
+    - >-
+      As covering only forced deportations like those of the Second World War.
+    - >-
+      As covering any measures to organise or encourage transfers.
+    - >-
+      As inapplicable where the territory had no prior lawful sovereign.
+    - >-
+      As applying only once a final peace treaty has been signed.
+  correct: 1
+  explanation: >-
+    Para. 120 of the 2004 opinion; Israel's government reads the provision more narrowly. Report both.
+- id: m15-031
+  module: 15
+  lesson: "15.2"
+  subject: west-bank-positions
+  difficulty: 2
+  question: >-
+    Which statement accurately describes the Supreme Court's position on the West Bank?
+  options:
+    - >-
+      Sovereign Israeli territory, to which all Israeli legislation applies in full.
+    - >-
+      Occupied, with GC IV applied in full as a treaty incorporated by statute.
+    - >-
+      Held in belligerent occupation; GC IV's humanitarian parts applied by declaration.
+    - >-
+      Non-justiciable, so the Court applies no law there at all.
+  correct: 2
+  explanation: >-
+    Mara'abe para. 14: held in belligerent occupation; the State declared it practises the humanitarian parts of GC IV, and the Court did not re-examine the formal question.
+- id: m15-032
+  module: 15
+  lesson: "15.2"
+  subject: west-bank-positions
+  difficulty: 2
+  question: >-
+    What term does Israel's government use for the legal status of the West Bank, according to its 2016 MFA page?
+  options:
+    - >-
+      Occupied Palestinian Territory, to be returned without talks.
+    - >-
+      Annexed territory that is part of the State of Israel.
+    - >-
+      Territory placed under United Nations trusteeship.
+    - >-
+      Territory over which there are competing claims.
+  correct: 3
+  explanation: >-
+    The MFA wrote that the West Bank "is best regarded as territory over which there are competing claims"; others call it occupied. Attribute the term you use.
+- id: m15-033
+  module: 15
+  lesson: "15.2"
+  subject: east-jerusalem
+  difficulty: 2
+  question: >-
+    How do Israeli law and the ICJ differ on East Jerusalem?
+  options:
+    - >-
+      Both treat it as occupied territory under the Fourth Convention.
+    - >-
+      Both treat it as part of Israel since the 1980 Basic Law.
+    - >-
+      Israeli law treats it as part of Israel; the ICJ, as occupied.
+    - >-
+      Israeli law treats it as occupied; the ICJ, as Israeli territory.
+  correct: 2
+  explanation: >-
+    Basic Law: Jerusalem s. 1 declares Jerusalem, complete and united, the capital; the ICJ (2004, 2024) treats East Jerusalem as occupied.
+- id: m15-034
+  module: 15
+  lesson: "15.2"
+  subject: gaza-status
+  difficulty: 2
+  question: >-
+    In Al-Bassiouni (2008), from what did the Supreme Court derive Israel's main obligations toward Gaza's residents?
+  options:
+    - >-
+      The armed conflict, control of the crossings, and Gaza's dependence.
+    - >-
+      The law of belligerent occupation, applied in full to the whole Strip.
+    - >-
+      Only Israel's interim agreements with the Palestinian Authority.
+    - >-
+      Only the human-rights treaties that Israel has ratified.
+  correct: 0
+  explanation: >-
+    Para. 12 lists these three sources and finds no general duty under occupation law since 2005.
+- id: m15-035
+  module: 15
+  lesson: "15.2"
+  subject: gaza-status
+  difficulty: 2
+  question: >-
+    What did the ICJ find in 2024 about the effect of Israel's 2005 withdrawal from Gaza?
+  options:
+    - >-
+      It ended every obligation of Israel toward Gaza and its people.
+    - >-
+      It turned Gaza into Israeli sovereign territory under the law.
+    - >-
+      It turned Gaza into a territory administered by the UN.
+    - >-
+      Obligations remain, matching its degree of effective control.
+  correct: 3
+  explanation: >-
+    Paras 93–94 of the 2024 opinion; Israel's government and Supreme Court say there is no effective control.
+- id: m15-036
+  module: 15
+  lesson: "15.2"
+  subject: gaza-status
+  difficulty: 3
+  question: >-
+    A writer cites the ICJ's 2025 opinion to say Israel's occupation duties in Gaza are "exactly as in 2005". What is inaccurate?
+  options:
+    - >-
+      The 2025 opinion said nothing at all about the Gaza Strip.
+    - >-
+      The Court found control and duties increased after 7 October 2023.
+    - >-
+      The 2025 opinion found that Israel had no obligations in Gaza.
+    - >-
+      The 2025 opinion was a judgment in a contentious case.
+  correct: 1
+  explanation: >-
+    Paras 85–87: since 7 October 2023 Israel's effective control, and with it its obligations, "increased significantly".
+- id: m15-037
+  module: 15
+  lesson: "15.2"
+  subject: gaza-status
+  difficulty: 3
+  question: >-
+    Sean Watts (Lieber Institute, 2025) commented on the ICJ's approach to Gaza. Which description is accurate?
+  options:
+    - >-
+      He argued that the ICJ should have applied full occupation law everywhere.
+    - >-
+      He questioned the legal basis of applying duties "à la carte".
+    - >-
+      He argued that IHL does not apply in the Gaza Strip at all.
+    - >-
+      He endorsed the Court's approach without any reservation.
+  correct: 1
+  explanation: >-
+    Watts accepted occupation of some territory as reasonable but warned the functional approach can be used selectively and that its basis is unclear.
+- id: m15-038
+  module: 15
+  lesson: "15.2"
+  subject: occupant-duties
+  difficulty: 3
+  question: >-
+    Under GC IV art. 6, which provisions continue to apply in an occupation that lasts beyond a year after military operations end?
+  options:
+    - >-
+      None: the whole Convention ceases one year after operations.
+    - >-
+      Only the articles that deal with prisoners of war.
+    - >-
+      Every article without exception, whether or not it governs.
+    - >-
+      Listed articles, such as 47, 49, 53 and 59, while it governs.
+  correct: 3
+  explanation: >-
+    Art. 6(3) keeps a listed set of articles in force while the occupant exercises the functions of government.
+- id: m15-039
+  module: 15
+  lesson: "15.2"
+  subject: attribution
+  difficulty: 1
+  question: >-
+    Which sentence is written neutrally?
+  options:
+    - >-
+      "The ICJ found GC IV applicable; Israel disputes de jure application."
+    - >-
+      "The territories are occupied, as everyone in the world knows."
+    - >-
+      "The territories are disputed, so the Convention is irrelevant."
+    - >-
+      "Only the ICJ's view matters in international law, nobody else's."
+  correct: 0
+  explanation: >-
+    Neutral writing attributes each contested position to whoever holds it.
+- id: m15-040
+  module: 15
+  lesson: "15.2"
+  subject: attribution
+  difficulty: 2
+  question: >-
+    Which sentence uses each actor's terms correctly?
+  options:
+    - >-
+      "The so-called territories, which are obviously Israeli land, …"
+    - >-
+      "The occupied territories, which Israel falsely calls disputed, …"
+    - >-
+      "What Israel calls Judea and Samaria, and the ICJ the OPT, …"
+    - >-
+      "The territories, which have no legal status of any kind, …"
+  correct: 2
+  explanation: >-
+    Report each actor's terminology in its name; do not adopt one as your own.
+- id: m15-041
+  module: 15
+  lesson: "15.2"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "תפיסה לוחמתית" mean?
+  options:
+    - >-
+      Requisition for military needs.
+    - >-
+      The 2005 disengagement.
+    - >-
+      Effective advance warning.
+    - >-
+      Belligerent occupation.
+  correct: 3
+  explanation: >-
+    It is the term Israeli courts use for the law of occupation.
+- id: m15-042
+  module: 15
+  lesson: "15.3"
+  subject: hcj-framework
+  difficulty: 1
+  question: >-
+    Which three layers of law does the Supreme Court apply to the military commander in the territories?
+  options:
+    - >-
+      Only the Jordanian law that was in force in the area in June 1967.
+    - >-
+      Only Knesset legislation, applied directly to the territories.
+    - >-
+      Hague custom, GC IV's humanitarian parts, administrative law.
+    - >-
+      Only UN Security Council resolutions on the territories.
+  correct: 2
+  explanation: >-
+    This is the framework in Mara'abe and Beit Sourik; local law also continues under art. 43.
+- id: m15-043
+  module: 15
+  lesson: "15.3"
+  subject: hcj-framework
+  difficulty: 2
+  question: >-
+    What are the three proportionality subtests the Court applied in Beit Sourik?
+  options:
+    - >-
+      Rational connection, least harmful means, narrow proportionality.
+    - >-
+      Legality, necessity, and prior approval by the Knesset committee.
+    - >-
+      Military advantage, civilian harm, and the state of public opinion.
+    - >-
+      Authority, good faith, and reasonableness of the commander.
+  correct: 0
+  explanation: >-
+    Paras 40–44 of Beit Sourik; the same three subtests are taught in lesson 03.3.
+- id: m15-044
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 1
+  question: >-
+    What did the Supreme Court hold in Elon Moreh (1979)?
+  options:
+    - >-
+      Every settlement in the territories is unlawful under GC IV.
+    - >-
+      Requisition for a civilian settlement served no military need.
+    - >-
+      The commander may requisition land for any public purpose.
+    - >-
+      The Hague Regulations do not apply in the territories at all.
+  correct: 1
+  explanation: >-
+    The order was cancelled under the Hague Regulations; GC IV art. 49 was not enforced as domestic law.
+- id: m15-045
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 1
+  question: >-
+    What did the Court hold in Public Committee Against Torture v. Israel (1999)?
+  options:
+    - >-
+      No physical means without clear legislative authorisation.
+    - >-
+      Physical pressure is lawful whenever an interrogator thinks it necessary.
+    - >-
+      Security-service interrogations are outside judicial review.
+    - >-
+      The necessity defence authorises interrogation methods in advance.
+  correct: 0
+  explanation: >-
+    The necessity defence may arise only in criminal proceedings afterwards; it cannot authorise methods in advance.
+- id: m15-046
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 2
+  question: >-
+    In Ajuri (2002), when may the commander assign a person's residence under GC IV art. 78?
+  options:
+    - >-
+      Whenever it would deter others, even if he is not dangerous.
+    - >-
+      Only if the person himself presents a real danger.
+    - >-
+      Only with the written consent of the person's family.
+    - >-
+      Never, because art. 78 does not apply in the territories.
+  correct: 1
+  explanation: >-
+    Deterring others is not enough; the measure is "harsh" and for extreme cases.
+- id: m15-047
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 2
+  question: >-
+    In Mara'abe (2005), why did the Alfei Menashe enclave route fail?
+  options:
+    - >-
+      The route had no security purpose of any kind.
+    - >-
+      The Court followed the ICJ and cancelled the whole barrier.
+    - >-
+      A less harmful route had not been properly explored.
+    - >-
+      The route crossed the Green Line, which is always unlawful.
+  correct: 2
+  explanation: >-
+    The Court found a rational connection but that the necessary effort to find a less harmful alternative was not made (the second subtest).
+- id: m15-048
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 2
+  question: >-
+    What did the Court hold about targeted killings in HCJ 769/02 (2006)?
+  options:
+    - >-
+      Always prohibited, as extrajudicial executions in every case.
+    - >-
+      Always permitted against members of armed groups, at any time.
+    - >-
+      A political question that the Court will not review at all.
+    - >-
+      Neither always prohibited nor always permitted; each case examined.
+  correct: 3
+  explanation: >-
+    The Court set conditions: direct participation, proportionality, careful verification and independent review afterwards.
+- id: m15-049
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 2
+  question: >-
+    What was the outcome of Silwad (2020) on the Settlement Regularization Law?
+  options:
+    - >-
+      Upheld as within the Knesset's authority to legislate.
+    - >-
+      The Court held the Knesset may never legislate on the territories.
+    - >-
+      Struck down 8–1 for violating rights under a Basic Law.
+    - >-
+      Dismissed because the petitioners lacked standing to sue.
+  correct: 2
+  explanation: >-
+    The majority (President Hayut) used constitutional grounds; Justice Sohlberg dissented.
+- id: m15-050
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 2
+  question: >-
+    In HCJ 2280/24 (Gisha, March 2025), what did the Court find about Gaza during the war?
+  options:
+    - >-
+      No occupation; duties from the laws of war and administrative law.
+    - >-
+      Full occupation, so Israel had to supply all the aid itself.
+    - >-
+      No jurisdiction at all over humanitarian aid to Gaza.
+    - >-
+      A breach of the prohibition on starvation as a method of war.
+  correct: 0
+  explanation: >-
+    As reported by INSS and the Lieber Institute; the petition on humanitarian aid was dismissed.
+- id: m15-051
+  module: 15
+  lesson: "15.3"
+  subject: hcj-critiques
+  difficulty: 2
+  question: >-
+    Which is a critique that the Court does too little, correctly attributed?
+  options:
+    - >-
+      Kohelet Policy Forum: the Court uses international law too broadly.
+    - >-
+      Justice Sohlberg: settlement is a proper legislative purpose.
+    - >-
+      The State: the Court should defer to military judgment.
+    - >-
+      Hostovsky Brandes: Silwad avoided the Knesset-authority question.
+  correct: 3
+  explanation: >-
+    The other three are critiques or positions from the opposite direction.
+- id: m15-052
+  module: 15
+  lesson: "15.3"
+  subject: hcj-critiques
+  difficulty: 2
+  question: >-
+    Which is a critique that the Court does too much, correctly attributed?
+  options:
+    - >-
+      Pomson (2025): Gisha did not engage the ICJ's functional approach.
+    - >-
+      Kohelet (2025): the Court uses international law too broadly.
+    - >-
+      Hostovsky Brandes (2020): Silwad avoided the Knesset's authority.
+    - >-
+      Kretzmer (2012): the record on settlements needs critical review.
+  correct: 1
+  explanation: >-
+    Report both directions, each attributed.
+- id: m15-053
+  module: 15
+  lesson: "15.3"
+  subject: hcj-framework
+  difficulty: 2
+  question: >-
+    How does the Court treat the ICJ's 2004 opinion, according to Mara'abe para. 74?
+  options:
+    - >-
+      As binding res judicata on every segment of the barrier.
+    - >-
+      Full weight to the norms, but it examines each segment itself.
+    - >-
+      As irrelevant, because Israel did not consent to the proceedings.
+    - >-
+      As binding only after the Knesset approves it by law.
+  correct: 1
+  explanation: >-
+    The ICJ's conclusion rested on a different factual basis and does not oblige the Court to find every segment unlawful.
+- id: m15-054
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 3
+  question: >-
+    A human-rights group wants to cite Al-Bassiouni to show that Israel must ensure full welfare in Gaza. Why is that a weak use of the ruling?
+  options:
+    - >-
+      The ruling concerned the West Bank and not the Gaza Strip.
+    - >-
+      The ruling was overturned by the ICJ in its 2024 opinion.
+    - >-
+      The ruling concerned prisoners of war and not supplies.
+    - >-
+      It found no general welfare duty, only essential humanitarian needs.
+  correct: 3
+  explanation: >-
+    Para. 12 rejects a general welfare duty under occupation law; use the ruling for what it held.
+- id: m15-055
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 3
+  question: >-
+    A news report gives a case number and holding for a Hebrew-only 2025 judgment. What should you do before citing it as a holding?
+  options:
+    - >-
+      Read the judgment, or say you rely on a named secondary source.
+    - >-
+      Cite the report as the holding, since news reports are official.
+    - >-
+      Translate the headline into Hebrew and cite that as the holding.
+    - >-
+      Assume that the holding matches what the petitioners requested.
+  correct: 0
+  explanation: >-
+    Record the source you actually read; mark secondary accounts as such.
+- id: m15-056
+  module: 15
+  lesson: "15.3"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "תיחום מגורים" refer to?
+  options:
+    - >-
+      A requisition order for private land.
+    - >-
+      The route of the separation barrier.
+    - >-
+      Assigned residence under GC IV art. 78.
+    - >-
+      A targeted killing operation.
+  correct: 2
+  explanation: >-
+    Ajuri dealt with assigned residence of relatives of suspected militants.
+- id: m15-057
+  module: 15
+  lesson: "15.3"
+  subject: hcj-framework
+  difficulty: 3
+  question: >-
+    In Beit Sourik, how did the Court treat the commander's view that the route was needed for security?
+  options:
+    - >-
+      It rejected military expertise and drew its own route on the map.
+    - >-
+      It refused to consider any security evidence from the State.
+    - >-
+      It treated the commander's view as final on every question.
+    - >-
+      It accepted the security purpose, then decided proportionality itself.
+  correct: 3
+  explanation: >-
+    Para. 45: the Court assumed a security motive, gave weight to military expertise on effectiveness, and decided proportionality itself.
+- id: m15-058
+  module: 15
+  lesson: "15.3"
+  subject: hcj-rulings
+  difficulty: 1
+  question: >-
+    Which ruling concerned the supply of fuel and electricity to Gaza in 2007–2008?
+  options:
+    - >-
+      Beit Sourik v. Government of Israel.
+    - >-
+      Ajuri v. IDF Commander.
+    - >-
+      Al-Bassiouni v. Prime Minister.
+    - >-
+      Silwad Municipality v. Knesset.
+  correct: 2
+  explanation: >-
+    HCJ 9132/07: the Court dismissed the petition, requiring that essential humanitarian needs be met.
+- id: m15-059
+  module: 15
+  lesson: "15.4"
+  subject: icj-2004
+  difficulty: 1
+  question: >-
+    By what vote did the ICJ find in 2004 that the wall and its associated régime were contrary to international law?
+  options:
+    - >-
+      Fourteen votes to one.
+    - >-
+      Eleven votes to four.
+    - >-
+      Ten votes to one.
+    - >-
+      Unanimously, fifteen to none.
+  correct: 0
+  explanation: >-
+    Para. 163(3)A; Judge Buergenthal voted against.
+- id: m15-060
+  module: 15
+  lesson: "15.4"
+  subject: icj-2004
+  difficulty: 2
+  question: >-
+    What did the ICJ say in 2004 about Israel's reliance on self-defence under Charter art. 51 for the wall?
+  options:
+    - >-
+      That self-defence justified the whole route of the wall.
+    - >-
+      Not relevant, since the threat came from territory Israel controls.
+    - >-
+      That self-defence applies only to attacks by other states' armies.
+    - >-
+      That the question fell outside the General Assembly's request.
+  correct: 1
+  explanation: >-
+    Para. 139; Judge Buergenthal criticised the Court for not examining the facts on self-defence and security.
+- id: m15-061
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 1
+  question: >-
+    Which UN body requested the 2024 advisory opinion?
+  options:
+    - >-
+      The General Assembly, by resolution 77/247.
+    - >-
+      The Security Council, by resolution 2334.
+    - >-
+      The Human Rights Council, by resolution S-30/1.
+    - >-
+      South Africa, in its genocide case.
+  correct: 0
+  explanation: >-
+    Advisory opinions are requested by authorised UN organs; this one by GA resolution 77/247 (lesson 13.4).
+- id: m15-062
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    In 2024, by what vote did the ICJ say Israel must cease new settlement activity and evacuate settlers?
+  options:
+    - >-
+      Eleven votes to four.
+    - >-
+      Fourteen votes to one.
+    - >-
+      Twelve votes to three.
+    - >-
+      Ten votes to one.
+  correct: 1
+  explanation: >-
+    Para. 285(5), with Vice-President Sebutinde against; the "unlawful presence" finding was 11–4.
+- id: m15-063
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    What did the ICJ say in 2024 about the duty of other states?
+  options:
+    - >-
+      Impose economic sanctions on Israel (11–4).
+    - >-
+      Send forces to end the occupation (14–1).
+    - >-
+      Non-recognition and no aid or assistance (12–3).
+    - >-
+      Nothing: the opinion addressed only Israel.
+  correct: 2
+  explanation: >-
+    Para. 285(7). It does not mention sanctions; describe the finding in its own words.
+- id: m15-064
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    Which judges voted against the finding that Israel's continued presence is unlawful?
+  options:
+    - >-
+      Buergenthal, Higgins, Owada, Simma and Koroma.
+    - >-
+      Salam, Nolte, Cleveland and Tladi.
+    - >-
+      Only Vice-President Sebutinde.
+    - >-
+      Sebutinde, Tomka, Abraham and Aurescu.
+  correct: 3
+  explanation: >-
+    Para. 285(3) was adopted 11 to 4.
+- id: m15-065
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    Why did Judges Tomka, Abraham and Aurescu reject the "unlawful presence" finding?
+  options:
+    - >-
+      They thought Israel's policies in the territories were all lawful.
+    - >-
+      They thought the Court had no jurisdiction to give any opinion.
+    - >-
+      It mixed occupation-conduct rules with use-of-force rules.
+    - >-
+      They denied that the Palestinian people have self-determination.
+  correct: 2
+  explanation: >-
+    The joint opinion also says security and the Oslo framework were not duly considered; it agrees with much of the opinion, including the art. 49 breach and self-determination.
+- id: m15-066
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 3
+  question: >-
+    A pro-Palestinian group says the 2024 opinion "ordered sanctions and immediate withdrawal". What is accurate?
+  options:
+    - >-
+      It advised an end "as rapidly as possible" and non-recognition.
+    - >-
+      It ordered Security Council sanctions within thirty days.
+    - >-
+      It ordered immediate withdrawal in a binding judgment.
+    - >-
+      It asked South Africa to enforce the opinion on behalf of the UN.
+  correct: 0
+  explanation: >-
+    Advisory opinions do not order; quote paras 285(4) and (7) as they are, and note there is no mention of sanctions.
+- id: m15-067
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    What did Israel's 2023 Written Statement argue about the request for the 2024 opinion?
+  options:
+    - >-
+      Israel accepts the Court's jurisdiction and welcomes the questions.
+    - >-
+      Only the Security Council may ask for any advisory opinion.
+    - >-
+      The questions should have concerned the Gaza Strip only.
+    - >-
+      It distorts history and law and bypasses agreed negotiations.
+  correct: 3
+  explanation: >-
+    The statement calls the request "an abuse of international law and the judicial process" and stresses Israeli–Palestinian agreements and security.
+- id: m15-068
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 2
+  question: >-
+    What did Shany and Cohen (Lawfare, 2024) observe about the 2024 opinion?
+  options:
+    - >-
+      That the opinion was unanimous on every single point.
+    - >-
+      Deep disagreement under the consensus; little weight to security.
+    - >-
+      That the opinion was a binding judgment against Israel.
+    - >-
+      That the Court refused to discuss the settlements at all.
+  correct: 1
+  explanation: >-
+    They also note the gap in reasoning on the "unlawful presence" finding discussed by others.
+- id: m15-069
+  module: 15
+  lesson: "15.4"
+  subject: icj-2024
+  difficulty: 3
+  question: >-
+    Milanovic (ICLQ, 2025) and the Tomka–Abraham–Aurescu joint opinion both discuss the "unlawful presence" finding. How do they differ?
+  options:
+    - >-
+      Both reject the conclusion, and for the very same reasons.
+    - >-
+      Milanovic supports it, finding reasons thin; the judges reject it.
+    - >-
+      Both support the conclusion, without any criticism at all.
+    - >-
+      Milanovic rejects the conclusion; the joint opinion supports it.
+  correct: 1
+  explanation: >-
+    Present both: a scholar who defends the outcome with reservations, and judges who reject it.
+- id: m15-070
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 1
+  question: >-
+    Which judge voted against most findings of the 2025 advisory opinion?
+  options:
+    - >-
+      Judge Thomas Buergenthal.
+    - >-
+      President Nawaf Salam.
+    - >-
+      Judge Ronny Abraham.
+    - >-
+      Vice-President Sebutinde.
+  correct: 3
+  explanation: >-
+    Findings (3)(b) and (4)–(8) were adopted ten votes to one, with Vice-President Sebutinde against.
+- id: m15-071
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 2
+  question: >-
+    Which findings of the 2025 opinion were unanimous?
+  options:
+    - >-
+      Essential supplies, relief workers, ICRC visits, transfer, starvation.
+    - >-
+      The duty to facilitate relief through UNRWA in particular.
+    - >-
+      The duty to respect UN privileges and immunities in the territory.
+    - >-
+      Israel's duty to cooperate in good faith with UNRWA.
+  correct: 0
+  explanation: >-
+    Para. 223(3)(a), (c)–(f) were unanimous; UNRWA-related findings were 10–1.
+- id: m15-072
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 2
+  question: >-
+    What did the 2025 opinion say about security as a ground for limiting IHL obligations?
+  options:
+    - >-
+      Security concerns override all IHL obligations in wartime.
+    - >-
+      Security concerns are irrelevant to an occupying power.
+    - >-
+      Not a free-standing exception; limits need a specific rule.
+    - >-
+      Security concerns may be assessed only by the Security Council.
+  correct: 2
+  explanation: >-
+    Paras 88–90; Vice-President Sebutinde argued the Court did not sufficiently consider Israel's stated security concerns.
+- id: m15-073
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 2
+  question: >-
+    What did the 2025 opinion find about Israel's allegations concerning UNRWA?
+  options:
+    - >-
+      UNRWA had lost its neutrality and must be replaced at once.
+    - >-
+      The Court refused to address UNRWA in any part of the opinion.
+    - >-
+      UNRWA is bound by Israeli law as a domestic Israeli body.
+    - >-
+      Lack of neutrality not established; staff claims unsubstantiated.
+  correct: 3
+  explanation: >-
+    Paras 110–124 (summary); the Court also said an occupant may in principle choose its relief partners. Israel rejected these conclusions.
+- id: m15-074
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 3
+  question: >-
+    How did Vice-President Sebutinde's separate opinion in 2025 criticise the majority?
+  options:
+    - >-
+      It should have found Israel responsible for genocide.
+    - >-
+      It lacked jurisdiction because Israel is not a UN member.
+    - >-
+      It underweighted Israel's security concerns and urban warfare.
+    - >-
+      It should have ordered UNRWA to leave Gaza immediately.
+  correct: 2
+  explanation: >-
+    As summarised by the Court; she also stressed the question's narrow scope, human shields, and the risk of prejudging pending cases.
+- id: m15-075
+  module: 15
+  lesson: "15.4"
+  subject: south-africa-v-israel
+  difficulty: 1
+  question: >-
+    What kind of proceeding is South Africa v. Israel?
+  options:
+    - >-
+      A contentious case under the Genocide Convention.
+    - >-
+      An advisory opinion requested by the General Assembly.
+    - >-
+      A criminal trial of individual leaders at the ICJ.
+    - >-
+      An inquiry of the UN Human Rights Council.
+  correct: 0
+  explanation: >-
+    It rests on Art. IX of the Genocide Convention (lesson 13.4); individuals are tried at the ICC, not the ICJ (Module 16).
+- id: m15-076
+  module: 15
+  lesson: "15.4"
+  subject: south-africa-v-israel
+  difficulty: 2
+  question: >-
+    As of October 2026, what is the procedural stage of South Africa v. Israel?
+  options:
+    - >-
+      Oral hearings on the merits are now under way.
+    - >-
+      The written phase, with a Reply and Rejoinder to come.
+    - >-
+      Judgment on the merits was delivered in 2025.
+    - >-
+      South Africa has withdrawn the case from the Court.
+  correct: 1
+  explanation: >-
+    The case page shows the 21 May 2026 order fixing time-limits for a Reply and Rejoinder, and no merits hearing.
+- id: m15-077
+  module: 15
+  lesson: "15.4"
+  subject: south-africa-v-israel
+  difficulty: 2
+  question: >-
+    Which statement about interventions in South Africa v. Israel is accurate as of October 2026?
+  options:
+    - >-
+      Many Art. 63 declarations; Colombia withdrew its own in 2026.
+    - >-
+      No state has intervened in the case at any stage.
+    - >-
+      Only Arab League states have intervened in the case.
+    - >-
+      All interventions were rejected by the Court in 2024.
+  correct: 0
+  explanation: >-
+    Declarations in March 2026 included Paraguay, the Netherlands, Iceland, Namibia, the United States, Hungary and Fiji; Colombia withdrew on 22 September 2026.
+- id: m15-078
+  module: 15
+  lesson: "15.4"
+  subject: attribution
+  difficulty: 3
+  question: >-
+    You are writing a short news explainer on the 2024 opinion. Which element is most often missing and most needed for neutrality?
+  options:
+    - >-
+      The judges' nationalities, ages and earlier careers.
+    - >-
+      The main dissent on the point and Israel's dated response.
+    - >-
+      A forecast of what the Security Council will do next.
+    - >-
+      Your own view of which side is right on the merits.
+  correct: 1
+  explanation: >-
+    Rules 3 and 4 of the five writing rules: give the disagreement and the State's position with sources.
+- id: m15-079
+  module: 15
+  lesson: "15.4"
+  subject: icj-2004
+  difficulty: 3
+  question: >-
+    What did Judge Buergenthal agree with in 2004, despite voting against?
+  options:
+    - >-
+      That the wall was lawful in every one of its segments.
+    - >-
+      That the Court had no jurisdiction to give the opinion.
+    - >-
+      That IHL, GC IV included, and human-rights law apply there.
+    - >-
+      That Israel is not an occupying power in the territory.
+  correct: 2
+  explanation: >-
+    His declaration (para. 2) accepts applicability; he objected to findings made without examining security facts.
+- id: m15-080
+  module: 15
+  lesson: "15.4"
+  subject: icj-2025
+  difficulty: 1
+  question: >-
+    Which body requested the 2025 advisory opinion on Israel's obligations concerning the UN and others?
+  options:
+    - >-
+      The Security Council, by resolution 2334.
+    - >-
+      UNRWA, by a letter to the Court's Registrar.
+    - >-
+      The Human Rights Council, by a special session.
+    - >-
+      The General Assembly, by resolution 79/232.
+  correct: 3
+  explanation: >-
+    Only authorised UN organs request advisory opinions (lesson 13.4).
+- id: m15-081
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 1
+  question: >-
+    What is the first step of the six-step incident method?
+  options:
+    - >-
+      The conclusion first, then the facts that support it.
+    - >-
+      The applicable framework, before looking at any facts.
+    - >-
+      Facts: a timeline with each fact's source and status.
+    - >-
+      The competing interpretations of the relevant rules.
+  correct: 2
+  explanation: >-
+    Facts come first; the conclusion comes last and is limited by the evidence.
+- id: m15-082
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 1
+  question: >-
+    In the facts table, what three statuses can a fact have?
+  options:
+    - >-
+      Established, claimed by a named source, or unknown.
+    - >-
+      True, false, or propaganda from one of the parties.
+    - >-
+      Legal, illegal, or still waiting to be decided.
+    - >-
+      Primary, secondary, or tertiary in importance.
+  correct: 0
+  explanation: >-
+    Recording who claims what keeps the analysis neutral.
+- id: m15-083
+  module: 15
+  lesson: "15.5"
+  subject: source-grading
+  difficulty: 1
+  question: >-
+    What is a typical weakness of a casualty figure published by an authority run by one party?
+  options:
+    - >-
+      It is always fabricated and must be ignored.
+    - >-
+      It is legally binding on every court.
+    - >-
+      It is always lower than the real number.
+    - >-
+      It may not separate civilians from fighters.
+  correct: 3
+  explanation: >-
+    Grade every source by who produced it and how; do not dismiss or adopt it automatically.
+- id: m15-084
+  module: 15
+  lesson: "15.5"
+  subject: source-grading
+  difficulty: 2
+  question: >-
+    A video released by the attacking army shows the strike but not the moments before. How do you grade it?
+  options:
+    - >-
+      It proves that the target was a military objective.
+    - >-
+      It fixes time and place, not what the attacker knew.
+    - >-
+      It proves that no warning was given to the residents.
+    - >-
+      It has no value at all, because the army released it.
+  correct: 1
+  explanation: >-
+    Party material can establish some facts and leave others open; record which.
+- id: m15-085
+  module: 15
+  lesson: "15.5"
+  subject: source-grading
+  difficulty: 2
+  question: >-
+    Satellite images published two days after a strike show a destroyed building. What can they establish?
+  options:
+    - >-
+      Exactly who was inside the building at the time of the strike.
+    - >-
+      The destruction and its rough timing, not who was inside.
+    - >-
+      Whether a warning was given and how long before the strike.
+    - >-
+      The attacker's intelligence picture before the strike.
+  correct: 1
+  explanation: >-
+    Open-source material can fix time and place; intent and occupancy need other evidence.
+- id: m15-086
+  module: 15
+  lesson: "15.5"
+  subject: evidence-gaps
+  difficulty: 2
+  question: >-
+    Which evidence would best help decide the proportionality question in an invented strike?
+  options:
+    - >-
+      The total number of strikes in the conflict that month.
+    - >-
+      Public opinion polls in both countries after the strike.
+    - >-
+      The political affiliation of the building's owner.
+    - >-
+      The attacker's collateral-damage estimate at the time.
+  correct: 3
+  explanation: >-
+    Rule 14 turns on expected harm and anticipated advantage at the time.
+- id: m15-087
+  module: 15
+  lesson: "15.5"
+  subject: evidence-gaps
+  difficulty: 2
+  question: >-
+    Residents say there was no warning; the army says it phoned. Which evidence would help most?
+  options:
+    - >-
+      Call records, timing, and whether residents understood.
+    - >-
+      The army's general policy on warnings, without any call data.
+    - >-
+      The political views of the residents who were interviewed.
+    - >-
+      The number of rockets fired from the area that day.
+  correct: 0
+  explanation: >-
+    Whether a warning was effective (Rule 20) depends on how, when and to whom it was given.
+- id: m15-088
+  module: 15
+  lesson: "15.5"
+  subject: competing-interpretations
+  difficulty: 2
+  question: >-
+    Israel's government and the 2015 UN Commission disagree about "roof knocking". What is the dispute about?
+  options:
+    - >-
+      Whether IHL requires any warnings at all before attacks.
+    - >-
+      Whether the Commission had any jurisdiction over Israel.
+    - >-
+      Whether it is an effective warning: understanding and time.
+    - >-
+      Whether IHL applies in the Gaza Strip in the first place.
+  correct: 2
+  explanation: >-
+    Israel's report calls it a highly effective precaution; the Commission said it cannot be considered an effective warning. Present both.
+- id: m15-089
+  module: 15
+  lesson: "15.5"
+  subject: competing-interpretations
+  difficulty: 3
+  question: >-
+    How can a pattern of strikes on residential buildings be used in an analysis without contradicting the prospective proportionality test?
+  options:
+    - >-
+      As proof in itself that every strike was disproportionate.
+    - >-
+      Not at all, because patterns are always legally irrelevant.
+    - >-
+      Only if the attacking state itself admits the pattern.
+    - >-
+      As attributed evidence of what the attacker could expect.
+  correct: 3
+  explanation: >-
+    The UN Commission reasoned from patterns; Israel's government stresses the commander's view at the time. Both accept the test is prospective.
+- id: m15-090
+  module: 15
+  lesson: "15.5"
+  subject: limited-conclusion
+  difficulty: 2
+  question: >-
+    What makes a limited conclusion useful rather than evasive?
+  options:
+    - >-
+      It avoids mentioning any rule of IHL by name.
+    - >-
+      It repeats both parties' statements without comment.
+    - >-
+      It names the evidence that would decide each rule.
+    - >-
+      It states the analyst's political view openly.
+  correct: 2
+  explanation: >-
+    A limited conclusion is precise about what is known, unknown and decisive.
+- id: m15-091
+  module: 15
+  lesson: "15.5"
+  subject: limited-conclusion
+  difficulty: 3
+  question: >-
+    Your analysis concludes that an invented strike "may have complied" with IHL. A colleague wants "complied". When would that change be justified?
+  options:
+    - >-
+      When independent evidence settles use, expected harm and warning.
+    - >-
+      When the attacking army issues a second, more detailed statement.
+    - >-
+      When most media outlets have accepted the army's account.
+    - >-
+      Never, because an IHL analysis may not conclude anything.
+  correct: 0
+  explanation: >-
+    Strengthen a conclusion only as the evidence establishes the facts each rule needs.
+- id: m15-092
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 2
+  question: >-
+    In the invented Kessar incident, why does the analysis also examine the Valley Front?
+  options:
+    - >-
+      The defender's conduct makes the attack automatically lawful.
+    - >-
+      Rules 22 and 97 bind the defender, whatever the attacker did.
+    - >-
+      Only armed groups are bound by IHL in conflicts of this kind.
+    - >-
+      The defender must give warnings to the attacking army.
+  correct: 1
+  explanation: >-
+    Both parties' duties are engaged; one party's breach does not cancel the other's obligations.
+- id: m15-093
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 2
+  question: >-
+    When troops face a crowd at an aid convoy, why might the analysis consider a law-enforcement standard as well as hostilities rules?
+  options:
+    - >-
+      Force against people not fighting may fall under that standard.
+    - >-
+      Law-enforcement rules replace IHL in every armed conflict.
+    - >-
+      Hostilities rules never apply near humanitarian convoys.
+    - >-
+      Crowds near convoys are always treated as combatants.
+  correct: 0
+  explanation: >-
+    Sassòli's lecture on IHL and human rights explains when each model applies; writers disagree at the edges, so state both.
+- id: m15-094
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 3
+  question: >-
+    Your analysis concerns a real, named incident. What does the course's method require?
+  options:
+    - >-
+      Publish a verdict as soon as one NGO report confirms it.
+    - >-
+      Map the debate and gaps; publish no verdict on named people.
+    - >-
+      Interview witnesses in the conflict area to verify the facts.
+    - >-
+      Treat the official statement of your own state as decisive.
+  correct: 1
+  explanation: >-
+    Fieldwork in conflict zones is out of scope, and the course does not reach conclusions on real incidents.
+- id: m15-095
+  module: 15
+  lesson: "15.5"
+  subject: source-grading
+  difficulty: 3
+  question: >-
+    An NGO report relies on six witnesses, four of whom support one version. How should this be recorded?
+  options:
+    - >-
+      As established fact, because a majority of witnesses agree.
+    - >-
+      As worthless, because NGOs are always partisan sources.
+    - >-
+      As NGO-gathered witness accounts, with the split noted.
+    - >-
+      As the official finding of an independent inquiry.
+  correct: 2
+  explanation: >-
+    Record the method and the split; corroboration is needed before a fact is established.
+- id: m15-096
+  module: 15
+  lesson: "15.5"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What is "נזק נלווה" in English?
+  options:
+    - >-
+      Direct participation in hostilities.
+    - >-
+      Effective advance warning.
+    - >-
+      A lawful military objective.
+    - >-
+      Incidental (collateral) harm.
+  correct: 3
+  explanation: >-
+    It is the harm weighed in the proportionality rule.
+- id: m15-097
+  module: 15
+  lesson: "15.5"
+  subject: attribution
+  difficulty: 2
+  question: >-
+    Which sentence fits step 5 of the method (competing interpretations)?
+  options:
+    - >-
+      "The truth is obviously X, whatever the other side says."
+    - >-
+      "Both sides lie, so the rules cannot be applied at all."
+    - >-
+      "Israel's 2015 report says X; the 2015 Commission says Y."
+    - >-
+      "The Commission is biased, so only Israel's view counts."
+  correct: 2
+  explanation: >-
+    Each reading is stated fairly and attributed; the analyst does not choose.
+- id: m15-098
+  module: 15
+  lesson: "15.5"
+  subject: incident-method
+  difficulty: 3
+  question: >-
+    In a fairness review, a party's representative objects to a sentence that is accurate but unwelcome. What do you do?
+  options:
+    - >-
+      Keep it if accurate and attributed; fix only what is unfair.
+    - >-
+      Delete it so that both sides are kept equally happy.
+    - >-
+      Replace it with the representative's preferred wording.
+    - >-
+      Add your own opinion next to it to balance it out.
+  correct: 0
+  explanation: >-
+    The review fixes unfairness, not discomfort.
+- id: m15-099
+  module: 15
+  lesson: "15.5"
+  subject: evidence-gaps
+  difficulty: 3
+  question: >-
+    Which evidence gap is least likely to become public, and how should the analysis handle it?
+  options:
+    - >-
+      Satellite images: assume the worst for the attacker instead.
+    - >-
+      Casualty names: assume that all the dead were fighters.
+    - >-
+      The time of the strike: leave it out of the analysis.
+    - >-
+      The attacker's intelligence: name it and show what depends on it.
+  correct: 3
+  explanation: >-
+    Name the gap, say who holds it and how it affects each rule.
+- id: m15-100
+  module: 15
+  lesson: "15.5"
+  subject: limited-conclusion
+  difficulty: 1
+  question: >-
+    Which of these is a limited conclusion?
+  options:
+    - >-
+      "This was clearly a war crime, as anyone can see."
+    - >-
+      "Lawfulness cannot yet be determined; it depends on X and Y."
+    - >-
+      "This was clearly lawful, as the army has explained."
+    - >-
+      "No conclusion is possible about anything in war."
+  correct: 1
+  explanation: >-
+    It states what the evidence supports and what would decide the question.

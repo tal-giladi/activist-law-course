@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    Two hours after a strike, an army statement says the target was a command post, and the local health
+    office reports seven dead. In your facts table, how do you record these two items?
+  options:
+    - >-
+      Both as established, since each one comes from an official body.
+    - >-
+      The army's claim as established and the casualty figure as unknown.
+    - >-
+      The casualty figure as established and the army's claim as unknown.
+    - >-
+      Both as "claimed by" their source until other evidence settles them.
+  correct: 3
+  explanation: >-
+    Each is an interested party's account. Record who said it and when, and look for independent
+    corroboration before marking anything as established.
+- id: q2
+  question: >-
+    A draft analysis says: "Eleven civilians died, so the attack was disproportionate." Which step of the
+    method does this skip?
+  options:
+    - >-
+      The evidence-gaps step: what harm was expected and what advantage was anticipated at the time.
+    - >-
+      The framework step: proportionality applies only in international armed conflicts.
+    - >-
+      The facts step: casualty figures can never be used in an IHL analysis.
+    - >-
+      The interpretations step: proportionality is decided only by the attacking state.
+  correct: 0
+  explanation: >-
+    Rule 14 asks about expected harm and anticipated advantage. Outcomes are evidence, but the analysis must
+    list what is unknown about the attacker's expectations before concluding.
+- id: q3
+  question: >-
+    In an invented incident, the armed group stored rockets in the basement of an apartment building. A
+    reader says this makes any attack on the building lawful. What does a neutral analysis say?
+  options:
+    - >-
+      The reader is right: once a defender uses civilians as shields, the attacker's duties lapse.
+    - >-
+      The reader is wrong: an attack on a residential building is always prohibited.
+    - >-
+      Both parties' duties apply: Rules 22 and 97 for the group; Rules 1, 14, 15 for the attacker.
+    - >-
+      Only domestic criminal law applies, because the defender is not a state.
+  correct: 2
+  explanation: >-
+    The defender's breach does not remove the attacker's obligations; the building may be a military
+    objective, but proportionality and precautions still apply.
+- id: q4
+  question: >-
+    Israel's 2015 report calls "roof knocking" a highly effective precaution; the 2015 UN Commission said it
+    cannot be considered an effective warning. How should your section 6 present this?
+  options:
+    - >-
+      Choose the UN view, because a commission of inquiry is independent by definition.
+    - >-
+      State both, attributed, and note what facts each depends on: understanding and time to leave.
+    - >-
+      Choose Israel's view, because the attacking state knows best what it intended.
+    - >-
+      Leave it out, because warnings are not a legal requirement under IHL.
+  correct: 1
+  explanation: >-
+    Rule 20 requires effective advance warning unless circumstances do not permit. The dispute is partly
+    factual and partly about the standard, so report both readings with their sources.
+- id: q5
+  question: >-
+    Which conclusion is best written under the method?
+  options:
+    - >-
+      "The strike was clearly a war crime, as the images speak for themselves."
+    - >-
+      "The strike was clearly lawful, as the army has explained its reasons."
+    - >-
+      "We take no view and have no comment on the incident or the rules."
+    - >-
+      "Lawfulness cannot be determined yet; it turns on the target's use and the warning."
+  correct: 3
+  explanation: >-
+    A limited conclusion says what the evidence supports, what it does not, and what would decide it, without
+    adopting either party's account as fact.

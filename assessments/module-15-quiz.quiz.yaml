@@ -1,0 +1,172 @@
+- id: q1
+  question: >-
+    A human-rights group writes to an Israeli ministry that "Israel violated Article 51(5)(b) of Additional
+    Protocol I". A ministry lawyer will reply first that Israel is not a party. How should the group have
+    framed the point?
+  options:
+    - >-
+      As a breach of Common Article 3, which covers all attacks on civilians in any conflict.
+    - >-
+      As a breach of the Hague Regulations, which Israel ratified in 1907.
+    - >-
+      As a breach of the customary proportionality rule, which Israel says it abides by.
+    - >-
+      As a breach of the UN Charter, which incorporates AP I for all member states.
+  correct: 2
+  explanation: >-
+    AP I binds Israel only where it reflects custom. ICRC Rule 14 states proportionality as custom, and Israel's
+    government says it abides by applicable customary rules, so the point cannot be dismissed on treaty status.
+- id: q2
+  question: >-
+    A settlers' regional council and a Palestinian village council both petition the High Court in the same
+    month: one for road security, one against a land requisition. Which legal source can both of them use?
+  options:
+    - >-
+      The Hague Regulations as custom: art. 43 for one, arts 46 and 52 for the other.
+    - >-
+      The ICJ's 2024 opinion, which the Court treats as binding on the commander.
+    - >-
+      Security Council resolution 2334, which the Court applies as Israeli law.
+    - >-
+      GC IV art. 49(6), which the Court enforces directly as incorporated treaty law.
+  correct: 0
+  explanation: >-
+    The Supreme Court applies the Hague Regulations as customary law: art. 43 for the commander's duty of
+    order and safety (Mara'abe) and arts 46 and 52 for private property and requisition (Elon Moreh).
+- id: q3
+  question: >-
+    A journalist asks you for a one-line description of the legal status of Gaza "according to international
+    law". Which reply is accurate and neutral?
+  options:
+    - >-
+      "Gaza is occupied territory, as all courts agree."
+    - >-
+      "Gaza has not been occupied since 2005, as all courts agree."
+    - >-
+      "Gaza's status is a purely political matter that international law does not address."
+    - >-
+      "Israel and its courts say no occupation; the ICJ found duties matching control."
+  correct: 3
+  explanation: >-
+    The positions differ: the MFA and Al-Bassiouni (and Gisha 2025) say no effective control; the ICJ in 2024
+    and 2025 found obligations commensurate with Israel's control. Attribute each.
+- id: q4
+  question: >-
+    A barrier gate opens one hour a day and farmers cannot reach their groves at harvest. Which argument is most
+    likely to succeed at the High Court?
+  options:
+    - >-
+      The barrier is unlawful as a whole following the ICJ's 2004 opinion, so the gate must open permanently.
+    - >-
+      Under proportionality, a less harmful option (longer harvest hours) gives similar security.
+    - >-
+      The commander had no authority to build any barrier because the area is not Israeli territory.
+    - >-
+      The gate breaches GC IV art. 49(6), which the Court enforces as a treaty.
+  correct: 1
+  explanation: >-
+    Beit Sourik and Mara'abe review specific segments and arrangements under the three proportionality subtests;
+    a concrete, less harmful alternative is the argument the Court engages with.
+- id: q5
+  question: >-
+    A speaker says: "The ICJ decided by 14 to 1 in 2024 that the occupation itself is unlawful." What is the
+    accurate correction?
+  options:
+    - >-
+      The vote was unanimous; only Judge Sebutinde wrote a separate opinion.
+    - >-
+      "Unlawful presence" was 11–4; 14–1 was the vote on settlement activity.
+    - >-
+      The Court made no finding on the occupation, only on the wall.
+    - >-
+      The vote was 14–1, but in a contentious case, so the finding binds only Israel.
+  correct: 1
+  explanation: >-
+    Para. 285(3) was adopted 11 to 4; para. 285(5), on ceasing new settlement activities and evacuating settlers,
+    was adopted 14 to 1. Quote each finding with its own vote.
+- id: q6
+  question: >-
+    For a briefing paper you need Israel's official reaction to the 2025 advisory opinion on UNRWA. What is the
+    best source to quote?
+  options:
+    - >-
+      A comment by an MK on social media, since MKs represent the State.
+    - >-
+      The ICJ's summary, which records Israel's acceptance of the opinion.
+    - >-
+      An NGO report that summarises what Israel probably thinks.
+    - >-
+      Israel's statement to the General Assembly, October 2025, on the MFA legal site.
+  correct: 3
+  explanation: >-
+    Use the State's own dated statement: Israel told the General Assembly it "categorically rejects the advisory
+    opinion, particularly its conclusions concerning UNRWA".
+- id: q7
+  question: >-
+    In an invented scenario, a group fires rockets from beside a clinic, and the other side strikes the
+    launcher, damaging the clinic. Your draft analyses only the strike. What is missing?
+  options:
+    - >-
+      The defender's duties: precautions for civilians and the human-shields ban.
+    - >-
+      Nothing: IHL regulates only the party that carries out an airstrike.
+    - >-
+      A finding on which side started the war, which decides both sides' legal duties.
+    - >-
+      The domestic law of the place, which overrides IHL for non-state groups.
+  correct: 0
+  explanation: >-
+    Rules 22 and 97 bind the defender, and its own attacks are subject to distinction. The jus ad bellum
+    question does not change either side's IHL duties.
+- id: q8
+  question: >-
+    An army says it phoned a resident 20 minutes before a strike; two residents say no warning came. In your
+    analysis, what is the correct handling of the warning?
+  options:
+    - >-
+      Treat the army's account as established, because it holds the phone logs.
+    - >-
+      Treat the residents' account as established, because they were present.
+    - >-
+      Record both as claims, list the evidence that would settle it, and note Rule 20.
+    - >-
+      Leave warnings out, because IHL does not require them in any case.
+  correct: 2
+  explanation: >-
+    Disputed facts are recorded as claims with their sources; the evidence gap (call records, residents'
+    understanding, time to leave) decides whether Rule 20's "effective advance warning" was met.
+- id: q9
+  question: >-
+    A pro-Israel student society and a pro-Palestinian society ask you to describe Judges Tomka, Abraham and
+    Aurescu's joint opinion of 2024. Which sentence will both accept as accurate?
+  options:
+    - >-
+      "They rejected the opinion entirely and found Israel's policies lawful."
+    - >-
+      "They agreed with every single finding but objected to the Court's procedure."
+    - >-
+      "They found that the Court had no jurisdiction to give any opinion."
+    - >-
+      "They agreed settlements breach art. 49 but rejected 'unlawful presence'."
+  correct: 3
+  explanation: >-
+    The joint opinion endorses most of the findings on policies, including art. 49, but is "not convinced"
+    that Israel's continued presence is unlawful, citing security and the Oslo framework.
+- id: q10
+  question: >-
+    Your analysis of an invented strike ends: "On the public evidence the lawfulness cannot be determined; it
+    turns on the building's use at the time and the warning." A reader calls this "a cop-out". What is the
+    best response?
+  options:
+    - >-
+      Add the evidence that would decide each rule and what each outcome would mean.
+    - >-
+      Replace it with the conclusion your organisation's supporters expect.
+    - >-
+      Adopt the casualty figures as proof of disproportion, which settles it.
+    - >-
+      Adopt the army's statement as proof of a military objective, which settles it.
+  correct: 0
+  explanation: >-
+    A limited conclusion is correct when the evidence is incomplete; it becomes useful when it states what
+    evidence would decide each rule and what each finding would imply.

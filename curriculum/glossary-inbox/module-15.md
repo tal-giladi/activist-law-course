@@ -1,0 +1,34 @@
+# Glossary inbox — Module 15
+
+- **המשפט ההומניטרי הבינלאומי / דיני הלחימה** (hamishpat hahumanitari habeinleumi / dinei halechima) — International humanitarian law (IHL), also called the law of armed conflict (LOAC).
+- **סכסוך מזוין בינלאומי** (sichsuch mezuyan beinleumi) — International armed conflict (IAC), between states.
+- **סכסוך מזוין שאינו בינלאומי** (sichsuch mezuyan she'eino beinleumi) — Non-international armed conflict (NIAC), with or between organised armed groups.
+- **עקרון ההבחנה** (ikron havchana) — Principle of distinction: attacks only against combatants and military objectives.
+- **עקרון המידתיות (בדיני הלחימה)** (ikron hamidatiyut) — Proportionality in attack: expected incidental civilian harm must not be excessive in relation to the anticipated concrete and direct military advantage.
+- **אמצעי זהירות** (emtza'ei zehirut) — Precautions in attack and against the effects of attacks.
+- **מטרה צבאית** (matara tzva'it) — Military objective: an object whose nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage.
+- **השתתפות ישירה בלחימה** (hishtatfut yeshira belechima) — Direct participation in hostilities: civilians lose protection only for such time as they take part.
+- **הצדק במלחמה / הצדק לפתוח במלחמה** (hatzedek bamilchama / hatzedek liftoach bemilchama) — Jus in bello (conduct of war) / jus ad bellum (resort to force).
+- **תפיסה לוחמתית** (tfisa lochmatit) — Belligerent occupation, the Israeli legal term for the law of occupation.
+- **שליטה אפקטיבית** (shlita efektivit) — Effective control: the factual test for occupation (Hague Regulations art. 42).
+- **המעצמה הכובשת** (hama'atzama hakoveshet) — Occupying Power.
+- **מוגנים** (muganim) — Protected persons under the Fourth Geneva Convention, art. 4.
+- **תפיסה לצורך צבאי** (tfisa letzorech tzva'i) — Requisition for the needs of the army (Hague Regulations art. 52).
+- **העברת אוכלוסייה** (ha'avarat ochlusiya) — Transfer of population (Fourth Geneva Convention art. 49).
+- **שטח שנוי במחלוקת** (shetach shanuy bemachloket) — Disputed territory: the Israeli government's term for the legal status of the West Bank.
+- **ההתנתקות** (hahitnatkut) — The 2005 disengagement from the Gaza Strip.
+- **גדר ההפרדה** (geder hahafrada) — The separation barrier ("seam-zone obstacle").
+- **מבחני המידתיות** (mivchanei hamidatiyut) — The three proportionality subtests: rational connection, least harmful means, proportionality in the narrow sense.
+- **תיחום מגורים** (tichum megurim) — Assigned residence (Fourth Geneva Convention art. 78).
+- **סיכול ממוקד** (sikul memukad) — Targeted killing (a preventive strike against a specific person).
+- **חוק ההסדרה** (chok hahasdara) — The Settlement Regularization Law (2017), struck down by the Supreme Court in 2020.
+- **החלק האופרטיבי** (hachelek ha'operativi) — The operative part (dispositif) of an ICJ decision or opinion: the numbered conclusions and votes.
+- **דעה חולקת** (de'a choleket) — Dissenting opinion.
+- **נוכחות בלתי חוקית** (nochechut bilti chukit) — "Unlawful presence": the ICJ's 2024 finding on Israel's continued presence, contested by Israel and by four judges.
+- **סיפוח** (sipuach) — Annexation.
+- **חובת אי-הכרה** (chovat i-hakara) — Duty of non-recognition of an unlawful situation.
+- **פער ראייתי** (pa'ar re'ayati) — Evidence gap.
+- **נזק נלווה** (nezek nilve) — Incidental ("collateral") harm to civilians or civilian objects.
+- **המפקד הסביר** (hamefaked hasavir) — The "reasonable commander" standard for judging an attack on the information available at the time.
+- **אזהרה מוקדמת אפקטיבית** (azhara mukdemet efektivit) — Effective advance warning of attacks (customary Rule 20).
+- **מגן אנושי** (magen enoshi) — Human shield; the use of human shields is prohibited (customary Rule 97).

@@ -114,3 +114,10 @@
   - [74 · Special Procedures: Sending a Communication](lessons/module-14/lesson-04.md)
   - [75 · The Human Rights Council and Commissions of Inquiry](lessons/module-14/lesson-05.md)
   - [Module 14 quiz](assessments/module-14-quiz.md)
+- **Module 15 — Law of Armed Conflict and Occupation (about 16 hours)**
+  - [76 · The Basics of International Humanitarian Law](lessons/module-15/lesson-01.md)
+  - [77 · The Law of Occupation](lessons/module-15/lesson-02.md)
+  - [78 · The Israeli High Court on the Territories](lessons/module-15/lesson-03.md)
+  - [79 · ICJ Advisory Opinions and Israel's Positions](lessons/module-15/lesson-04.md)
+  - [80 · Analysing an Incident Under IHL, Neutrally](lessons/module-15/lesson-05.md)
+  - [Module 15 quiz](assessments/module-15-quiz.md)

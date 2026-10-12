@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A volunteer drafts a statement: "Under Article 57 of Additional Protocol I, Israel was obliged to warn
+    the residents." What is the most accurate fix before publishing?
+  options:
+    - >-
+      Keep it as it is, because every UN member is bound by AP I through the Charter.
+    - >-
+      Replace it with Article 49 of the Fourth Geneva Convention, which covers warnings.
+    - >-
+      Cite the customary rule on warnings (ICRC Rule 20), since Israel is not a party to AP I.
+    - >-
+      Drop the point, because warnings are a moral matter and not a legal obligation.
+  correct: 2
+  explanation: >-
+    Israel is not a party to AP I, so the provision binds it only as far as it reflects custom. The ICRC
+    customary Rule 20 requires effective advance warning unless circumstances do not permit.
+- id: q2
+  question: >-
+    Two activists argue. One says the strike was lawful "because the other side started the war". The other
+    says it was unlawful "because the war itself was aggression". What do both miss?
+  options:
+    - >-
+      Whether a specific attack is lawful is an IHL question, separate from who lawfully resorted to force.
+    - >-
+      Only the Security Council may decide whether an individual attack complied with IHL.
+    - >-
+      IHL applies only to the side that acted in self-defence, so the first activist is right.
+    - >-
+      IHL applies only after a formal declaration of war, so neither argument is relevant.
+  correct: 0
+  explanation: >-
+    Jus in bello applies equally to all parties whatever the answer on jus ad bellum. Distinction,
+    proportionality and precautions are assessed attack by attack.
+- id: q3
+  question: >-
+    An NGO report says a strike was "disproportionate because 12 civilians died". Under the customary rule,
+    what further question must the report address?
+  options:
+    - >-
+      Whether more than half of those killed were adults, which changes the legal threshold.
+    - >-
+      Whether the attacker later apologised, since an apology cures a breach of proportionality.
+    - >-
+      Whether the strike happened in an international rather than a non-international conflict.
+    - >-
+      What civilian harm was expected and what concrete and direct military advantage was anticipated.
+  correct: 3
+  explanation: >-
+    Rule 14 compares expected incidental harm with anticipated military advantage at the time of the
+    decision. Outcomes may be evidence, but the test is what was expected, and it applies in IAC and NIAC alike.
+- id: q4
+  question: >-
+    A group's spokesperson says the rules on distinction "do not apply because this is not a war between
+    states". How do you respond?
+  options:
+    - >-
+      Correct: in non-international conflicts only domestic criminal law applies.
+    - >-
+      Wrong: distinction applies in both international and non-international armed conflicts.
+    - >-
+      Correct, unless the armed group has signed the Geneva Conventions itself.
+    - >-
+      Wrong, but only because the Hague Regulations apply in every type of conflict.
+  correct: 1
+  explanation: >-
+    The ICRC marks Rule 1 (distinction) as applying in IAC and NIAC, and Common Article 3 binds every party to
+    a non-international armed conflict.
+- id: q5
+  question: >-
+    A building houses a family upstairs and, according to one side, a weapons store in the basement. Which
+    rule frames whether the building itself may be attacked?
+  options:
+    - >-
+      Rule 97 on human shields, which makes any building with civilians inside immune.
+    - >-
+      Common Article 3, which lists the objects that may lawfully be attacked.
+    - >-
+      Rule 8: its use, its contribution to military action and the definite advantage.
+    - >-
+      Rule 2 on terror, which bans attacks on any building where civilians live.
+  correct: 2
+  explanation: >-
+    Rule 8 defines military objectives by nature, location, purpose or use and definite military advantage.
+    If it is a military objective, proportionality and precautions still apply to the family upstairs.

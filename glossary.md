@@ -9,12 +9,14 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אגרת הפקה** (agrat hafaka) — FOI production fee, per page or disc.
 - **אגרת השתתפות** (agrat hishtatfut) — Participation fee paid by an approved Legal Aid applicant.
 - **אגרת טיפול** (agrat tipul) — FOI handling fee, charged per hour from the fourth hour.
+- **אזהרה מוקדמת אפקטיבית** (azhara mukdemet efektivit) — Effective advance warning of attacks (customary Rule 20).
 - **איזון אנכי / איזון אופקי** (izun anchi / izun ofki) — Vertical balance (right against public interest) / horizontal balance (right against another person's right).
 - **אימוץ בחקיקה** (imutz bechakika) — Incorporation of a treaty into Israeli law by legislation.
 - **איסור פרסום** (isur pirsum) — Publication ban (gag order).
 - **אישור מסירה** (ishur mesira) — Proof of delivery.
 - **אמנה** (amana) — Treaty (convention, covenant, agreement): a written agreement between states governed by international law.
 - **אמנת זכויות אדם** (amanat zchuyot adam) — Human-rights treaty (convention, covenant).
+- **אמצעי זהירות** (emtza'ei zehirut) — Precautions in attack and against the effects of attacks.
 - **אמצעי עזר** (emtza'ei ezer) — Subsidiary means: judicial decisions and scholarly writing, used to find the law.
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark in passing, not binding.
 - **אסיפה** (asefa) — Assembly: 50+ people gathered outdoors to hear a speech on a political matter (Police Ordinance s. 83).
@@ -50,6 +52,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בקשת רשות ערעור (בר״ע)** (bakashat reshut ir'ur) — Request for leave to appeal.
 - **בשלות** (bshelut) — Ripeness: whether a case is ready to be decided.
 - **בתמורה** (bitmura) — for payment or other consideration; the other trigger of s. 20.
+- **גדר ההפרדה** (geder hahafrada) — The separation barrier ("seam-zone obstacle").
 - **גוף מבוקר** (guf mevukar) — Audited body under s. 9 of the State Comptroller Law.
 - **גוף נילון** (guf nilon) — The body a complaint is about.
 - **גורם המפגע** (gorem hamifga) — The person or body causing an environmental hazard.
@@ -70,6 +73,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דין וחשבון נכון והוגן** (din vecheshbon nachon vehogen) — Fair and accurate report, a defence to incitement offences.
 - **דין רציפות** (din retzifut) — Continuity: reviving in the new Knesset a bill that passed its first reading in the outgoing one.
 - **דינו** (dino) — "his penalty is"; introduces a criminal penalty.
+- **דעה חולקת** (de'a choleket) — Dissenting opinion.
 - **דעה נעולה** (de'a ne'ula) — A closed mind: a decision made in advance, whatever is said.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority / minority opinion.
 - **דרך עיסוק** (derech isuk) — as an occupation; one trigger of the Bar Association Law s. 20 reservation.
@@ -82,6 +86,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הגשה מהירה** (hagasha mehira) — Quick filing in Net HaMishpat, without entering the case; cannot open a proceeding.
 - **ההליכים המיוחדים** (hahalichim hameyuchadim) — Special Procedures: independent experts appointed by the Human Rights Council.
 - **ההסכמים יש לקיימם** (hahaskamim yesh lekayemam) — Pacta sunt servanda: treaties in force must be performed in good faith.
+- **ההתנתקות** (hahitnatkut) — The 2005 disengagement from the Gaza Strip.
 - **הודעת הארכה** (hoda'at ha'arracha) — Written, reasoned notice extending an FOI deadline.
 - **הודעת עדכון** (hoda'at idkun) — Update notice, often filed by the State when it changes position.
 - **הוועדה לבחירת שופטים** (havaada livchirat shoftim) — The Judicial Selection Committee.
@@ -100,6 +105,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הזמנה לדין** (hazmana ladin) — Summons to the hearing.
 - **החלטה** (hachlata) — Decision: a ruling on an interim matter.
 - **החלטת הררי** (hachlatat Harari) — The Harari decision (13.6.1950): the constitution will be written chapter by chapter, each chapter a Basic Law.
+- **החלק האופרטיבי** (hachelek ha'operativi) — The operative part (dispositif) of an ICJ decision or opinion: the numbered conclusions and votes.
 - **הטרדה מאיימת** (hatrada me'ayemet) — Threatening harassment (stalking), including online (Prevention of Stalking Law s. 2).
 - **היוועצות בעורך דין** (hiva'atzut be'orech din) — Consulting a lawyer before or during interrogation.
 - **היחידה הממשלתית לחופש המידע** (hayechida hamemshaltit lechofesh hameida) — Government FOI Unit in the Ministry of Justice, supervising ministries and their units.
@@ -122,9 +128,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **המלצה נתמכת / המלצה שנרשמה** (hamlatza nitmechet / hamlatza shenirshema) — Supported / noted UPR recommendation.
 - **הממונה על המחוז** (hamemune al hamachoz) — District Commissioner of the Interior Ministry.
 - **הממונה על תלונות הציבור ברשות המקומית** (hamemune al tlunot hatzibur) — The local authority's Public Complaints Commissioner, usually its internal auditor.
+- **המעצמה הכובשת** (hama'atzama hakoveshet) — Occupying Power.
+- **המפקד הסביר** (hamefaked hasavir) — The "reasonable commander" standard for judging an attack on the information available at the time.
 - **המצאה** (hamtza'a) — Service of court documents.
 - **המרשם המשטרתי** (hamirsham hamishtarti) — Police register: open and closed files, stayed cases, acquittals.
 - **המרשם הפלילי** (hamirsham hapli'li) — Criminal register: convictions and some court orders.
+- **המשפט ההומניטרי הבינלאומי / דיני הלחימה** (hamishpat hahumanitari habeinleumi / dinei halechima) — International humanitarian law (IHL), also called the law of armed conflict (LOAC).
 - **המשפט המוניציפאלי** (hamishpat hamunitzipali) — Municipal (domestic) law, as opposed to international law.
 - **המתנגד העקבי** (hamitnaged ha'akavi) — Persistent objector: a state not bound by a customary rule it objected to while the rule was forming.
 - **הנדון** (hanadon) — "Re:", the subject line of a letter.
@@ -142,6 +151,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסתה לאלימות** (hasata le'alimut) — Incitement to violence (Penal Law s. 144ד2).
 - **הסתה לגזענות** (hasata legiz'anut) — Incitement to racism (Penal Law s. 144ב).
 - **הסתייגות** (histaygut) — Reservation: an amendment rejected in committee and attached to the bill for the second reading.
+- **העברת אוכלוסייה** (ha'avarat ochlusiya) — Transfer of population (Fourth Geneva Convention art. 49).
 - **העדפה מתקנת** (ha'adafa metakenet) — Affirmative action (Women's Equal Rights Law s. 1ב).
 - **הערות מסכמות** (he'arot mesakmot) — Concluding observations: a committee's findings and recommendations.
 - **העתק** (he'etek) — Copy (cc).
@@ -150,6 +160,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפקדה** (hafkada) — Deposit: publication of a plan for public objections.
 - **הפרעה לשוטר** (hafra'a leshoter) — Obstructing a police officer (Penal Law s. 275).
 - **הפרת הוראה חוקית** (hafarat hora'a chukit) — Breach of a lawful order (Penal Law s. 287).
+- **הצדק במלחמה / הצדק לפתוח במלחמה** (hatzedek bamilchama / hatzedek liftoach bemilchama) — Jus in bello (conduct of war) / jus ad bellum (resort to force).
 - **הצהרה לפי סעיף 36(2)** (hatzhara lefi se'if 36(2)) — Optional-clause declaration accepting the ICJ's compulsory jurisdiction (Israel has none in force).
 - **הצהרה פרשנית** (hatzhara parshanit) — Interpretative declaration: a state's statement of how it understands a treaty provision.
 - **הצטרפות** (hitztarfut) — Accession: joining a treaty without having signed it first.
@@ -163,6 +174,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הרכב** (herkev) — panel of judges.
 - **הרשות להגנת הפרטיות** (harashut lehaganat hapratiyut) — Privacy Protection Authority, Ministry of Justice.
 - **השגה** (hasaga) — Challenge to a national infrastructure plan (s. 76ג(8)).
+- **השתתפות ישירה בלחימה** (hishtatfut yeshira belechima) — Direct participation in hostilities: civilians lose protection only for such time as they take part.
 - **התאמות נגישות** (hat'amot negishut) — Accessibility adjustments.
 - **התוספת הראשונה** (hatosefet harishona) — First Schedule of the Administrative Courts Law: matters the Administrative Court hears.
 - **התוספת הרביעית** (hatosefet harevi'it) — Fourth Schedule: Judea and Samaria matters heard by the Administrative Court in Jerusalem.
@@ -188,6 +200,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **זכות השתיקה** (zchut hashtika) — Right to silence.
 - **זכות עיון** (zchut iyun) — Right of access to personal information about you held in a database (Privacy Law s. 13).
 - **זכות עמידה** (zchut amida) — Standing: the right to bring a case.
+- **חובת אי-הכרה** (chovat i-hakara) — Duty of non-recognition of an unlawful situation.
 - **חובת ההנמקה** (chovat hahanmaka) — The duty to give reasons.
 - **חוות דעת מייעצת** (chavat da'at meya'etzet) — Advisory opinion: the ICJ's answer to a legal question from an authorised UN body; not binding as such.
 - **חוסר אשמה** (choser ashma) — Lack of guilt: the closure ground that removes the police record.
@@ -197,6 +210,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חופש ההפגנה** (chofesh hahafgana) — Freedom of demonstration and assembly.
 - **חופש העיסוק** (chofesh ha'isuk) — Freedom of occupation.
 - **חוק** (chok) — law (statute) of the Knesset; under the Interpretation Law it also includes an ordinance.
+- **חוק ההסדרה** (chok hahasdara) — The Settlement Regularization Law (2017), struck down by the Supreme Court in 2020.
 - **חוק עזר** (chok ezer) — municipal by-law.
 - **חוק־יסוד** (chok yesod) — Basic Law.
 - **חוק־יסוד: החקיקה** (chok yesod: hachakika) — A proposed Basic Law on how laws and Basic Laws are made; not enacted.
@@ -254,8 +268,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מבא״ת / מידע תכנוני** (mavat) — The Planning Administration's national plan-information site.
 - **מבחן האמצעי שפגיעתו פחותה** (mivchan ha'emtza'i shepgi'ato pchuta) — Least harmful means test.
 - **מבחן הקשר הרציונלי** (mivchan hakesher harationali) — Rational connection test.
+- **מבחני המידתיות** (mivchanei hamidatiyut) — The three proportionality subtests: rational connection, least harmful means, proportionality in the narrow sense.
 - **מבקר הרשות** (mevaker harashut) — The local authority's internal auditor.
+- **מגן אנושי** (magen enoshi) — Human shield; the use of human shields is prohibited (customary Rule 97).
 - **מדינה ריבונית** (medina ribonit) — Sovereign state, the main subject of international law.
+- **מוגנים** (muganim) — Protected persons under the Fourth Geneva Convention, art. 4.
 - **מודעה מפלה** (moda'a mafla) — Discriminatory advertisement (services law s. 4).
 - **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
 - **מוסד תכנון** (mosad tichnun) — Planning institution: the National Council, a district committee, a local committee, an appeals committee or a special national committee.
@@ -265,6 +282,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מזכירות הוועדה / מנהל הוועדה** (mazkirut hava'ada / menahel hava'ada) — Committee secretariat / manager, who handles invitations and documents.
 - **מחוסר אמצעים** (mechusar emtza'im) — Without means: the economic test for a public defender.
 - **מחיקה על הסף** (mechika al hasaf) — Striking out a claim at the threshold (Civil Procedure Regulations, regs. 41–42).
+- **מטרה צבאית** (matara tzva'it) — Military objective: an object whose nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage.
 - **מי שעיסוקו** (mi she'isuko) — The person whose business it is: owner, holder, manager or person actually in charge (services law s. 3(ג)).
 - **מידע אישי** (meida ishi) — Personal information: any data about an identified or identifiable person (Privacy Law s. 3, Amendment 13).
 - **מידע בעל רגישות מיוחדת** (meida ba'al regishut meyuchedet) — Information of special sensitivity, including health, sex life, origin, criminal past and political opinions.
@@ -309,12 +327,14 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נוהג מדינות** (noheg medinot) — State practice: what states do and say, one element of custom.
 - **נוהל** (nohal) — internal procedure of a ministry or authority.
 - **נוטריון** (notaryon) — Notary: a senior lawyer with a special licence and regulated fees.
+- **נוכחות בלתי חוקית** (nochechut bilti chukit) — "Unlawful presence": the ICJ's 2024 finding on Israel's continued presence, contested by Israel and by four judges.
 - **נוסח חדש** (nusach chadash) — new version: an official Hebrew re-enactment of a Mandate ordinance; the binding text.
 - **נוסח משולב** (nusach meshulav) — Consolidated version: a law re-enacted with all its amendments merged.
 - **נוקשות יתירה / אי־צדק בולט** (nukshut yetera / i-tzedek bolet) — Excessive rigidity / flagrant injustice, grounds for an ombudsman complaint.
 - **נורמה קוגנטית (יוס קוגנס)** (norma kogentit, jus cogens) — Peremptory norm from which no derogation is permitted.
 - **נושא בעל עניין מדיני** (nose ba'al inyan medini) — Political matter, read narrowly as foreign relations and security.
 - **נושא חדש** (nose chadash) — "New topic": an amendment beyond the bill's subject, which the committee may not add (Rules s. 85).
+- **נזק נלווה** (nezek nilve) — Incidental ("collateral") harm to civilians or civilian objects.
 - **נט המשפט** (net hamishpat) — The courts' e-filing and case system.
 - **נטל ההוכחה** (netel hahochacha) — Burden of proof.
 - **נטל כבד מדי** (netel kaved midai) — Undue burden, a ground for exempting an accessibility adjustment (s. 19יג).
@@ -327,8 +347,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נציבות שוויון הזדמנויות בעבודה** (netzivut shivyon hizdamnuyot ba'avoda) — Equal Employment Opportunities Commission.
 - **נציבות שוויון זכויות לאנשים עם מוגבלות** (netzivut shivyon zchuyot la'anashim im mugbalut) — Commission for Equal Rights of Persons with Disabilities.
 - **נציג ציבור** (natzig tzibur) — Public representative: a committee member chosen by coalition or opposition MKs under the 2025 amendment.
+- **סיכול ממוקד** (sikul memukad) — Targeted killing (a preventive strike against a specific person).
 - **סילוק על הסף** (siluk al hasaf) — Dismissal in limine, without examining the merits.
 - **סימוכין** (simuchin) — Reference numbers of earlier letters.
+- **סיפוח** (sipuach) — Annexation.
+- **סכסוך מזוין בינלאומי** (sichsuch mezuyan beinleumi) — International armed conflict (IAC), between states.
+- **סכסוך מזוין שאינו בינלאומי** (sichsuch mezuyan she'eino beinleumi) — Non-international armed conflict (NIAC), with or between organised armed groups.
 - **סמכויות עזר** (samchuyot ezer) — Ancillary powers reasonably needed to carry out a granted power (Interpretation Law s. 17).
 - **סמכות עניינית** (samchut inyanit) — subject-matter jurisdiction.
 - **סמכות שיורית** (samchut shyurit) — The government's residual power to act for the state (Basic Law: The Government s. 32).
@@ -359,6 +383,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עיתונאות אחראית** (itona'ut achra'it) — Responsible journalism, recognised in Anonymous v. Orbach (CFH 2121/12).
 - **על אף / בכפוף ל…** (al af / bechafuf le…) — notwithstanding / subject to.
 - **עצרת עם** (atzeret am) — Public rally of 500+ people under the Public Places Safety Law; needs a 5-day notice.
+- **עקרון ההבחנה** (ikron havchana) — Principle of distinction: attacks only against combatants and military objectives.
+- **עקרון המידתיות (בדיני הלחימה)** (ikron hamidatiyut) — Proportionality in attack: expected incidental civilian harm must not be excessive in relation to the anticipated concrete and direct military advantage.
 - **עקרון חוקיות המינהל** (ikron chukiyut haminhal) — The principle of administrative legality: an authority may act only under a power given by law.
 - **עקרונות כלליים של המשפט** (ekronot klaliyim shel hamishpat) — General principles of law, the third source in Article 38(1)(c) of the ICJ Statute.
 - **ערבון / ערבות** (eravon / arvut) — Cash deposit / guarantee given for release.
@@ -391,6 +417,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause in a Basic Law.
 - **פסקת התגברות** (piskat hitgabrut) — Override clause: a law valid "notwithstanding" a Basic Law (exists only in Freedom of Occupation s. 8).
 - **פעולות תגמול** (pe'ulot tagmul) — Reprisals against people who cooperate with the UN.
+- **פער ראייתי** (pa'ar re'ayati) — Evidence gap.
 - **פקודה** (pkuda) — ordinance: a law from the British Mandate period or the first months of the state.
 - **פרוטוקול** (protokol) — The court's record of a hearing.
 - **פרוטוקול נלווה / פרוטוקול רשות** (protokol nilve / protokol reshut) — Optional protocol: a separate treaty that adds a procedure, such as individual complaints.
@@ -435,6 +462,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שדולה פרלמנטרית** (shdula parlamentarit) — Knesset caucus: MKs from different parties around a cause.
 - **שדלן** (shadlan) — Lobbyist: someone who, as an occupation or for payment, persuades MKs for a client (Knesset Law s. 65).
 - **שופט אד הוק** (shofet ad hoc) — Judge ad hoc: a judge a party appoints for its case when it has no national on the ICJ bench.
+- **שטח שנוי במחלוקת** (shetach shanuy bemachloket) — Disputed territory: the Israeli government's term for the legal status of the West Bank.
 - **שיהוי** (shihui) — Delay in filing a petition.
 - **שימוש חורג** (shimush chorig) — Non-conforming use permitted against a plan.
 - **שימוש לרעה בהליכי משפט** (shimush lera'a behalichei mishpat) — Abuse of process (Civil Procedure Regulations, reg. 4).
@@ -442,6 +470,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שיקול זר** (shikul zar) — Extraneous consideration: one outside the purpose of the law.
 - **שירות ציבורי** (sherut tziburi) — Public service as defined in the services law (s. 2) or the disability law (s. 19ה).
 - **שכר עדות** (schar edut) — Witness fee for lost time, deposited by the party who asks for the testimony.
+- **שליטה אפקטיבית** (shlita efektivit) — Effective control: the factual test for occupation (Hague Regulations art. 42).
 - **שמירת דינים** (shmirat dinim) — Preservation of laws: pre-1992 laws stay valid despite Basic Law: Human Dignity and Liberty (s. 10).
 - **שפיטות** (shfitut) — Justiciability: whether a matter is suitable for a court to decide (normative and institutional).
 - **שריון / סעיף משוריין** (shiryun / se'if meshuryan) — Entrenchment / an entrenched section that can be changed only by a special majority.
@@ -459,6 +488,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תחולה טריטוריאלית** (tchula teritoryalit) — Territorial scope of a treaty; disputed between Israel and the treaty bodies.
 - **תחולת יתר / תחולת חסר** (tchulat yeter / tchulat choser) — Over-inclusiveness / under-inclusiveness of a measure.
 - **תחילה** (tchila) — Commencement: the date a provision takes effect.
+- **תיחום מגורים** (tichum megurim) — Assigned residence (Fourth Geneva Convention art. 78).
 - **תיק סגור** (tik sagur) — Closed criminal file.
 - **תיקון המעוות** (tikun hame'uvat) — Order to restore the previous state (1992 Law s. 2).
 - **תיקון חוקה שאינו חוקתי** (tikun chuka she'eino chukati) — An "unconstitutional constitutional amendment".
@@ -472,6 +502,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תנאים של מקום, זמן ואופן** (tna'im shel makom, zman ve'ofen) — Time, place and manner conditions on a protest.
 - **תנאים שלא ממין העניין** (tna'im shelo min ha'inyan) — Irrelevant conditions, treated as discrimination.
 - **תעודת חיסיון** (te'udat chisayon) — Privilege certificate signed by a minister (Evidence Ordinance s. 44).
+- **תפיסה לוחמתית** (tfisa lochmatit) — Belligerent occupation, the Israeli legal term for the law of occupation.
+- **תפיסה לצורך צבאי** (tfisa letzorech tzva'i) — Requisition for the needs of the army (Hague Regulations art. 52).
 - **תצהיר** (tatzhir) — Affidavit: a written statement made after a warning to tell the truth.
 - **תצהיר תומך** (tatzhir tomech) — Supporting affidavit (Form 2).
 - **תקנון עבודת הממשלה** (takanon avodat hamemshala) — The Government's working regulations; s. 10 sets the procedure for ratifying treaties.

@@ -1,0 +1,82 @@
+- id: q1
+  question: >-
+    A newsletter says: "Even the judges who voted against the ICJ's 2024 opinion agreed that the occupation is
+    unlawful." What is accurate?
+  options:
+    - >-
+      Correct: the four judges dissented only on reparations, not on the occupation.
+    - >-
+      Wrong: the four judges agreed with the Court on every finding except jurisdiction.
+    - >-
+      Correct: all fifteen judges voted that the occupation itself is unlawful.
+    - >-
+      Wrong: three of them accepted the settlement breach but rejected the "unlawful presence" finding.
+  correct: 3
+  explanation: >-
+    Judges Tomka, Abraham and Aurescu agreed that the settlement practice breaches art. 49 but were "not
+    convinced" that Israel's continued presence is unlawful; the finding passed 11 to 4.
+- id: q2
+  question: >-
+    A student writes: "In 2024 the ICJ ordered Israel to withdraw immediately." Which correction is accurate?
+  options:
+    - >-
+      It was a binding judgment, but its deadline was twelve months, not immediate.
+    - >-
+      Advisory opinion: "as rapidly as possible"; "immediately" was about new settlements.
+    - >-
+      It was an advisory opinion that addressed only the wall, and not withdrawal.
+    - >-
+      It was a provisional-measures order in South Africa's case.
+  correct: 1
+  explanation: >-
+    Para. 285(4) speaks of ending the unlawful presence "as rapidly as possible"; para. 285(5) speaks of ceasing
+    "immediately" all new settlement activities. Neither is a binding order.
+- id: q3
+  question: >-
+    Which description of the 2025 advisory opinion on UNRWA and Israel's response is accurately attributed?
+  options:
+    - >-
+      The Court found, 10–1, a duty to facilitate relief including by UNRWA; Israel "categorically rejects" it.
+    - >-
+      The Court unanimously ordered Israel to fund UNRWA; Israel accepted the opinion with reservations.
+    - >-
+      The Court found UNRWA had lost its neutrality; Israel welcomed the opinion at the General Assembly.
+    - >-
+      The Court declined to answer because of the pending genocide case; Israel took no position.
+  correct: 0
+  explanation: >-
+    Para. 223(3)(b) was adopted ten votes to one (Vice-President Sebutinde against). Israel told the General
+    Assembly it "categorically rejects the advisory opinion, particularly its conclusions concerning UNRWA".
+- id: q4
+  question: >-
+    It is October 2026. A speaker says the ICJ "has already found that Israel committed genocide". What is the
+    accurate status of South Africa v. Israel?
+  options:
+    - >-
+      The Court found genocide in 2024 and is now deciding reparations.
+    - >-
+      The case was dismissed after Israel filed objections to jurisdiction.
+    - >-
+      Provisional measures remain; the written phase continues; no merits finding has been made.
+    - >-
+      The case was converted into an advisory opinion requested by the General Assembly.
+  correct: 2
+  explanation: >-
+    The case page shows the 2024 provisional-measures orders, time-limit orders up to 21 May 2026 for a Reply
+    and Rejoinder, interventions, and no merits hearing.
+- id: q5
+  question: >-
+    You summarise Judge Buergenthal's 2004 declaration. Which sentence is accurate?
+  options:
+    - >-
+      He held that the Fourth Geneva Convention does not apply to the West Bank.
+    - >-
+      He accepted GC IV applies but said the Court lacked the security facts.
+    - >-
+      He agreed with all the findings but objected to the Court's composition.
+    - >-
+      He held that Israel's self-defence made the wall lawful in every segment.
+  correct: 1
+  explanation: >-
+    He accepted that IHL, including GC IV, applies, but voted against because the Court lacked the factual
+    basis on self-defence, military necessity and security needs.

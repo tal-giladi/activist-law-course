@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    A blog post says: "In Beit Sourik the High Court ruled that the separation barrier is illegal." How do you
+    correct it accurately?
+  options:
+    - >-
+      The Court held the barrier illegal only east of the Green Line, following the ICJ.
+    - >-
+      The Court accepted its security purpose but nullified specific orders as disproportionate.
+    - >-
+      The Court declined to hear the case because the barrier is a political question.
+    - >-
+      The Court approved every segment because the commander's discretion is not reviewable.
+  correct: 1
+  explanation: >-
+    Beit Sourik found the purpose was security, applied the three proportionality subtests and nullified
+    several orders whose harm to farmers was disproportionate, while rejecting the petition on one order.
+- id: q2
+  question: >-
+    A petitioner wants to rely on the ICJ's 2004 opinion to make the High Court cancel a whole barrier
+    segment. What did the Court say about such opinions in Mara'abe?
+  options:
+    - >-
+      It weighs them fully, but they are not res judicata and rest on other facts.
+    - >-
+      It is bound by them, because Israel is a party to the ICJ Statute.
+    - >-
+      It ignores them, because the ICJ has no role at all in questions of occupation.
+    - >-
+      It follows them only if the Security Council has endorsed the opinion.
+  correct: 0
+  explanation: >-
+    In para. 74 the Court said it would give the norms full appropriate weight but would examine each segment
+    on the record before it.
+- id: q3
+  question: >-
+    Human-rights NGOs want the High Court to rule that all targeted killings are unlawful. Based on HCJ 769/02,
+    what is the realistic expectation?
+  options:
+    - >-
+      The Court will ban them, because AP I binds Israel as a treaty.
+    - >-
+      The Court will refuse to review them, because they are acts of war.
+    - >-
+      The Court will approve them generally, because the conflict is with non-state actors.
+    - >-
+      It will set case-by-case conditions: direct participation, proportionality, review.
+  correct: 3
+  explanation: >-
+    The Court held that targeted killings are neither always prohibited nor always permitted under custom and
+    set case-by-case conditions, with prior examination and an independent investigation afterwards.
+- id: q4
+  question: >-
+    An NGO petitions about a cut in fuel supply to Gaza, citing the Fourth Geneva Convention's duties of an
+    occupying power. What did the Court hold in Al-Bassiouni that the State will cite in reply?
+  options:
+    - >-
+      That Gaza remains occupied, but that fuel is not a humanitarian need.
+    - >-
+      That petitions about Gaza are outside the Court's jurisdiction entirely.
+    - >-
+      No effective control since 2005; duties relate to essential humanitarian needs.
+    - >-
+      That Israel's duties toward Gaza ended completely with the 2005 disengagement.
+  correct: 2
+  explanation: >-
+    Para. 12 found no effective control and no general duty under occupation law, but obligations arising
+    from the armed conflict, control of the crossings and Gaza's dependence, focused on essential needs.
+- id: q5
+  question: >-
+    Which pair of critiques of the High Court's territories case law is correctly attributed?
+  options:
+    - >-
+      Kohelet says the Court applies international law too narrowly; Pomson says it applies the ICJ too closely.
+    - >-
+      Hostovsky Brandes says Silwad avoided the Knesset-authority question; Kohelet says the Court uses international law too broadly.
+    - >-
+      Sohlberg's Silwad dissent held settlement an improper purpose; Pomson says Gisha followed the ICJ fully.
+    - >-
+      Kretzmer says the Court never reviews the military; Hostovsky Brandes says Silwad annexed the territory.
+  correct: 1
+  explanation: >-
+    Hostovsky Brandes notes that the Court refrained from addressing the Knesset's authority to legislate there;
+    the Kohelet paper argues for a narrower use of international law. Report critiques from both directions.

@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    A fictional State A withdrew its troops from area B but controls B's airspace, coastline and the only
+    commercial crossing, while a local armed group governs inside. Which statement describes the legal debate
+    accurately?
+  options:
+    - >-
+      B is occupied, because any control of airspace alone meets the art. 42 test.
+    - >-
+      B cannot be occupied, because occupation ends automatically once a peace treaty is signed.
+    - >-
+      On a binary view it ended; on a functional view duties tied to its control continue.
+    - >-
+      Whether B is occupied depends only on what State A's parliament declares.
+  correct: 2
+  explanation: >-
+    Art. 42 asks whether authority is actually established and can be exercised. Writers who use a binary
+    test and those who use a functional test answer this case differently; the ICJ applied a functional test to Gaza.
+- id: q2
+  question: >-
+    A village council's draft petition says: "The occupation is illegal, so every military order is void."
+    What is the strongest correction for a petition to Israel's Supreme Court?
+  options:
+    - >-
+      Rely on the rules the Court applies, such as Hague arts 46 and 52 and proportionality.
+    - >-
+      Add the ICJ's 2024 opinion, which Israeli courts must follow as a binding judgment.
+    - >-
+      Remove all international law, since the Court never applies it to the territories.
+    - >-
+      Ask the Court first to rule that Israel is not the occupant, then argue the merits.
+  correct: 0
+  explanation: >-
+    The Supreme Court treats the Hague Regulations as custom and reviews orders for their military purpose
+    and proportionality. The ICJ's opinion is advisory, and the Court does not decide petitions on the
+    lawfulness of the occupation as such.
+- id: q3
+  question: >-
+    Which statement correctly attributes Israel's government position on the Fourth Geneva Convention in the
+    West Bank?
+  options:
+    - >-
+      Israel accepts that the Convention applies de jure and that settlements breach art. 49(6).
+    - >-
+      Israel says the Convention applies only in East Jerusalem and not in Judea and Samaria.
+    - >-
+      Israel rejects every rule of the Convention, including its humanitarian provisions.
+    - >-
+      Israel questions its de jure application but has declared that it applies its humanitarian provisions.
+  correct: 3
+  explanation: >-
+    The MFA questions de jure application to a territory with no prior legitimate sovereign; the Supreme Court
+    records the State's declaration that it practises the humanitarian parts of the Convention.
+- id: q4
+  question: >-
+    A settlers' regional council wants the commander to secure a road. Its draft says that international law
+    does not apply in Judea and Samaria. Why might that argument hurt the petition?
+  options:
+    - >-
+      Because Israeli courts may hear only petitions brought by Palestinian residents of the area.
+    - >-
+      Because the commander's duty to ensure safety comes from art. 43, which the Court applies there.
+    - >-
+      Because the ICJ has exclusive jurisdiction over any security measure in the area.
+    - >-
+      Because GC IV art. 49 forbids the commander from protecting Israeli residents.
+  correct: 1
+  explanation: >-
+    The Supreme Court holds that the area is held in belligerent occupation and that the art. 43 duty to
+    ensure public order and safety covers everyone in the area, including Israeli residents (Mara'abe).
+- id: q5
+  question: >-
+    Which description of the Gaza positions is accurately attributed?
+  options:
+    - >-
+      Israel's Supreme Court held in 2008 that Gaza remains fully occupied under GC IV.
+    - >-
+      The ICJ held in 2024 that Israel has no obligations at all toward Gaza after 2005.
+    - >-
+      Israel's government says it lacks effective control, so occupation law does not govern.
+    - >-
+      The Security Council decided in resolution 2334 that Gaza is not occupied territory.
+  correct: 2
+  explanation: >-
+    The MFA's November 2023 paper says so; the Supreme Court in Al-Bassiouni found no effective control but
+    some remaining duties; the ICJ found obligations commensurate with Israel's control.
