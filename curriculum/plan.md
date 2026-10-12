@@ -2,7 +2,7 @@
 
 A free, practical online "nano degree" in law for activists. It covers about half an Israeli LL.B.: public law, human rights and international law, plus a practical stage. The goal is that a learner can act alone, without hiring a lawyer.
 
-Written 2026-10-12. Status: plan. Research is in progress (§11). No lessons written yet.
+Written 2026-10-12. Status: plan + research done. No lessons written yet.
 
 ## 0. Binding build rules — read first
 
@@ -50,10 +50,21 @@ Use this standard wording in README, lesson 01.1 and the certificate:
 
 > "This free course teaches you to act for yourself in Israeli and international legal processes. It is not a law degree, does not license you to practise law, and is not legal advice."
 
-**The legal limit we teach early and repeat.** In Israel, people may represent *themselves*. Representing or advising *others* is reserved to lawyers (Bar Association Law 1961, s. 20, with an offence in s. 96).
+**The legal limit we teach early and repeat.** In Israel, people may represent *themselves*. Bar Association Law 1961, s. 20 reserves certain acts to lawyers when they are done for another person "דרך עיסוק, או בתמורה" (as an occupation, or for payment). The reserved acts are:
 
-- Verify the exact wording and exceptions in research before writing lesson 18.4.
-- Lessons 01.1 and 18.4 teach where the line is: helping a group act in its own name, sharing public information, and running a campaign are all fine. Every template says "for use in your own name".
+- representing another person,
+- drafting legal documents for another person,
+- legal advice.
+
+Breaking this is an offence under s. 96, punished by a fine.
+
+Further rules, all quoted in `research/sources-israel.md` M18:
+
+- The 2009 Bar ethics decision on NGOs.
+- The Medical Rights Centre ruling. Its case number is still unconfirmed.
+- The working rule from that ruling: general legal information is allowed; individual advice is not.
+
+Lessons 01.1 and 18.4 teach where the line is. Acting for yourself, sharing general information, and helping a group act in its own name are all fine. Every template says "for use in your own name". Have a lawyer review lesson 18.4 before publishing (TODO_FOR_TAL).
 
 **Not legal advice.** Every module that ends in a real-world action reminds the learner of this.
 
@@ -404,8 +415,8 @@ All in `curriculum/research/` (not imported):
 | `activist-law.md` | first overview of options | done |
 | `activist-law-practical.md` | practical procedures (FOI, ombudsman, objections, UN) | done |
 | `activist-law-curriculum.md` | first LL.B.-style curriculum draft | done, superseded by §6 |
-| `sources-israel.md` | verified sources for Israeli modules M01–M12 and M18–M19 | in progress |
-| `sources-international.md` | verified sources for M13–M17, plus the free course catalog | in progress |
+| `sources-israel.md` | verified sources for Israeli modules M01–M12, M18–M19, Hebrew video; 2026 numbers table | done 2026-10-12 |
+| `sources-international.md` | verified sources for M13–M17 + free course catalog (Coursera dropped free audit in 2025: Leiden / Case Western excluded; UN AVL, ICRC, OpenLearn FREE-FULL; edX FREE-AUDIT) | done 2026-10-12 |
 
 Writers take sources from these files first. Anything new must be opened (WebFetch) before it is cited. Items marked ⚠️ must be verified before use.
 

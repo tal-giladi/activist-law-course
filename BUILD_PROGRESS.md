@@ -8,14 +8,14 @@ Goal: build the course described in `curriculum/plan.md` under `tals-academy/doc
 
 ## Units
 - [x] Plan (`curriculum/plan.md`), course details
-- [ ] Research: sources-israel.md (agent running)
-- [ ] Research: sources-international.md (agent running)
+- [x] Research: sources-israel.md
+- [x] Research: sources-international.md
 - [ ] Phase A: README, _sidebar, glossary, references/*, templates/*, architecture.md, build-spec.md
 - [ ] Modules 01–20 (order in plan §12)
 - [ ] Phase C: QA, check-course 0 problems, TODO_FOR_TAL
 
 ## Now working
-- Research agents (2): Israeli sources, international sources.
+- Nothing running. Next: Phase A (main session).
 
 ## Decisions
 - 2026-10-12 Mixed EN/HE language (plan §3). External free platforms assigned, not duplicated (plan §4).
