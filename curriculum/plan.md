@@ -64,7 +64,7 @@ Further rules, all quoted in `research/sources-israel.md` M18:
 - The Medical Rights Centre ruling. Its case number is still unconfirmed.
 - The working rule from that ruling: general legal information is allowed; individual advice is not.
 
-Lessons 01.1 and 18.4 teach where the line is. Acting for yourself, sharing general information, and helping a group act in its own name are all fine. Every template says "for use in your own name". Have a lawyer review lesson 18.4 before publishing (TODO_FOR_TAL).
+Lessons 01.1 and 18.4 teach where the line is. Acting for yourself, sharing general information, and helping a group act in its own name are all fine. Every template says "for use in your own name". No lawyer review before publishing (Tal, 2026-10-12): lesson 18.4 opens with a `> [!IMPORTANT]` "not legal advice — this is our reading of the law text" notice.
 
 **Not legal advice.** Every module that ends in a real-world action reminds the learner of this.
 
@@ -495,4 +495,5 @@ See `curriculum/course-details.md`:
 1. Repo: public (Tal, 2026-10-12).
 2. Title: "Activist Law: A Free Practical Course" (Tal, 2026-10-12). Never "degree" or "nano degree".
 3. Certificate wording: approved as in course-details.md (Tal, 2026-10-12).
-4. **Hebrew-only Academy translation later.** Prose is English. If Hebrew translation is switched on, the Hebrew quotes stay as they are.
+4. Lesson 18.4 published without lawyer review, with a not-legal-advice notice (Tal, 2026-10-12).
+5. **Hebrew-only Academy translation later.** Prose is English. If Hebrew translation is switched on, the Hebrew quotes stay as they are.
