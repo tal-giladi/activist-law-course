@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    The defendant filed a request to strike your claim; it appears in the case as request 4. You want to
+    answer it. Where do you file your answer in Net HaMishpat?
+  options:
+    - >-
+      "הגשות" → "בקשה חדשה", titled "response to the request to strike".
+    - >-
+      "הגשה מהירה", because responses do not need the case number.
+    - >-
+      "הגשות" → "כתב טענות לבקשה קיימת", entering request number 4.
+    - >-
+      "הגשות" → "הגשות אחרות", together with your exhibits.
+  correct: 2
+  explanation: >-
+    A response belongs under the existing request's number, so the request, the response and the decision
+    sit together in one thread for the judge.
+- id: q2
+  question: >-
+    You are not represented. The defendant's lawyer emails you a copy of his request and says that counts
+    as service. You never agreed to email service. What is the rule?
+  options:
+    - >-
+      Email service from the other side binds you without your written consent.
+    - >-
+      Without your written consent the other side may not serve you by email.
+    - >-
+      Email service is valid if the lawyer also files it in Net HaMishpat.
+    - >-
+      Only fax service is allowed between parties without a lawyer.
+  correct: 1
+  explanation: >-
+    Reg. 162(2) excludes electronic service by a party (not the court) on someone without a lawyer unless that
+    person agreed in writing. Your own filings go to the registry, which serves them (reg. 160).
+- id: q3
+  question: >-
+    You want to open a new small claim and your National Digital Identity login works. Which path do you
+    use?
+  options:
+    - >-
+      The judiciary's small-claims filing service, which opens a new case.
+    - >-
+      "הגשה מהירה", since there is no case number yet.
+    - >-
+      "הגשות" → "הגשות אחרות" in any existing case of yours.
+    - >-
+      An email to the court registry with the claim attached as a PDF.
+  correct: 0
+  explanation: >-
+    The judiciary's guide says a small claim is opened only through the case-opening service, never by quick
+    filing; quick filing cannot open any proceeding.
+- id: q4
+  question: >-
+    The registry refuses your request for an extension because its body is longer than allowed. Your
+    deadline was yesterday. What now?
+  options:
+    - >-
+      Nothing can be done; the deadline has passed.
+    - >-
+      Refile the same document unchanged and call the registry to insist.
+    - >-
+      Wait for the judge to notice the request despite the refusal.
+    - >-
+      Fix the defect within seven days of the refusal; the filing then counts.
+  correct: 3
+  explanation: >-
+    Under reg. 33(ג) a refused document counts as not filed, but the defect may be fixed by the deadline or
+    within seven days of the refusal, whichever is later. You may also ask a judge to review the refusal within
+    seven days (reg. 33(ה)).

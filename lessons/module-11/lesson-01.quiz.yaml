@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A registered amuta paid ₪9,000 for a sound system that never arrived. Its chairwoman wants to sue
+    the supplier cheaply and without a lawyer. What is the right route?
+  options:
+    - >-
+      The chairwoman files a small claim in her own name for the amuta's money.
+    - >-
+      The amuta files a small claim, since the amount is below the ceiling.
+    - >-
+      The amuta sues in the Magistrates' Court; small claims are for individuals.
+    - >-
+      Nobody can sue until the Registrar of Amutot approves the claim.
+  correct: 2
+  explanation: >-
+    Courts Law s. 60(א) limits the Small Claims Court to claims filed by an individual. The money is the
+    amuta's, so the amuta is the claimant and must use the regular Magistrates' Court.
+- id: q2
+  question: >-
+    You are owed ₪4,000 by a venue. You are sure you are right but you have no written agreement and no
+    witness. What should weigh most in your go/no-go decision?
+  options:
+    - >-
+      That the small-claims fee is low, so there is nothing to lose.
+    - >-
+      That without proof the hearing is roughly your word against theirs.
+    - >-
+      That the judge must believe the claimant when the defendant is a business.
+    - >-
+      That a demand letter is forbidden once you plan to sue.
+  correct: 1
+  explanation: >-
+    Being right is not the same as proving it. Before filing, list each fact and its proof; look for
+    messages, receipts or a witness, and send a demand letter, whose answer may itself become evidence.
+- id: q3
+  question: >-
+    A claimant who lost a Magistrates' Court case is surprised to be ordered to pay the defendant's legal
+    costs. Which rule explains this?
+  options:
+    - >-
+      Civil Procedure Regulations reg. 152: reasonable costs at the end of the case.
+    - >-
+      Courts Law s. 63: lawyers may appear only with the court's permission.
+    - >-
+      Courts Law s. 60(ב): the court may transfer a case to another court.
+    - >-
+      Court Fees Regulations reg. 14: the fee exemption for people without means.
+  correct: 0
+  explanation: >-
+    Under reg. 152 the court awards reasonable and fair costs at the end of the case unless there are
+    special reasons not to; in practice the loser usually pays, including lawyers' fees (reg. 153).
+- id: q4
+  question: >-
+    A small claim for ₪6,000 is within the ceiling. Can the claimant file it in the regular Magistrates'
+    Court instead?
+  options:
+    - >-
+      No, claims under the ceiling must be filed in the Small Claims Court.
+    - >-
+      Only if the defendant agrees in writing before filing.
+    - >-
+      Only if a lawyer signs the statement of claim.
+    - >-
+      Yes, Courts Law s. 61 keeps the regular court open as a choice.
+  correct: 3
+  explanation: >-
+    Section 61(1) says nothing in s. 60 prevents a party from filing in another court instead of the Small
+    Claims Court. Small claims are cheaper and simpler, so most individuals still choose them.

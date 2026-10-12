@@ -83,3 +83,11 @@
   - [53 · The Hearing and the Appeal](/lessons/module-10/lesson-04.md)
   - [54 · Environmental Laws and Complaints](/lessons/module-10/lesson-05.md)
   - [Module 10 quiz](/assessments/module-10-quiz.md)
+- **Module 11 — Civil Litigation on Your Own (about 13 hours)**
+  - [55 · Should You Go to Court? Cost, Risk and Alternatives](/lessons/module-11/lesson-01.md)
+  - [56 · Small Claims Court Step by Step](/lessons/module-11/lesson-02.md)
+  - [57 · Net HaMishpat for Unrepresented Parties](/lessons/module-11/lesson-03.md)
+  - [58 · What Self-Represented Litigants Must Know from the Civil Procedure Regulations 2018](/lessons/module-11/lesson-04.md)
+  - [59 · Evidence and the Day of the Hearing](/lessons/module-11/lesson-05.md)
+  - [60 · Fee Exemptions and Legal Aid](/lessons/module-11/lesson-06.md)
+  - [Module 11 quiz](/assessments/module-11-quiz.md)

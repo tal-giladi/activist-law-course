@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your key witness, a neighbour who saw the damage, says she "might be abroad" on the hearing date. The
+    hearing is in four months. What is the best step?
+  options:
+    - >-
+      Ask her for a written statement and rely on it alone at the hearing.
+    - >-
+      Ask the court now to summon her, or to hear her by video, with reasons.
+    - >-
+      Wait and ask for a postponement on the morning of the hearing.
+    - >-
+      Drop her and rely on your own testimony, since judges prefer fewer witnesses.
+  correct: 1
+  explanation: >-
+    Witness issues are handled in advance: the judiciary asks for summons requests at least 60 days before the
+    hearing, and reg. 13(ב) allows video in suitable cases. A last-minute postponement request may be refused.
+- id: q2
+  question: >-
+    At a small-claims hearing the defendant objects that your printed WhatsApp screenshot "would not be
+    admissible in a regular court". What is the position?
+  options:
+    - >-
+      He is right; the screenshot must be excluded.
+    - >-
+      The screenshot is admissible only if a lawyer certifies it.
+    - >-
+      The judge may accept it even if another court would not, and weighs it.
+    - >-
+      The hearing must be moved to the Magistrates' Court to decide admissibility.
+  correct: 2
+  explanation: >-
+    Courts Law s. 62(א) lets the Small Claims Court accept evidence that would be inadmissible elsewhere
+    (privileges excepted). Bring the phone with the original message so the judge can check it.
+- id: q3
+  question: >-
+    You want to show the judge a three-minute video of the incident in a small claim. What preparation
+    matches the judiciary's guidance?
+  options:
+    - >-
+      Email the video file to the judge the night before the hearing.
+    - >-
+      Play it from your phone and hand the phone up to the judge.
+    - >-
+      Film the screen in the courtroom so that the record has a copy.
+    - >-
+      USB copies for the court and each defendant, a transcript, a laptop.
+  correct: 3
+  explanation: >-
+    The judiciary's small-claims page asks for audio and video on USB drives (one for the court and one per
+    defendant), filed at the registry, with a transcript, and a laptop to play it at the hearing.
+- id: q4
+  question: >-
+    In a regular Magistrates' Court case, your friend signed an affidavit supporting your version but
+    refuses to come to court. What happens to the affidavit?
+  options:
+    - >-
+      It is not evidence unless he comes for cross-examination.
+    - >-
+      It stands as evidence, because it was signed before a lawyer.
+    - >-
+      It becomes evidence if you read it aloud at the hearing.
+    - >-
+      It is evidence, but the judge gives it half weight.
+  correct: 0
+  explanation: >-
+    Reg. 178(ב): an affidavit replaces direct testimony but counts as evidence only if the person appears for
+    cross-examination; without that, the court allows it only for special reasons (reg. 178(ג)).

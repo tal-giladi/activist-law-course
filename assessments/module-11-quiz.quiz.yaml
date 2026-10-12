@@ -1,0 +1,172 @@
+- id: q1
+  question: >-
+    A pro-settlement campaign's amuta and its volunteer coordinator each paid half of a ₪12,000 bill for a
+    bus company that never showed up. Both want to recover their money cheaply. What should they do?
+  options:
+    - >-
+      One joint small claim for ₪12,000, filed by the amuta with the coordinator.
+    - >-
+      The coordinator files a small claim for her half; the amuta sues in the Magistrates' Court.
+    - >-
+      The coordinator files a small claim for the full ₪12,000 on the amuta's behalf.
+    - >-
+      Both must file in the Magistrates' Court, because the amuta is involved.
+  correct: 1
+  explanation: >-
+    Only an individual may file a small claim (Courts Law s. 60(א)), and only for their own claim; the amuta
+    must use the regular court. A volunteer suing for the amuta would also raise the s. 20 limit on acting for
+    others.
+- id: q2
+  question: >-
+    A left-wing activist in Haifa bought protest banners from an online shop based in Eilat. They arrived
+    unusable and the shop ignored her demand letter. Where can she file her small claim?
+  options:
+    - >-
+      In Haifa or Eilat: for online commerce she may also file where she lives.
+    - >-
+      Only in Eilat, where the shop is registered and does business.
+    - >-
+      Only in Tel Aviv, the default court for online disputes.
+    - >-
+      Wherever the shop's website terms require, since she agreed to them.
+  correct: 0
+  explanation: >-
+    Reg. 2(ב) of the Small Claims Regulations allows a claim about online commerce in the area of the claimant's
+    or defendant's home or business; venue rules apply whatever a contract says (reg. 2(א)).
+- id: q3
+  question: >-
+    A small-claims judgment against a Haredi activist was given on 10 August. He thinks the judge misread a
+    contract clause. He counts 30 days but leaves out the court's summer recess. What is the problem?
+  options:
+    - >-
+      None; recess days never count in any court deadline.
+    - >-
+      None; small-claims judgments can be appealed at any time within 60 days.
+    - >-
+      In small claims recess days count, so he may be late; he must also get leave.
+    - >-
+      The deadline is 15 days for every small claim, whenever filed.
+  correct: 2
+  explanation: >-
+    Small-claims reg. 16א(ב) counts recess days unless the court orders otherwise, and reg. 16(א) gives 30 days
+    for claims opened from 11.4.2025. An appeal needs leave from a District Court judge (Courts Law s. 64).
+- id: q4
+  question: >-
+    Two months before her hearing, a claimant sees in Net HaMishpat that the registered letter to the
+    defendant came back unclaimed. What should she do?
+  options:
+    - >-
+      Ask for judgment, since the defendant refused to collect the claim.
+    - >-
+      Wait; the court will keep trying until the hearing day.
+    - >-
+      Withdraw and refile against the same defendant at another address.
+    - >-
+      Serve the claim herself at least 40 days before the hearing and file proof.
+  correct: 3
+  explanation: >-
+    Under small-claims reg. 7(ב1), if the court has not served the claim 60 days before the hearing, the
+    claimant serves it at least 40 days before. Without proof of delivery the judge cannot hear the case.
+- id: q5
+  question: >-
+    A Druze activist is sued in the Magistrates' Court for ₪58,000 over a protest. His defence explains his
+    side generally and ends: "The defendant denies all other allegations." What risk does this create?
+  options:
+    - >-
+      Facts not denied explicitly and in detail may be treated as admitted.
+    - >-
+      None; a general denial is enough for a party without a lawyer.
+    - >-
+      The registry will reject the defence for being too short.
+    - >-
+      The case will move automatically to the Small Claims Court.
+  correct: 0
+  explanation: >-
+    Reg. 14(ב) treats as admitted every fact in the claim that the defence does not deny explicitly and in
+    detail; only the amount of damages stays disputed unless admitted. Answer paragraph by paragraph.
+- id: q6
+  question: >-
+    In the same ₪58,000 case, the court notifies both sides of a מהו״ת meeting. The activist thinks mediation
+    is pointless and plans not to go. What happens if he stays away?
+  options:
+    - >-
+      Nothing; mediation is voluntary, so attendance is optional.
+    - >-
+      He may be charged the mediator's and the other side's costs of the meeting.
+    - >-
+      His defence is struck out and judgment is given against him.
+    - >-
+      The meeting is cancelled and the claim moves to the fast track.
+  correct: 1
+  explanation: >-
+    Reg. 37 requires a free מהו״ת meeting above ₪40,000 and treats the invitation like a summons; reg. 37(י) charges
+    an absent party with the mediator's and attending parties' costs. Mediation itself remains voluntary.
+- id: q7
+  question: >-
+    The other side's lawyer files a request to postpone your small-claims hearing; it is request 3 in the
+    case. You object. How do you file your objection in Net HaMishpat?
+  options:
+    - >-
+      As a new request, so the judge sees it as a separate matter.
+    - >-
+      By quick filing, since responses do not need the case screen.
+    - >-
+      As a response to the existing request, entering number 3.
+    - >-
+      By email to the lawyer, who must forward it to the court.
+  correct: 2
+  explanation: >-
+    Under "הגשות", a response goes as "כתב טענות לבקשה קיימת" with the request's number, so the request,
+    your response and the decision sit in one thread. A party without a lawyer files with the court, which serves it.
+- id: q8
+  question: >-
+    A disability-rights activist will show a video of a bus driver refusing to lower the ramp. The hearing is
+    a small claim. Which preparation fits the court's rules and guidance?
+  options:
+    - >-
+      Upload the video as an MP4 attachment in the online claim form.
+    - >-
+      Film the video playing on a screen during the hearing for the record.
+    - >-
+      Send the video link to the judge's email the day before.
+    - >-
+      USB copies for the court and the defendant, a transcript, and a laptop.
+  correct: 3
+  explanation: >-
+    The judiciary asks for audio and video on USB drives (one for the court, one per defendant) with a
+    transcript, filed at the registry, and a laptop at the hearing. Filming in the courtroom needs permission (s. 70(ב)).
+- id: q9
+  question: >-
+    An unemployed man on income support wants to file an administrative petition but cannot pay the fee.
+    What should he file, and when?
+  options:
+    - >-
+      A fee-exemption request with an assets-and-income affidavit, together with the petition.
+    - >-
+      The petition first; the exemption request once the registry demands payment.
+    - >-
+      A Legal Aid application only, since courts cannot waive petition fees.
+    - >-
+      Nothing extra; income support exempts him automatically by status.
+  correct: 0
+  explanation: >-
+    Reg. 14(א) requires the request with the proceeding, with an affidavit on assets and six months of income;
+    income support is prima facie proof of inability to pay (reg. 14(ה)), but a judge still decides, including
+    whether the petition shows a cause of action.
+- id: q10
+  question: >-
+    A municipal engineer earning above the Legal Aid income threshold is dismissed after reporting a bribe.
+    Legal Aid refuses him "because of income". What is his best next step?
+  options:
+    - >-
+      Accept it; the income threshold applies to every subject of aid.
+    - >-
+      Appeal to the District Court within 30 days.
+    - >-
+      File a High Court petition against Legal Aid within 45 days.
+    - >-
+      Ask the Labour Court to appoint a lawyer for him instead.
+  correct: 1
+  explanation: >-
+    Whistleblower proceedings are exempt from the means test (Legal Aid Law, Schedule item 7). A refusal can
+    be appealed to the District Court (s. 5) within 30 days of the notice (Legal Aid Regulations, reg. 14).

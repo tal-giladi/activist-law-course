@@ -1,0 +1,38 @@
+# Glossary inbox — Module 11
+
+- **תביעה אזרחית** (tvi'a ezrachit) — Civil claim: a private person suing for money or another remedy.
+- **בית משפט לתביעות קטנות** (beit mishpat litvi'ot ktanot) — Small Claims Court: a Magistrates' Court authorised under Courts Law s. 59; only an individual may file (s. 60).
+- **יחיד** (yachid) — Individual: the only kind of claimant allowed in the Small Claims Court (companies, partnerships and amutot may not file).
+- **כתב תביעה** (ktav tvi'a) — Statement of claim.
+- **כתב הגנה** (ktav hagana) — Statement of defence.
+- **תביעה שכנגד** (tvi'a shekeneged) — Counterclaim.
+- **הזמנה לדין** (hazmana ladin) — Summons to the hearing.
+- **מקום שיפוט** (mekom shiput) — Venue: the court area where a claim may be filed (small-claims reg. 2).
+- **הכרעה על יסוד הכתב** (hachra'a al yesod haktav) — Decision on the papers, without a hearing (small-claims reg. 13(ג), from 11.4.2025).
+- **בקשת רשות ערעור (בר״ע)** (bakashat reshut ir'ur) — Request for leave to appeal.
+- **פסק דין בהעדר הגנה** (psak din be'heder hagana) — Default judgment when no defence is filed.
+- **ביטול החלטה לפי צד אחד** (bitul hachlata lefi tzad echad) — Setting aside a decision given in a party's absence.
+- **כתב טענות** (ktav te'anot) — Pleading: a statement of claim, defence or reply.
+- **תמצית הטענות / פירוט הטענות** (tamtzit hate'anot / perut hate'anot) — The summary part / detailed part of a pleading (Civil Procedure Regulations reg. 9(ג)).
+- **דיון מהיר** (diyun mahir) — Fast track for claims up to ₪75,000 and evictions (reg. 78).
+- **קדם־משפט** (kdam mishpat) — Pre-trial hearing.
+- **פגישת מהו״ת** (pgishat mahut) — Free, compulsory information meeting about mediation in claims above ₪40,000 (reg. 37).
+- **גישור** (gishur) — Mediation.
+- **הוצאות משפט** (hotza'ot mishpat) — Costs a court orders one party to pay another.
+- **ערובה להוצאות** (arva lehotza'ot) — Security for costs (reg. 157).
+- **פגרה** (pagra) — Court recess; not counted in regular-court deadlines, counted in small claims.
+- **נט המשפט** (net hamishpat) — The courts' e-filing and case system.
+- **הגשה מהירה** (hagasha mehira) — Quick filing in Net HaMishpat, without entering the case; cannot open a proceeding.
+- **אסמכתא** (asmachta) — Reference number of an electronic filing.
+- **קבלה לרישום** (kabala lerishum) — Acceptance of a document for filing by the court registry (reg. 33).
+- **בעל דין בלתי מיוצג** (ba'al din bilti meyutzag) — A party without a lawyer.
+- **זימון עד** (zimun ed) — Summons of a witness by the court.
+- **שכר עדות** (schar edut) — Witness fee for lost time, deposited by the party who asks for the testimony.
+- **חקירה נגדית** (chakira negdit) — Cross-examination.
+- **פרוטוקול** (protokol) — The court's record of a hearing.
+- **פטור מאגרה** (ptor me'agra) — Court-fee exemption (Court Fees Regulations reg. 14).
+- **חייב מוגבל באמצעים** (chayav mugbal be'emtza'im) — Debtor declared of limited means by the Execution Office.
+- **הבטחת הכנסה** (havtachat hachnasa) — Income support from National Insurance; prima facie proof of inability to pay a court fee.
+- **הסיוע המשפטי** (hasiyu'a hamishpati) — The Legal Aid department of the Ministry of Justice.
+- **אגרת השתתפות** (agrat hishtatfut) — Participation fee paid by an approved Legal Aid applicant.
+- **הוצאה לפועל** (hotza'a lapo'al) — Execution Office: enforces unpaid judgments.

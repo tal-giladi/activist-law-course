@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    You live in Be'er Sheva and bought a defective projector online from a shop in Netanya. Where may you
+    file your small claim?
+  options:
+    - >-
+      Only in Netanya, where the shop does business.
+    - >-
+      In Netanya, or in Be'er Sheva under the internet-commerce rule.
+    - >-
+      Only in Jerusalem, because online claims are centralised there.
+    - >-
+      Wherever the shop's terms and conditions say claims must be filed.
+  correct: 1
+  explanation: >-
+    Reg. 2(ב) lets a claim about online commerce or publication be filed where the defendant or the claimant
+    lives or does business. Reg. 2(א) applies whatever a contract says.
+- id: q2
+  question: >-
+    Seventy days before your hearing, Net HaMishpat shows the summons came back unclaimed from the
+    defendant's address. What do you do?
+  options:
+    - >-
+      Nothing; the court must keep trying until the hearing day.
+    - >-
+      Withdraw and refile, because service failed.
+    - >-
+      Arrange service yourself at least 40 days before the hearing.
+    - >-
+      Ask the judge for a default judgment, since the defendant ignored the mail.
+  correct: 2
+  explanation: >-
+    Under reg. 7(ב1), if the court has not served the claim 60 days before the hearing, the claimant serves it
+    at least 40 days before. Without proof of delivery the judge cannot hear the case.
+- id: q3
+  question: >-
+    A small-claims judgment was given on 2 July in a claim filed in 2026. The losing side wants to
+    challenge it. Which is correct?
+  options:
+    - >-
+      A request for leave to appeal to the District Court within 30 days.
+    - >-
+      An appeal as of right to the District Court within 60 days.
+    - >-
+      A request for leave to appeal within 15 days, excluding the summer recess.
+    - >-
+      An appeal to the Supreme Court within 45 days.
+  correct: 0
+  explanation: >-
+    Courts Law s. 64 requires leave from a District Court judge; reg. 16(א), for claims opened from 11.4.2025,
+    gives 30 days. Recess days count in small claims (reg. 16א(ב)).
+- id: q4
+  question: >-
+    Your draft claim tells the story well across eight pages but does not say how many small claims you
+    filed this year or whether you prefer a video hearing. What is wrong?
+  options:
+    - >-
+      Nothing; those details are given orally to the judge at the hearing.
+    - >-
+      Only the length is a problem; the other details are optional.
+    - >-
+      Only the missing preferences; length is not limited.
+    - >-
+      It breaks reg. 3: a body of five pages at most, with both items.
+  correct: 3
+  explanation: >-
+    Since 11.4.2025 reg. 3(ג)(6)–(7) require the hearing preference and the number of small claims in the last
+    year, and reg. 3(ה) caps the body at five pages.
+- id: q5
+  question: >-
+    The defendant did not file a defence within 30 days of service. What may the court do?
+  options:
+    - >-
+      Dismiss the claim, because no dispute exists without a defence.
+    - >-
+      Give judgment on the claim alone, or still hear both sides if justice requires.
+    - >-
+      Transfer the case to the Magistrates' Court for a full trial.
+    - >-
+      Order the claimant to serve the claim again and wait 30 more days.
+  correct: 1
+  explanation: >-
+    Reg. 10: if no defence is filed in time, the court gives judgment on the statement of claim, but may
+    invite both sides to argue and bring evidence if it is just to do so.

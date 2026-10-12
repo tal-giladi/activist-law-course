@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You are sued in the Magistrates' Court for ₪48,000. Your draft defence answers the main story but says
+    nothing about paragraph 7, which claims you signed a contract. What is the risk?
+  options:
+    - >-
+      None; the claimant must prove every fact anyway.
+    - >-
+      The judge will ask you about paragraph 7 at the pre-trial.
+    - >-
+      Paragraph 7 is treated as admitted unless explicitly denied.
+    - >-
+      The registry will refuse the defence until paragraph 7 is answered.
+  correct: 2
+  explanation: >-
+    Reg. 14(ב): a defendant is deemed to admit every fact in the claim not denied explicitly and in detail in
+    the third part of the defence. Only the amount of damages stays in dispute unless admitted.
+- id: q2
+  question: >-
+    A claim for ₪120,000 is served on you. You have no lawyer, and the claimant's lawyer insists you must
+    hold a "preliminary exchange" with him within 30 days. What is correct?
+  options:
+    - >-
+      You are exempt from that duty, but a מהו״ת meeting still follows.
+    - >-
+      You must hold it, or the court will strike your defence.
+    - >-
+      Neither duty applies unless both sides have lawyers.
+    - >-
+      You must hold it, but by video conference and with a registrar present.
+  correct: 0
+  explanation: >-
+    Reg. 35(א) excludes a party without a lawyer from the preliminary exchange. Reg. 37(ב) still requires a
+    free מהו״ת meeting in claims above ₪40,000, whether or not the parties are represented.
+- id: q3
+  question: >-
+    You win ₪4,000 after claiming ₪70,000 in the Magistrates' Court, having filed many unnecessary requests
+    along the way. What should you expect on costs?
+  options:
+    - >-
+      Full costs in your favour, since you won the case.
+    - >-
+      Costs shaped by the claim-award gap and your conduct.
+    - >-
+      No costs at all, because you were not represented.
+    - >-
+      Costs fixed by the Bar's minimum tariff whatever happened.
+  correct: 1
+  explanation: >-
+    Reg. 153(ג) weighs the award against the amount claimed and how the case was run, and reg. 156 allows costs
+    for prolonging the case needlessly, regardless of the result.
+- id: q4
+  question: >-
+    A defamation claim for ₪90,000 was served on you in the Magistrates' Court, but you hold that this court
+    lacks jurisdiction. Where do you raise this?
+  options:
+    - >-
+      Only orally at the first hearing, after the evidence.
+    - >-
+      In a separate letter to the claimant before filing anything.
+    - >-
+      Only on appeal, after judgment is given.
+    - >-
+      As a preliminary argument in the summary part of your defence.
+  correct: 3
+  explanation: >-
+    Reg. 13(1) puts preliminary arguments first in the defence's summary part; under reg. 28 an argument left
+    out of the defence may not be raised later without permission, and reg. 29 adds costs for late jurisdiction
+    objections.

@@ -1,0 +1,1992 @@
+# Module 11 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m11-001
+  module: 11
+  lesson: "11.1"
+  subject: small-claims-eligibility
+  difficulty: 1
+  question: >-
+    Who may file a claim in the Small Claims Court?
+  options:
+    - >-
+      Any person or company with a claim under the ceiling
+    - >-
+      An individual, for a claim up to the ceiling
+    - >-
+      Only consumers suing a business
+    - >-
+      Only Israeli citizens resident in Israel
+  correct: 1
+  explanation: >-
+    Courts Law s. 60(א) limits the Small Claims Court to civil claims filed by an individual (יחיד), up to the
+    index-linked ceiling. Kol Zchut notes that non-residents may also file.
+- id: m11-002
+  module: 11
+  lesson: "11.1"
+  subject: small-claims-eligibility
+  difficulty: 1
+  question: >-
+    Which of these may be sued as a defendant in the Small Claims Court?
+  options:
+    - >-
+      Only private individuals
+    - >-
+      Only businesses registered for VAT
+    - >-
+      A person, a company, an amuta or a public body
+    - >-
+      Only companies, since individuals settle disputes privately
+  correct: 2
+  explanation: >-
+    The limit in s. 60(א) is on who files, not on who is sued. A claimant may sue a person, a company, an amuta
+    or a public body.
+- id: m11-003
+  module: 11
+  lesson: "11.1"
+  subject: small-claims-eligibility
+  difficulty: 2
+  question: >-
+    A self-employed graphic designer (עוסק מורשה) wants to sue a client for an unpaid ₪8,000 invoice. Can
+    she use the Small Claims Court?
+  options:
+    - >-
+      Yes; a self-employed person is an individual, not a company
+    - >-
+      No; business claims must go to the Magistrates' Court
+    - >-
+      Only if the client is also self-employed
+    - >-
+      Only after registering a company for the business
+  correct: 0
+  explanation: >-
+    A self-employed person sues as an individual; Kol Zchut lists עוסק מורשה and עוסק פטור among those who may
+    file. Companies, partnerships and amutot may not.
+- id: m11-004
+  module: 11
+  lesson: "11.1"
+  subject: small-claims-eligibility
+  difficulty: 3
+  question: >-
+    Over one year, a consumer activist filed seven small claims against different companies in the same
+    court. What may the court do with the eighth?
+  options:
+    - >-
+      Nothing; the law sets no limit on how many small claims one may file
+    - >-
+      Fine the claimant for abuse of process automatically, before any hearing
+    - >-
+      Refuse to register it at the registry counter until next year
+    - >-
+      Transfer it to the Magistrates' Court under s. 60(ב)
+  correct: 3
+  explanation: >-
+    Courts Law s. 60(ב) lets the court transfer a claim filed by someone who already filed more than five
+    claims that year in the same court. Since 2025 the claim must also state how many were filed (reg. 3(ג)(7)).
+- id: m11-005
+  module: 11
+  lesson: "11.1"
+  subject: choosing-forum
+  difficulty: 1
+  question: >-
+    Your claim is ₪20,000, under the small-claims ceiling. Must you file in the Small Claims Court?
+  options:
+    - >-
+      Yes, every claim under the ceiling must be filed there
+    - >-
+      Only if the defendant is a company or an amuta
+    - >-
+      No; s. 61 lets you choose another court
+    - >-
+      Only if you are not represented by a lawyer
+  correct: 2
+  explanation: >-
+    Section 61(1) preserves the right to file in another court instead. Small claims is cheaper and simpler,
+    which is why individuals usually choose it.
+- id: m11-006
+  module: 11
+  lesson: "11.1"
+  subject: choosing-forum
+  difficulty: 3
+  question: >-
+    You were damaged ₪52,000 by a contractor. You are tempted to claim only ₪39,000 in small claims and the
+    rest later. What is the problem?
+  options:
+    - >-
+      None; you may split one claim between two courts
+    - >-
+      The part you waive may be lost for good
+    - >-
+      Small-claims judges cannot award more than ₪20,000
+    - >-
+      The contractor can force the whole case into arbitration
+  correct: 1
+  explanation: >-
+    One cause must be claimed in full; in the regular courts reg. 25 bars suing later for the part not claimed.
+    Decide the amount first, then the court.
+- id: m11-007
+  module: 11
+  lesson: "11.1"
+  subject: alternatives
+  difficulty: 1
+  question: >-
+    What can a small-claims court order besides payment of money?
+  options:
+    - >-
+      An apology published in a national newspaper
+    - >-
+      A change in a municipality's licensing policy
+    - >-
+      A criminal fine or other punishment of the defendant
+    - >-
+      Repairing or replacing a product, or cancelling a deal
+  correct: 3
+  explanation: >-
+    Section 60(א)(2) allows orders to replace or repair a product or cancel a transaction within the ceiling.
+    Policy changes by authorities belong to the Module 5 tools.
+- id: m11-008
+  module: 11
+  lesson: "11.1"
+  subject: alternatives
+  difficulty: 2
+  question: >-
+    Your neighbour's dog keeps damaging the protest signs on your balcony. You will live next to each other
+    for years. Which option should you consider early?
+  options:
+    - >-
+      Mediation, because the relationship continues after the dispute
+    - >-
+      A Magistrates' Court claim, because neighbours' disputes are complex
+    - >-
+      A petition to the municipality's legal adviser
+    - >-
+      A complaint to the Public Complaints Commissioner
+  correct: 0
+  explanation: >-
+    Mediation fits ongoing relationships: it can produce practical arrangements a court will not order. The
+    Commissioner deals with public bodies, not neighbours.
+- id: m11-009
+  module: 11
+  lesson: "11.1"
+  subject: alternatives
+  difficulty: 2
+  question: >-
+    Your bank charged a fee you think is unlawful (₪180). What is a sensible first rung on the ladder?
+  options:
+    - >-
+      A small claim at once, since banks always settle before the hearing
+    - >-
+      A written complaint to the bank, then the regulator
+    - >-
+      An administrative petition against the bank in the District Court
+    - >-
+      A class action, because the amount is too small for a single claim
+  correct: 1
+  explanation: >-
+    For banks, insurers and phone companies, a written complaint and then the regulator are free and often
+    enough. A bank is not an administrative authority, and a class action needs a lawyer.
+- id: m11-010
+  module: 11
+  lesson: "11.1"
+  subject: costs-risk
+  difficulty: 2
+  question: >-
+    Which factor makes the costs risk higher in the Magistrates' Court than in small claims?
+  options:
+    - >-
+      Magistrates' Court judges must award the full amount claimed
+    - >-
+      In small claims the loser never pays anything
+    - >-
+      Costs normally include lawyers' fees at the Bar tariff or more
+    - >-
+      The Magistrates' Court fee is refunded only to the winner
+  correct: 2
+  explanation: >-
+    Reg. 153(א) sets the Bar's recommended minimum as a floor for lawyers' fees awarded to a winner. In small
+    claims lawyers rarely appear, so expenses awarded are usually modest.
+- id: m11-011
+  module: 11
+  lesson: "11.1"
+  subject: costs-risk
+  difficulty: 1
+  question: >-
+    What is the general purpose of a costs order in civil proceedings under the 2018 regulations?
+  options:
+    - >-
+      To punish the party who lost the case and deter others
+    - >-
+      To fund the courts' administration and registry staff
+    - >-
+      To pay the lawyer of the losing side for the extra work
+    - >-
+      To compensate the other side for its case expenses
+  correct: 3
+  explanation: >-
+    Reg. 151(א): costs indemnify the other side for its expenses, considering the outcome, the resources
+    needed and the parties' conduct.
+- id: m11-012
+  module: 11
+  lesson: "11.1"
+  subject: limitation
+  difficulty: 1
+  question: >-
+    What is the general limitation period for a civil claim in Israel?
+  options:
+    - >-
+      Seven years
+    - >-
+      Three years
+    - >-
+      One year
+    - >-
+      Twenty-five years
+  correct: 0
+  explanation: >-
+    Limitation Law s. 5 sets seven years as the general rule; some laws set shorter periods. Evidence fades
+    much sooner, so act early.
+- id: m11-013
+  module: 11
+  lesson: "11.1"
+  subject: collectability
+  difficulty: 3
+  question: >-
+    You can prove a strong ₪6,000 claim against a small company that closed last month and has no assets.
+    What is the main weakness of suing?
+  options:
+    - >-
+      The court cannot hear claims against closed companies
+    - >-
+      You may win a judgment you cannot collect
+    - >-
+      The claim becomes time-barred when a company closes
+    - >-
+      Only the Official Receiver may sue a closed company
+  correct: 1
+  explanation: >-
+    Collectability is one of the three go/no-go questions. A judgment against a company with nothing to
+    enforce against may be worth little; check whether someone else is liable.
+- id: m11-014
+  module: 11
+  lesson: "11.1"
+  subject: choosing-forum
+  difficulty: 3
+  question: >-
+    A tenants' committee, registered as an amuta, and six tenants each lost ₪3,000 when a contractor took
+    deposits and vanished. Which plan fits the rules best?
+  options:
+    - >-
+      The amuta files one small claim for ₪21,000 on behalf of all members
+    - >-
+      The committee chair files one small claim for all seven losses together
+    - >-
+      Each tenant files a small claim; the amuta uses the regular court
+    - >-
+      Nobody may sue until the police investigation of the contractor ends
+  correct: 2
+  explanation: >-
+    Only individuals file small claims, each for their own claim; the amuta must use the Magistrates' Court.
+    No one may file a small claim for someone else's loss.
+- id: m11-015
+  module: 11
+  lesson: "11.2"
+  subject: venue
+  difficulty: 1
+  question: >-
+    Under small-claims reg. 2(א), which place does NOT by itself give a court venue?
+  options:
+    - >-
+      Where the defendant lives
+    - >-
+      Where the defendant does business
+    - >-
+      Where the act or omission happened
+    - >-
+      Your home, after an in-store purchase
+  correct: 3
+  explanation: >-
+    Reg. 2(א) lists the defendant's home or business and the place of the act. The claimant's home counts only
+    for internet commerce or publication (reg. 2(ב)).
+- id: m11-016
+  module: 11
+  lesson: "11.2"
+  subject: venue
+  difficulty: 3
+  question: >-
+    A contract you signed with a gym says "all disputes will be heard only in Tel Aviv". The gym is in Afula,
+    where you live. Where may you file a small claim?
+  options:
+    - >-
+      In Afula, whatever the contract says
+    - >-
+      Only in Tel Aviv, as the contract requires
+    - >-
+      Anywhere in the Northern District you like
+    - >-
+      Only in Jerusalem, for all consumer contracts
+  correct: 0
+  explanation: >-
+    Reg. 2(א) applies "על אף האמור בכל הסכם שבין בעלי הדין" — despite any agreement. The gym does business in Afula,
+    and the act happened there.
+- id: m11-017
+  module: 11
+  lesson: "11.2"
+  subject: venue
+  difficulty: 2
+  question: >-
+    You sue two defendants: one lives in Eilat and one in Hadera. Where may you file?
+  options:
+    - >-
+      Only where both of them can attend easily
+    - >-
+      You must file two separate claims, one in each city
+    - >-
+      In a court competent for either one of them
+    - >-
+      Only in Tel Aviv, as a central court
+  correct: 2
+  explanation: >-
+    Reg. 2(ג): a court competent to hear the claim against one of several defendants may hear it against all
+    of them.
+- id: m11-018
+  module: 11
+  lesson: "11.2"
+  subject: claim-content
+  difficulty: 1
+  question: >-
+    Since 11.4.2025, what is the maximum length of the body of a statement of claim in small claims?
+  options:
+    - >-
+      Two pages
+    - >-
+      Five pages
+    - >-
+      Nine pages
+    - >-
+      There is no limit
+  correct: 1
+  explanation: >-
+    Reg. 3(ה) caps the body at five pages for claims opened from 11.4.2025. Attachments are separate.
+- id: m11-019
+  module: 11
+  lesson: "11.2"
+  subject: claim-content
+  difficulty: 2
+  question: >-
+    Spot the mistake. A claimant's heading lists her name, ID, address and the defendant's details, but no
+    email or mobile number. What is wrong?
+  options:
+    - >-
+      Nothing; contact details are given only at the hearing
+    - >-
+      Only the defendant's contact details are required
+    - >-
+      Her email and mobile number are required in the heading
+    - >-
+      The heading must include her bank account instead
+  correct: 2
+  explanation: >-
+    Reg. 3(ב)(2) requires the claimant's contact details, including email and a mobile number. The court uses
+    them to send notices.
+- id: m11-020
+  module: 11
+  lesson: "11.2"
+  subject: claim-content
+  difficulty: 2
+  question: >-
+    What must accompany a small claim under reg. 3(ד)(2), as amended in 2025?
+  options:
+    - >-
+      A lawyer's confirmation that the claim is well founded in law
+    - >-
+      An affidavit certified by a notary, with an official stamp
+    - >-
+      Proof that the defendant received your demand letter by post
+    - >-
+      A declaration that it is true, naming your source
+  correct: 3
+  explanation: >-
+    Reg. 3(ד)(2) requires a declaration that everything in the claim is true or to the claimant's knowledge,
+    naming the source of knowledge. No certification is required for it.
+- id: m11-021
+  module: 11
+  lesson: "11.2"
+  subject: claim-content
+  difficulty: 3
+  question: >-
+    After filing, you find the email in which the seller admitted the defect. It was not attached to your
+    claim. What is the position?
+  options:
+    - >-
+      You may add it only with the court's permission, giving a reason
+    - >-
+      You may bring it to the hearing; no permission is needed in small claims
+    - >-
+      It can never be used, since it was not attached on filing
+    - >-
+      You must withdraw and refile the claim with the email
+  correct: 0
+  explanation: >-
+    Reg. 3(ד) lets the court allow a document not attached if it is needed for judgment or for another
+    important reason. Ask in writing through Net HaMishpat.
+- id: m11-022
+  module: 11
+  lesson: "11.2"
+  subject: fees
+  difficulty: 1
+  question: >-
+    How is the small-claims fee calculated?
+  options:
+    - >-
+      A fixed amount for every claim, set each January
+    - >-
+      1% of the claim, with a minimum, rounded up
+    - >-
+      2.5% of the claim, paid in two equal halves
+    - >-
+      Free for individuals; only companies pay a fee
+  correct: 1
+  explanation: >-
+    Small-claims reg. 6(א): 1% of the claim, not less than the minimum, rounded up to a multiple of ₪5. The
+    2.5% fee in two halves is the Magistrates' Court.
+- id: m11-023
+  module: 11
+  lesson: "11.2"
+  subject: fees
+  difficulty: 2
+  question: >-
+    You claim ₪12,340 in small claims. What is the fee, before checking the minimum?
+  options:
+    - >-
+      ₪123
+    - >-
+      ₪120
+    - >-
+      ₪125
+    - >-
+      ₪308.50
+  correct: 2
+  explanation: >-
+    1% of ₪12,340 is ₪123.40, rounded up to the next multiple of ₪5: ₪125 (reg. 6(א)(3)). It is above the
+    minimum, so ₪125 is due.
+- id: m11-024
+  module: 11
+  lesson: "11.2"
+  subject: service
+  difficulty: 1
+  question: >-
+    Who normally sends the claim and summons to the defendant in small claims?
+  options:
+    - >-
+      The court, by registered mail
+    - >-
+      The claimant, by hand delivery
+    - >-
+      A bailiff paid by the claimant
+    - >-
+      The police
+  correct: 0
+  explanation: >-
+    Reg. 7(ב): the court clerk arranges service. The claimant must check it happened and serve personally only
+    if it did not (reg. 7(ב1)).
+- id: m11-025
+  module: 11
+  lesson: "11.2"
+  subject: defence-deadline
+  difficulty: 1
+  question: >-
+    How long does a defendant in small claims have to file a defence?
+  options:
+    - >-
+      15 days from the service of the summons
+    - >-
+      60 days from the service of the summons
+    - >-
+      45 days from the filing of the claim
+    - >-
+      30 days from service of the summons
+  correct: 3
+  explanation: >-
+    Reg. 4(ב): the summons invites the defendant to file a defence within 30 days of service. The regular
+    courts allow 60 days (45 in the fast track).
+- id: m11-026
+  module: 11
+  lesson: "11.2"
+  subject: counterclaim
+  difficulty: 2
+  question: >-
+    You sued a moving company in small claims; it filed a defence and a counterclaim for unpaid fees. What
+    must you do?
+  options:
+    - >-
+      Nothing; a counterclaim is heard only if you agree
+    - >-
+      File a defence to the counterclaim within 30 days of its service
+    - >-
+      Withdraw your claim, since the cases cannot run together
+    - >-
+      Pay the counterclaim first, then continue your claim
+  correct: 1
+  explanation: >-
+    Reg. 5 lets a defendant add a counterclaim; the claimant is invited to file a defence to it within 30 days
+    of its service.
+- id: m11-027
+  module: 11
+  lesson: "11.2"
+  subject: hearing-absence
+  difficulty: 1
+  question: >-
+    The claimant comes to the small-claims hearing; the properly summoned defendant does not. What happens?
+  options:
+    - >-
+      The claim is dismissed for lack of a defendant
+    - >-
+      The hearing is postponed automatically to a new date
+    - >-
+      Judgment on the claim, once declared true
+    - >-
+      The case is transferred to the Magistrates' Court
+  correct: 2
+  explanation: >-
+    Reg. 11: if the claimant appears and the defendant does not, the court gives judgment on the claim,
+    provided the claimant declares before the court that its contents are true.
+- id: m11-028
+  module: 11
+  lesson: "11.2"
+  subject: hearing-absence
+  difficulty: 2
+  question: >-
+    A defendant was sick on the hearing day and judgment was given against him in his absence. It was
+    served on him five days ago. What is his main option?
+  options:
+    - >-
+      Apply within 30 days of service to set it aside
+    - >-
+      Appeal to the Supreme Court within 60 days of service
+    - >-
+      Nothing; judgments given in absence are always final
+    - >-
+      File a new claim asking to cancel the judgment
+  correct: 0
+  explanation: >-
+    Reg. 12 allows a request to set aside a decision given in a party's absence within 30 days of its service,
+    on terms the court sets.
+- id: m11-029
+  module: 11
+  lesson: "11.2"
+  subject: appeal
+  difficulty: 2
+  question: >-
+    Which court decides a request for leave to appeal a small-claims judgment, and how?
+  options:
+    - >-
+      The Supreme Court, by three justices
+    - >-
+      The same small-claims judge, on reconsideration
+    - >-
+      The Magistrates' Court, by its president
+    - >-
+      The District Court, by a single judge
+  correct: 3
+  explanation: >-
+    Courts Law s. 64: an appeal needs leave from a District Court judge, and the District Court hears it with
+    one judge.
+- id: m11-030
+  module: 11
+  lesson: "11.2"
+  subject: appeal
+  difficulty: 3
+  question: >-
+    You lost a small claim because the judge believed the defendant's witness rather than you. You want to
+    appeal. What is realistic?
+  options:
+    - >-
+      Leave is likely, because you disagree with the outcome of the case
+    - >-
+      Leave is rare for re-weighing evidence; errors of law are the usual ground
+    - >-
+      You have an appeal as of right on all findings of fact and credibility
+    - >-
+      You may simply refile the same claim in another small-claims court
+  correct: 1
+  explanation: >-
+    Leave to appeal from small claims is granted sparingly; disagreement with how the judge weighed testimony
+    is rarely enough. Refiling is barred because the matter was decided.
+- id: m11-031
+  module: 11
+  lesson: "11.2"
+  subject: representation
+  difficulty: 2
+  question: >-
+    Your cousin, a lawyer, offers to represent you in small claims for free. What does the law say?
+  options:
+    - >-
+      Only with the court's permission, for special reasons
+    - >-
+      Freely, as long as the lawyer charges no fee at all
+    - >-
+      Never; lawyers are banned from small claims entirely
+    - >-
+      Only for the defendant, never for the claimant
+  correct: 0
+  explanation: >-
+    Courts Law s. 63(א): representation by a lawyer is only with the court's permission and for special
+    reasons that are recorded.
+- id: m11-032
+  module: 11
+  lesson: "11.2"
+  subject: representation
+  difficulty: 3
+  question: >-
+    A volunteer from a consumer group offers to represent claimants in small claims every week, unpaid. Can
+    the court approve him under s. 63(ב)?
+  options:
+    - >-
+      Yes, because he does it without any payment
+    - >-
+      Yes, if each claimant signs a power of attorney
+    - >-
+      No, because he represents people regularly
+    - >-
+      No, because only close relatives may represent
+  correct: 2
+  explanation: >-
+    Section 63(ב) allows a non-lawyer with a power of attorney and court approval, but not someone who
+    represents regularly, as part of his business, or for payment.
+- id: m11-033
+  module: 11
+  lesson: "11.2"
+  subject: demand-letter
+  difficulty: 2
+  question: >-
+    Spot the mistake in this demand letter: "Refund ₪2,400 within 14 days, or I will post your name on every
+    Facebook group and file a police complaint." What is wrong?
+  options:
+    - >-
+      Fourteen days is too short a deadline for a demand letter
+    - >-
+      It must be sent only by registered mail, never by email
+    - >-
+      It should not name an amount before a court has decided one
+    - >-
+      It threatens exposure and police, not the lawful next step
+  correct: 3
+  explanation: >-
+    State only the legal step you will take, such as a small claim. Threatening exposure or a criminal
+    complaint to get money can backfire legally and with the judge.
+- id: m11-034
+  module: 11
+  lesson: "11.2"
+  subject: settlement
+  difficulty: 2
+  question: >-
+    At the hearing, the judge suggests both sides agree that the judge decide as an arbitrator. What does
+    the law allow?
+  options:
+    - >-
+      With both sides' consent, the judge may act as arbitrator
+    - >-
+      Only a private arbitrator may be appointed, for a fee
+    - >-
+      Arbitration is forbidden once a claim was filed
+    - >-
+      The judge may impose arbitration without consent
+  correct: 0
+  explanation: >-
+    Courts Law s. 65(א): with the parties' consent the judge may hear the claim as an arbitrator, or send it to
+    another arbitrator who agrees to act without payment from the parties.
+- id: m11-035
+  module: 11
+  lesson: "11.3"
+  subject: net-hamishpat-login
+  difficulty: 1
+  question: >-
+    How does a party without a lawyer log in to Net HaMishpat to file in a case?
+  options:
+    - >-
+      With a username sent by the court registry
+    - >-
+      With National Digital Identity (הזדהות לאומית)
+    - >-
+      With the case number and the claimant's ID only
+    - >-
+      Only with a lawyer's smart card
+  correct: 1
+  explanation: >-
+    The judiciary's guide requires login through National Digital Identity; without it the "הגשות" button does
+    not appear.
+- id: m11-036
+  module: 11
+  lesson: "11.3"
+  subject: net-hamishpat-login
+  difficulty: 1
+  question: >-
+    Which device can you use to file a small claim online?
+  options:
+    - >-
+      A smartphone with the courts' app
+    - >-
+      Any device with a browser
+    - >-
+      A computer only
+    - >-
+      Only the kiosk in the court lobby
+  correct: 2
+  explanation: >-
+    The judiciary's page says the online small-claims service is available from a computer only, not from a
+    mobile phone.
+- id: m11-037
+  module: 11
+  lesson: "11.3"
+  subject: net-hamishpat-login
+  difficulty: 2
+  question: >-
+    You log in to Net HaMishpat and open your case, but pressing "הגשות" shows "אינך מורשה לבצע פעולות בתיק".
+    What is the likely cause and fix?
+  options:
+    - >-
+      Your ID is not attached to the case; ask to add it
+    - >-
+      The case has been closed; you must file a new claim
+    - >-
+      Only a lawyer can file in this case; you must hire one
+    - >-
+      A fee is due before filing; you must pay it first
+  correct: 0
+  explanation: >-
+    The judiciary's guide explains this error: your ID number is not set correctly in the case. Ask to add it
+    via quick filing, fax or the registry counter.
+- id: m11-038
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 1
+  question: >-
+    Under "הגשות", which option do you use to file your statement of defence?
+  options:
+    - >-
+      בקשה חדשה
+    - >-
+      כתב טענות לבקשה קיימת
+    - >-
+      הגשה מהירה
+    - >-
+      הגשות אחרות
+  correct: 3
+  explanation: >-
+    "הגשות אחרות" is for documents that are neither requests nor responses: a defence, affidavits, expert
+    opinions, a counterclaim.
+- id: m11-039
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 2
+  question: >-
+    You need an urgent temporary order the same day (for example, to stop an eviction). Can you file it by
+    quick filing?
+  options:
+    - >-
+      Yes, quick filing is designed for urgent matters
+    - >-
+      No; such orders are filed at the registry counter
+    - >-
+      Yes, but only after 17:00 on a working day
+    - >-
+      No; urgent orders can be filed only by lawyers
+  correct: 1
+  explanation: >-
+    The judiciary's guide excludes urgent remedies and temporary orders from quick filing; they are filed at the
+    registry counter (temporary orders in the court where the case is).
+- id: m11-040
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 2
+  question: >-
+    You want to ask the court to move your hearing because of surgery. Which path do you choose?
+  options:
+    - >-
+      "הגשות אחרות", attached to your claim
+    - >-
+      A response under the defendant's last request
+    - >-
+      "בקשה חדשה", with the medical document attached
+    - >-
+      An email to the judge's secretary
+  correct: 2
+  explanation: >-
+    Asking the court for something new is a new request; it gets its own number, and responses and the
+    decision are filed under it.
+- id: m11-041
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 1
+  question: >-
+    In what file format do you upload documents to Net HaMishpat?
+  options:
+    - >-
+      PDF
+    - >-
+      Word (DOCX)
+    - >-
+      Any image format
+    - >-
+      Plain text
+  correct: 0
+  explanation: >-
+    The guide allows documents in PDF only, up to 70 MB per file; other digital files only as the courts'
+    administration directs.
+- id: m11-042
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 3
+  question: >-
+    You file a request that requires a fee but choose the wrong request type, so no fee is charged. What is
+    the likely result?
+  options:
+    - >-
+      The court bills you later at no extra cost
+    - >-
+      Nothing; fees are waived for parties without a lawyer
+    - >-
+      The judge decides it and the fee is deducted from any award
+    - >-
+      The registry rejects the request for the unpaid fee
+  correct: 3
+  explanation: >-
+    The guide warns that choosing the right category and type matters for calculating the fee, and the
+    registry rejects a request filed without the required fee.
+- id: m11-043
+  module: 11
+  lesson: "11.3"
+  subject: service-electronic
+  difficulty: 3
+  question: >-
+    The court's SMS about a decision reached you on Sunday at 14:00, but you opened the document on
+    Tuesday at 10:00. When was it served on you?
+  options:
+    - >-
+      On Sunday at 14:00, when the SMS arrived
+    - >-
+      On Tuesday, when you opened the document
+    - >-
+      On Monday, the next working day after the SMS
+    - >-
+      Only when a paper copy arrives by post
+  correct: 1
+  explanation: >-
+    Reg. 161(1)(ד): for a party without a lawyer notified by the court electronically, the time of opening the
+    document is the time of service. Do not delay opening to gain time; it can be proven.
+- id: m11-044
+  module: 11
+  lesson: "11.3"
+  subject: service-electronic
+  difficulty: 2
+  question: >-
+    You open a court decision on Wednesday at 21:00. From when does it count as served?
+  options:
+    - >-
+      Wednesday at 21:00, when opened
+    - >-
+      The following Sunday, after Shabbat
+    - >-
+      Thursday, the next working day
+    - >-
+      Seven days after the court sent it
+  correct: 2
+  explanation: >-
+    Reg. 161(1)(ד): a document opened after 17:00 on Sunday to Thursday counts as served on the next working
+    day.
+- id: m11-045
+  module: 11
+  lesson: "11.3"
+  subject: service-electronic
+  difficulty: 1
+  question: >-
+    You are not represented and file a request through Net HaMishpat. Who sends it to the other side?
+  options:
+    - >-
+      The court registry
+    - >-
+      You, by registered mail
+    - >-
+      You, by email to the other side
+    - >-
+      Nobody; the other side must check the system
+  correct: 0
+  explanation: >-
+    Reg. 160: a lawyer must serve copies on the other side, but a party without a lawyer files with the
+    registry, which arranges service.
+- id: m11-046
+  module: 11
+  lesson: "11.3"
+  subject: registry-rejection
+  difficulty: 2
+  question: >-
+    The registry refuses to accept your filing and you think the refusal is wrong. What can you do?
+  options:
+    - >-
+      Appeal to the District Court within 60 days of the refusal
+    - >-
+      Complain to the Judiciary Ombudsman, who decides within 7 days
+    - >-
+      Refile the same document daily until the registry accepts it
+    - >-
+      Ask within seven days for a judge to review it
+  correct: 3
+  explanation: >-
+    Reg. 33(ה): a person harmed by a refusal may ask, within seven days of the notice, that a judge appointed by
+    the court's president review it, possibly without a hearing.
+- id: m11-047
+  module: 11
+  lesson: "11.3"
+  subject: registry-rejection
+  difficulty: 3
+  question: >-
+    Your statement of claim is refused by the registry on the last day before limitation expires, for a form
+    defect. What protects you?
+  options:
+    - >-
+      Nothing; the limitation period has now expired
+    - >-
+      Fixing the defect within seven days saves it
+    - >-
+      Limitation stops automatically for every refused document
+    - >-
+      You must ask the Attorney General for an extension
+  correct: 1
+  explanation: >-
+    Reg. 33(ד): when refusing a statement of claim could make it time-barred, it is treated as accepted if the
+    claimant fixes the defect within seven days of the refusal.
+- id: m11-048
+  module: 11
+  lesson: "11.3"
+  subject: filing-paths
+  difficulty: 2
+  question: >-
+    After filing a document you got a reference number (אסמכתא). When can you first check its status?
+  options:
+    - >-
+      Immediately, within the same minute of filing
+    - >-
+      Only after the judge has decided the filing
+    - >-
+      From the end of the next working day
+    - >-
+      Only after 30 days from the filing date
+  correct: 2
+  explanation: >-
+    The judiciary's guide says to search "הגשות" by reference number from the end of the working day after the
+    filing.
+- id: m11-049
+  module: 11
+  lesson: "11.4"
+  subject: pleadings
+  difficulty: 1
+  question: >-
+    Into which three parts must a statement of claim be divided under the 2018 regulations?
+  options:
+    - >-
+      Heading, summary, details
+    - >-
+      Facts, law and remedy, in that order
+    - >-
+      Introduction, evidence and conclusion
+    - >-
+      Parties, claim and supporting affidavit
+  correct: 0
+  explanation: >-
+    Reg. 9(ג): heading, summary and details, in that order; in the Magistrates' Court the summary is up to two
+    pages and the details up to nine (reg. 9(ד)).
+- id: m11-050
+  module: 11
+  lesson: "11.4"
+  subject: pleadings
+  difficulty: 2
+  question: >-
+    Your Magistrates' Court claim has a 4-page summary and a 7-page detailed part. What may happen at the
+    registry?
+  options:
+    - >-
+      Nothing; length limits are only recommendations
+    - >-
+      The judge will shorten it at the first pre-trial
+    - >-
+      The defendant gets extra time to file a defence
+    - >-
+      Refusal: the summary is over two pages
+  correct: 3
+  explanation: >-
+    Reg. 9(ד) limits the summary to two pages in the Magistrates' Court, and reg. 33(ב) lets the registry refuse
+    documents that do not meet reg. 9(ג)–(ד).
+- id: m11-051
+  module: 11
+  lesson: "11.4"
+  subject: pleadings
+  difficulty: 2
+  question: >-
+    Which item must appear in the heading of a statement of claim under reg. 10?
+  options:
+    - >-
+      The claimant's bank details for paying the award
+    - >-
+      The fee item, or the exemption you rely on
+    - >-
+      A list of the claimant's witnesses and their phones
+    - >-
+      The name of the judge the claimant asks to hear it
+  correct: 1
+  explanation: >-
+    Reg. 10(10) requires the court fee with a reference to the schedule item, or the regulation that exempts the
+    claimant. Other heading items include the parties, the court and the remedies.
+- id: m11-052
+  module: 11
+  lesson: "11.4"
+  subject: pleadings
+  difficulty: 3
+  question: >-
+    You sue a landlord for an unreturned deposit, and you also have a separate claim against him for a broken
+    boiler from the same tenancy. What do the regulations require?
+  options:
+    - >-
+      Two claims, one per cause
+    - >-
+      The boiler claim only after the deposit claim ends
+    - >-
+      All causes from the same facts in one claim
+    - >-
+      A request to split, filed before suing
+  correct: 2
+  explanation: >-
+    Reg. 24: a claimant joins in one claim all causes against a defendant arising from the same set of facts,
+    subject to the court's jurisdiction.
+- id: m11-053
+  module: 11
+  lesson: "11.4"
+  subject: deadlines
+  difficulty: 1
+  question: >-
+    In the regular track, how long does a defendant have to file a defence?
+  options:
+    - >-
+      60 days from service of the claim
+    - >-
+      30 days from service of the claim
+    - >-
+      45 days from filing of the claim
+    - >-
+      90 days from service of the claim
+  correct: 0
+  explanation: >-
+    Reg. 9(ב): 60 days from service (120 in medical negligence); the court may extend for good reasons.
+- id: m11-054
+  module: 11
+  lesson: "11.4"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    In a regular civil case, a deadline runs through the court's summer recess. How are recess days treated?
+  options:
+    - >-
+      They count like any other calendar days
+    - >-
+      They count double, to make up for the delay
+    - >-
+      Only Fridays and Saturdays inside them are excluded
+    - >-
+      Not counted, unless the court orders otherwise
+  correct: 3
+  explanation: >-
+    Reg. 179(ב) excludes recess days from deadlines in the regular courts. In small claims the opposite rule
+    applies (small-claims reg. 16א(ב)).
+- id: m11-055
+  module: 11
+  lesson: "11.4"
+  subject: deadlines
+  difficulty: 3
+  question: >-
+    A defendant is served on 20 June in a regular-track claim. The recess runs 1 July–31 August. Roughly when
+    is the defence due if the court gives no other order?
+  options:
+    - >-
+      Around 19 August, during the recess
+    - >-
+      About 20 October
+    - >-
+      On 20 July, inside the recess period
+    - >-
+      On 31 August, the last day of the recess
+  correct: 1
+  explanation: >-
+    Sixty days, not counting the 62 recess days (reg. 179(ב)): 10 days before the recess and 50 after it, so
+    about 20 October. Confirm the recess dates with the registry and file early.
+- id: m11-056
+  module: 11
+  lesson: "11.4"
+  subject: fast-track
+  difficulty: 1
+  question: >-
+    Which claims are heard in the fast track (דיון מהיר)?
+  options:
+    - >-
+      All claims filed by self-represented parties, whatever the amount
+    - >-
+      All claims against public bodies, such as municipalities
+    - >-
+      Claims up to ₪75,000 (with exceptions) and evictions
+    - >-
+      Any claim that both parties agree to put on the fast track
+  correct: 2
+  explanation: >-
+    Reg. 78(א): claims up to ₪75,000 except class actions, road-accident and bodily-injury claims, plus eviction
+    claims; the court may move cases in or out (78(ב)–(ג)).
+- id: m11-057
+  module: 11
+  lesson: "11.4"
+  subject: fast-track
+  difficulty: 2
+  question: >-
+    What must a party attach to a pleading in the fast track?
+  options:
+    - >-
+      An affidavit verifying the facts and a documents list
+    - >-
+      A lawyer's certificate that the case is simple enough
+    - >-
+      Proof that a demand letter was sent 30 days earlier
+    - >-
+      A bank guarantee for the other side's future costs
+  correct: 0
+  explanation: >-
+    Reg. 79(א): an affidavit verifying the facts (Form 5), expert opinions if needed, and a list of documents
+    with copies of those in the party's possession.
+- id: m11-058
+  module: 11
+  lesson: "11.4"
+  subject: fast-track
+  difficulty: 2
+  question: >-
+    By when must the court hold the trial in a fast-track case?
+  options:
+    - >-
+      Within 30 days of the filing of the claim
+    - >-
+      There is no time frame in the regulations
+    - >-
+      Within one year of service of the claim
+    - >-
+      Within six months of the last defence
+  correct: 3
+  explanation: >-
+    Reg. 80(ד): the trial is set no later than six months from the last defence; the pre-trial within 90 days
+    (reg. 80(ג)).
+- id: m11-059
+  module: 11
+  lesson: "11.4"
+  subject: mehut
+  difficulty: 1
+  question: >-
+    What does a מהו״ת meeting cost the parties?
+  options:
+    - >-
+      Half the mediator's hourly fee each
+    - >-
+      Nothing
+    - >-
+      A fixed court fee
+    - >-
+      The claimant pays it in full
+  correct: 1
+  explanation: >-
+    Reg. 37(ד): the מהו״ת meeting is held without cost, within 30 days of the notice of the mediator's appointment.
+- id: m11-060
+  module: 11
+  lesson: "11.4"
+  subject: mehut
+  difficulty: 2
+  question: >-
+    A municipality is a defendant in a ₪90,000 claim. Who must attend the מהו״ת meeting for it?
+  options:
+    - >-
+      Nobody; public bodies are exempt from מהו״ת
+    - >-
+      Any clerk of the municipality who is free that day
+    - >-
+      Its case lawyer, with authority on mediation
+    - >-
+      The mayor in person, with the city treasurer
+  correct: 2
+  explanation: >-
+    Reg. 37(ט)(3): for the State, a local authority or an insurer, the lawyer handling the file attends with an
+    authorised position on transferring the case to mediation.
+- id: m11-061
+  module: 11
+  lesson: "11.4"
+  subject: mehut
+  difficulty: 3
+  question: >-
+    After the מהו״ת meeting you decide not to go to mediation. What follows?
+  options:
+    - >-
+      The case continues; mediation is voluntary
+    - >-
+      You pay costs for refusing to go to mediation
+    - >-
+      The court must transfer the case to arbitration
+    - >-
+      Your claim is struck out for non-cooperation
+  correct: 0
+  explanation: >-
+    The meeting is compulsory, the mediation is not. Within 14 days the mediator reports whether the parties
+    agree to mediate (reg. 37(ו)); if not, the case goes on.
+- id: m11-062
+  module: 11
+  lesson: "11.4"
+  subject: default-judgment
+  difficulty: 2
+  question: >-
+    A defendant misses the defence deadline and judgment is given against him. What is his first remedy?
+  options:
+    - >-
+      An appeal within 60 days, arguing the merits
+    - >-
+      A new claim against the claimant to cancel it
+    - >-
+      A complaint to the Judiciary Ombudsman
+    - >-
+      Asking within 30 days to set it aside
+  correct: 3
+  explanation: >-
+    Reg. 131: a decision given against a party in their absence may be set aside if they ask within 30 days of
+    service; attach the proposed defence and explain the delay.
+- id: m11-063
+  module: 11
+  lesson: "11.4"
+  subject: costs
+  difficulty: 3
+  question: >-
+    You lost, but the other side spent months filing pointless requests. Can the court make it pay costs
+    anyway?
+  options:
+    - >-
+      No; costs always follow the final result of the case
+    - >-
+      Yes; needless delay can be charged whatever the result
+    - >-
+      Only if you were represented by a lawyer throughout
+    - >-
+      Only through a separate claim after the case has ended
+  correct: 1
+  explanation: >-
+    Reg. 156 allows costs against a party who prolonged the proceedings needlessly, in that proceeding or in
+    the judgment, without connection to the outcome.
+- id: m11-064
+  module: 11
+  lesson: "11.4"
+  subject: costs
+  difficulty: 2
+  question: >-
+    What does reg. 157 allow the court to order a claimant to do?
+  options:
+    - >-
+      Pay the defendant's lawyer's fees in advance
+    - >-
+      Hire a lawyer before the case can continue
+    - >-
+      Give security for the defendant's costs
+    - >-
+      Publish the claim in a national newspaper
+  correct: 2
+  explanation: >-
+    Reg. 157: the court may order a claimant to give security for the defendant's costs; if it is not given in
+    time, the claim is struck.
+- id: m11-065
+  module: 11
+  lesson: "11.4"
+  subject: costs
+  difficulty: 3
+  question: >-
+    You won your claim and want the court to award your actual expenses (copies, an expert opinion, travel).
+    What must you do?
+  options:
+    - >-
+      List them in your closing arguments, with receipts
+    - >-
+      Nothing; the court calculates all expenses by itself
+    - >-
+      File a separate claim for the expenses after judgment
+    - >-
+      Ask the Execution Office to add them to the debt
+  correct: 0
+  explanation: >-
+    Reg. 155(א): the court awards legal expenses if the party detailed them explicitly in its closing arguments
+    and attached supporting documents.
+- id: m11-066
+  module: 11
+  lesson: "11.4"
+  subject: pre-action-letter
+  difficulty: 3
+  question: >-
+    A claimant is told the 2018 regulations require a pre-action demand letter, or the claim will be struck.
+    What is accurate?
+  options:
+    - >-
+      Correct; reg. 2 requires a letter 30 days before suing
+    - >-
+      Correct, but only for claims in the Magistrates' Court
+    - >-
+      Correct; reg. 29 requires a demand letter before suing
+    - >-
+      No such general duty; conduct still affects costs
+  correct: 3
+  explanation: >-
+    The current text contains no general pre-action letter duty (reg. 2 defines a fair process; reg. 29 deals
+    with jurisdiction objections). A letter is still wise, and regs 151 and 153(ג) weigh conduct.
+- id: m11-067
+  module: 11
+  lesson: "11.4"
+  subject: pre-trial
+  difficulty: 2
+  question: >-
+    The court proposes a pre-trial hearing by video. You have no lawyer and prefer to come in person. What is
+    the rule?
+  options:
+    - >-
+      Video is compulsory for every pre-trial hearing
+    - >-
+      Video needs your consent when unrepresented
+    - >-
+      You may come in person only if the other side agrees
+    - >-
+      Video hearings are not allowed in civil cases at all
+  correct: 1
+  explanation: >-
+    Reg. 61(ג): where a party is not represented, the court may hold a video pre-trial only with that party's
+    consent (with special rules in the fast track, which also need consent).
+- id: m11-068
+  module: 11
+  lesson: "11.5"
+  subject: evidence-plan
+  difficulty: 1
+  question: >-
+    What is the core of an evidence plan for a hearing?
+  options:
+    - >-
+      A list of every file and photo stored on your phone
+    - >-
+      A timeline of how you felt at each stage of the dispute
+    - >-
+      A proof and exhibit number for each disputed fact
+    - >-
+      The judge's previous rulings in similar small claims
+  correct: 2
+  explanation: >-
+    Match each fact the other side may dispute to a document, recording, object or witness, keep the original,
+    and number the exhibit.
+- id: m11-069
+  module: 11
+  lesson: "11.5"
+  subject: evidence-plan
+  difficulty: 2
+  question: >-
+    Your claim relies on WhatsApp messages. What should you bring to the hearing besides the printed copies?
+  options:
+    - >-
+      The phone holding the original messages
+    - >-
+      A lawyer's certificate that the printouts are accurate
+    - >-
+      Nothing more; printouts are enough
+    - >-
+      A notarised translation into English
+  correct: 0
+  explanation: >-
+    Bring the original. The small-claims judge may accept the printout (s. 62(א)), but the other side may dispute
+    it, and the original settles that.
+- id: m11-070
+  module: 11
+  lesson: "11.5"
+  subject: evidence-plan
+  difficulty: 3
+  question: >-
+    Your claim is about a defective washing machine. Which extra evidence most strengthens the claim?
+  options:
+    - >-
+      Online reviews by other customers who bought the same model
+    - >-
+      A letter from a friend who agrees that the shop was unfair
+    - >-
+      Your own detailed description of the noise the machine makes
+    - >-
+      A technician's report or repair quote on the fault
+  correct: 3
+  explanation: >-
+    A short professional opinion or repair quote proves the fault and the cost. Reviews and friends' opinions
+    prove little about your machine.
+- id: m11-071
+  module: 11
+  lesson: "11.5"
+  subject: recordings
+  difficulty: 2
+  question: >-
+    You want to use a recording as evidence. Which recording is lawful to make?
+  options:
+    - >-
+      A recorder left in the shop's back office overnight
+    - >-
+      Your own phone conversation with the shop manager
+    - >-
+      A recording of two employees talking to each other
+    - >-
+      A recording of the defendant's call with his lawyer
+  correct: 1
+  explanation: >-
+    Recording a conversation you take part in is lawful; secretly recording others' conversations is
+    wiretapping (lesson 09.5). Privileged communications stay protected (s. 62(א)).
+- id: m11-072
+  module: 11
+  lesson: "11.5"
+  subject: witnesses
+  difficulty: 1
+  question: >-
+    In small claims, who normally makes sure your witnesses come to the hearing?
+  options:
+    - >-
+      The court, automatically
+    - >-
+      The defendant's side
+    - >-
+      You, by inviting them
+    - >-
+      The police, on request
+  correct: 2
+  explanation: >-
+    The judiciary's page says the claimant invites their own witnesses; a court summons is requested only when
+    a witness may not come.
+- id: m11-073
+  module: 11
+  lesson: "11.5"
+  subject: witnesses
+  difficulty: 2
+  question: >-
+    You ask the court to summon a reluctant witness. What will you probably need to do?
+  options:
+    - >-
+      Deposit a witness fee the court sets
+    - >-
+      Pay the witness's lawyer
+    - >-
+      Get the defendant's consent
+    - >-
+      Bring the witness to court yourself by force
+  correct: 0
+  explanation: >-
+    The judiciary's page says compelling a witness requires depositing a witness fee set by the court, paid by
+    whoever asked for the testimony; small-claims reg. 9 covers paying witnesses.
+- id: m11-074
+  module: 11
+  lesson: "11.5"
+  subject: witnesses
+  difficulty: 3
+  question: >-
+    A friend offers to testify that he saw the defendant damage your car, though he only heard about it from
+    you. What should you do?
+  options:
+    - >-
+      Let him testify; small claims accept any evidence at all
+    - >-
+      Have him sign an affidavit instead of coming to testify
+    - >-
+      Ask him to say only that he 'thinks' he saw it happen
+    - >-
+      Do not use him; he did not see it himself
+  correct: 3
+  explanation: >-
+    A witness speaks only to what they know. Coaching a false account destroys credibility and can be an
+    offence. Find real proof or leave the fact to your own testimony.
+- id: m11-075
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 1
+  question: >-
+    Who leads the questioning at a small-claims hearing?
+  options:
+    - >-
+      The claimant, who opens
+    - >-
+      The judge, actively
+    - >-
+      The defendant's side
+    - >-
+      A court clerk or registrar
+  correct: 1
+  explanation: >-
+    Small-claims reg. 13(א): the court sets the order of evidence and argument and actively clarifies the
+    dispute.
+- id: m11-076
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 2
+  question: >-
+    During the hearing the judge asks, "When did you first tell the shop about the defect?" How should you
+    answer?
+  options:
+    - >-
+      Explain the whole story from the beginning so nothing is missed
+    - >-
+      Say you will answer in your closing statement
+    - >-
+      Give the date in one sentence and point to the exhibit
+    - >-
+      Ask the defendant to answer first
+  correct: 2
+  explanation: >-
+    Answer the question asked, briefly, and point to the exhibit number. The judge has read the file and has
+    limited time.
+- id: m11-077
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 2
+  question: >-
+    You want a photo of the courtroom to post about your case. What is the law?
+  options:
+    - >-
+      Only with the court's permission
+    - >-
+      Allowed during breaks in the hearing
+    - >-
+      Allowed as long as no faces appear in it
+    - >-
+      Allowed, because hearings are generally public
+  correct: 0
+  explanation: >-
+    Courts Law s. 70(ב)(1) bans photographing in a courtroom, and publishing such a photo, without the court's
+    permission, even though hearings are generally public (s. 68(א)).
+- id: m11-078
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 2
+  question: >-
+    You notice the judge's summary in the protocol omitted the defendant's admission that he received your
+    letter. What should you do?
+  options:
+    - >-
+      Say nothing now and raise it on appeal later
+    - >-
+      Record the rest of the hearing on your phone as proof
+    - >-
+      Keep arguing with the judge until it is changed
+    - >-
+      Ask politely, then and there, that it be recorded
+  correct: 3
+  explanation: >-
+    The protocol records the gist of what was said (small-claims reg. 14). Ask politely at once; you may not
+    record the hearing yourself without permission.
+- id: m11-079
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 1
+  question: >-
+    By when must a small-claims judgment be given?
+  options:
+    - >-
+      Within 30 days of the hearing
+    - >-
+      At the hearing or within 7 days
+    - >-
+      Within 90 days of the filing
+    - >-
+      There is no time limit at all
+  correct: 1
+  explanation: >-
+    Small-claims reg. 15: judgment at the end of the hearing, or postponed up to 7 days, briefly reasoned, and
+    stating how to challenge it.
+- id: m11-080
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 2
+  question: >-
+    You need an Arabic interpreter for your small-claims hearing. When should you ask?
+  options:
+    - >-
+      On the morning of the hearing
+    - >-
+      Only after the judge asks you
+    - >-
+      In writing at least 7 days before the hearing
+    - >-
+      Never; the parties must bring their own interpreters
+  correct: 2
+  explanation: >-
+    The judiciary's page asks for a written request to the registry at least 7 days before the hearing, on its
+    interpreter form.
+- id: m11-081
+  module: 11
+  lesson: "11.5"
+  subject: affidavits
+  difficulty: 2
+  question: >-
+    In a regular civil case, what is the role of the affidavit you file before the evidence hearing?
+  options:
+    - >-
+      It replaces your direct testimony, subject to cross-examination
+    - >-
+      It replaces the evidence hearing entirely, with no questions
+    - >-
+      It is only a summary for the judge and has no evidential value
+    - >-
+      It binds the other side unless they file a counter-affidavit
+  correct: 0
+  explanation: >-
+    Reg. 178(ב): an affidavit stands in for direct testimony, but it is evidence only if the deponent appears
+    for cross-examination.
+- id: m11-082
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 3
+  question: >-
+    At the hearing the judge proposes a compromise: the defendant pays 60% of your claim. Your evidence is
+    good but one key fact rests only on your word. What is the wise approach?
+  options:
+    - >-
+      Refuse at once, since a compromise signals weakness to the judge
+    - >-
+      Accept at once, since judges punish parties who refuse proposals
+    - >-
+      Take a short break, weigh the weak fact and the risk, then decide
+    - >-
+      Ask the defendant's witness what he thinks you should do now
+  correct: 2
+  explanation: >-
+    A judge's proposal often reflects how the case looks. Take a short break, weigh the unproven fact against
+    the sure amount, and read any settlement wording before agreeing.
+- id: m11-083
+  module: 11
+  lesson: "11.5"
+  subject: hearing-conduct
+  difficulty: 2
+  question: >-
+    You cannot attend your hearing date because of reserve duty. What should you do?
+  options:
+    - >-
+      Simply not come; the court will understand reserve duty
+    - >-
+      Send a friend to argue the case in your place
+    - >-
+      Email the defendant to agree on a new date privately
+    - >-
+      Ask early, by new request, attaching the call-up order
+  correct: 3
+  explanation: >-
+    File a request in Net HaMishpat as early as possible, with proof. A claimant who does not appear has the
+    claim dismissed (small-claims reg. 11).
+- id: m11-084
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 1
+  question: >-
+    Which regulation governs a court-fee exemption for someone who cannot pay?
+  options:
+    - >-
+      Court Fees Regulations, reg. 14
+    - >-
+      Civil Procedure Regulations, reg. 9
+    - >-
+      Small Claims Regulations, reg. 2
+    - >-
+      Legal Aid Regulations, reg. 5
+  correct: 0
+  explanation: >-
+    Reg. 14 of the Court Fees Regulations 2007 sets the request, the affidavit and the tests; small-claims reg.
+    6(ב) applies such an exemption to small-claims fees.
+- id: m11-085
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 1
+  question: >-
+    How much does it cost to file a fee-exemption request?
+  options:
+    - >-
+      Half the fee in question
+    - >-
+      Nothing
+    - >-
+      A fixed ₪50
+    - >-
+      1% of the claim
+  correct: 1
+  explanation: >-
+    Reg. 20(4) of the Court Fees Regulations: no fee is charged for a request for a fee exemption, or for an
+    appeal on such a decision.
+- id: m11-086
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 2
+  question: >-
+    Whose assets must the fee-exemption affidavit describe?
+  options:
+    - >-
+      Only the applicant's own assets and nobody else's
+    - >-
+      The applicant's and all household members', including adult siblings
+    - >-
+      Own, spouse's, and parents' if dependent on them
+    - >-
+      Only the spouse's assets, if the applicant owns nothing
+  correct: 2
+  explanation: >-
+    Reg. 14(א): the affidavit covers the applicant's assets, the spouse's, and the parents' if the applicant
+    depends on them, plus six months of income.
+- id: m11-087
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 2
+  question: >-
+    Which document, issued in the last two years, is prima facie proof that you cannot pay a court fee?
+  options:
+    - >-
+      A letter from your employer confirming your salary level
+    - >-
+      A bank statement showing a negative balance this month
+    - >-
+      Your income tax return for the last calendar year
+    - >-
+      A limited-means declaration by the Execution Office
+  correct: 3
+  explanation: >-
+    Reg. 14(ד) lists a previous fee exemption, a limited-means declaration, bankruptcy and an insolvency order
+    within two years; reg. 14(ה) adds current income support.
+- id: m11-088
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 3
+  question: >-
+    The court grants you a partial fee exemption only. What may you do within 15 days?
+  options:
+    - >-
+      Amend the claim so the balance is not due
+    - >-
+      Ask Legal Aid to pay the remaining balance
+    - >-
+      Appeal the decision to the Supreme Court
+    - >-
+      Nothing; the balance must be paid at once
+  correct: 0
+  explanation: >-
+    Reg. 14(ח): after a partial exemption you pay the balance, or within 15 days amend the claim so that no
+    balance (or less) is due.
+- id: m11-089
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 3
+  question: >-
+    You were exempt from the fee and you won your claim. What may the court do about the fee?
+  options:
+    - >-
+      Nothing; the exemption ends the matter
+    - >-
+      Order you to pay the fee from the award
+    - >-
+      Charge the losing side the fee, with linkage
+    - >-
+      Split the fee equally between the parties
+  correct: 2
+  explanation: >-
+    Reg. 14(י): if the exempt party wins, the court or registrar may order the other side to pay the fee with
+    linkage differences.
+- id: m11-090
+  module: 11
+  lesson: "11.6"
+  subject: fee-exemption
+  difficulty: 2
+  question: >-
+    Spot the mistake. An applicant's affidavit lists her income for the last two months only. What is
+    missing?
+  options:
+    - >-
+      Her parents' income, which is required in every case
+    - >-
+      Her income sources for the six months before
+    - >-
+      A credit rating report from a credit bureau
+    - >-
+      Her landlord's affidavit confirming her rent
+  correct: 1
+  explanation: >-
+    Reg. 14(א) requires the sources of income in the six months before the request; the parents' assets are
+    needed only if she depends on them.
+- id: m11-091
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 1
+  question: >-
+    What are the three cumulative conditions for state Legal Aid, as the Ministry of Justice describes them?
+  options:
+    - >-
+      A covered subject, means (unless exempt) and merits
+    - >-
+      Israeli citizenship, a lawyer's referral and a case number
+    - >-
+      Low income, no assets of any kind, and a recognised disability
+    - >-
+      A covered subject, a social worker's letter, and a paid fee
+  correct: 0
+  explanation: >-
+    The gov.il service page lists subject, means (income and assets) and the legal chance of success; some
+    subjects have no means test.
+- id: m11-092
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    How is the Legal Aid income threshold for a single person defined in the regulations?
+  options:
+    - >-
+      The minimum wage
+    - >-
+      Twice the minimum wage
+    - >-
+      The poverty line published by National Insurance
+    - >-
+      67% of the average wage in the economy
+  correct: 3
+  explanation: >-
+    Legal Aid Regulations reg. 2(ב)(1): up to 67% of the average wage for one person or a family of up to three,
+    plus 6% for each additional person.
+- id: m11-093
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    Does owning the apartment you live in disqualify you from Legal Aid?
+  options:
+    - >-
+      Yes; any real estate at all disqualifies you
+    - >-
+      Only if the apartment is worth over ₪1 million
+    - >-
+      No; the home you live in is not counted
+    - >-
+      Only if you have no children living with you
+  correct: 2
+  explanation: >-
+    Reg. 2(ג)(1): a dwelling you live in is not treated as property that can be realised. Rented-out property
+    is treated differently.
+- id: m11-094
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    Which of these matters is NOT among the Legal Aid subjects in reg. 5?
+  options:
+    - >-
+      Eviction from your rented home
+    - >-
+      A criminal defence for a detainee
+    - >-
+      A Labour Court claim for unpaid wages
+    - >-
+      A money claim in tort
+  correct: 1
+  explanation: >-
+    Reg. 5 covers civil subjects such as housing, money and torts, and Labour Court matters "except criminal
+    matters". Criminal defence is the Public Defender's role (lesson 07.3).
+- id: m11-095
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 3
+  question: >-
+    Your Legal Aid application is pending and your defence is due in four days. What can the head of the
+    Legal Aid office do?
+  options:
+    - >-
+      Nothing, until the means test is complete and approved
+    - >-
+      Only refer you to a private lawyer at your own cost
+    - >-
+      Order the court to extend your deadline by 30 days
+    - >-
+      Give temporary service if urgent and you seem eligible
+  correct: 3
+  explanation: >-
+    Legal Aid Regulations reg. 3(ב) allows temporary service pending the final decision in urgent cases where
+    the applicant is prima facie eligible. Ask the court for an extension too.
+- id: m11-096
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    Legal Aid approves your case. How does it usually provide representation?
+  options:
+    - >-
+      It appoints a private lawyer
+    - >-
+      It sends a supervised law student
+    - >-
+      It pays you to hire a lawyer of your choice
+    - >-
+      It files for you without any lawyer
+  correct: 0
+  explanation: >-
+    The Ministry's page says that when representation is approved, a private lawyer is appointed; reg. 4(א) also
+    allows written guidance for you to appear yourself.
+- id: m11-097
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 3
+  question: >-
+    A bereaved mother wants to challenge a benefits decision but earns above the Legal Aid threshold. What
+    is the position?
+  options:
+    - >-
+      She cannot get Legal Aid because of her income level
+    - >-
+      She must first obtain a court fee exemption from a judge
+    - >-
+      No means test for bereaved families; merits still apply
+    - >-
+      Only the IDF's legal service may represent bereaved families
+  correct: 2
+  explanation: >-
+    The Ministry lists bereaved families among the subjects in which economic eligibility is not examined. The
+    legal chance of success is still checked.
+- id: m11-098
+  module: 11
+  lesson: "11.6"
+  subject: legal-aid
+  difficulty: 1
+  question: >-
+    What is the main phone number to open a Legal Aid file?
+  options:
+    - >-
+      *3852
+    - >-
+      *6405
+    - >-
+      *6763
+    - >-
+      1299
+  correct: 1
+  explanation: >-
+    The Ministry of Justice's Legal Aid service centre is *6405 (Sun–Thu 8:00–16:00). *3852 is the judiciary's
+    information centre.

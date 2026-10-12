@@ -44,6 +44,7 @@ The numbers change on fixed dates:
 | Fine for practising law without a licence (Bar Association Law s. 96) | up to ₪29,200 (Penal Law s. 61(a)(2); updated by regulation, check before relying on it) | Penal Law s. 61(a)(2) |
 | Notary certifying an affidavit | ₪200 plus VAT (fixed by regulation) | Notaries (Fees) Regulations, 2026 |
 | Lawyer drafting and certifying an affidavit | ₪512 recommended minimum (Bar Association tariff, not binding; no fixed fee for certifying a ready affidavit) | Israel Bar Association recommended minimum tariff |
+| Small claims: request for leave to appeal | 30 days (claims opened from 11.4.2025; court recess days count) | Small Claims Procedure Regulations |
 | Small claims fee | 1% of the claim, minimum ₪50 | Kol Zchut, January 2026 |
 | Legal Aid income test | ₪9,225 gross a month for 1–3 people, plus ₪826 per extra person | Kol Zchut, 2026 |
 | Legal Aid asset test | ₪41,307. A gov.il page shows ₪39,948; check before relying on it. | Kol Zchut, 2026 |

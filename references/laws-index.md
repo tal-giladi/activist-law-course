@@ -34,3 +34,10 @@ Every law and ruling the course cites, with a free full-text link. Entries are a
 - gov.il — הגשת בקשת התנגדות לתוכנית של מינהל התכנון, with attachments הנחיות להגשת התנגדויות (PDF, 3 pages) and טופס פרטי התנגדות לדוגמה (DOCX): https://www.gov.il/he/service/filing-objection (opened in browser; attachments downloaded with curl, 2026-10-13).
 - gov.il — הגשת ערר לוועדת ערר לתכנון ובניה: https://www.gov.il/he/service/licensing-appeal-submission (opened in browser, 2026-10-13).
 - Ministry of Environmental Protection — פניות הציבור; למי פונים בעת מפגע סביבתי (updated 7.6.2026): https://www.gov.il/he/departments/guides/moep_public_inquiries?chapterIndex=2 (opened in browser, 2026-10-13).
+
+## Verified facts worth recording
+
+- **No general pre-action letter duty** in the Civil Procedure Regulations 2018 (current text searched 2026-10-13). Reg. 2 is "fair and proper process"; reg. 29 is jurisdiction objections. The build instruction to cite "reg. 2" for a pre-action letter could not be verified; template and lessons say there is no general duty.
+- Reg. 35 preliminary exchange **excludes** a party without a lawyer; reg. 37 מהו״ת applies "whether or not represented".
+- Small-claims leave to appeal changed from 15 to 30 days for proceedings opened from 11.4.2025 (reg. 16(א)).
+- Recess counting is opposite in the two codes: counted in small claims (reg. 16א(ב)), not counted in the regular courts (reg. 179(ב)).

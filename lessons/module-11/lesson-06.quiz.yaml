@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A woman on income support wants to file a small claim and asks whether she can avoid the fee. What is
+    her strongest step?
+  options:
+    - >-
+      File the claim now and ask for an exemption only if the registry demands payment.
+    - >-
+      Ask Legal Aid to pay the fee, since it covers all court fees.
+    - >-
+      File an exemption request with the claim, attaching her income support approval.
+    - >-
+      Nothing; small claims fees cannot be waived because they are already low.
+  correct: 2
+  explanation: >-
+    Reg. 14(א) requires the request with the claim; reg. 14(ה) makes income support prima facie proof of
+    inability to pay; small-claims reg. 6(ב) applies the exemption to small-claims fees.
+- id: q2
+  question: >-
+    A judge refuses a fee exemption for a petition because "the petition does not show a cause of action",
+    although the petitioner is clearly poor. Which rule allows that?
+  options:
+    - >-
+      Reg. 14(ג): the proceeding must also show a cause of action.
+    - >-
+      Reg. 19: only listed bodies such as the State may be exempt.
+    - >-
+      Reg. 20: fee exemptions apply only to interim requests in a case.
+    - >-
+      Legal Aid Law s. 4: frivolous cases are refused legal aid.
+  correct: 0
+  explanation: >-
+    Reg. 14(ג) has two conditions: inability to pay and a proceeding that shows a cause of action. Fix the
+    petition's legal basis, or pay, possibly in instalments under reg. 14(ז).
+- id: q3
+  question: >-
+    An engineer earning well above the Legal Aid income threshold was fired after reporting corruption at
+    his municipality. Can Legal Aid represent him?
+  options:
+    - >-
+      No; his income is above the threshold, so he must hire a lawyer.
+    - >-
+      Only if he first obtains a court fee exemption from the judge.
+    - >-
+      Only after the State Comptroller confirms his complaint.
+    - >-
+      Possibly; whistleblower cases skip the means test, not merits.
+  correct: 3
+  explanation: >-
+    Item 7 of the Legal Aid Law's Schedule disapplies the means test for whistleblower proceedings, and the
+    Ministry lists them among subjects without a means test. The merits test still applies.
+- id: q4
+  question: >-
+    Legal Aid refused your application on the merits. The refusal letter reached you today. What can you
+    do?
+  options:
+    - >-
+      Nothing; the head of the office's decision is final.
+    - >-
+      Appeal to the District Court within 30 days of the notice.
+    - >-
+      Petition the High Court of Justice within 45 days.
+    - >-
+      Complain to the Public Complaints Commissioner, who can order aid.
+  correct: 1
+  explanation: >-
+    Legal Aid Law s. 5 allows an appeal to the District Court, decided by one judge; reg. 14 sets 30 days from
+    the notice, with a copy of the decision attached.
