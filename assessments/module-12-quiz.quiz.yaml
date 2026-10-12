@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    A settlers' regional council supports a private bill on road funding that passed its first reading
+    in June 2026. Two of its three proposers are re-elected on 27 October. What should the council ask
+    for once the 26th Knesset is sworn in?
+  options:
+    - >-
+      Nothing; bills that passed a first reading continue automatically.
+    - >-
+      That the bill be re-tabled and start again from the preliminary reading.
+    - >-
+      That a re-elected proposer consent and the committee propose continuity.
+    - >-
+      That the President extend the outgoing Knesset's term for this bill.
+  correct: 2
+  explanation: >-
+    A private bill that passed its first reading can be continued if a re-elected proposer consents
+    and the relevant committee asks the new plenum to apply continuity (Continuity Law ss. 2–3, 6).
+- id: q2
+  question: >-
+    A Bedouin community organisation learns that the Interior Committee will discuss a bill on
+    unrecognised villages next week. It wants its planner to speak. What gives it the best chance?
+  options:
+    - >-
+      A written request to the secretariat now, with a short paper attached.
+    - >-
+      A petition to the High Court to require the committee to hear it.
+    - >-
+      A letter to the Speaker asking him to order the chair to invite it.
+    - >-
+      A lobbyist permit for the planner, which guarantees a right to speak.
+  correct: 0
+  explanation: >-
+    The chair may invite anyone with knowledge or an interest (Rules s. 125), and requests go through
+    the secretariat as soon as the agenda is posted. No permit guarantees speaking time; a paper ensures
+    the points are on file even if time runs out.
+- id: q3
+  question: >-
+    A parents' group's position paper ends: "We oppose this bill and ask the committee to reject it."
+    The bill will clearly pass. What would make the paper more effective?
+  options:
+    - >-
+      Adding more pages of background on the group's history.
+    - >-
+      Sending it only to opposition MKs, who will vote against.
+    - >-
+      Asking the committee's legal adviser to draft the group's wording.
+    - >-
+      Specific requests for the key clauses, each with a proposed wording.
+  correct: 3
+  explanation: >-
+    Committees amend clauses; reservations cannot simply negate a bill (s. 86(ד)). A paper with
+    numbered requests and exact wordings gives members something they can adopt.
+- id: q4
+  question: >-
+    In a paper on a bill about kindergarten fees, a group also proposes changing the rules for
+    university tuition. An MK raises a "new topic" objection. What follows?
+  options:
+    - >-
+      The committee must adopt the proposal, because it came from the public.
+    - >-
+      The House Committee decides; if it is a new topic, it cannot be added.
+    - >-
+      The proposal is automatically sent to the Education Ministry instead.
+    - >-
+      The proposal is kept as a reservation for the second reading.
+  correct: 1
+  explanation: >-
+    Under s. 85 a committee may amend only within the bill's subject. A new-topic claim goes to the
+    House Committee; if upheld, the amendment is not included and cannot be filed as a reservation.
+- id: q5
+  question: >-
+    A disability rights activist asks an MK to file this ordinary question: a 95-word text naming a
+    wheelchair user and her medical condition, asking whether the minister thinks the policy is fair.
+    How many problems does it have under the Rules?
+  options:
+    - >-
+      One: it is far too long for an ordinary question.
+    - >-
+      None, because the MK files it, not the activist.
+    - >-
+      Three: length, private details and an opinion.
+    - >-
+      Two: it names a person and asks for the minister's view.
+  correct: 2
+  explanation: >-
+    An ordinary question is limited to 50 words (s. 48(א)); it may not contain a person's private
+    details or ask for a general opinion (s. 47(א)). A direct, factual, anonymised question would work.
+- id: q6
+  question: >-
+    A business association pays a former Finance Committee adviser, who left the MK's office four
+    months ago, to persuade MKs on a tax bill. What is the problem?
+  options:
+    - >-
+      None, as long as the adviser discloses the association as the client.
+    - >-
+      The association must register as a political party first.
+    - >-
+      Only the MKs must report the meetings to the Ethics Committee.
+    - >-
+      He cannot get a lobbyist permit within six months of leaving the MK's office.
+  correct: 3
+  explanation: >-
+    A paid persuader for a client needs a permit (Knesset Law ss. 65–66), and s. 67(3) bars a permit
+    for someone who was an MK's employee in the previous six months.
+- id: q7
+  question: >-
+    A city holds its council meeting on a disputed eruv and Shabbat-closure by-law. The mayor closes
+    the meeting to the public, saying the subject is "sensitive". No legal opinion is laid before the
+    members. A resident asks what rule was broken.
+  options:
+    - >-
+      Meetings may be closed only for security or privacy, on a legal opinion.
+    - >-
+      By-laws may be debated only in the Interior Ministry, not in the council.
+    - >-
+      The council must hold a referendum before closing any meeting.
+    - >-
+      Nothing; the mayor may close any meeting he considers sensitive.
+  correct: 0
+  explanation: >-
+    Under the Second Schedule s. 18(א) meetings are public; the mayor may close a meeting only for
+    state security or privacy reasons, based on the legal adviser's opinion laid before the members.
+- id: q8
+  question: >-
+    Residents of an Arab town have waited a year for broken street lights to be fixed. One resident's
+    written request was ignored. She wants an investigation and a timetable, without going to court.
+    Which tool fits first?
+  options:
+    - >-
+      A complaint to the government FOI Unit about the municipality.
+    - >-
+      A complaint to the town's Public Complaints Commissioner.
+    - >-
+      A parliamentary question through an MK to the mayor.
+    - >-
+      A request to the Knesset Research Center for a report.
+  correct: 1
+  explanation: >-
+    The local commissioner investigates complaints of direct harm from improper administration
+    (2008 Law s. 5). The FOI Unit has no power over local authorities, and MKs question ministers,
+    not mayors.
+- id: q9
+  question: >-
+    A resident complained to her city's complaints commissioner about a refused business licence.
+    Meanwhile the 45-day deadline for an administrative petition is running. What should she do?
+  options:
+    - >-
+      Wait for the commissioner; the deadline is suspended while he investigates.
+    - >-
+      Ask the commissioner to extend the court deadline on her behalf.
+    - >-
+      Withdraw the complaint, because complaints and petitions are mutually exclusive.
+    - >-
+      Keep the court deadline in mind; the complaint does not extend it.
+  correct: 3
+  explanation: >-
+    Section 14(א)(2) of the 2008 Law says a complaint does not extend a deadline set by law. If she
+    files a petition, the commissioner will stop investigating a matter pending in court (s. 7(א)(1)).
+- id: q10
+  question: >-
+    A Haredi residents' group wants the council to discuss why a plot zoned for a synagogue has not
+    been allocated. How can the issue reach the council's agenda?
+  options:
+    - >-
+      The group's chair speaks from the public seats at the next meeting.
+    - >-
+      The group files a motion for the agenda with the council coordinator.
+    - >-
+      A council member submits a motion for the agenda or a question.
+    - >-
+      The group asks the district planning committee to put it on the agenda.
+  correct: 2
+  explanation: >-
+    Residents have no right to speak or to file motions at council meetings. A council member may
+    submit a question seven days before a regular meeting (s. 36) or a motion for the agenda (s. 27).

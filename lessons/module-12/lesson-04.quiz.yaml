@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    You want the Education Ministry's figures on school dropouts by district for the last five
+    years, with a breakdown by year. Which type of question should you ask an MK to file?
+  options:
+    - >-
+      An urgent question, because data requests have priority.
+    - >-
+      An ordinary question, read and answered in the plenum.
+    - >-
+      A question to the Knesset Research Center, not to the minister.
+    - >-
+      A direct question, answered in writing with no word limit.
+  correct: 3
+  explanation: >-
+    Detailed figures suit a direct question: no word limit and a written answer within 21 days (s. 50).
+    Ordinary questions are limited to 50 words and urgent ones to 40.
+- id: q2
+  question: >-
+    Which draft question is most likely to be disqualified?
+  options:
+    - >-
+      "Does the minister agree that the closure policy is unjust to residents?"
+    - >-
+      "How many closure orders were issued in 2025, and in which districts?"
+    - >-
+      "On what date did the ministry receive the municipality's request?"
+    - >-
+      "How many inspectors does the ministry employ in the Southern District?"
+  correct: 0
+  explanation: >-
+    Section 47(א)(2) bars questions that ask for a general opinion. The other three ask for facts within
+    the minister's area.
+- id: q3
+  question: >-
+    A residents' association hires a public-affairs firm and pays it to persuade MKs to support a
+    bill. The firm's employee attends committee sessions. What does the Knesset Law require?
+  options:
+    - >-
+      Nothing, because the association is a non-profit amuta.
+    - >-
+      A lobbyist permit, a badge and disclosure of the client.
+    - >-
+      Only that the association's chair sign the entry form.
+    - >-
+      Registration of the association with the Registrar of Amutot.
+  correct: 1
+  explanation: >-
+    The firm acts for payment for a client, so it is a lobbyist under s. 65. It needs a permit (s. 66),
+    must wear a badge, disclose the client and ask to be recorded in the protocol (s. 68).
+- id: q4
+  question: >-
+    In September 2026, during the election recess, an MK files a direct question for you. When must
+    the minister answer?
+  options:
+    - >-
+      Within 21 days, counting only days when the plenum sits.
+    - >-
+      Only after the 26th Knesset convenes.
+    - >-
+      Within 30 days, because it was received in the recess.
+    - >-
+      Within 45 days, under the Decisions and Reasons Law.
+  correct: 2
+  explanation: >-
+    Section 50(ב) gives 21 days for a direct question, or 30 days if it was received in the recess. The
+    outgoing Knesset serves until the new one convenes (Basic Law: The Knesset, s. 37).
+- id: q5
+  question: >-
+    Dana volunteers, unpaid, for an environmental NGO and meets MKs about a bill on plastic bags. Leah
+    is the NGO's paid policy director doing the same. Who needs a lobbyist permit?
+  options:
+    - >-
+      Neither: Dana is unpaid, and Leah acts for her own employer.
+    - >-
+      Both, because both try to persuade MKs about a bill.
+    - >-
+      Only Dana, because volunteers are not covered by the employee exception.
+    - >-
+      Only Leah, because she is paid for her work.
+  correct: 0
+  explanation: >-
+    A lobbyist acts as an occupation or for payment for a client. Dana is unpaid and acts for her cause;
+    Leah is an employee acting for her employer, which s. 65(1) excludes.

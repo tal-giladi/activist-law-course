@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Your city council approved the protocol of last month's open meeting a week ago, but it is still
+    not on the municipality's website. What does the Municipalities Ordinance require?
+  options:
+    - >-
+      Nothing; protocols are given only to council members.
+    - >-
+      Posting within two working days of approval, with a recording.
+    - >-
+      Posting within 30 days, after the FOI officer reviews it.
+    - >-
+      Posting only if a resident pays the FOI request fee.
+  correct: 1
+  explanation: >-
+    Section 248ב(2) requires the city to post protocols of open council meetings within two working
+    days of their approval, together with recordings or transcripts.
+- id: q2
+  question: >-
+    The mayor announces that the council's discussion of a land lease to a sports club will be held
+    behind closed doors "to avoid public pressure". What is wrong with this?
+  options:
+    - >-
+      Nothing; the mayor may close any meeting at his discretion.
+    - >-
+      Only the Interior Minister may close a council meeting.
+    - >-
+      Only security or privacy, on legal advice, justify closing it.
+    - >-
+      Council meetings may be closed only in an election year.
+  correct: 2
+  explanation: >-
+    Under the Second Schedule s. 18(א) meetings are public; the mayor may close one only for state
+    security or privacy, based on a legal adviser's opinion laid before the members.
+- id: q3
+  question: >-
+    A resident wants the mayor to explain, on the record, why a promised kindergarten has not opened.
+    The council meets in ten days. What is the most effective route?
+  options:
+    - >-
+      Ask a council member to submit a written question this week.
+    - >-
+      Attend the meeting and ask to address the council from the public seats.
+    - >-
+      Ask the government FOI Unit to order the mayor to answer.
+    - >-
+      Submit a parliamentary question through an MK to the mayor.
+  correct: 0
+  explanation: >-
+    A council member may submit a factual question at least seven days before a regular meeting, and
+    the mayor answers at the meeting (Second Schedule s. 36). Residents have no right to speak at the
+    meeting, the FOI Unit has no power over cities, and MKs question ministers, not mayors.
+- id: q4
+  question: >-
+    A resident's complaint about a parking fine was rejected by the municipality's appeals process and
+    the case is now pending in the Local Affairs Court. She complains to the local Public Complaints
+    Commissioner. What happens?
+  options:
+    - >-
+      The commissioner investigates and can cancel the fine.
+    - >-
+      The commissioner forwards it to the state Commissioner.
+    - >-
+      The commissioner suspends the court case until the investigation ends.
+    - >-
+      The commissioner will not investigate a matter pending in court.
+  correct: 3
+  explanation: >-
+    Section 7(א)(1) of the 2008 Law bars investigating a matter pending before a court. The complaint
+    also would not extend any court deadline (s. 14).

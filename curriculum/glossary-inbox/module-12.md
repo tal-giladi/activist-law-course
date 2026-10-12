@@ -1,0 +1,28 @@
+# Glossary inbox — Module 12
+
+- **הצעת חוק ממשלתית** (hatza'at chok memshaltit) — Government bill, submitted by the government as a whole.
+- **הצעת חוק פרטית** (hatza'at chok pratit) — Private member's bill, submitted by an MK who is not a minister or deputy minister.
+- **הצעת חוק מטעם ועדה** (hatza'at chok mita'am va'ada) — Committee bill; only certain committees, on Basic Laws, the Knesset, elections, parties and the State Comptroller (Rules s. 80).
+- **תזכיר חוק** (tazkir chok) — Government draft bill published for public and ministry comments before it reaches the Knesset.
+- **דיון מוקדם / קריאה טרומית** (diyun mukdam / kri'a tromit) — Preliminary reading of a private bill, at least 45 days after tabling.
+- **קריאה ראשונה, שנייה ושלישית** (kri'a rishona, shniya, shlishit) — The three readings; a law is passed in the third.
+- **הנחה על שולחן הכנסת** (hanacha al shulchan haknesset) — Tabling: formal publication of a bill in the Knesset.
+- **הסתייגות** (histaygut) — Reservation: an amendment rejected in committee and attached to the bill for the second reading.
+- **נושא חדש** (nose chadash) — "New topic": an amendment beyond the bill's subject, which the committee may not add (Rules s. 85).
+- **דין רציפות** (din retzifut) — Continuity: reviving in the new Knesset a bill that passed its first reading in the outgoing one.
+- **פגרת בחירות** (pagrat bechirot) — Election recess of the Knesset before elections.
+- **ועדת הסכמות** (va'adat haskamot) — Agreements committee that approves committee sessions during the election recess.
+- **ועדה קבועה** (va'ada kvu'a) — Permanent Knesset committee with a fixed subject area (Rules s. 100).
+- **מזכירות הוועדה / מנהל הוועדה** (mazkirut hava'ada / menahel hava'ada) — Committee secretariat / manager, who handles invitations and documents.
+- **נייר עמדה** (neyar emda) — Position paper submitted to a committee.
+- **הצעת נוסח** (hatza'at nusach) — Proposed wording of a clause.
+- **שאילתה רגילה / דחופה / ישירה** (sha'ilta regila / dchufa / yeshira) — Ordinary / urgent / direct parliamentary question to a minister.
+- **שדלן** (shadlan) — Lobbyist: someone who, as an occupation or for payment, persuades MKs for a client (Knesset Law s. 65).
+- **היתר שדלן** (heter shadlan) — Lobbyist permit issued by a Knesset committee (Knesset Law s. 66).
+- **שדולה פרלמנטרית** (shdula parlamentarit) — Knesset caucus: MKs from different parties around a cause.
+- **מועצת העירייה / חבר מועצה** (mo'etzet ha'iriya / chaver mo'atza) — City council / council member.
+- **ישיבה מן המניין / שלא מן המניין** (yeshiva min haminyan / shelo min haminyan) — Regular / special council meeting.
+- **בדלתיים סגורות** (bidlatayim sgurot) — In closed session.
+- **מרכז ישיבות המועצה** (merakez yeshivot hamo'atza) — Council meetings coordinator, responsible for invitations and protocols.
+- **הממונה על תלונות הציבור ברשות המקומית** (hamemune al tlunot hatzibur) — The local authority's Public Complaints Commissioner, usually its internal auditor.
+- **מבקר הרשות** (mevaker harashut) — The local authority's internal auditor.

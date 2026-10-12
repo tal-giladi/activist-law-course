@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your paper on a bill about public transport fares also proposes a new rule on taxi licences,
+    which the bill does not touch. What is the likely problem?
+  options:
+    - >-
+      Taxi rules can only be set by regulations, never by a law.
+    - >-
+      Position papers may address only one clause of a bill.
+    - >-
+      The proposal may be blocked as beyond the bill's subject.
+    - >-
+      The committee must first publish the proposal in Reshumot.
+  correct: 2
+  explanation: >-
+    Under s. 85 a committee may amend a bill only within its subject; an MK or minister can raise a
+    "new topic" objection. A separate bill or a motion for the agenda fits better.
+- id: q2
+  question: >-
+    Which first page is most likely to change a clause?
+  options:
+    - >-
+      A history of the organisation and its achievements since 1998.
+    - >-
+      Who you are, a one-line position and numbered requests with wordings.
+    - >-
+      A full copy of the bill with your comments in the margins.
+    - >-
+      A list of MKs who voted for the bill in the first reading.
+  correct: 1
+  explanation: >-
+    Members and advisers often read only page one. It should say who you are, what you want and the
+    exact wording you propose; background and evidence follow.
+- id: q3
+  question: >-
+    The committee rejected your proposed amendment. The bill has not yet been approved for second
+    and third readings. What can still be done with it?
+  options:
+    - >-
+      Ask an MK who presented it to have it attached as a reservation.
+    - >-
+      File it yourself as a reservation with the Knesset Secretary.
+    - >-
+      Appeal the committee's decision to the Knesset legal adviser.
+    - >-
+      Submit it to the President before he signs the law.
+  correct: 0
+  explanation: >-
+    Only MKs (and ministers) propose amendments. Under s. 86(ב) an MK whose amendment was rejected can
+    ask, before the committee finishes, that it be attached as a reservation for the second reading.
+- id: q4
+  question: >-
+    Your paper says "most small shops cannot afford a ramp." What makes this claim useful to the
+    committee?
+  options:
+    - >-
+      Repeating it in bold in every section of the paper.
+    - >-
+      Adding that the ministry's officials know it is true.
+    - >-
+      Removing it, because committees ignore economic claims.
+    - >-
+      A checkable source, such as official data or a described survey.
+  correct: 3
+  explanation: >-
+    Legal advisers and ministries test facts. A sourced figure, with your own data marked as such,
+    can be checked and used; an unsupported claim is easily dismissed.

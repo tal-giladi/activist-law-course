@@ -15325,3 +15325,1478 @@
   explanation: >-
     The Ministry of Justice's Legal Aid service centre is *6405 (Sun–Thu 8:00–16:00). *3852 is the
     judiciary's information centre.
+- id: m12-001
+  module: 12
+  lesson: '12.1'
+  subject: bill-types
+  difficulty: 1
+  question: Who may submit a private member's bill (הצעת חוק פרטית)?
+  options:
+    - Any minister, on behalf of his or her ministry.
+    - Any citizen who collects 10,000 signatures.
+    - The Knesset legal adviser, on an MK's request.
+    - An MK who is not a minister or a deputy minister.
+  correct: 3
+  explanation: >-
+    Rules of Procedure s. 75(א): an MK who is not a minister or deputy minister may submit a private
+    bill. Government bills come from the government as a whole.
+- id: m12-002
+  module: 12
+  lesson: '12.1'
+  subject: bill-types
+  difficulty: 1
+  question: Which bills go through a preliminary reading (דיון מוקדם)?
+  options:
+    - Government bills only.
+    - All bills, including Basic Laws from the government.
+    - Only bills that cost the budget money.
+    - Private members' bills only.
+  correct: 3
+  explanation: 'Section 74(א): every bill has three readings, and a private bill also has a preliminary reading.'
+- id: m12-003
+  module: 12
+  lesson: '12.1'
+  subject: bill-types
+  difficulty: 2
+  question: A committee of the Knesset wants to initiate a bill on party financing. Is that possible?
+  options:
+    - No; only the government may initiate bills that concern party financing.
+    - Yes; any permanent committee may initiate a bill on any subject it covers.
+    - No; committee bills were abolished in the 2011 reform of the Rules.
+    - Yes; some committees may initiate bills on elections, parties and similar subjects.
+  correct: 3
+  explanation: >-
+    Section 80 lets certain committees (House, Constitution, State Control) initiate bills on Basic
+    Laws, the Knesset, elections, MKs, parties and party financing, and the State Comptroller.
+- id: m12-004
+  module: 12
+  lesson: '12.1'
+  subject: readings
+  difficulty: 1
+  question: In which reading is a law finally passed?
+  options:
+    - The first reading.
+    - The third reading.
+    - The preliminary reading.
+    - The second reading.
+  correct: 1
+  explanation: 'Section 74(א): a law is passed in the third reading, a single vote on the whole text.'
+- id: m12-005
+  module: 12
+  lesson: '12.1'
+  subject: readings
+  difficulty: 2
+  question: >-
+    A private bill was tabled on 1 March. The government has not taken a position and the House
+    Committee did not shorten the period. When can the preliminary vote be held at the earliest?
+  options:
+    - The next Wednesday after tabling.
+    - Only after the government publishes a תזכיר חוק.
+    - Six months after tabling.
+    - About 45 days after tabling, in mid-April.
+  correct: 3
+  explanation: >-
+    Section 76(ג): the preliminary discussion is not held before 45 days have passed since tabling,
+    counting the day of tabling and the day of the vote.
+- id: m12-006
+  module: 12
+  lesson: '12.1'
+  subject: readings
+  difficulty: 2
+  question: >-
+    A private bill on Shabbat trading was removed from the agenda in its preliminary reading.
+    Another MK wants to bring a nearly identical bill two months later. What rule applies?
+  options:
+    - A similar bill generally waits six months, unless the Speaker shortens the wait.
+    - It can be voted on immediately, because a different MK is proposing it now.
+    - It may never be brought again for the rest of the same Knesset's term.
+    - It must first be approved by the Ministerial Committee for Legislation.
+  correct: 0
+  explanation: >-
+    Section 76(ח): after a bill is removed from the agenda, a substantially similar bill waits six
+    months unless the Speaker shortens the period because circumstances changed substantially.
+- id: m12-007
+  module: 12
+  lesson: '12.1'
+  subject: readings
+  difficulty: 2
+  question: Where does a private bill go after it passes its first reading?
+  options:
+    - Straight to the second reading in the plenum, without committee work.
+    - To the Ministerial Committee for Legislation for a government position.
+    - To the Knesset Presidium, which must approve it a second time.
+    - Back to the committee that prepared it for the first reading.
+  correct: 3
+  explanation: >-
+    Section 83(א): a private or committee bill approved in the first reading returns to the
+    committee that prepared it, which prepares it for the second and third readings.
+- id: m12-008
+  module: 12
+  lesson: '12.1'
+  subject: tazkir
+  difficulty: 1
+  question: What is a תזכיר חוק?
+  options:
+    - A government draft bill published for comments before it reaches the Knesset.
+    - A summary of a committee session that the Knesset staff prepares for members.
+    - A reservation that an MK files on a bill before its second reading.
+    - A notice in Reshumot that a law has been published in Sefer HaChukim.
+  correct: 0
+  explanation: >-
+    A memorandum of law is the government's draft, published for public and ministry comments before
+    the Ministerial Committee approves a government bill.
+- id: m12-009
+  module: 12
+  lesson: '12.1'
+  subject: tazkir
+  difficulty: 2
+  question: >-
+    An environmental group missed the comment deadline on a ministry's תזכיר חוק. The bill has now
+    been tabled. What is its best next step?
+  options:
+    - Ask the ministry to reopen the comment period, which the law requires.
+    - Prepare a position paper for the Knesset committee that will handle it.
+    - Petition the High Court to cancel the tabling because comments were missed.
+    - Wait for the third reading and then ask the Knesset to hold a revote.
+  correct: 1
+  explanation: >-
+    Once the bill is in the Knesset, the committee stage is the main point of influence; the group
+    should prepare a paper and ask to take part.
+- id: m12-010
+  module: 12
+  lesson: '12.1'
+  subject: continuity
+  difficulty: 1
+  question: Which law allows the new Knesset to continue a bill from the outgoing Knesset?
+  options:
+    - חוק רציפות הדיון בהצעות חוק, התשנ״ג–1993.
+    - 'חוק-יסוד: הממשלה, הסעיף על ממשלה יוצאת.'
+    - חוק הכנסת, התשנ״ד–1994, פרק י״ב.
+    - חוק הבחירות לכנסת [נוסח משולב], התשכ״ט–1969.
+  correct: 0
+  explanation: >-
+    The Continuity of Debate on Bills Law 1993, with Rules of Procedure s. 97, sets the continuity
+    procedure.
+- id: m12-011
+  module: 12
+  lesson: '12.1'
+  subject: continuity
+  difficulty: 2
+  question: >-
+    A private bill passed its first reading in the 25th Knesset. None of its proposers is
+    re-elected. Can it be continued?
+  options:
+    - Yes; the committee can continue it without any proposer.
+    - Yes; the government can adopt it under s. 1 of the Continuity Law.
+    - Yes; it continues automatically after a first reading.
+    - No; continuity of a private bill needs a re-elected proposer's consent.
+  correct: 3
+  explanation: >-
+    Section 3 of the Continuity Law: notice about a private bill is given only if a proposer serves
+    in the new Knesset and consents. (Rules s. 97(א) treats joiners as proposers if no initiator
+    returned.)
+- id: m12-012
+  module: 12
+  lesson: '12.1'
+  subject: continuity
+  difficulty: 3
+  question: >-
+    The new government announces it wants continuity for a government bill. A faction objects within
+    two weeks, and the plenum rejects continuity. What happens next?
+  options:
+    - The government can simply ask again for continuity at the next session.
+    - The committee that handled it can apply continuity on its own authority.
+    - The decision is final; the bill can only come back as a new bill.
+    - The Speaker decides alone whether the faction's objection was valid.
+  correct: 2
+  explanation: >-
+    Rules s. 97(ז): if the Knesset decides not to apply continuity, no further notice about the same
+    bill is given; the Legal Department guide adds continuity can be applied only once.
+- id: m12-013
+  module: 12
+  lesson: '12.1'
+  subject: continuity
+  difficulty: 3
+  question: >-
+    A labour rights group opposes a government bill that passed its first reading before the recess.
+    After the elections the new government asks for continuity. Where is the group's best window?
+  options:
+    - Asking the President of the State not to sign the continuity decision.
+    - Persuading a faction to object within two weeks, and briefing MKs for the vote.
+    - Filing a High Court petition before the new Knesset is even sworn in.
+    - Asking the old committee chair to use his personal veto over continuity.
+  correct: 1
+  explanation: >-
+    Section 5 of the Continuity Law lets a faction propose within two weeks that continuity not
+    apply; the Knesset then votes. That debate is the opponents' window.
+- id: m12-014
+  module: 12
+  lesson: '12.1'
+  subject: election-recess
+  difficulty: 1
+  question: When did the 25th Knesset's election recess begin?
+  options:
+    - 27 October 2026.
+    - 1 January 2026.
+    - 18 July 2026.
+    - 1 September 2026.
+  correct: 2
+  explanation: >-
+    The Israel Democracy Institute reports that the summer recess, which is also the election
+    recess, began on 18 July 2026; elections are on 27 October 2026.
+- id: m12-015
+  module: 12
+  lesson: '12.1'
+  subject: election-recess
+  difficulty: 2
+  question: During the election recess, why can usually only government-backed bills move forward?
+  options:
+    - The Basic Laws forbid any legislation at all during an election year.
+    - The plenum rarely meets and committee sessions need case-by-case approval.
+    - Private bills automatically lapse on the day that the recess begins.
+    - The Knesset legal adviser has a power to veto bills of opposition MKs.
+  correct: 1
+  explanation: >-
+    In the recess the plenum meets only on the government's request or a demand of 25 MKs (which the
+    High Court held does not cover bills), and committees need the agreements committee's approval
+    (IDI, July 2026).
+- id: m12-016
+  module: 12
+  lesson: '12.1'
+  subject: election-recess
+  difficulty: 2
+  question: Until when do the 25th Knesset's MKs keep serving?
+  options:
+    - Until election day, 27 October 2026.
+    - Until the start of the election recess.
+    - Until the President assigns the task of forming a government.
+    - Until the 26th Knesset convenes.
+  correct: 3
+  explanation: >-
+    Basic Law: The Knesset, s. 37: the outgoing Knesset continues to serve until the incoming
+    Knesset convenes.
+- id: m12-017
+  module: 12
+  lesson: '12.1'
+  subject: bill-tracking
+  difficulty: 1
+  question: Which free source gives machine-readable records of bills, questions and committee sessions?
+  options:
+    - The Knesset's open data (OData) service.
+    - Nevo's case-law pages.
+    - The Government Press Office archive.
+    - The Central Elections Committee register.
+  correct: 0
+  explanation: >-
+    The Knesset publishes its ParliamentInfo OData service with bills, questions and committee data;
+    Open Knesset is built on it.
+- id: m12-018
+  module: 12
+  lesson: '12.1'
+  subject: bill-tracking
+  difficulty: 3
+  question: >-
+    A bill page says: 'הוכנה לקריאה ראשונה' and the bill is a private bill. The Knesset ends next
+    month. What is your continuity verdict?
+  options:
+    - It continues, because it was prepared for first reading.
+    - It continues if the government supports it.
+    - 'It lapses: it has not yet passed its first reading.'
+    - It is automatically passed in the first reading of the next Knesset.
+  correct: 2
+  explanation: >-
+    Prepared for first reading is not passed in first reading. Only bills that the outgoing Knesset
+    passed in the first reading and sent to a committee can get continuity.
+- id: m12-019
+  module: 12
+  lesson: '12.2'
+  subject: committee-choice
+  difficulty: 1
+  question: Where are the permanent committees and their subject areas listed?
+  options:
+    - Rules of Procedure s. 100.
+    - The Knesset Law, chapter 12.
+    - 'Basic Law: The Government.'
+    - The Municipalities Ordinance, Second Schedule.
+  correct: 0
+  explanation: Section 100 of the Rules of Procedure lists the permanent committees and their subjects.
+- id: m12-020
+  module: 12
+  lesson: '12.2'
+  subject: committee-choice
+  difficulty: 2
+  question: >-
+    A bill on licensing of police informants' payments passed its first reading. Which body decided
+    which committee would prepare it?
+  options:
+    - The plenum, on the chair's announcement, unless an MK asked the House Committee.
+    - The Attorney General, by a written opinion sent to the Knesset Speaker.
+    - The minister who proposed the bill, by a notice to the Knesset Secretary.
+    - The Knesset Research and Information Center, after a short review.
+  correct: 0
+  explanation: >-
+    Section 83(ב): after a government bill passes the first reading, the chair announces the
+    committee; any MK may propose another, and then the House Committee decides.
+- id: m12-021
+  module: 12
+  lesson: '12.2'
+  subject: committee-choice
+  difficulty: 2
+  question: >-
+    There is no bill, but a farmer group wants a committee to discuss water quotas. How does a topic
+    usually reach a committee?
+  options:
+    - The farmers file a petition directly with the committee's secretariat.
+    - The Ministry of Agriculture books a session through the Knesset Secretary.
+    - The Knesset Speaker adds it to a committee agenda at the public's request.
+    - An MK raises a motion for the agenda or a quick debate sent to a committee.
+  correct: 3
+  explanation: >-
+    Motions for the agenda and quick debates (Rules ss. 52–61) are the MKs' tools for bringing a
+    topic to a committee.
+- id: m12-022
+  module: 12
+  lesson: '12.2'
+  subject: participation-request
+  difficulty: 1
+  question: Which rule allows a committee chair to invite members of the public?
+  options:
+    - Rules of Procedure s. 125(א).
+    - Knesset Law s. 66.
+    - 'Basic Law: The Knesset s. 37.'
+    - FOI Law s. 3.
+  correct: 0
+  explanation: 'Section 125(א): the chair may invite anyone with knowledge of or an interest in the subject.'
+- id: m12-023
+  module: 12
+  lesson: '12.2'
+  subject: participation-request
+  difficulty: 2
+  question: >-
+    Spot the weakness in this request: 'Hello, I would like to come to the Knesset to talk about
+    education. Thanks, Moshe.'
+  options:
+    - It should have been sent by registered mail rather than by e-mail.
+    - It must be signed by a lawyer to be considered by the secretariat.
+    - It should be addressed to the Prime Minister's office, not to a committee.
+    - No session, no interest, no specific request and no entry details.
+  correct: 3
+  explanation: >-
+    A secretariat needs the session and agenda item, why you have knowledge or interest, what you
+    ask (attend, speak, submit), and your details for the entry list.
+- id: m12-024
+  module: 12
+  lesson: '12.2'
+  subject: participation-request
+  difficulty: 2
+  question: Why should a request to take part include your ID number?
+  options:
+    - The Knesset uses it to check your voting record before the session.
+    - The secretariat needs it to put you on the Knesset entry list.
+    - It is required by law for anyone who applies for a lobbyist permit.
+    - It is published in the session protocol next to your name and role.
+  correct: 1
+  explanation: >-
+    Entry to the Knesset building is by a list; give the ID number to the secretariat only, never in
+    a published paper.
+- id: m12-025
+  module: 12
+  lesson: '12.2'
+  subject: participation-request
+  difficulty: 3
+  question: >-
+    A student group's request to speak was approved, but on the day the chair gives the floor only
+    to ministry officials and NGOs with long experience. What should the group do next?
+  options:
+    - Interrupt the session to insist on its legal right to speak at the session.
+    - Petition the High Court for an order giving it a right to be heard in committee.
+    - Complain to the State Comptroller about how the chair ran the committee session.
+    - Send its paper to the secretariat and legal adviser, and ask to be invited next time.
+  correct: 3
+  explanation: >-
+    There is no fixed right to speak; it is at the chair's discretion. A written submission keeps
+    the points on record and builds the relationship for the next session.
+- id: m12-026
+  module: 12
+  lesson: '12.2'
+  subject: speaking
+  difficulty: 1
+  question: How long should a citizen usually prepare to speak in a committee session?
+  options:
+    - Two to three minutes, or less.
+    - Fifteen minutes.
+    - As long as the speaker needs.
+    - Ten minutes, as in the plenum.
+  correct: 0
+  explanation: Sessions are tightly timed and the chair controls speaking time; plan for two to three minutes.
+- id: m12-027
+  module: 12
+  lesson: '12.2'
+  subject: speaking
+  difficulty: 2
+  question: What is the best ending for a two-minute statement on a bill?
+  options:
+    - A summary of the organisation's history.
+    - A warning that the group will protest outside.
+    - A list of the MKs who support the bill.
+    - 'A specific request: which clause to change and how.'
+  correct: 3
+  explanation: >-
+    Committees act on specific wordings; ending with the clause and the change gives them something
+    to adopt.
+- id: m12-028
+  module: 12
+  lesson: '12.2'
+  subject: speaking
+  difficulty: 3
+  question: >-
+    A whistleblower from a hospital is invited to the Health Committee and fears retaliation if she
+    speaks in public. When must she ask to appear without the public?
+  options:
+    - After she has finished speaking.
+    - Before the session starts.
+    - Within seven days after the session.
+    - Only through a lawyer, in writing, a month ahead.
+  correct: 1
+  explanation: >-
+    Section 126: the chair may allow an invitee to appear without others present if asked before the
+    session begins and justified.
+- id: m12-029
+  module: 12
+  lesson: '12.2'
+  subject: protocols
+  difficulty: 1
+  question: Where are the protocols of most committee sessions published?
+  options:
+    - Only in the Knesset library, on paper.
+    - In Reshumot.
+    - On the government FOI Unit website.
+    - On the Knesset website.
+  correct: 3
+  explanation: >-
+    Section 120(א): protocols are open to the public and published on the Knesset website, subject
+    to the confidentiality rules.
+- id: m12-030
+  module: 12
+  lesson: '12.2'
+  subject: protocols
+  difficulty: 2
+  question: Which committee's protocols are generally confidential?
+  options:
+    - The Finance Committee's, because of budget secrets.
+    - The Education, Culture and Sports Committee's.
+    - The Interior and Environmental Protection Committee's.
+    - The Foreign Affairs and Defense Committee's.
+  correct: 3
+  explanation: >-
+    Section 120(ב): protocols of the Foreign Affairs and Defense Committee and the joint defense
+    budget committee are confidential, with exceptions for broadcast sessions and legislation.
+- id: m12-031
+  module: 12
+  lesson: '12.2'
+  subject: protocols
+  difficulty: 2
+  question: >-
+    You spoke at a session and the protocol omits your main point. How long do you have to ask for a
+    correction, and to whom?
+  options:
+    - Within 48 hours, by phone to the committee chair, who edits the protocol.
+    - Within 30 days, by a formal letter to the Knesset Speaker and Secretary.
+    - Only orally at the next session of the same committee, when it opens.
+    - Write to the protocol department, promptly; the Rules set no fixed deadline.
+  correct: 3
+  explanation: >-
+    Section 119(ג): any speaker may ask in writing to the protocol department to fix errors and
+    omissions; the recorder corrects or the committee decides.
+- id: m12-032
+  module: 12
+  lesson: '12.2'
+  subject: committee-recess
+  difficulty: 2
+  question: In the 2026 election recess, which body approves most committee sessions case by case?
+  options:
+    - The Supreme Court, sitting as the High Court of Justice.
+    - The Central Elections Committee for the 26th Knesset.
+    - An agreements committee of coalition and opposition representatives.
+    - The Attorney General, after a request from the Knesset Speaker.
+  correct: 2
+  explanation: >-
+    IDI (July 2026): the House Committee set up an agreements committee; most committees need its
+    approval to meet in the recess.
+- id: m12-033
+  module: 12
+  lesson: '12.2'
+  subject: committee-recess
+  difficulty: 3
+  question: >-
+    A residents' group wants to influence a bill that the 25th Knesset's Interior Committee was
+    discussing. It is October 2026. What is the most useful work now?
+  options:
+    - Prepare the paper and contact list for the 26th Knesset's committee.
+    - Demand an urgent session of the 25th Knesset's committee this week.
+    - File the paper with the Central Elections Committee.
+    - Wait until the new government is formed before doing anything.
+  correct: 0
+  explanation: >-
+    Few sessions are held in the recess, and new committees form after the 26th Knesset convenes;
+    preparing now lets the group act early, including on continuity.
+- id: m12-034
+  module: 12
+  lesson: '12.3'
+  subject: paper-structure
+  difficulty: 1
+  question: What goes on page one of a position paper?
+  options:
+    - The full text of the bill, so that members can follow it.
+    - Who you are, a one-line position and numbered requests.
+    - The organisation's financial report and list of donors.
+    - A list of the committee members and their phone numbers.
+  correct: 1
+  explanation: Members often read only page one; it must show who you are, what you want and the requests.
+- id: m12-035
+  module: 12
+  lesson: '12.3'
+  subject: paper-structure
+  difficulty: 1
+  question: How long should a typical position paper be?
+  options:
+    - Two to four pages, with appendices for data.
+    - At least twenty pages, to show seriousness.
+    - One sentence, so that members read it all.
+    - As long as the bill and its explanatory notes.
+  correct: 0
+  explanation: Short papers get read; long data goes in appendices.
+- id: m12-036
+  module: 12
+  lesson: '12.3'
+  subject: paper-structure
+  difficulty: 2
+  question: >-
+    Spot the mistake: a paper's first page is a two-page history of the bill's background, and the
+    requests appear on page five.
+  options:
+    - A paper must not include any background.
+    - Requests must be sent in a separate letter to the Speaker.
+    - Background must be written in English.
+    - The requests are buried; they should be on page one.
+  correct: 3
+  explanation: Requests first; background after. A reader with five minutes must find them at once.
+- id: m12-037
+  module: 12
+  lesson: '12.3'
+  subject: wordings
+  difficulty: 1
+  question: Why should every argument end in a proposed wording?
+  options:
+    - The Rules forbid arguments without wordings.
+    - Wordings are required for the paper to be published.
+    - Committees adopt wordings; they rarely draft them for you.
+    - Only wordings are read by the legal adviser.
+  correct: 2
+  explanation: A ready wording gives members and the legal adviser something to adopt or file as a reservation.
+- id: m12-038
+  module: 12
+  lesson: '12.3'
+  subject: wordings
+  difficulty: 2
+  question: Which request is drafted best?
+  options:
+    - Please make the deadlines in the bill fairer for residents.
+    - We ask the committee to reconsider clause 4 and its effects.
+    - In clause 4(ב), replace 'עד 30 ימים' with 'עד 60 ימים'.
+    - Clause 4 is unacceptable to our members and must be changed.
+  correct: 2
+  explanation: A specific clause, current text and replacement text can be pasted into the bill.
+- id: m12-039
+  module: 12
+  lesson: '12.3'
+  subject: new-topic
+  difficulty: 2
+  question: Under s. 85, which change can a committee make to a bill on disabled parking permits?
+  options:
+    - Add a new chapter to the bill on public transport fares for everyone.
+    - Add new rules on taxi licences in general, which the bill does not touch.
+    - Amend a section of the disabled parking law that the bill did not mention.
+    - Change the income tax brackets for disabled people through this bill.
+  correct: 2
+  explanation: >-
+    Section 85(א): a committee may amend sections not mentioned in the bill, as long as it stays
+    within the bill's subject.
+- id: m12-040
+  module: 12
+  lesson: '12.3'
+  subject: new-topic
+  difficulty: 3
+  question: >-
+    During the committee's discussion a minister claims your group's proposal is a 'new topic'. What
+    happens before the committee can finish discussing it?
+  options:
+    - The House Committee must decide the claim.
+    - The minister's claim ends the discussion automatically.
+    - The Attorney General must give an opinion.
+    - The plenum votes on the claim at once.
+  correct: 0
+  explanation: >-
+    Section 85(ב)–(ג): the chair brings a new-topic claim to the House Committee, and the committee
+    does not finish the amendment until that decision.
+- id: m12-041
+  module: 12
+  lesson: '12.3'
+  subject: reservations
+  difficulty: 1
+  question: What is a הסתייגות?
+  options:
+    - A citizen's written objection to a bill, filed with the secretariat.
+    - A rejected amendment attached to the bill for the second reading.
+    - A ministry's formal comment on a תזכיר חוק during consultation.
+    - A committee's decision to delay its vote on a bill to a later session.
+  correct: 1
+  explanation: >-
+    Section 86(ב): an MK whose amendment was rejected may ask that it be attached as a reservation,
+    voted on in the second reading.
+- id: m12-042
+  module: 12
+  lesson: '12.3'
+  subject: reservations
+  difficulty: 2
+  question: 'Can a reservation say simply: ''Delete the whole bill''?'
+  options:
+    - Yes; that is the main purpose of a reservation.
+    - Yes, if ten MKs sign it.
+    - No; a reservation cannot negate the bill itself.
+    - No; reservations may only change the bill's title.
+  correct: 2
+  explanation: 'Section 86(ד)(1): a reservation shall not negate the bill itself.'
+- id: m12-043
+  module: 12
+  lesson: '12.3'
+  subject: reservations
+  difficulty: 3
+  question: >-
+    Your amendment was rejected in committee and the committee is about to approve the bill for
+    second and third readings. The MK who supports you was absent. What can still work?
+  options:
+    - You file the reservation yourself at the plenum on the day of the second reading.
+    - The MK files it on his own after the bill has been tabled for the second reading.
+    - You send it to the President of the State as a petition before he signs the law.
+    - Another MK presented it in his name, or he filed it in writing with the chair's approval.
+  correct: 3
+  explanation: >-
+    Section 86(ב): the reservation is attached if the MK presented it, another MK presented it in
+    his name (and he signs before tabling), or it was filed in writing in advance with the chair's
+    approval.
+- id: m12-044
+  module: 12
+  lesson: '12.3'
+  subject: evidence
+  difficulty: 1
+  question: Which source is strongest for a factual claim in a paper?
+  options:
+    - Official data or an FOI answer, with a reference.
+    - A popular social media post with many shares.
+    - An anonymous comment on a well-known news site.
+    - The personal opinion of a friendly MK, quoted.
+  correct: 0
+  explanation: Committees and ministries test facts; official data, FOI answers and rulings are checkable.
+- id: m12-045
+  module: 12
+  lesson: '12.3'
+  subject: evidence
+  difficulty: 2
+  question: Your group ran its own survey of 150 members. How should the paper present it?
+  options:
+    - Present it as official statistics.
+    - Mark it as your own data and describe how it was done.
+    - Leave out the method so it looks more authoritative.
+    - Do not use it at all; only government data counts.
+  correct: 1
+  explanation: >-
+    Own data is legitimate if labelled and its method explained; hiding the method undermines
+    credibility.
+- id: m12-046
+  module: 12
+  lesson: '12.3'
+  subject: evidence
+  difficulty: 2
+  question: Why should a paper name and answer the strongest argument for the other side?
+  options:
+    - The Rules of Procedure require every paper to present both sides.
+    - Otherwise the committee's legal adviser must reject the paper.
+    - Members trust a paper that deals with the obvious counter-argument.
+    - So that the paper itself can later be filed as a formal reservation.
+  correct: 2
+  explanation: >-
+    Answering the counter-argument shows the request is workable and makes the paper persuasive
+    across the committee.
+- id: m12-047
+  module: 12
+  lesson: '12.3'
+  subject: sending
+  difficulty: 1
+  question: Who should receive a position paper for a committee session?
+  options:
+    - Only the MK who proposed the bill, who will pass it to the others.
+    - Only journalists, who will make sure the committee reads it.
+    - The secretariat, the legal adviser, the chair and members from both sides.
+    - Only the minister responsible, who controls the committee's agenda.
+  correct: 2
+  explanation: >-
+    The secretariat puts it on file; the legal adviser drafts; the chair runs the session; members
+    from both sides can act on it.
+- id: m12-048
+  module: 12
+  lesson: '12.3'
+  subject: sending
+  difficulty: 2
+  question: When is it too late for an MK to propose your amendment in committee?
+  options:
+    - As soon as the bill is tabled in the Knesset for its first reading.
+    - Once the committee has held its first session on the bill at all.
+    - Never; amendments can be proposed in committee until the third reading.
+    - After the committee approves the bill for second and third readings.
+  correct: 3
+  explanation: >-
+    Section 86(א): amendments can be proposed as long as the committee has not approved the bill for
+    the second and third readings (or an earlier announced time).
+- id: m12-049
+  module: 12
+  lesson: '12.3'
+  subject: sending
+  difficulty: 3
+  question: Your paper was submitted, but the next committee draft ignores it. What is a sensible follow-up?
+  options:
+    - Resend the same paper to every member each day until it is adopted.
+    - Publish the legal adviser's private e-mail address and ask people to write.
+    - Check the protocol, then ask a member to raise it or file a reservation.
+    - Give up; a committee draft cannot change once it has been circulated.
+  correct: 2
+  explanation: >-
+    Drafts change until the committee votes; follow the protocol and work with members who can
+    propose the change.
+- id: m12-050
+  module: 12
+  lesson: '12.3'
+  subject: paper-structure
+  difficulty: 3
+  question: >-
+    A paper on a religion-and-state bill calls the bill's sponsors 'enemies of the people'. What is
+    the main risk?
+  options:
+    - It will be attached to the bill as a reservation for the second reading.
+    - It must first be translated into English before the members can read it.
+    - It will automatically be marked confidential and kept out of the protocol.
+    - It loses credibility and may expose the writer to a defamation claim.
+  correct: 3
+  explanation: >-
+    Criticise clauses, not people; personal attacks cost credibility and can raise defamation risk
+    (Module 8).
+- id: m12-051
+  module: 12
+  lesson: '12.4'
+  subject: mk-choice
+  difficulty: 1
+  question: Which MKs matter most for a bill in committee?
+  options:
+    - Only the Prime Minister and the Knesset Speaker.
+    - The MKs who live in or near your own city.
+    - The members of the committee handling the bill.
+    - Only ministers, since they control the bills.
+  correct: 2
+  explanation: Committee members vote on the text and propose amendments; they are the first to approach.
+- id: m12-052
+  module: 12
+  lesson: '12.4'
+  subject: mk-choice
+  difficulty: 2
+  question: Why write to both coalition and opposition MKs?
+  options:
+    - The Rules of Procedure require letters to be sent to both sides equally.
+    - Otherwise the letter is treated as lobbying and needs a lobbyist permit.
+    - 'Each side can act differently: quiet influence, or questions and reservations.'
+    - Only opposition MKs may file questions, and only coalition MKs may vote.
+  correct: 2
+  explanation: >-
+    A coalition MK can move a minister; an opposition MK can file questions and reservations; both
+    widen support.
+- id: m12-053
+  module: 12
+  lesson: '12.4'
+  subject: mk-choice
+  difficulty: 2
+  question: What is a Knesset caucus (שדולה)?
+  options:
+    - A group of MKs from different parties around a cause.
+    - A registered lobbying firm with a Knesset permit.
+    - A committee's subcommittee with legal powers to subpoena.
+    - A faction's internal disciplinary body for its MKs.
+  correct: 0
+  explanation: >-
+    Caucuses (Rules s. 138) gather MKs across parties around a cause; their chairs are natural
+    allies.
+- id: m12-054
+  module: 12
+  lesson: '12.4'
+  subject: question-types
+  difficulty: 1
+  question: What is the word limit of an ordinary question?
+  options:
+    - 40 words.
+    - 100 words.
+    - No limit.
+    - 50 words.
+  correct: 3
+  explanation: >-
+    Section 48(א): an ordinary question may not exceed 50 words; an urgent one 40 words; a direct
+    one has no limit.
+- id: m12-055
+  module: 12
+  lesson: '12.4'
+  subject: question-types
+  difficulty: 1
+  question: How is a direct question (שאילתה ישירה) answered?
+  options:
+    - Orally in the plenum on Wednesday.
+    - In writing to the MK.
+    - In a committee session.
+    - On the Knesset Channel.
+  correct: 1
+  explanation: 'Section 46(ב)(3) and s. 50: the minister answers a direct question in writing to the MK.'
+- id: m12-056
+  module: 12
+  lesson: '12.4'
+  subject: question-types
+  difficulty: 2
+  question: A minister did not answer a direct question within 21 days. What can the MK do?
+  options:
+    - Ask the Speaker to treat it as an ordinary question.
+    - Petition the High Court immediately for an order.
+    - Impose a fine on the minister through the Speaker.
+    - Refer the question to the State Comptroller.
+  correct: 0
+  explanation: >-
+    Section 50(ג): if the deadline passes unanswered, the MK may ask the Speaker to treat it as an
+    ordinary question, unless it contains private details.
+- id: m12-057
+  module: 12
+  lesson: '12.4'
+  subject: question-types
+  difficulty: 2
+  question: How many urgent questions may the Speaker approve per week?
+  options:
+    - Up to four.
+    - Up to forty.
+    - Unlimited, in an emergency.
+    - Only one per faction.
+  correct: 0
+  explanation: 'Section 49(ב): the Speaker may approve up to four urgent questions a week.'
+- id: m12-058
+  module: 12
+  lesson: '12.4'
+  subject: question-types
+  difficulty: 3
+  question: >-
+    A sudden closure of a border crossing affects farmers this week. Which type of question gives an
+    answer in the plenum soonest?
+  options:
+    - A direct question, which the minister answers in writing within 21 days.
+    - An urgent question, filed by Monday 11:00 and approved by the Speaker.
+    - An ordinary question, which the minister prepares within 21 days.
+    - A quick debate in the committee, which can be scheduled next month.
+  correct: 1
+  explanation: >-
+    Section 49(ד): an urgent question filed by 11:00 on Monday and approved is answered that week,
+    unless the minister gives reasons why not.
+- id: m12-059
+  module: 12
+  lesson: '12.4'
+  subject: question-rules
+  difficulty: 1
+  question: A question must be about what kind of matter?
+  options:
+    - A factual matter within the minister's responsibilities.
+    - Any matter of public opinion that interests voters.
+    - Only matters of national security and foreign affairs.
+    - Only matters involving the asking MK's own voters.
+  correct: 0
+  explanation: 'Section 46(א): a question addresses a factual matter within the minister''s area.'
+- id: m12-060
+  module: 12
+  lesson: '12.4'
+  subject: question-rules
+  difficulty: 2
+  question: >-
+    An MK is unsure which minister handles an issue that spans two ministries. What do the Rules
+    say?
+  options:
+    - Send it to both ministers at once, without saying so in the question.
+    - Address it to the Prime Minister, who decides which minister answers.
+    - It is disqualified, because it is outside any single minister's area.
+    - Send it to the Knesset Speaker, who answers it on the government's behalf.
+  correct: 1
+  explanation: >-
+    Section 46(ג): if unclear, the question goes to the Prime Minister, who assigns it; a question
+    sent to more than one minister must say so.
+- id: m12-061
+  module: 12
+  lesson: '12.4'
+  subject: question-rules
+  difficulty: 2
+  question: Which question is likely to be disqualified as hypothetical?
+  options:
+    - What would the ministry do if a war closed all ports next year?
+    - How many ships were delayed at Haifa port during the year 2025?
+    - On what date was the port tender published, and by which body?
+    - How many inspectors worked at Ashdod port in each month of 2025?
+  correct: 0
+  explanation: Section 47(א)(2) bars hypothetical questions; the others ask for facts.
+- id: m12-062
+  module: 12
+  lesson: '12.4'
+  subject: question-rules
+  difficulty: 3
+  question: >-
+    A minister refuses to answer a question, citing state security. Who decides whether the refusal
+    stands?
+  options:
+    - The High Court of Justice, on a petition filed by the asking MK.
+    - The Speaker, after hearing the asking MK; the decision is final.
+    - The Foreign Affairs and Defense Committee, in a closed session.
+    - The Attorney General, by a binding opinion sent to the minister.
+  correct: 1
+  explanation: >-
+    Section 47(ג): the minister informs the Speaker of the refusal and its reason; the Speaker
+    decides after hearing the MK, and the decision is final.
+- id: m12-063
+  module: 12
+  lesson: '12.4'
+  subject: question-database
+  difficulty: 1
+  question: Why search earlier questions before drafting yours?
+  options:
+    - To ask a follow-up rather than repeat a question already answered.
+    - Because repeating an earlier question is a criminal offence for MKs.
+    - To find the answering minister's home address and private details.
+    - Because the Rules forbid any question that was ever asked before.
+  correct: 0
+  explanation: Earlier answers give you facts and dates; your question can then ask what is still missing.
+- id: m12-064
+  module: 12
+  lesson: '12.4'
+  subject: question-database
+  difficulty: 2
+  question: Which source lets you list all questions to a given ministry, with submission and answer dates?
+  options:
+    - The Registrar of Amutot's public search of NGOs.
+    - The Planning Administration's Mavat plans website.
+    - The Knesset's open data questions table (KNS_Query).
+    - The courts' Net HaMishpat case-management system.
+  correct: 2
+  explanation: >-
+    The Knesset's OData service includes the questions table with type, MK, ministry, submission and
+    answer dates.
+- id: m12-065
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-definition
+  difficulty: 1
+  question: What makes someone a lobbyist (שדלן) under the Knesset Law?
+  options:
+    - Meeting with any MK more than three times in one year.
+    - Being a member or volunteer of a registered NGO.
+    - Persuading MKs as an occupation or for payment, for a client.
+    - Writing a position paper to a Knesset committee.
+  correct: 2
+  explanation: >-
+    Knesset Law s. 65: a lobbyist acts as an occupation or for payment, for a client, to persuade
+    MKs on legislation and Knesset decisions.
+- id: m12-066
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-definition
+  difficulty: 2
+  question: >-
+    A municipality's legal adviser presents the city's position to a committee on a bill affecting
+    local authorities. Does she need a lobbyist permit?
+  options:
+    - Yes; anyone who speaks for any public body needs a permit.
+    - Yes, unless the mayor attends the committee session with her.
+    - No; officials acting within the authority's powers are excluded.
+    - No, but only if the committee session is closed to the public.
+  correct: 2
+  explanation: >-
+    Section 65 excludes a person holding a statutory role in a local authority acting within that
+    role and the authority's powers.
+- id: m12-067
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-definition
+  difficulty: 3
+  question: >-
+    A retired teacher volunteers to coordinate meetings with MKs for a parents' NGO. The NGO later
+    starts paying her a monthly fee as an external consultant for this work. What changes?
+  options:
+    - Nothing; volunteers keep their status for life.
+    - The NGO must register as a lobbying firm instead.
+    - She needs a permit only if she meets more than five MKs.
+    - As a paid consultant for a client she now needs a permit.
+  correct: 3
+  explanation: >-
+    Once she persuades MKs for payment for a client (and is not the NGO's employee), she falls
+    within s. 65 and needs a permit under s. 66.
+- id: m12-068
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-duties
+  difficulty: 1
+  question: What must a lobbyist wear in the Knesset building?
+  options:
+    - Formal clothing approved in advance by the Speaker.
+    - A sticker carrying the client's name and logo.
+    - A visible badge with his or her name and firm.
+    - Nothing special; lobbyists dress like any visitor.
+  correct: 2
+  explanation: >-
+    Knesset Law s. 68(א): a lobbyist wears a unique visible badge with name and, if relevant, the
+    firm's name.
+- id: m12-069
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-duties
+  difficulty: 2
+  question: Which of these is forbidden to a lobbyist?
+  options:
+    - Disclosing the client's name to an MK.
+    - Asking to be recorded in a committee protocol.
+    - Getting an MK to commit to vote a certain way.
+    - Sending an MK a factual briefing.
+  correct: 2
+  explanation: >-
+    Section 69(א)(4): a lobbyist may not get an MK to commit to vote or act in a particular way;
+    disclosure and recording are duties.
+- id: m12-070
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-duties
+  difficulty: 2
+  question: Where can the public see who holds a lobbyist permit and for which clients?
+  options:
+    - In the Registrar of Companies only.
+    - Nowhere; the list is secret.
+    - On the Knesset website, under s. 70.
+    - In the State Comptroller's annual report.
+  correct: 2
+  explanation: >-
+    Knesset Law s. 70: the Knesset publishes the names of permit holders and their clients on its
+    website.
+- id: m12-071
+  module: 12
+  lesson: '12.4'
+  subject: lobbyist-duties
+  difficulty: 3
+  question: >-
+    A lobbyist contacts an employee of the Knesset Research and Information Center to suggest topics
+    for a report on his client's industry. Is this allowed?
+  options:
+    - Yes; the Research Center welcomes outside input from anyone.
+    - No; lobbyists may not approach Research Center staff about it.
+    - Yes, as long as he discloses the client in his first message.
+    - Only with the Knesset Speaker's prior written approval.
+  correct: 1
+  explanation: >-
+    Section 69(א)(7) forbids a lobbyist from approaching, in writing or orally, an employee of the
+    Research and Information Center in connection with lobbying.
+- id: m12-072
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 1
+  question: How often must a city council hold a regular meeting?
+  options:
+    - Once a year, before the annual budget is approved.
+    - Once a week, on a fixed day set by the mayor.
+    - Only when the mayor decides there is a need for it.
+    - At least once a month, though it may skip two months a year.
+  correct: 3
+  explanation: >-
+    Second Schedule s. 5: a regular meeting at least once a month; the council may decide not to
+    hold one in two months of the year.
+- id: m12-073
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 1
+  question: Can a resident attend a council meeting?
+  options:
+    - Only with the mayor's written invitation.
+    - Yes; meetings are public unless lawfully closed.
+    - Only if the resident is a registered party member.
+    - No; council meetings are for members only.
+  correct: 1
+  explanation: 'Second Schedule s. 18(א): council meetings are public.'
+- id: m12-074
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 2
+  question: How much notice must council members get of a meeting that discusses the budget?
+  options:
+    - At least 48 hours.
+    - At least ten days.
+    - At least 30 days.
+    - No notice is required.
+  correct: 1
+  explanation: >-
+    Second Schedule s. 14(ב): an invitation for a meeting on the budget, compulsory payments or
+    by-laws is given at least ten days ahead; ordinary meetings 48 hours (s. 14(א)).
+- id: m12-075
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 2
+  question: >-
+    One third of the council members demand a special meeting on a contested land deal. How soon
+    must the mayor convene it?
+  options:
+    - Within seven days of the written demand.
+    - Within 48 hours of receiving the demand.
+    - Within 30 days, at the next regular meeting.
+    - Whenever the mayor finds it convenient.
+  correct: 0
+  explanation: >-
+    Second Schedule s. 9(א): a written demand signed by a third of members, with agenda and draft
+    decision, obliges the mayor to convene within seven days.
+- id: m12-076
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 3
+  question: The mayor ignores a valid demand by a third of the members for a special meeting. What happens?
+  options:
+    - The demand lapses after seven days and must be renewed.
+    - The Interior Ministry's supervisor convenes the council.
+    - The members must petition the Supreme Court directly.
+    - The deputy mayor becomes acting mayor for that meeting.
+  correct: 1
+  explanation: >-
+    Second Schedule s. 10: if the mayor does not convene the meeting within seven days, the
+    supervisor (הממונה) summons the council.
+- id: m12-077
+  module: 12
+  lesson: '12.5'
+  subject: council-records
+  difficulty: 1
+  question: Who keeps the protocol of council meetings?
+  options:
+    - The city's FOI officer, who also publishes it online.
+    - The Interior Minister's district representative.
+    - The council meetings coordinator (מרכז ישיבות המועצה).
+    - A court reporter sent by the Magistrates' Court.
+  correct: 2
+  explanation: >-
+    Second Schedule s. 50(א): every meeting is recorded and a protocol kept; the council meetings
+    coordinator is responsible.
+- id: m12-078
+  module: 12
+  lesson: '12.5'
+  subject: council-records
+  difficulty: 2
+  question: >-
+    A resident wants the recording of an open council meeting approved two weeks ago. The city's
+    website has only the agenda. What should she cite?
+  options:
+    - Section 125 of the Knesset Rules of Procedure.
+    - Section 248ב(2) of the Municipalities Ordinance.
+    - Section 65 of the Knesset Law.
+    - Section 7 of the Local Authorities Complaints Commissioner Law.
+  correct: 1
+  explanation: >-
+    Section 248ב(2) requires posting protocols of open meetings within two working days of approval,
+    with recordings or transcripts.
+- id: m12-079
+  module: 12
+  lesson: '12.5'
+  subject: council-records
+  difficulty: 2
+  question: What must the protocol of a council meeting record?
+  options:
+    - Only the names of the council members present at the opening of the meeting.
+    - A full verbatim transcript of every word, in every meeting, without exception.
+    - Questions and answers, proposals, decisions and voting results, among other things.
+    - Only those decisions that the mayor approves and signs after the meeting ends.
+  correct: 2
+  explanation: >-
+    Second Schedule s. 50(ב) lists the contents, including questions and answers, proposals, main
+    points of debate, decisions and voting results; a full transcript only if the council decides
+    (s. 50(ג)).
+- id: m12-080
+  module: 12
+  lesson: '12.5'
+  subject: council-agenda
+  difficulty: 1
+  question: Who sets the agenda of a council meeting?
+  options:
+    - The city's legal adviser.
+    - The residents, by petition.
+    - The Interior Ministry.
+    - The mayor.
+  correct: 3
+  explanation: >-
+    Second Schedule s. 24(א): the mayor sets the agenda, subject to council decisions and
+    special-meeting demands.
+- id: m12-081
+  module: 12
+  lesson: '12.5'
+  subject: council-agenda
+  difficulty: 2
+  question: How many written questions may one council member submit before each regular meeting?
+  options:
+    - Ten.
+    - Two.
+    - One per subject.
+    - Unlimited.
+  correct: 1
+  explanation: 'Second Schedule s. 36(ג): no more than two questions from a member before each regular meeting.'
+- id: m12-082
+  module: 12
+  lesson: '12.5'
+  subject: council-agenda
+  difficulty: 2
+  question: >-
+    A council member's question was not answered at two regular meetings after it was submitted.
+    What can the member demand?
+  options:
+    - That the mayor be removed from office by the Interior Minister.
+    - That the subject be first on the next regular meeting's agenda, and discussed.
+    - That the question be forwarded to the Knesset Interior Committee.
+    - That the city pay a fixed fine to the member for each missed meeting.
+  correct: 1
+  explanation: >-
+    Second Schedule s. 36(ב): if unanswered at two regular meetings, the subject goes first on the
+    next agenda at the asker's demand, and is discussed.
+- id: m12-083
+  module: 12
+  lesson: '12.5'
+  subject: council-agenda
+  difficulty: 3
+  question: >-
+    An opposition member's motion for the agenda faces objection. What can the council decide after
+    hearing the proposer and one opponent?
+  options:
+    - Reject it, discuss it now, schedule it later, or send it to a committee.
+    - Only accept it or reject it permanently, with no other option open.
+    - Refer it to the District Court sitting as an Administrative Court.
+    - Ask the residents of the city to vote on it in a local referendum.
+  correct: 0
+  explanation: >-
+    Second Schedule s. 28: after up to ten minutes for each side, the council may decline, discuss
+    now, schedule it later, or send it to a council committee.
+- id: m12-084
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 1
+  question: Who usually serves as the local authority's Public Complaints Commissioner?
+  options:
+    - The authority's internal auditor.
+    - The mayor.
+    - The city's legal adviser.
+    - A judge appointed by the Interior Minister.
+  correct: 0
+  explanation: >-
+    Section 2(א)(1) of the 2008 Law: the council appoints the internal auditor, or for special
+    reasons another senior employee.
+- id: m12-085
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 1
+  question: Within what time must the local commissioner finish investigating a complaint?
+  options:
+    - Within one year of filing.
+    - Within 30 days of filing.
+    - Within 45 days of filing.
+    - There is no time limit at all.
+  correct: 0
+  explanation: 'Section 8(ז): the investigation ends at the latest one year after the complaint was filed.'
+- id: m12-086
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 2
+  question: >-
+    Spot the mistake in this complaint: an unsigned e-mail, without an address, saying 'the city is
+    badly managed'.
+  options:
+    - It should have been sent by fax or registered mail rather than e-mail.
+    - It is unsigned, has no address and describes no specific act or harm.
+    - It must be filed through a lawyer who is a member of the Bar.
+    - It should be addressed to the Prime Minister rather than to the city.
+  correct: 1
+  explanation: >-
+    Section 6: a complaint is signed, with name, address and a detailed description including dates;
+    s. 5(ב) also needs direct harm.
+- id: m12-087
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 2
+  question: >-
+    A resident's complaint is about an act from 18 months ago that she learned of last month. Can
+    the local commissioner investigate?
+  options:
+    - No; the one-year limit runs from the act only.
+    - Only if the mayor consents.
+    - Only if she first files with the state Commissioner.
+    - Yes; the year runs from when she learned of it.
+  correct: 3
+  explanation: >-
+    Section 7(ב)(2): the one-year period runs from the act or from when the complainant learned of
+    it, whichever is later.
+- id: m12-088
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 3
+  question: >-
+    A municipal employee complains to the local commissioner that her promotion was decided in
+    breach of the collective agreement. Will it be investigated?
+  options:
+    - No; complaints by municipal employees are always excluded, without exception.
+    - Yes; service complaints are excluded except breaches of law or agreements.
+    - Only if she first resigns from her post at the municipality.
+    - Only by the state Commissioner, never by the local commissioner.
+  correct: 1
+  explanation: >-
+    Section 7(א)(4): an employee's complaint about her service is not investigated, but acts that
+    breach a law, regulations, a collective agreement or lawful general arrangements are.
+- id: m12-089
+  module: 12
+  lesson: '12.5'
+  subject: local-commissioner
+  difficulty: 3
+  question: The commissioner finds a complaint justified. Who must be told, and what can follow?
+  options:
+    - Only the complainant is told; the commissioner's findings are kept secret.
+    - The police are told, and they open a criminal file against the employee.
+    - The court is told, and it must enforce the findings as a judgment.
+    - The complainant, the body, its supervisor and the mayor; a fix can be required.
+  correct: 3
+  explanation: >-
+    Section 11: a reasoned notice goes to the complainant, the body, its supervisor and the mayor
+    (and the council if the mayor is the subject); the commissioner may point to the needed fix and
+    deadline.
+- id: m12-090
+  module: 12
+  lesson: '12.5'
+  subject: local-foi
+  difficulty: 1
+  question: Is a local authority subject to the Freedom of Information Law?
+  options:
+    - No; the law applies only to government ministries.
+    - Yes; local authorities are public authorities under s. 2.
+    - Only cities with more than 100,000 residents are covered.
+    - Only for information about municipal elections.
+  correct: 1
+  explanation: 'FOI Law s. 2, paragraph (6): a local authority is a public authority.'
+- id: m12-091
+  module: 12
+  lesson: '12.5'
+  subject: local-foi
+  difficulty: 2
+  question: Who must appoint a local authority's FOI officer?
+  options:
+    - The Interior Minister, from a list of candidates.
+    - The government FOI Unit at the Justice Ministry.
+    - The head of the authority, from among its employees.
+    - The city council, by a two-thirds majority vote.
+  correct: 2
+  explanation: >-
+    FOI Law s. 3: the head of a public authority appoints an officer from its employees; for a local
+    authority the head is the mayor (s. 2).
+- id: m12-092
+  module: 12
+  lesson: '12.5'
+  subject: local-foi
+  difficulty: 3
+  question: >-
+    A regional council has not answered an FOI request for 60 days. The requester wants an outside
+    body to press it. Which step fits?
+  options:
+    - A reminder to the head of the council, then a petition if needed.
+    - A complaint to the government FOI Unit, which supervises councils.
+    - A parliamentary question to the head of the council.
+    - A complaint to the Knesset Interior Committee secretariat.
+  correct: 0
+  explanation: >-
+    The FOI Unit has no supervisory power over local authorities (lesson 05.3); remind the head of
+    the authority, consider the commissioner if directly harmed, and petition.
+- id: m12-093
+  module: 12
+  lesson: '12.5'
+  subject: local-forum-choice
+  difficulty: 2
+  question: >-
+    A resident was directly harmed by a municipal decision and wants an investigation. Should she
+    complain to both the local and the state Commissioner?
+  options:
+    - Yes; filing with both commissioners doubles the chances of a quick result.
+    - No; if she filed with the state Commissioner, the local one will not investigate.
+    - Yes; the two commissioners are required to investigate the complaint jointly.
+    - No; local matters can only go to court, never to any complaints commissioner.
+  correct: 1
+  explanation: >-
+    Section 7(א)(5) of the 2008 Law: the local commissioner does not investigate a matter already
+    complained of to the state Commissioner.
+- id: m12-094
+  module: 12
+  lesson: '12.5'
+  subject: local-forum-choice
+  difficulty: 2
+  question: >-
+    A tenants' group wants to know how many building-safety inspections the city carried out last
+    year. Which tool fits first?
+  options:
+    - An FOI request to the city's FOI officer, or a council member's question.
+    - A complaint to the local commissioner about the lack of information.
+    - An application to the Knesset for a lobbyist permit for the group.
+    - A participation request to a Knesset committee's secretariat.
+  correct: 0
+  explanation: >-
+    Data held by the authority is obtained by FOI or brought into the open by a council member's
+    question; a complaint needs a direct harm.
+- id: m12-095
+  module: 12
+  lesson: '12.5'
+  subject: local-forum-choice
+  difficulty: 3
+  question: >-
+    A Druze village's local council decides in a meeting closed to the public to lease a public
+    building to a private company. Residents suspect the closure was unlawful. What is the best
+    first step?
+  options:
+    - File a criminal complaint against the council head with the police at once.
+    - Ask the Knesset Speaker to cancel the lease through the Interior Committee.
+    - Ask for the legal opinion on closing and the decision; check the council's rules.
+    - Do nothing, because local councils may always meet in a closed session.
+  correct: 2
+  explanation: >-
+    Closing a meeting requires lawful grounds and a legal opinion (in cities, Second Schedule s. 18;
+    local councils have similar rules in their orders). Ask for the opinion and the decision, by
+    letter and FOI.
+- id: m12-096
+  module: 12
+  lesson: '12.5'
+  subject: council-meetings
+  difficulty: 3
+  question: >-
+    A city schedules all its regular meetings for Friday afternoons. A council member who observes
+    Shabbat objects. What does the Second Schedule say?
+  options:
+    - The mayor may choose any day of the week he wants for meetings.
+    - Regular meetings must be held on Fridays under the Second Schedule.
+    - Not on a member's weekly rest day or its eve, unless all members agree.
+    - The member's objection can only be decided by the Supreme Court.
+  correct: 2
+  explanation: >-
+    Second Schedule s. 6(א): the fixed date may not be on the weekly rest day of a member or its
+    eve, unless all members agree.

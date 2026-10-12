@@ -91,3 +91,10 @@
   - [59 · Evidence and the Day of the Hearing](/lessons/module-11/lesson-05.md)
   - [60 · Fee Exemptions and Legal Aid](/lessons/module-11/lesson-06.md)
   - [Module 11 quiz](/assessments/module-11-quiz.md)
+- **Module 12 — The Knesset and Local Government (about 13 hours)**
+  - [61 · How a Law Is Made](/lessons/module-12/lesson-01.md)
+  - [62 · Committees and How the Public Takes Part](/lessons/module-12/lesson-02.md)
+  - [63 · Writing a Position Paper](/lessons/module-12/lesson-03.md)
+  - [64 · MKs, Parliamentary Questions and Lobbying Rules](/lessons/module-12/lesson-04.md)
+  - [65 · Your Local Authority: Council Meetings, Municipal Complaints and Local FOI](/lessons/module-12/lesson-05.md)
+  - [Module 12 quiz](/assessments/module-12-quiz.md)

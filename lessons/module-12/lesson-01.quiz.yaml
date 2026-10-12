@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A private bill you oppose passed its preliminary reading in the 25th Knesset but never reached its
+    first reading. Its proposer is re-elected to the 26th Knesset. What happens to the bill?
+  options:
+    - >-
+      The committee can ask the new plenum to apply continuity to it.
+    - >-
+      It lapses; the MK must table it again and start from the beginning.
+    - >-
+      It continues automatically, because its proposer was re-elected.
+    - >-
+      It moves straight to the first reading in the new Knesset.
+  correct: 1
+  explanation: >-
+    Continuity is available only for bills that passed their first reading in the outgoing Knesset
+    (Continuity Law ss. 1–2). Anything earlier lapses and must be tabled again.
+- id: q2
+  question: >-
+    A ministry publishes a תזכיר חוק that would change licensing rules for small farms. A farmers'
+    association wants the cheapest moment to change the wording. What should it do?
+  options:
+    - >-
+      Wait for the first reading and brief opposition MKs before the vote.
+    - >-
+      Ask an MK to file a reservation before the second reading.
+    - >-
+      Send written comments to the ministry by the deadline on the draft.
+    - >-
+      Petition the High Court to stop publication of the draft.
+  correct: 2
+  explanation: >-
+    The government draft is published for public comments before the Ministerial Committee approves
+    it. Changing the text there costs far less than amending it later in the Knesset.
+- id: q3
+  question: >-
+    A government bill passed its first reading in March 2026 and is stuck in committee when the
+    recess starts. Who can start the continuity process in the 26th Knesset?
+  options:
+    - >-
+      The new government, by announcing in the plenum that it wants continuity.
+    - >-
+      Any MK, by tabling the bill again with a continuity request.
+    - >-
+      The Knesset legal adviser, on the committee's recommendation.
+    - >-
+      The outgoing minister, if he or she is re-elected to the Knesset.
+  correct: 0
+  explanation: >-
+    For a government bill, s. 1 of the Continuity Law lets the government formed in the new Knesset
+    announce that it wants continuity; the plenum then votes, after any faction objections.
+- id: q4
+  question: >-
+    You want a bill's committee to add a clause protecting volunteers. At which stage is your input
+    most likely to change the text?
+  options:
+    - >-
+      The third reading, when the plenum votes on the whole law.
+    - >-
+      The preliminary reading, when the proposer explains the bill.
+    - >-
+      The publication of the law in Sefer HaChukim.
+    - >-
+      The committee's preparation for the second and third readings.
+  correct: 3
+  explanation: >-
+    After the first reading the committee prepares the final text clause by clause (Rules s. 84). The
+    third reading is a single vote on the whole law, and publication comes after passage.

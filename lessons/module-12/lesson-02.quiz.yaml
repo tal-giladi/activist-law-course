@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You see on the Health Committee page that a session on a bill about pharmacy hours is set for
+    next Monday. You are a pharmacist in a small town and want to speak. What is the right first step?
+  options:
+    - >-
+      Apply to the Knesset Speaker for a lobbyist permit before writing to anyone.
+    - >-
+      Write to the secretariat now with the session, your interest and your request.
+    - >-
+      Arrive at the Knesset on Monday and ask the guards to let you into the session.
+    - >-
+      Ask the Health Ministry to add your name to its delegation.
+  correct: 1
+  explanation: >-
+    The chair may invite anyone with knowledge or an interest (s. 125), and requests go through the
+    secretariat. A pharmacist speaking for herself needs no lobbyist permit, and without being on the
+    entry list she cannot get in.
+- id: q2
+  question: >-
+    A resident who survived domestic violence is invited to a committee session but fears being
+    identified. What can she ask for under the Rules of Procedure?
+  options:
+    - >-
+      That the session be moved to a court, where hearings are confidential.
+    - >-
+      That the committee pay for her to send a lawyer in her place.
+    - >-
+      Before the session starts, to speak without the public present.
+    - >-
+      That the Knesset Channel blur her face after the session is aired.
+  correct: 2
+  explanation: >-
+    Section 126 lets the chair allow an invitee who asked before the session to appear without others
+    present (other than MKs, ministers and government representatives).
+- id: q3
+  question: >-
+    After a session you find that the protocol records you as saying the opposite of what you said.
+    What do you do?
+  options:
+    - >-
+      Ask the protocol department in writing to correct the error.
+    - >-
+      File a defamation claim against the Knesset in the Magistrates' Court.
+    - >-
+      Nothing; a published protocol cannot be changed.
+    - >-
+      Ask an MK to raise a motion for the agenda in the plenum.
+  correct: 0
+  explanation: >-
+    Under s. 119(ג) every speaker may ask, in writing, to correct errors and omissions in how their
+    words were recorded; the recorder corrects or the committee decides.
+- id: q4
+  question: >-
+    It is September 2026. An NGO wants the Interior Committee to hold a session on a local government
+    bill. Why is that unlikely before the elections?
+  options:
+    - >-
+      Committees are legally forbidden to meet at any time during an election year.
+    - >-
+      Only the State Comptroller may call committee sessions before an election.
+    - >-
+      Committee sessions in an election year are always held in closed session.
+    - >-
+      In the recess, committees meet only with approval, given case by case.
+  correct: 3
+  explanation: >-
+    Committees may meet in the recess only with permission (Rules s. 112). In summer 2026 an
+    agreements committee approves each session, so few are held.

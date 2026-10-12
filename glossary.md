@@ -21,6 +21,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ארגז כלים** (argaz kelim) — Toolbox: the set of procedures you can use against an authority.
 - **בג״ץ** (bagatz) — High Court of Justice.
 - **בדיקה מקדימה** (bdika mukdemet) — Preliminary check before a criminal investigation.
+- **בדלתיים סגורות** (bidlatayim sgurot) — In closed session.
 - **בודק / בודקת** (bodek / bodeket) — Tester sent to check whether a business treats groups differently.
 - **ביטול החלטה לפי צד אחד** (bitul hachlata lefi tzad echad) — Setting aside a decision given in a party's absence.
 - **ביטול רישום** (bitul rishum) — Cancellation of a police-register entry.
@@ -50,9 +51,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דורש עבודה** (doresh avoda) — Job applicant.
 - **דחייה על הסף** (dchiya al hasaf) — Dismissal at the threshold (in limine).
 - **דיון מהיר** (diyun mahir) — Fast track for claims up to ₪75,000 and evictions (reg. 78).
+- **דיון מוקדם / קריאה טרומית** (diyun mukdam / kri'a tromit) — Preliminary reading of a private bill, at least 45 days after tabling.
 - **דיון נוסף** (diyun nosaf) — further hearing in the Supreme Court before a larger panel.
 - **דין** (din) — law in the broad sense defined by the Interpretation Law.
 - **דין וחשבון נכון והוגן** (din vecheshbon nachon vehogen) — Fair and accurate report, a defence to incitement offences.
+- **דין רציפות** (din retzifut) — Continuity: reviving in the new Knesset a bill that passed its first reading in the outgoing one.
 - **דינו** (dino) — "his penalty is"; introduces a criminal penalty.
 - **דעה נעולה** (de'a ne'ula) — A closed mind: a decision made in advance, whatever is said.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority / minority opinion.
@@ -89,6 +92,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **היקש** (hekesh) — analogy.
 - **היתר בנייה** (heter bniya) — Building permit.
 - **היתר פליטה** (heter plita) — Emission permit under the Clean Air Law 2008.
+- **היתר שדלן** (heter shadlan) — Lobbyist permit issued by a Knesset committee (Knesset Law s. 66).
 - **הכרזת בטלות מושהית** (hachrazat batlut mushhet) — Suspended declaration of invalidity.
 - **הכרעה על יסוד הכתב** (hachra'a al yesod haktav) — Decision on the papers, without a hearing (small-claims reg. 13(ג), from 11.4.2025).
 - **הכתבה** (hachtava) — Dictation: deciding on someone else's instruction instead of using one's own discretion.
@@ -98,10 +102,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **המועצה הארצית לתכנון ולבניה** (hamo'atza ha'artzit) — National Planning and Building Council; decides national outline plans and appeals against district committees (s. 110).
 - **המחלקה לחקירות שוטרים (מח״ש)** (hamachlaka lechakirot shotrim, Machash) — Police Investigations Department in the Ministry of Justice.
 - **הממונה על המחוז** (hamemune al hamachoz) — District Commissioner of the Interior Ministry.
+- **הממונה על תלונות הציבור ברשות המקומית** (hamemune al tlunot hatzibur) — The local authority's Public Complaints Commissioner, usually its internal auditor.
 - **המצאה** (hamtza'a) — Service of court documents.
 - **המרשם המשטרתי** (hamirsham hamishtarti) — Police register: open and closed files, stayed cases, acquittals.
 - **המרשם הפלילי** (hamirsham hapli'li) — Criminal register: convictions and some court orders.
 - **הנדון** (hanadon) — "Re:", the subject line of a letter.
+- **הנחה על שולחן הכנסת** (hanacha al shulchan haknesset) — Tabling: formal publication of a bill in the Knesset.
 - **הנחיות היועמ״ש** (hanchayot ha-yoamash) — Attorney General guidelines.
 - **הנחיות היועץ המשפטי לממשלה** (hanchayot hayoetz hamishpati lamemshala) — Attorney General guidelines, binding inside government.
 - **הסגת גבול המקצוע** (hasagat gvul ha-miktzoa) — unauthorised practice of law (Bar Association Law s. 96).
@@ -113,6 +119,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסרת תוכן** (hasarat tochen) — Content removal (takedown).
 - **הסתה לאלימות** (hasata le'alimut) — Incitement to violence (Penal Law s. 144ד2).
 - **הסתה לגזענות** (hasata legiz'anut) — Incitement to racism (Penal Law s. 144ב).
+- **הסתייגות** (histaygut) — Reservation: an amendment rejected in committee and attached to the bill for the second reading.
 - **העדפה מתקנת** (ha'adafa metakenet) — Affirmative action (Women's Equal Rights Law s. 1ב).
 - **העתק** (he'etek) — Copy (cc).
 - **הפליה** (haflaya) — Discrimination.
@@ -120,6 +127,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפקדה** (hafkada) — Deposit: publication of a plan for public objections.
 - **הפרעה לשוטר** (hafra'a leshoter) — Obstructing a police officer (Penal Law s. 275).
 - **הפרת הוראה חוקית** (hafarat hora'a chukit) — Breach of a lawful order (Penal Law s. 287).
+- **הצעת חוק מטעם ועדה** (hatza'at chok mita'am va'ada) — Committee bill; only certain committees, on Basic Laws, the Knesset, elections, parties and the State Comptroller (Rules s. 80).
+- **הצעת חוק ממשלתית** (hatza'at chok memshaltit) — Government bill, submitted by the government as a whole.
+- **הצעת חוק פרטית** (hatza'at chok pratit) — Private member's bill, submitted by an MK who is not a minister or deputy minister.
+- **הצעת נוסח** (hatza'at nusach) — Proposed wording of a clause.
 - **הקלה** (hakala) — Permitted deviation from a plan, decided at permit stage after a 15-day objection period (s. 149).
 - **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who decides on custody or release.
 - **הרחקה** (harchaka) — Exclusion order from a place or area.
@@ -140,6 +151,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ועדה מחוזית** (va'ada mechozit) — District planning and building committee; one in each of the six districts.
 - **ועדה מקומית** (va'ada mekomit) — Local planning and building committee; decides building permits and plans limited to the s. 62א topics.
 - **ועדה מקומית עצמאית** (va'ada mekomit atzma'it) — Independent local committee with wider plan powers; objectors need leave to appeal its plan decisions (s. 112(א1)).
+- **ועדה קבועה** (va'ada kvu'a) — Permanent Knesset committee with a fixed subject area (Rules s. 100).
+- **ועדת הסכמות** (va'adat haskamot) — Agreements committee that approves committee sessions during the election recess.
 - **ועדת ערר** (va'adat arar) — appeals committee (a tribunal).
 - **זימון עד** (zimun ed) — Summons of a witness by the court.
 - **זכויות נגזרות** (zchuyot nigzarot) — Derived rights: rights the courts read into human dignity.
@@ -186,6 +199,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **יישום** (yisum) — Application: matching facts to each element of a rule.
 - **יסודות** (yesodot) — Elements: the conditions a rule requires.
 - **יציבות החוק** (yatzivut hachok) — Stability clause: protection of a Basic Law against emergency regulations.
+- **ישיבה מן המניין / שלא מן המניין** (yeshiva min haminyan / shelo min haminyan) — Regular / special council meeting.
 - **כבוד האדם** (kvod ha'adam) — Human dignity; the source of several derived rights.
 - **כבילת שיקול הדעת** (kvilat shikul hada'at) — Fettering discretion: a rigid rule that leaves no room for the individual case.
 - **כוונה לפגוע** (kavana lifgo'a) — Intent to harm: needed for the defamation offence and doubles the s. 7א ceiling.
@@ -208,10 +222,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מבא״ת / מידע תכנוני** (mavat) — The Planning Administration's national plan-information site.
 - **מבחן האמצעי שפגיעתו פחותה** (mivchan ha'emtza'i shepgi'ato pchuta) — Least harmful means test.
 - **מבחן הקשר הרציונלי** (mivchan hakesher harationali) — Rational connection test.
+- **מבקר הרשות** (mevaker harashut) — The local authority's internal auditor.
 - **מודעה מפלה** (moda'a mafla) — Discriminatory advertisement (services law s. 4).
 - **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
 - **מוסד תכנון** (mosad tichnun) — Planning institution: the National Council, a district committee, a local committee, an appeals committee or a special national committee.
+- **מועצת העירייה / חבר מועצה** (mo'etzet ha'iriya / chaver mo'atza) — City council / council member.
 - **מוקד הסביבה** (moked hasviva) — Ministry of Environmental Protection hotline, \*6911.
+- **מזכירות הוועדה / מנהל הוועדה** (mazkirut hava'ada / menahel hava'ada) — Committee secretariat / manager, who handles invitations and documents.
 - **מחוסר אמצעים** (mechusar emtza'im) — Without means: the economic test for a public defender.
 - **מחיקה על הסף** (mechika al hasaf) — Striking out a claim at the threshold (Civil Procedure Regulations, regs. 41–42).
 - **מי שעיסוקו** (mi she'isuko) — The person whose business it is: owner, holder, manager or person actually in charge (services law s. 3(ג)).
@@ -241,6 +258,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מקור משני** (makor mishni) — Secondary source: commentary, guides, research about the law.
 - **מקור ראשוני** (makor rishoni) — Primary source: a law, regulation or ruling.
 - **מרכז המחקר והמידע של הכנסת (ממ״מ)** (merkaz hamechkar vehameida shel haknesset) — The Knesset Research and Information Center.
+- **מרכז ישיבות המועצה** (merakez yeshivot hamo'atza) — Council meetings coordinator, responsible for invitations and protocols.
 - **משביע / מאמת** (mashbi'a / me'amet) — The person who warns the declarant and certifies the affidavit.
 - **משוא פנים** (masso panim) — Bias, partiality.
 - **משפט עברי** (mishpat ivri) — Jewish law as a source of legal principles.
@@ -253,6 +271,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נוסח משולב** (nusach meshulav) — Consolidated version: a law re-enacted with all its amendments merged.
 - **נוקשות יתירה / אי־צדק בולט** (nukshut yetera / i-tzedek bolet) — Excessive rigidity / flagrant injustice, grounds for an ombudsman complaint.
 - **נושא בעל עניין מדיני** (nose ba'al inyan medini) — Political matter, read narrowly as foreign relations and security.
+- **נושא חדש** (nose chadash) — "New topic": an amendment beyond the bill's subject, which the committee may not add (Rules s. 85).
 - **נט המשפט** (net hamishpat) — The courts' e-filing and case system.
 - **נטל ההוכחה** (netel hahochacha) — Burden of proof.
 - **נטל כבד מדי** (netel kaved midai) — Undue burden, a ground for exempting an accessibility adjustment (s. 19יג).
@@ -311,6 +330,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פגישת מהו״ת** (pgishat mahut) — Free, compulsory information meeting about mediation in claims above ₪40,000 (reg. 37).
 - **פגם** (pgam) — Legal defect in an administrative decision.
 - **פגרה** (pagra) — Court recess; not counted in regular-court deadlines, counted in small claims.
+- **פגרת בחירות** (pagrat bechirot) — Election recess of the Knesset before elections.
 - **פטור מאגרה** (ptor me'agra) — Fee exemption (FOI fees or court fees).
 - **פיצוי ללא הוכחת נזק** (pitzui lelo hochachat nezek) — Compensation without proof of damage; CPI-linked ceilings in Defamation Law s. 7א and Privacy Law s. 29א.
 - **פנייה** (pniya) — Request or letter to an authority.
@@ -344,6 +364,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קו בניין** (kav binyan) — Building line: minimum distance from the plot boundary.
 - **קובלנה** (kovlana) — Private criminal complaint filed by the injured person instead of the state (s. 8).
 - **קובץ התקנות** (Kovetz HaTakanot) — The gazette series for regulations and notices (cited ק״ת).
+- **קריאה ראשונה, שנייה ושלישית** (kri'a rishona, shniya, shlishit) — The three readings; a law is passed in the third.
 - **רגשות דתיים** (regashot dati'im) — Religious feelings: a legitimate consideration, not an absolute right (Horev).
 - **רוב של חברי הכנסת** (rov shel chavrei haKnesset) — A majority of all MKs (61), not just of those voting.
 - **רישיון להפגנה** (rishayon lehafgana) — Protest licence from the district commander (Police Ordinance s. 85); free of charge.
@@ -355,7 +376,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רשות מכוננת** (rashut mechonenet) — Constituent authority: the power to make a constitution, which Barak P. attributed to the Knesset in Mizrahi Bank.
 - **רשות ציבורית** (reshut tziburit) — Public authority, as defined in s. 2 of the FOI Law.
 - **שאילתה** (she'ilta) — Formal query to the disability Commissioner, answered within 60 days (s. 19מד).
+- **שאילתה רגילה / דחופה / ישירה** (sha'ilta regila / dchufa / yeshira) — Ordinary / urgent / direct parliamentary question to a minister.
 - **שאלה משפטית / סוגיה** (she'ela mishpatit / sugya) — Legal issue: the question the reader must decide.
+- **שדולה פרלמנטרית** (shdula parlamentarit) — Knesset caucus: MKs from different parties around a cause.
+- **שדלן** (shadlan) — Lobbyist: someone who, as an occupation or for payment, persuades MKs for a client (Knesset Law s. 65).
 - **שיהוי** (shihui) — Delay in filing a petition.
 - **שימוש חורג** (shimush chorig) — Non-conforming use permitted against a plan.
 - **שימוש לרעה בהליכי משפט** (shimush lera'a behalichei mishpat) — Abuse of process (Civil Procedure Regulations, reg. 4).
@@ -375,6 +399,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תובענה קבוצתית** (tova'ana kvutzatit) — Group claim for an injunction under s. 10 of the 1992 Law.
 - **תוספת** (tosefet) — schedule at the end of a law.
 - **תועלת שולית** (to'elet shulit) — Marginal benefit.
+- **תזכיר חוק** (tazkir chok) — Government draft bill published for public and ministry comments before it reaches the Knesset.
 - **תחולת יתר / תחולת חסר** (tchulat yeter / tchulat choser) — Over-inclusiveness / under-inclusiveness of a measure.
 - **תחילה** (tchila) — Commencement: the date a provision takes effect.
 - **תיק סגור** (tik sagur) — Closed criminal file.

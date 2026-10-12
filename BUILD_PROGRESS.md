@@ -22,13 +22,15 @@ Goal: build the course described in `curriculum/plan.md` under `tals-academy/doc
 - [x] Module 09 (5 lessons, 83 bank)
 - [x] Module 10 (5 lessons, 89 bank)
 - [x] Module 11 (6 lessons, 98 bank)
-- [ ] Modules 12–20 (order in plan §12)
+- [x] Module 12 (5 lessons, 96 bank)
+- [ ] Modules 13–20 (order in plan §12)
 - [ ] Phase C: QA, check-course 0 problems, TODO_FOR_TAL
 
 ## Now working
-- Agents: module 12 writer, module 13 writer.
+- Agents: module 13 writer, module 14 writer.
 
 ## Decisions
 - 2026-10-12 Mixed EN/HE language (plan §3). External free platforms assigned, not duplicated (plan §4).
 - 2026-10-12 Knesset legislation DB old URLs 404; new pattern main.knesset.gov.il/apps/legislation/main/laws/<id> (fix in sources-israel.md when used).
 - 2026-10-13 Lesson 03.5 (and 04.3) describe the constitutional dispute as of 12.10.2026, before the 27.10.2026 election and pending the Judicial Selection amendment ruling: update after the election / ruling.
+- 2026-10-13 QA: some meida.org.il deep links (old how-to-FOI PDF) redirect to an abuse page; homepage OK. Re-check M05 links in Phase C. sources-israel.md: 2008 law title is (ממונה על תלונות הציבור).
