@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Many states regularly send condolence delegations when a foreign leader dies, but all of them say it
+    is a matter of courtesy. Is there a customary rule requiring such delegations?
+  options:
+    - >-
+      Yes, because the practice is widespread, representative and consistent.
+    - >-
+      Yes, once a General Assembly resolution praises the practice.
+    - >-
+      No, unless the practice has continued for at least fifty years.
+    - >-
+      No, because the practice is not accepted as law (no opinio juris).
+  correct: 3
+  explanation: >-
+    Custom needs both a general practice and its acceptance as law (ILC conclusion 2). A practice followed
+    only out of courtesy lacks opinio juris, however common it is.
+- id: q2
+  question: >-
+    You want to prove a customary rule for a letter to an Israeli ministry. Which evidence is strongest
+    for the "practice" element?
+  options:
+    - >-
+      Three NGO reports saying the rule is now accepted worldwide.
+    - >-
+      Laws, court decisions and official statements of states from several regions.
+    - >-
+      A UN Special Rapporteur's report recommending that states adopt the rule.
+    - >-
+      A well-known textbook stating the rule without footnotes to state practice.
+  correct: 1
+  explanation: >-
+    Practice is mainly what states do and say: legislation, judgments, official statements. NGO and
+    rapporteur reports and textbooks may help, but they are not state practice.
+- id: q3
+  question: >-
+    State A protested clearly and consistently while a new customary rule was forming, and still protests.
+    The rule is not a peremptory norm. What follows?
+  options:
+    - >-
+      The rule does not bind State A for as long as it keeps objecting.
+    - >-
+      State A is bound anyway, because custom binds all states without exception.
+    - >-
+      State A is bound only after the ICJ declares the rule customary in a case.
+    - >-
+      State A is released only if two-thirds of UN members accept its objection.
+  correct: 0
+  explanation: >-
+    ILC conclusion 15: a persistent objector is not bound while it maintains its objection. This does not
+    apply to jus cogens norms, from which no derogation is permitted.
+- id: q4
+  question: >-
+    An embassy dismisses its Israeli receptionist and claims sovereign immunity from the Labour Court.
+    Where do you look first?
+  options:
+    - >-
+      The Vienna Convention on the Law of Treaties, which sets out state immunity.
+    - >-
+      The ICRC Customary IHL database, which lists immunity rules.
+    - >-
+      The Foreign State Immunity Law 2008, which codified the customary rule.
+    - >-
+      A General Assembly resolution on diplomatic staff employment.
+  correct: 2
+  explanation: >-
+    Israel codified state immunity in the 2008 law: s. 2 grants immunity and s. 4 removes it for certain
+    employment claims. The statute governs, and the customary rule helps interpret it.

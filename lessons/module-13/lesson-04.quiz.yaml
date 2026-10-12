@@ -1,0 +1,83 @@
+- id: q1
+  question: >-
+    A news headline says: "ICJ rules against Israel in binding verdict", about an advisory opinion requested
+    by the General Assembly. How do you correct it accurately?
+  options:
+    - >-
+      Advisory opinions bind only states that took part in the oral hearings.
+    - >-
+      Advisory opinions bind Israel only after the Security Council endorses them.
+    - >-
+      It was an advisory opinion to a UN organ, which is not binding as such on any state.
+    - >-
+      It was a judgment, but only between the General Assembly and Israel.
+  correct: 2
+  explanation: >-
+    Advisory opinions answer a legal question from an authorised UN organ (Charter Art. 96). They carry
+    legal authority but are not binding as such; binding judgments come only in contentious cases between states.
+- id: q2
+  question: >-
+    State X wants to sue Israel at the ICJ over an alleged breach of a bilateral trade agreement that has no
+    dispute clause. Both have UN membership. What is the main obstacle?
+  options:
+    - >-
+      No consent: no special agreement, no treaty clause, no Israeli optional-clause declaration.
+    - >-
+      The ICJ hears only human-rights and genocide cases, not trade disputes.
+    - >-
+      State X must first win the case in Israel's Supreme Court before going to The Hague.
+    - >-
+      UN membership already gives the ICJ jurisdiction, so there is no obstacle at all.
+  correct: 0
+  explanation: >-
+    Membership makes Israel a party to the Statute but does not create jurisdiction. Art. 36 needs consent
+    through a special agreement, a treaty clause or declarations on both sides; Israel has none in force.
+- id: q3
+  question: >-
+    Why could South Africa bring a contentious case against Israel at the ICJ?
+  options:
+    - >-
+      Because Israel accepted compulsory jurisdiction by an optional-clause declaration in 2023.
+    - >-
+      Because both are parties to the Genocide Convention, whose Art. IX sends disputes to the ICJ.
+    - >-
+      Because the General Assembly authorised South Africa to sue on behalf of the UN.
+    - >-
+      Because any state may sue any other state over alleged international crimes.
+  correct: 1
+  explanation: >-
+    Art. IX of the Genocide Convention is a compromissory clause. Israel ratified without reserving on it,
+    which Israel itself described as its "unreserved consent" under that Convention.
+- id: q4
+  question: >-
+    A human-rights NGO announces that it "will file a case at the ICJ" against a foreign government. What is
+    the accurate response?
+  options:
+    - >-
+      It can file if it has UN consultative status and exhausts local remedies first.
+    - >-
+      It can file only an advisory request, which the Court must then accept.
+    - >-
+      It can file a case if a state co-signs the application as a supporting party.
+    - >-
+      It cannot: only states are parties in contentious cases, and only UN organs request opinions.
+  correct: 3
+  explanation: >-
+    Art. 34(1) limits contentious cases to states; advisory requests come from authorised UN bodies. An NGO
+    can lobby a state or a UN organ, but cannot file itself.
+- id: q5
+  question: >-
+    The ICJ issued a provisional-measures order in a case against Israel. Which description is accurate?
+  options:
+    - >-
+      A final finding that Israel breached the treaty, after full evidence on the merits.
+    - >-
+      Interim measures to protect rights while the case continues, binding on the parties.
+    - >-
+      A non-binding recommendation, like an advisory opinion, addressed to the UN.
+    - >-
+      A decision that the Court has final jurisdiction and that the merits are settled.
+  correct: 1
+  explanation: >-
+    Under Art. 41 the Court indicates provisional measures to preserve rights pending judgment. They are
+    binding but are not a judgment on the merits.

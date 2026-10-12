@@ -1,0 +1,173 @@
+- id: q1
+  question: >-
+    An asylum seekers' aid group drafts a petition. Its only legal ground is "the Refugee Convention, which
+    Israel ratified". It cites no Israeli statute or administrative-law principle. What is the most
+    important change before filing?
+  options:
+    - >-
+      Add a General Assembly resolution, so the petition rests on two international sources.
+    - >-
+      Ask the court to refer the question to the ICJ, since it concerns a treaty.
+    - >-
+      Lead with an Israeli ground and use the Convention to guide its interpretation.
+    - >-
+      Replace the Convention with a UN rapporteur's report, which courts treat as binding.
+  correct: 2
+  explanation: >-
+    A ratified treaty that the Knesset has not legislated is not directly enforceable. It supports an Israeli
+    ground through the presumption of compatibility; it cannot be the whole petition.
+- id: q2
+  question: >-
+    A local council of communities in Judea and Samaria petitions for better road security. Its lawyer friend
+    suggests citing Article 43 of the Hague Regulations. Why is that a sound choice in an Israeli court?
+  options:
+    - >-
+      The Supreme Court treats the Hague Regulations as customary and has read Art. 43 to cover Israelis there.
+    - >-
+      The Knesset enacted the Hague Regulations as a statute in 1967, so they bind the commander.
+    - >-
+      The ICJ's 2004 advisory opinion ordered Israeli courts to apply Art. 43 to all residents.
+    - >-
+      Art. 43 is jus cogens, so it overrides any Israeli statute or security order.
+  correct: 0
+  explanation: >-
+    Custom is part of Israeli law (Elon Moreh), and the Court has held the commander's Art. 43 authority covers
+    any person in the area, including protecting Israelis living there (Mara'abe, paras 18–19).
+- id: q3
+  question: >-
+    A women's-rights group wants Israel to join a new regional convention. The Justice Minister has proposed
+    ratification and sent the text to the Knesset. An opposing group wants MKs to weigh in. What can they
+    realistically use?
+  options:
+    - >-
+      A petition asking the High Court to approve or block the ratification in advance.
+    - >-
+      The two-week window: urgent questions, agenda motions or a committee debate through MKs.
+    - >-
+      A request to the ICJ for an advisory opinion on whether Israel should ratify.
+    - >-
+      A referendum, which Basic Law: The Government requires for every treaty.
+  correct: 1
+  explanation: >-
+    The text is laid before the Knesset two weeks before the Government decides (Government regulations s. 10).
+    MKs can use parliamentary tools in that window; a Knesset vote is not required for every treaty.
+- id: q4
+  question: >-
+    You want to cite ICCPR Art. 23 in a letter supporting civil marriage. A volunteer checked only that Israel
+    ratified the ICCPR in 1991. What did they miss, and why does it matter?
+  options:
+    - >-
+      That the ICCPR expired in 2016 and must now be renewed by each state party.
+    - >-
+      The ICCPR applies only to states that also accepted the ICJ's compulsory jurisdiction.
+    - >-
+      The Human Rights Committee's General Comment, which binds Israel on Art. 23.
+    - >-
+      Israel's reservation on Art. 23 (religious personal-status law), which the letter must address.
+  correct: 3
+  explanation: >-
+    Israel reserved on Art. 23: personal status is governed by religious law and Israel may apply it where it
+    conflicts with the Covenant. A letter that ignores the reservation is answered in one line.
+- id: q5
+  question: >-
+    An environmental NGO writes: "It is now customary international law that states must ban single-use
+    plastics." Its evidence is three NGO reports and a UN Environment Programme recommendation. How do you
+    assess the claim?
+  options:
+    - >-
+      Not shown: no evidence of general state practice or of opinio juris.
+    - >-
+      Proven: a UN programme's recommendation is enough by itself to create custom.
+    - >-
+      Proven if Israel has not objected, since silence always means acceptance.
+    - >-
+      Irrelevant: custom only exists in the law of armed conflict.
+  correct: 0
+  explanation: >-
+    Custom requires a general practice accepted as law (ILC conclusion 2). NGO reports and recommendations are
+    not state practice; the claim needs laws, rulings and official statements from many states.
+- id: q6
+  question: >-
+    A pro-Israel group wants "the ICJ to order State Z to stop funding terror groups." State Z has no treaty
+    with Israel containing an ICJ clause, and neither state has an optional-clause declaration. What is accurate?
+  options:
+    - >-
+      The group can file the application itself if it shows a direct interest.
+    - >-
+      Israel can file and the Court will hear it, because terrorism is always within its jurisdiction.
+    - >-
+      Without consent through a treaty clause, special agreement or declarations, there is no jurisdiction.
+    - >-
+      The General Assembly can order State Z to accept jurisdiction for this case.
+  correct: 2
+  explanation: >-
+    Only states may be parties (Art. 34), and jurisdiction rests on consent (Art. 36). A specific treaty with an
+    ICJ clause in force for both states would be needed, or a special agreement.
+- id: q7
+  question: >-
+    A newsletter reports a new ICJ advisory opinion on the territories. Which sentence meets this course's
+    standard of accuracy and neutrality?
+  options:
+    - >-
+      "The ICJ ruled in a binding judgment that Israel broke the law, ending the debate."
+    - >-
+      "The Court gave an advisory opinion finding [quote]; Israel rejected it, arguing [quote]."
+    - >-
+      "The ICJ issued a political statement that has no legal meaning, as Israel says."
+    - >-
+      "The UN court convicted Israel, and the Security Council must now enforce the verdict."
+  correct: 1
+  explanation: >-
+    An advisory opinion is not a binding judgment or a conviction. Quote the Court and Israel's official position,
+    each attributed, and do not draw conclusions in the course's own voice.
+- id: q8
+  question: >-
+    A petitioner argues that a Basic Law must be read in light of a human-rights treaty. The State Attorney
+    replies that the presumption of compatibility does not apply to Basic Laws. What is the accurate position?
+  options:
+    - >-
+      The State is right; the Court ruled in 2020 that treaties are irrelevant to Basic Laws.
+    - >-
+      The petitioner is right; the Court ruled in 2021 that the presumption applies to Basic Laws.
+    - >-
+      Both are wrong; the presumption applies only to treaties the Knesset legislated.
+    - >-
+      The question is open: in Hasson (2021) the Court said it had not been decided.
+  correct: 3
+  explanation: >-
+    Hasson stated the question "טרם הוכרעה". Bohrer argues for applying the presumption; Kohelet, and the
+    Government and Knesset in some cases, argued against. Present it as open.
+- id: q9
+  question: >-
+    A former embassy driver, an Israeli resident, sues the embassy's state in the Labour Court for unpaid wages
+    for work in Israel. The embassy claims absolute immunity as a sovereign. What is the strongest reply?
+  options:
+    - >-
+      Immunity never applies in Israel because Israel is not a party to any immunity treaty.
+    - >-
+      The ICJ must first decide whether the embassy's state is immune.
+    - >-
+      Foreign State Immunity Law s. 4 removes immunity for such employment claims.
+    - >-
+      Immunity applies only to criminal cases, so all civil claims may proceed.
+  correct: 2
+  explanation: >-
+    Israel codified the restrictive customary rule: immunity in s. 2, with an employment exception in s. 4 for
+    Labour Court claims about work in Israel by Israeli citizens or residents, subject to its further terms.
+- id: q10
+  question: >-
+    Your draft international-law section says: "Under the presumption of compatibility, the court must enforce the
+    Convention against Torture." Which rewrite fixes the legal error?
+  options:
+    - >-
+      "Israel ratified the Convention; section X of the Law should be read in line with Article Y."
+    - >-
+      "Because the Convention is jus cogens, it overrides every Israeli statute without exception."
+    - >-
+      "The Convention binds Israeli courts directly, as the ICJ confirmed in an advisory opinion."
+    - >-
+      "Because Israel signed the Convention, the Knesset must now legislate it within a year."
+  correct: 0
+  explanation: >-
+    The presumption is a rule of interpretation, not enforcement. Name the Israeli provision and ask the court to
+    read it in line with the treaty article Israel accepted.

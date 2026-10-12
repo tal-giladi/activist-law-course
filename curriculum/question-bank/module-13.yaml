@@ -1,0 +1,1785 @@
+# Module 13 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m13-001
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 1
+  question: >-
+    Which body's Statute contains the best-known list of the sources of international law?
+  options:
+    - >-
+      The International Court of Justice.
+    - >-
+      The UN Human Rights Council.
+    - >-
+      The International Criminal Court.
+    - >-
+      The UN General Assembly.
+  correct: 0
+  explanation: >-
+    Article 38(1) of the ICJ Statute lists treaties, custom, general principles and the subsidiary
+    means.
+- id: m13-002
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 1
+  question: >-
+    In Article 38(1), what are judicial decisions and the writings of leading scholars?
+  options:
+    - >-
+      A fourth main source, equal to treaties and custom.
+    - >-
+      Binding precedent for every state in the world.
+    - >-
+      Subsidiary means for determining the rules of law.
+    - >-
+      Sources that apply only when a treaty refers to them.
+  correct: 2
+  explanation: >-
+    Article 38(1)(d) calls them subsidiary means: they help identify rules but do not create them.
+- id: m13-003
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 1
+  question: >-
+    Which of these is a general principle of law in the sense of Article 38(1)(c)?
+  options:
+    - >-
+      Good faith, a principle shared by the main legal systems.
+    - >-
+      A resolution of the General Assembly adopted by a large majority.
+    - >-
+      A rule written in one bilateral treaty between two states.
+    - >-
+      An opinion published by a respected human-rights NGO.
+  correct: 0
+  explanation: >-
+    General principles are principles common to national legal systems, such as good faith, used to fill
+    gaps between treaties and custom.
+- id: m13-004
+  module: 13
+  lesson: "13.1"
+  subject: binding-vs-persuasive
+  difficulty: 2
+  question: >-
+    A religious-freedom group cites a UN Special Rapporteur's report criticising restrictions on
+    worship. How should its letter to an Israeli ministry describe the report?
+  options:
+    - >-
+      As a binding interpretation of the ICCPR for Israel.
+    - >-
+      As customary law, because UN experts wrote it.
+    - >-
+      As a persuasive view of a UN expert, attributed to its author.
+    - >-
+      As a decision the ministry must implement within 30 days.
+  correct: 2
+  explanation: >-
+    Rapporteur reports are soft law: they can persuade, but they do not bind Israel. Attribute them.
+- id: m13-005
+  module: 13
+  lesson: "13.1"
+  subject: binding-vs-persuasive
+  difficulty: 2
+  question: >-
+    A pro-Israel student group quotes a UN Security Council resolution adopted under Chapter VII. What
+    must it check before calling the resolution binding?
+  options:
+    - >-
+      Whether Israel voted for it in the General Assembly.
+    - >-
+      Whether an NGO has endorsed it in a public report.
+    - >-
+      Whether the ICJ has given an advisory opinion on it.
+    - >-
+      Whether the Council decided, or only recommended.
+  correct: 3
+  explanation: >-
+    Chapter VII decisions can bind UN members; recommendations do not. The operative wording shows which
+    it is.
+- id: m13-006
+  module: 13
+  lesson: "13.1"
+  subject: binding-vs-persuasive
+  difficulty: 2
+  question: >-
+    Your source table lists a General Assembly declaration adopted without a vote. Which box fits it
+    best?
+  options:
+    - >-
+      A treaty that binds all UN members.
+    - >-
+      Soft law; perhaps evidence of opinio juris.
+    - >-
+      A judicial decision under Article 38(1)(d).
+    - >-
+      A peremptory norm that overrides treaties.
+  correct: 1
+  explanation: >-
+    Declarations are not treaties. Wide support and legal wording may make them evidence of custom, but
+    that has to be argued.
+- id: m13-007
+  module: 13
+  lesson: "13.1"
+  subject: enforcement-consent
+  difficulty: 1
+  question: >-
+    What is the central idea that explains why states are bound by international law?
+  options:
+    - >-
+      Command: the Secretary-General issues orders.
+    - >-
+      Force: the strongest states decide the law.
+    - >-
+      Consent, through treaties and accepted practice.
+    - >-
+      Election: the General Assembly votes laws in.
+  correct: 2
+  explanation: >-
+    There is no world legislature. States are bound by treaties they accepted and by custom built from
+    their practice.
+- id: m13-008
+  module: 13
+  lesson: "13.1"
+  subject: enforcement-consent
+  difficulty: 2
+  question: >-
+    A friend says: "International law is not law because there is no world police." Which answer is most
+    accurate?
+  options:
+    - >-
+      He is right; international law has no legal effect of any kind.
+    - >-
+      He is wrong; the UN keeps a standing police force to enforce it.
+    - >-
+      He is right except inside the EU, which enforces it for everyone.
+    - >-
+      It is enforced differently: reciprocity, diplomacy, courts with consent.
+  correct: 3
+  explanation: >-
+    Enforcement is decentralised but real; states also apply international law in their own courts, as
+    Israel does with custom (lesson 13.5).
+- id: m13-009
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 2
+  question: >-
+    An ICJ judgment between two other states contains an analysis of a rule you need. How can you use it
+    in an Israeli letter?
+  options:
+    - >-
+      As binding precedent that the ministry must follow.
+    - >-
+      As a treaty Israel joined by being a UN member.
+    - >-
+      As a subsidiary means that helps show what the rule is.
+    - >-
+      Not at all, since Israel was not a party to it.
+  correct: 2
+  explanation: >-
+    Under Art. 59 it binds only the parties, but under Art. 38(1)(d) judicial decisions help identify
+    the law.
+- id: m13-010
+  module: 13
+  lesson: "13.1"
+  subject: attribution-neutrality
+  difficulty: 2
+  question: >-
+    A letter about a contested matter in the territories cites a UN commission's finding. What does this
+    course's standard require you to add?
+  options:
+    - >-
+      Israel's official position, with its source.
+    - >-
+      A statement that the finding is settled law.
+    - >-
+      Nothing, since the commission is a UN body.
+    - >-
+      An apology for raising a political topic.
+  correct: 0
+  explanation: >-
+    Contested findings are presented with Israel's official position next to them, each attributed.
+- id: m13-011
+  module: 13
+  lesson: "13.1"
+  subject: binding-vs-persuasive
+  difficulty: 3
+  question: >-
+    An activist's letter has five sources: a ratified treaty, an ICJ advisory opinion, a General
+    Assembly resolution, an NGO report and a Foreign Ministry statement. In what order should a letter
+    to an Israeli authority usually present them?
+  options:
+    - >-
+      NGO report first, because it gives the most detail on the facts.
+    - >-
+      Treaty, then the State's own statement, then the rest, NGO last.
+    - >-
+      Advisory opinion first, because it comes from the world's top court.
+    - >-
+      GA resolution first, because it reflects the view of most states.
+  correct: 1
+  explanation: >-
+    Lead with what binds Israel and what Israel itself said; persuasive sources follow, each attributed.
+- id: m13-012
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 3
+  question: >-
+    A settlers' council and a Palestinian village both cite the same Hague Regulations article in
+    opposite petitions. What does this tell you about using international law?
+  options:
+    - >-
+      One side must be misquoting, since a rule cannot help both.
+    - >-
+      The Hague Regulations lapsed, since both sides now use them.
+    - >-
+      Only a side backed by an NGO may rely on international law.
+    - >-
+      The same rule can serve different sides; facts and route decide.
+  correct: 3
+  explanation: >-
+    Tools are not positions. Art. 43, for example, gives the commander duties toward the whole
+    population.
+- id: m13-013
+  module: 13
+  lesson: "13.1"
+  subject: enforcement-consent
+  difficulty: 3
+  question: >-
+    A state ignores an ICJ judgment against it. What does the UN Charter provide?
+  options:
+    - >-
+      The ICJ itself sends peacekeepers to enforce it.
+    - >-
+      The judgment lapses automatically after a year.
+    - >-
+      The other party may go to the Security Council.
+    - >-
+      Any UN member may seize the state's assets.
+  correct: 2
+  explanation: >-
+    Charter Art. 94(2): the other party may have recourse to the Security Council, which may act to give
+    effect to the judgment.
+- id: m13-014
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 1
+  question: >-
+    Who are the main subjects of international law?
+  options:
+    - >-
+      Individuals and private companies only.
+    - >-
+      NGOs holding UN consultative status.
+    - >-
+      National parliaments and their courts.
+    - >-
+      States and international organisations.
+  correct: 3
+  explanation: >-
+    International law mainly governs states and international organisations; individuals are covered
+    mostly through their own state's law and human-rights treaties.
+- id: m13-015
+  module: 13
+  lesson: "13.1"
+  subject: binding-vs-persuasive
+  difficulty: 1
+  question: >-
+    What does "soft law" mean?
+  options:
+    - >-
+      Treaties that allow states to make reservations.
+    - >-
+      Customary rules that are only a few years old.
+    - >-
+      Knesset laws passed to implement a treaty.
+    - >-
+      Non-binding texts like declarations and guidelines.
+  correct: 3
+  explanation: >-
+    Soft law can influence behaviour and show opinio juris, but it does not bind as such.
+- id: m13-016
+  module: 13
+  lesson: "13.1"
+  subject: attribution-neutrality
+  difficulty: 3
+  question: >-
+    You write: "International law prohibits X." Your only source is one NGO's legal brief, and Israel's
+    Foreign Ministry says X is lawful. How do you fix the sentence?
+  options:
+    - >-
+      Keep it; NGOs are recognised experts in international law.
+    - >-
+      Delete Israel's view, since a ministry is never neutral.
+    - >-
+      Say it is settled law, because most NGOs agree on it.
+    - >-
+      "NGO Y argues X is prohibited; Israel says it is lawful."
+  correct: 3
+  explanation: >-
+    State who says what. A single brief cannot support a statement of the law in your own voice.
+- id: m13-017
+  module: 13
+  lesson: "13.1"
+  subject: sources-of-law
+  difficulty: 2
+  question: >-
+    Which website should you use to read the text of the ICJ Statute and see its cases?
+  options:
+    - >-
+      icj-cij.org, the Court's own website.
+    - >-
+      A news site's summary of the latest case.
+    - >-
+      The Knesset's national legislation database.
+    - >-
+      The Israeli Supreme Court's search engine.
+  correct: 0
+  explanation: >-
+    Primary texts come from the Court's own site; the Statute and every case page are there.
+- id: m13-018
+  module: 13
+  lesson: "13.1"
+  subject: enforcement-consent
+  difficulty: 2
+  question: >-
+    Why does Israel's Foreign Ministry publish legal positions on a dedicated legal site?
+  options:
+    - >-
+      The ICJ requires all states to publish them.
+    - >-
+      Israeli courts may cite only MFA documents.
+    - >-
+      State statements help shape and show the law.
+    - >-
+      The UN Charter bars stating them elsewhere.
+  correct: 2
+  explanation: >-
+    State statements are part of state practice and opinio juris, so states publish them to shape and
+    defend their reading of the law.
+- id: m13-019
+  module: 13
+  lesson: "13.2"
+  subject: treaty-formation
+  difficulty: 1
+  question: >-
+    What is the difference between signing and ratifying a multilateral treaty?
+  options:
+    - >-
+      Ratifying expresses consent to be bound.
+    - >-
+      They are one act known by two names.
+    - >-
+      Signing binds; ratifying only publishes.
+    - >-
+      NGOs ratify; only states can sign.
+  correct: 0
+  explanation: >-
+    VCLT art. 2(1)(b): ratification is the act by which a state establishes its consent to be bound;
+    signature usually approves the text first.
+- id: m13-020
+  module: 13
+  lesson: "13.2"
+  subject: treaty-formation
+  difficulty: 1
+  question: >-
+    What is accession?
+  options:
+    - >-
+      Joining a treaty without signing it first.
+    - >-
+      Withdrawing from a treaty after ten years.
+    - >-
+      Adding a reservation after ratification.
+    - >-
+      Translating a treaty into a state's language.
+  correct: 0
+  explanation: >-
+    Accession has the same effect as ratification but is used by states that did not sign earlier.
+- id: m13-021
+  module: 13
+  lesson: "13.2"
+  subject: reservations
+  difficulty: 1
+  question: >-
+    What does a reservation do?
+  options:
+    - >-
+      It excludes or modifies provisions for that state.
+    - >-
+      It delays entry into force for all parties.
+    - >-
+      It cancels the treaty for states that object.
+    - >-
+      It turns the treaty into customary law.
+  correct: 0
+  explanation: >-
+    VCLT art. 2(1)(d) defines a reservation by its purpose of excluding or modifying legal effect for
+    the reserving state.
+- id: m13-022
+  module: 13
+  lesson: "13.2"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    Which reservation is not allowed under VCLT art. 19?
+  options:
+    - >-
+      Any reservation made at ratification, not at signature.
+    - >-
+      One incompatible with the treaty's object and purpose.
+    - >-
+      Any reservation about religious personal-status law.
+    - >-
+      Any reservation written in a language other than English.
+  correct: 1
+  explanation: >-
+    Art. 19(c): reservations incompatible with object and purpose are not permitted, besides those the
+    treaty prohibits.
+- id: m13-023
+  module: 13
+  lesson: "13.2"
+  subject: treaty-interpretation
+  difficulty: 1
+  question: >-
+    What is the starting point for interpreting a treaty under VCLT art. 31?
+  options:
+    - >-
+      The wishes of the largest state party.
+    - >-
+      The reading most favourable to the person.
+    - >-
+      Ordinary meaning, context and purpose.
+    - >-
+      The drafting history, before the text.
+  correct: 2
+  explanation: >-
+    Art. 31(1) sets the general rule; drafting history is only a supplementary means.
+- id: m13-024
+  module: 13
+  lesson: "13.2"
+  subject: treaty-interpretation
+  difficulty: 2
+  question: >-
+    A treaty body's General Comment interprets an article in a way Israel rejects. How do you use it?
+  options:
+    - >-
+      As persuasive, attributed, next to Israel's view.
+    - >-
+      As a binding amendment to the treaty text.
+    - >-
+      As irrelevant, because Israel rejected it.
+    - >-
+      As a judgment of an international court.
+  correct: 0
+  explanation: >-
+    General Comments carry weight but do not bind states. Attribute them and note the State's view.
+- id: m13-025
+  module: 13
+  lesson: "13.2"
+  subject: israeli-ratification
+  difficulty: 2
+  question: >-
+    Under Israel's practice, which body decides to ratify a treaty?
+  options:
+    - >-
+      The President, after a Knesset plenary vote.
+    - >-
+      The Supreme Court, after reviewing the text.
+    - >-
+      The Government, using its residual power.
+    - >-
+      The Foreign Ministry's legal adviser alone.
+  correct: 2
+  explanation: >-
+    The Knesset Legal Adviser's 2022 letter: the power to sign and ratify rests on the Government's
+    residual power (Basic Law: The Government s. 32).
+- id: m13-026
+  module: 13
+  lesson: "13.2"
+  subject: israeli-ratification
+  difficulty: 2
+  question: >-
+    How long before the Government decides to ratify must the treaty be laid before the Knesset, under
+    s. 10 of the Government's working regulations?
+  options:
+    - >-
+      Two days.
+    - >-
+      Six months.
+    - >-
+      One full Knesset session.
+    - >-
+      Two weeks.
+  correct: 3
+  explanation: >-
+    The minister sends the Hebrew text and summary to the Knesset two weeks before the Government
+    decision.
+- id: m13-027
+  module: 13
+  lesson: "13.2"
+  subject: israeli-ratification
+  difficulty: 3
+  question: >-
+    A minister wants to skip laying a treaty before the Knesset. When does the procedure allow it?
+  options:
+    - >-
+      Whenever the treaty has fewer than ten articles.
+    - >-
+      Whenever the Knesset is in its summer recess.
+    - >-
+      For urgency or secrecy, with two ministers' consent.
+    - >-
+      Never; the rule has no exception of any kind.
+  correct: 2
+  explanation: >-
+    Section 10(b), as described by the Knesset Legal Adviser, allows it for urgency or secrecy with the
+    Foreign and Justice Ministers' consent.
+- id: m13-028
+  module: 13
+  lesson: "13.2"
+  subject: incorporation
+  difficulty: 2
+  question: >-
+    Which Israeli statute is a clear example of giving a treaty the force of law?
+  options:
+    - >-
+      The Freedom of Information Law, 1998, with its schedules.
+    - >-
+      Basic Law: Human Dignity and Liberty, 1992, as amended.
+    - >-
+      The Planning and Building Law, 1965, with its schedules.
+    - >-
+      The Hague Convention (Return of Abducted Children) Law.
+  correct: 3
+  explanation: >-
+    Section 2 gives the Convention's articles the force of law, overriding any other law.
+- id: m13-029
+  module: 13
+  lesson: "13.2"
+  subject: incorporation
+  difficulty: 3
+  question: >-
+    Spot the mistake: "Israel ratified the CRPD in 2012, so the CRPD is an Israeli statute and the
+    ministry must obey it like any law."
+  options:
+    - >-
+      The CRPD was ratified in 1991, not in 2012.
+    - >-
+      Israel never signed the CRPD in the first place.
+    - >-
+      The CRPD binds ministries but not local councils.
+    - >-
+      Ratifying is not legislating; the CRPD is no statute.
+  correct: 3
+  explanation: >-
+    Israel ratified the CRPD on 28 September 2012, but no statute incorporates it; it guides
+    interpretation instead.
+- id: m13-030
+  module: 13
+  lesson: "13.2"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    Where on the UN Treaty Collection do you find Israel's reservation to a treaty?
+  options:
+    - >-
+      In the treaty's preamble, before article 1.
+    - >-
+      In the list of signatories, next to the date.
+    - >-
+      Under "Declarations and Reservations".
+    - >-
+      On the ICJ's page of optional declarations.
+  correct: 2
+  explanation: >-
+    Each status page lists participants with dates, then declarations and reservations by state.
+- id: m13-031
+  module: 13
+  lesson: "13.2"
+  subject: reservations
+  difficulty: 3
+  question: >-
+    Israel's CRPD reservation concerns marriage in Art. 23(1)(a). A disability group wants to rely on
+    Art. 9 (accessibility). What follows?
+  options:
+    - >-
+      The reservation does not touch Art. 9.
+    - >-
+      The reservation suspends the whole CRPD.
+    - >-
+      The Committee must first cancel the reservation.
+    - >-
+      Art. 9 needs separate Knesset approval.
+  correct: 0
+  explanation: >-
+    A reservation affects only the provisions it names. Art. 9 is outside it.
+- id: m13-032
+  module: 13
+  lesson: "13.2"
+  subject: treaty-formation
+  difficulty: 2
+  question: >-
+    What is the pacta sunt servanda rule?
+  options:
+    - >-
+      Treaties bind only while the signing government lasts.
+    - >-
+      Treaties bind only after a court has applied them.
+    - >-
+      Treaties in force bind and must be kept in good faith.
+    - >-
+      Treaties must be renegotiated every ten years.
+  correct: 2
+  explanation: >-
+    VCLT art. 26.
+- id: m13-033
+  module: 13
+  lesson: "13.2"
+  subject: treaty-formation
+  difficulty: 3
+  question: >-
+    A state says it cannot perform a treaty because a new national law forbids it. What is the
+    international-law answer?
+  options:
+    - >-
+      Internal law is no excuse for not performing a treaty.
+    - >-
+      The new national law ends the treaty for that state.
+    - >-
+      The treaty is suspended until an international court rules.
+    - >-
+      The state may perform only the parts its law still allows.
+  correct: 0
+  explanation: >-
+    VCLT art. 27. Internationally the treaty prevails, though inside the state its own law may still
+    govern its courts.
+- id: m13-034
+  module: 13
+  lesson: "13.2"
+  subject: non-binding-instruments
+  difficulty: 2
+  question: >-
+    Israel told the UN Sixth Committee in 2025 what about non-legally binding agreements?
+  options:
+    - >-
+      They become binding after five years of use.
+    - >-
+      They bind like treaties if ministers sign them.
+    - >-
+      Pacta sunt servanda does not apply to them.
+    - >-
+      They must be registered at the ICJ registry.
+  correct: 2
+  explanation: >-
+    Israel's 2025 statement: non-binding texts are not governed by pacta sunt servanda and cannot create
+    customary rules.
+- id: m13-035
+  module: 13
+  lesson: "13.2"
+  subject: treaty-formation
+  difficulty: 2
+  question: >-
+    Is Israel a party to the Vienna Convention on the Law of Treaties?
+  options:
+    - >-
+      Yes; Israel ratified it in the year it was adopted.
+    - >-
+      No, though many of its rules are seen as custom.
+    - >-
+      Yes, but only for treaties signed after the year 2000.
+    - >-
+      No, and Israel rejects every rule in it as foreign.
+  correct: 1
+  explanation: >-
+    The UN status page does not list Israel. Many VCLT rules, such as pacta sunt servanda, reflect
+    custom, and Israel refers to them.
+- id: m13-036
+  module: 13
+  lesson: "13.2"
+  subject: israeli-ratification
+  difficulty: 3
+  question: >-
+    A conservative organisation opposes ratification of a convention, while a feminist group supports
+    it. Both want to influence the decision. Which step is open to both under the current procedure?
+  options:
+    - >-
+      File an HCJ petition to cancel the signature.
+    - >-
+      Ask the UN Secretary-General to delay deposit.
+    - >-
+      Ask MKs to act during the two-week window.
+    - >-
+      Demand a referendum under the Basic Laws.
+  correct: 2
+  explanation: >-
+    The two-week window exists so MKs can react; the Knesset Legal Adviser listed questions, agenda
+    motions and committee debates.
+- id: m13-037
+  module: 13
+  lesson: "13.3"
+  subject: custom-elements
+  difficulty: 1
+  question: >-
+    What are the two elements of customary international law?
+  options:
+    - >-
+      A treaty and a court ruling that confirms it.
+    - >-
+      A General Assembly and a Security Council vote.
+    - >-
+      Fifty years of practice and UN registration.
+    - >-
+      A general practice and its acceptance as law.
+  correct: 3
+  explanation: >-
+    ILC conclusion 2: a general practice that is accepted as law (opinio juris).
+- id: m13-038
+  module: 13
+  lesson: "13.3"
+  subject: custom-elements
+  difficulty: 1
+  question: >-
+    What does "opinio juris" mean?
+  options:
+    - >-
+      The shared opinion of the ICJ's senior judges.
+    - >-
+      States act from a sense of legal obligation or right.
+    - >-
+      The majority view of scholars about a rule.
+    - >-
+      A state's formal objection to a treaty clause.
+  correct: 1
+  explanation: >-
+    ILC conclusion 9(1): practice undertaken with a sense of legal right or obligation.
+- id: m13-039
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 2
+  question: >-
+    Must every state follow a practice for it to be "general"?
+  options:
+    - >-
+      Yes; a single exception defeats the rule.
+    - >-
+      Yes, and each state must also vote at the UN.
+    - >-
+      No; one powerful state's practice is enough.
+    - >-
+      No; widespread, representative and consistent.
+  correct: 3
+  explanation: >-
+    ILC conclusion 8(1).
+- id: m13-040
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 2
+  question: >-
+    Which item is evidence of state practice?
+  options:
+    - >-
+      A law professor's personal blog.
+    - >-
+      A national court applying the rule.
+    - >-
+      An NGO's campaign video online.
+    - >-
+      A newspaper editorial on the rule.
+  correct: 1
+  explanation: >-
+    Court decisions, legislation and official statements are forms of state practice.
+- id: m13-041
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 3
+  question: >-
+    A state breaks a claimed customary rule but says its act falls within an exception to the rule. What
+    does that tell you?
+  options:
+    - >-
+      It destroys the rule as practice is uneven.
+    - >-
+      It tends to confirm the rule it invokes.
+    - >-
+      It creates a new rule replacing the old.
+    - >-
+      It says nothing about whether a rule exists.
+  correct: 1
+  explanation: >-
+    Conduct justified by the rule's exceptions supports, rather than undermines, the rule's existence.
+- id: m13-042
+  module: 13
+  lesson: "13.3"
+  subject: persistent-objector
+  difficulty: 2
+  question: >-
+    When is a state not bound by a new customary rule?
+  options:
+    - >-
+      If it objects for the first time after the rule is set.
+    - >-
+      If its parliament votes against the rule by majority.
+    - >-
+      If the rule was never written down in any treaty.
+    - >-
+      If it objected while the rule formed and still does.
+  correct: 3
+  explanation: >-
+    ILC conclusion 15: the objection must come during formation and be maintained.
+- id: m13-043
+  module: 13
+  lesson: "13.3"
+  subject: jus-cogens
+  difficulty: 2
+  question: >-
+    Which statement about peremptory norms (jus cogens) is correct?
+  options:
+    - >-
+      They bind only parties to the Vienna Convention itself.
+    - >-
+      A persistent objector can always stay outside them.
+    - >-
+      Two states can set them aside by mutual agreement.
+    - >-
+      No derogation is allowed; a conflicting treaty is void.
+  correct: 3
+  explanation: >-
+    VCLT art. 53.
+- id: m13-044
+  module: 13
+  lesson: "13.3"
+  subject: jus-cogens
+  difficulty: 3
+  question: >-
+    A petitioner calls a newly argued rule "jus cogens" to avoid proving it is customary. Why is this
+    risky?
+  options:
+    - >-
+      Jus cogens applies only in international criminal courts.
+    - >-
+      Jus cogens needs acceptance by states as a whole.
+    - >-
+      Israeli courts are not allowed to discuss jus cogens.
+    - >-
+      Jus cogens rules are weaker than ordinary custom.
+  correct: 1
+  explanation: >-
+    Peremptory status requires acceptance by the international community of states as a whole, a higher
+    bar than ordinary custom; overreach damages credibility.
+- id: m13-045
+  module: 13
+  lesson: "13.3"
+  subject: state-immunity
+  difficulty: 1
+  question: >-
+    Which Israeli statute codified the customary rule of foreign state immunity?
+  options:
+    - >-
+      The Courts Law [Consolidated Version], 1984.
+    - >-
+      The Foreign State Immunity Law, 2008.
+    - >-
+      The Diplomatic Relations Ordinance, 1948.
+    - >-
+      The Foundations of Law Act, 1980.
+  correct: 1
+  explanation: >-
+    The 2008 law grants immunity in s. 2 and sets out the exceptions.
+- id: m13-046
+  module: 13
+  lesson: "13.3"
+  subject: state-immunity
+  difficulty: 2
+  question: >-
+    A foreign state's agency breaks a commercial supply contract with an Israeli company. Does it have
+    immunity in an Israeli court?
+  options:
+    - >-
+      Yes; foreign state bodies are always immune.
+    - >-
+      No; s. 3 excludes commercial transactions.
+    - >-
+      Yes, unless the ICJ authorises the claim.
+    - >-
+      No, but only if the state consents in writing.
+  correct: 1
+  explanation: >-
+    Section 3 of the Foreign State Immunity Law: no immunity for claims whose cause is a commercial
+    transaction.
+- id: m13-047
+  module: 13
+  lesson: "13.3"
+  subject: state-immunity
+  difficulty: 3
+  question: >-
+    A foreign embassy's car injures a pedestrian in Haifa. Under the Foreign State Immunity Law, which
+    section is most relevant to a tort claim?
+  options:
+    - >-
+      Section 5, on torts in Israel causing injury.
+    - >-
+      Section 2, which always protects embassy cars.
+    - >-
+      Section 4, the exception for employment claims.
+    - >-
+      Section 3, the commercial-transaction exception.
+  correct: 0
+  explanation: >-
+    Section 5 removes immunity for torts committed in Israel that cause bodily injury or damage to
+    tangible property. Diplomats' personal immunity is a separate question.
+- id: m13-048
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 2
+  question: >-
+    What is the ICRC Customary IHL database?
+  options:
+    - >-
+      A treaty that states adopted in 2005.
+    - >-
+      A binding Security Council code of war.
+    - >-
+      A list of ICJ judgments on armed conflict.
+    - >-
+      The ICRC's study of customary rules of war.
+  correct: 3
+  explanation: >-
+    It is a study with the practice behind each rule, not a negotiated text; use it as a starting point
+    and check the practice.
+- id: m13-049
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 3
+  question: >-
+    Israel warned the UN Sixth Committee in 2025 about ILC drafts. What was its concern?
+  options:
+    - >-
+      The ILC should stop studying custom entirely.
+    - >-
+      Proposals could be mistaken for existing custom.
+    - >-
+      ILC drafts automatically bind every state.
+    - >-
+      Only Israeli courts may identify custom.
+  correct: 1
+  explanation: >-
+    Israel asked that rules reflecting custom be clearly separated from proposals for progressive
+    development.
+- id: m13-050
+  module: 13
+  lesson: "13.3"
+  subject: custom-elements
+  difficulty: 2
+  question: >-
+    States sign many bilateral treaties with the same clause. Does that make the clause customary?
+  options:
+    - >-
+      Yes, automatically, after ten such treaties.
+    - >-
+      Not by itself; show wider practice and opinio juris.
+    - >-
+      Yes, if one treaty was registered at the UN.
+    - >-
+      No; treaties can never contribute to custom.
+  correct: 1
+  explanation: >-
+    Treaties can reflect or help form custom, but states may include a clause only because they agreed
+    to it, not because custom requires it.
+- id: m13-051
+  module: 13
+  lesson: "13.3"
+  subject: custom-elements
+  difficulty: 3
+  question: >-
+    An environmental group argues a duty to assess cross-border environmental harm is customary. What is
+    the best first source of evidence?
+  options:
+    - >-
+      The group's own earlier press releases.
+    - >-
+      A petition signed by many thousands.
+    - >-
+      ICJ judgments on it, and states' own laws.
+    - >-
+      One university's course syllabus.
+  correct: 2
+  explanation: >-
+    Judgments help identify the rule (Art. 38(1)(d)); national legislation is state practice.
+- id: m13-052
+  module: 13
+  lesson: "13.3"
+  subject: custom-evidence
+  difficulty: 1
+  question: >-
+    Where can you find Israel's official statements on general international law?
+  options:
+    - >-
+      Only in the Knesset's archive of old bills.
+    - >-
+      Only on the ICJ's own website, by case.
+    - >-
+      On the MFA legal site, israelihl.mfa.gov.il.
+    - >-
+      Nowhere; Israel does not publish them.
+  correct: 2
+  explanation: >-
+    The MFA site's General International Law section collects Israel's UN statements.
+- id: m13-053
+  module: 13
+  lesson: "13.3"
+  subject: custom-in-israeli-law
+  difficulty: 2
+  question: >-
+    In Ajuri (2002), what did the Court do with the State's position that the Fourth Geneva Convention
+    as a whole is not customary?
+  options:
+    - >-
+      Held the whole Convention customary and binding.
+    - >-
+      Refused to consider any international law at all.
+    - >-
+      Left it open; applied the provisions the State applies.
+    - >-
+      Referred the question to the ICJ for an opinion.
+  correct: 2
+  explanation: >-
+    The Court did not decide the customary status; it applied the humanitarian provisions the State
+    declared it applies.
+- id: m13-054
+  module: 13
+  lesson: "13.4"
+  subject: icj-parties
+  difficulty: 1
+  question: >-
+    How many judges sit on the ICJ?
+  options:
+    - >-
+      Fifteen.
+    - >-
+      Nine.
+    - >-
+      Twelve.
+    - >-
+      Twenty-one.
+  correct: 0
+  explanation: >-
+    Statute Art. 3(1): fifteen members, no two of the same nationality.
+- id: m13-055
+  module: 13
+  lesson: "13.4"
+  subject: icj-parties
+  difficulty: 1
+  question: >-
+    For how long are ICJ judges elected?
+  options:
+    - >-
+      Five years.
+    - >-
+      For life.
+    - >-
+      Nine years.
+    - >-
+      Three years.
+  correct: 2
+  explanation: >-
+    Statute Art. 13(1): nine years, and they may be re-elected.
+- id: m13-056
+  module: 13
+  lesson: "13.4"
+  subject: icj-jurisdiction
+  difficulty: 1
+  question: >-
+    Which of these is a route to ICJ jurisdiction in a contentious case?
+  options:
+    - >-
+      A dispute clause in a treaty both ratified.
+    - >-
+      A General Assembly resolution naming a state.
+    - >-
+      A complaint by an NGO with UN status.
+    - >-
+      A request from a national supreme court.
+  correct: 0
+  explanation: >-
+    Statute Art. 36(1): matters specially provided for in treaties in force.
+- id: m13-057
+  module: 13
+  lesson: "13.4"
+  subject: icj-jurisdiction
+  difficulty: 2
+  question: >-
+    Does Israel have an optional-clause declaration accepting the ICJ's compulsory jurisdiction?
+  options:
+    - >-
+      Yes, since 1956, with no reservations.
+    - >-
+      No; Israel is not among the 75 listed.
+    - >-
+      Yes, but only for maritime disputes.
+    - >-
+      Yes, renewed every five years.
+  correct: 1
+  explanation: >-
+    The ICJ's declarations page lists 75 states with declarations in force; Israel is not one of them.
+- id: m13-058
+  module: 13
+  lesson: "13.4"
+  subject: israel-and-icj
+  difficulty: 2
+  question: >-
+    In which ICJ case was Israel the applicant?
+  options:
+    - >-
+      Legal Consequences of the Construction of a Wall.
+    - >-
+      Aerial Incident of 27 July 1955 (Israel v. Bulgaria).
+    - >-
+      South Africa v. Israel under the Genocide Convention.
+    - >-
+      Military Activities (Nicaragua v. United States).
+  correct: 1
+  explanation: >-
+    Israel filed in 1957; in 1959 the Court found it had no jurisdiction.
+- id: m13-059
+  module: 13
+  lesson: "13.4"
+  subject: israel-and-icj
+  difficulty: 3
+  question: >-
+    Why did the Court dismiss Israel v. Bulgaria in 1959?
+  options:
+    - >-
+      Israel withdrew the case after a negotiated settlement.
+    - >-
+      Bulgaria proved the incident had never happened.
+    - >-
+      No jurisdiction: an old PCIJ-era acceptance had lapsed.
+    - >-
+      The Security Council ordered the Court to close it.
+  correct: 2
+  explanation: >-
+    The Court held that Art. 36(5) did not revive declarations that lapsed with the PCIJ's dissolution.
+- id: m13-060
+  module: 13
+  lesson: "13.4"
+  subject: advisory-opinions
+  difficulty: 1
+  question: >-
+    Who may request an advisory opinion from the ICJ?
+  options:
+    - >-
+      UN organs such as the General Assembly.
+    - >-
+      Any state, about any other state.
+    - >-
+      Any NGO with UN consultative status.
+    - >-
+      Any national court with a question.
+  correct: 0
+  explanation: >-
+    Charter Art. 96 and Statute Art. 65: the General Assembly, the Security Council and other authorised
+    bodies.
+- id: m13-061
+  module: 13
+  lesson: "13.4"
+  subject: advisory-opinions
+  difficulty: 2
+  question: >-
+    Which resolution requested the 2024 advisory opinion on Israel's policies and practices in the OPT?
+  options:
+    - >-
+      General Assembly resolution 77/247.
+    - >-
+      Security Council resolution 242.
+    - >-
+      General Assembly resolution ES-10/14.
+    - >-
+      Human Rights Council resolution 77/247.
+  correct: 0
+  explanation: >-
+    Case 186 was requested by GA resolution 77/247; ES-10/14 requested the 2004 wall opinion.
+- id: m13-062
+  module: 13
+  lesson: "13.4"
+  subject: advisory-opinions
+  difficulty: 2
+  question: >-
+    On what date did the ICJ give its advisory opinion on the construction of the wall?
+  options:
+    - >-
+      19 July 2024.
+    - >-
+      9 July 2004.
+    - >-
+      22 October 2025.
+    - >-
+      26 January 2024.
+  correct: 1
+  explanation: >-
+    Case 131, opinion of 9 July 2004.
+- id: m13-063
+  module: 13
+  lesson: "13.4"
+  subject: provisional-measures
+  difficulty: 2
+  question: >-
+    In South Africa v. Israel, on which dates did the Court issue its 2024 provisional-measures orders?
+  options:
+    - >-
+      9 July, 19 July and 22 October 2024.
+    - >-
+      5 April, 14 April and 20 October 2024.
+    - >-
+      1 January, 1 February and 1 March 2024.
+    - >-
+      26 January, 28 March and 24 May 2024.
+  correct: 3
+  explanation: >-
+    Case 192 lists these three orders; the other dates belong to opinions or time-limit orders.
+- id: m13-064
+  module: 13
+  lesson: "13.4"
+  subject: provisional-measures
+  difficulty: 3
+  question: >-
+    A campaign says: "The ICJ's January 2024 order proved genocide." What is the accurate correction?
+  options:
+    - >-
+      It was an advisory opinion with no legal effect.
+    - >-
+      It was an interim order, not a finding on the merits.
+    - >-
+      It found genocide but was withdrawn in March.
+    - >-
+      It was a final judgment that closed the case.
+  correct: 1
+  explanation: >-
+    Provisional measures protect rights pending judgment; the merits are decided only in a later
+    judgment.
+- id: m13-065
+  module: 13
+  lesson: "13.4"
+  subject: israel-and-icj
+  difficulty: 3
+  question: >-
+    An Israeli advocacy group says: "South Africa's case has no basis because Israel never consented to
+    the ICJ." What is the accurate position?
+  options:
+    - >-
+      The group is right; the Court has no jurisdiction of any kind here.
+    - >-
+      Israel consented via Genocide Convention Art. IX, but contests the case.
+    - >-
+      Israel consented by an optional-clause declaration made in 2023.
+    - >-
+      Consent is never relevant at the ICJ when genocide is alleged.
+  correct: 1
+  explanation: >-
+    Israel ratified without reserving Art. IX, which it called "unreserved consent"; it argues the case
+    is unfounded and an abuse.
+- id: m13-066
+  module: 13
+  lesson: "13.4"
+  subject: icj-jurisdiction
+  difficulty: 2
+  question: >-
+    What does Art. 93(1) of the UN Charter mean for Israel?
+  options:
+    - >-
+      It must accept every ICJ case that is brought against it.
+    - >-
+      It may never appear as a party before the ICJ.
+    - >-
+      Party to the Statute, but no jurisdiction by that alone.
+    - >-
+      It is legally bound by every advisory opinion.
+  correct: 2
+  explanation: >-
+    All UN members are parties to the Statute; jurisdiction still requires consent under Art. 36.
+- id: m13-067
+  module: 13
+  lesson: "13.4"
+  subject: israel-and-icj
+  difficulty: 2
+  question: >-
+    Where can you read Israel's own submissions in ICJ proceedings concerning it?
+  options:
+    - >-
+      Only by request to the ICJ registry, for a fee.
+    - >-
+      Nowhere; they stay confidential for ever.
+    - >-
+      On israelihl.mfa.gov.il, in the ICJ section.
+    - >-
+      Only in the Knesset library's reading room.
+  correct: 2
+  explanation: >-
+    The MFA legal site publishes Israel's written statements and observations.
+- id: m13-068
+  module: 13
+  lesson: "13.4"
+  subject: icj-parties
+  difficulty: 2
+  question: >-
+    What is a judge ad hoc?
+  options:
+    - >-
+      A judge a party picks when it has none on the bench.
+    - >-
+      A substitute judge chosen by the Secretary-General.
+    - >-
+      A national judge who reviews ICJ rulings at home.
+    - >-
+      A judge who sits only in advisory proceedings.
+  correct: 0
+  explanation: >-
+    States without a national on the bench may choose a judge ad hoc for their case.
+- id: m13-069
+  module: 13
+  lesson: "13.4"
+  subject: icj-jurisdiction
+  difficulty: 3
+  question: >-
+    A local farmers' group asks the Foreign Ministry to take a neighbouring state to the ICJ over a
+    river. Which question decides whether Israel even could?
+  options:
+    - >-
+      Whether the farmers exhausted Israeli remedies.
+    - >-
+      Whether the river crosses more than two states.
+    - >-
+      Whether the General Assembly discussed the river.
+    - >-
+      Whether both states consented to jurisdiction.
+  correct: 3
+  explanation: >-
+    Jurisdiction rests on consent between the states (a treaty clause, a special agreement or
+    declarations), not on the private parties' situation.
+- id: m13-070
+  module: 13
+  lesson: "13.4"
+  subject: advisory-opinions
+  difficulty: 3
+  question: >-
+    Israel's 2025 statement to the General Assembly said the Court's advisory proceedings "sidestepped
+    Israel's lack of consent". What legal tension is Israel pointing to?
+  options:
+    - >-
+      Opinions need no consent yet may touch real disputes.
+    - >-
+      Opinions need the consent of every UN member state.
+    - >-
+      Opinions bind only the states that consented to them.
+    - >-
+      Opinions may be requested only by individual states.
+  correct: 0
+  explanation: >-
+    The Court can answer a UN organ's question without consent; Israel argues it should decline where
+    the question is in substance a dispute.
+- id: m13-071
+  module: 13
+  lesson: "13.4"
+  subject: icj-parties
+  difficulty: 3
+  question: >-
+    An NGO wants the ICJ to hear about a human-rights concern. What can it realistically do?
+  options:
+    - >-
+      File an amicus brief the Court must accept.
+    - >-
+      Join a contentious case as co-applicant.
+    - >-
+      Ask the Court for an advisory opinion.
+    - >-
+      Persuade a state or UN organ to act.
+  correct: 3
+  explanation: >-
+    NGOs cannot be parties or request opinions; their route is through states and UN organs, and
+    publishing their own analysis.
+- id: m13-072
+  module: 13
+  lesson: "13.5"
+  subject: custom-in-israeli-law
+  difficulty: 1
+  question: >-
+    In Israeli law, how does customary international law become part of domestic law?
+  options:
+    - >-
+      Automatically, unless a statute contradicts it.
+    - >-
+      Only after the Knesset passes a law adopting it.
+    - >-
+      Only after the ICJ has confirmed the rule.
+    - >-
+      Never; Israeli courts apply only Israeli law.
+  correct: 0
+  explanation: >-
+    Elon Moreh and Abu Aita: custom is automatically part of Israeli law, subject to contrary
+    legislation.
+- id: m13-073
+  module: 13
+  lesson: "13.5"
+  subject: treaties-in-israeli-law
+  difficulty: 1
+  question: >-
+    How does a treaty become enforceable in an Israeli court?
+  options:
+    - >-
+      Automatically, on ratification day.
+    - >-
+      When the UN registers the treaty.
+    - >-
+      Through legislation that adopts it.
+    - >-
+      When the Foreign Minister announces it.
+  correct: 2
+  explanation: >-
+    Abu Aita: conventional law becomes part of Israeli law only by enactment of primary or subsidiary
+    legislation.
+- id: m13-074
+  module: 13
+  lesson: "13.5"
+  subject: custom-in-israeli-law
+  difficulty: 2
+  question: >-
+    In Elon Moreh, why did the Court decline to rule under Art. 49 of the Fourth Geneva Convention?
+  options:
+    - >-
+      It saw it as treaty law, not enforceable there.
+    - >-
+      Because Israel had never signed the Convention.
+    - >-
+      Because the ICJ had already ruled on the point.
+    - >-
+      Because the petitioners had not mentioned it.
+  correct: 0
+  explanation: >-
+    The judges applied the Hague Regulations as custom and left GC IV art. 49 aside as conventional law.
+- id: m13-075
+  module: 13
+  lesson: "13.5"
+  subject: presumption-of-compatibility
+  difficulty: 1
+  question: >-
+    What is the presumption of compatibility (חזקת ההתאמה)?
+  options:
+    - >-
+      International law overrides any conflicting statute.
+    - >-
+      Ratified treaties are statutes until repealed.
+    - >-
+      Courts presume foreign judgments are correct.
+    - >-
+      Reading Israeli law in line with Israel's obligations.
+  correct: 3
+  explanation: >-
+    It is a rule of interpretation, applied as far as possible, not a rule of supremacy.
+- id: m13-076
+  module: 13
+  lesson: "13.5"
+  subject: presumption-of-compatibility
+  difficulty: 2
+  question: >-
+    Which ruling is often cited for the presumption of compatibility in education rights?
+  options:
+    - >-
+      HCJ 390/79 Dweikat v. Government (Elon Moreh).
+    - >-
+      CrimA 336/61 Eichmann v. Attorney General.
+    - >-
+      HCJ 5100/94 Public Committee Against Torture.
+    - >-
+      HCJ 2599/00 Yated v. Ministry of Education.
+  correct: 3
+  explanation: >-
+    Bohrer cites Yated (2002) among the presumption cases; Kohelet criticises it as too broad a use.
+- id: m13-077
+  module: 13
+  lesson: "13.5"
+  subject: presumption-of-compatibility
+  difficulty: 3
+  question: >-
+    A statute's wording clearly contradicts a treaty Israel ratified. Can the presumption of
+    compatibility save the treaty argument?
+  options:
+    - >-
+      No; it works only where a compatible reading exists.
+    - >-
+      Yes; the treaty prevails because Israel ratified it.
+    - >-
+      Yes, as long as it is a human-rights treaty.
+    - >-
+      Yes, but only before the Supreme Court.
+  correct: 0
+  explanation: >-
+    The presumption reads law as far as possible in line with obligations; it cannot override clear
+    statutory language.
+- id: m13-078
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 2
+  question: >-
+    What should come first in the international-law section of an Israeli petition?
+  options:
+    - >-
+      The treaty's drafting history at the UN.
+    - >-
+      A link to the Israeli ground it supports.
+    - >-
+      A list of NGO reports on the issue.
+    - >-
+      A quote from an ICJ advisory opinion.
+  correct: 1
+  explanation: >-
+    International law supports an Israeli ground; the section should say so at once.
+- id: m13-079
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 2
+  question: >-
+    You quote a treaty article that has no official Hebrew translation. What do you do?
+  options:
+    - >-
+      Quote the English; mark your translation as free.
+    - >-
+      Translate it and present it as the official text.
+    - >-
+      Leave it out, since courts accept only Hebrew.
+    - >-
+      Paraphrase it without quoting the original.
+  correct: 0
+  explanation: >-
+    Exact quotes with marked translations avoid disputes about the text.
+- id: m13-080
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 3
+  question: >-
+    Spot the mistake in a draft: "The Court must enforce the ICCPR, and the State's position is
+    irrelevant."
+  options:
+    - >-
+      It should cite the ICJ Statute instead of the ICCPR.
+    - >-
+      It should be written in English rather than Hebrew.
+    - >-
+      It should be addressed to the Knesset, not a court.
+    - >-
+      It enforces an unlegislated treaty and ignores the State.
+  correct: 3
+  explanation: >-
+    Recast it as interpretation under the presumption, and quote and answer the State's position.
+- id: m13-081
+  module: 13
+  lesson: "13.5"
+  subject: custom-in-israeli-law
+  difficulty: 2
+  question: >-
+    What did President Barak say in Targeted Killings (para. 19) about treaties that do not reflect
+    custom?
+  options:
+    - >-
+      They bind Israeli courts once Israel signs.
+    - >-
+      They override contrary Israeli statutes.
+    - >-
+      They apply only in Judea and Samaria.
+    - >-
+      They are not part of Israel's internal law.
+  correct: 3
+  explanation: >-
+    Para. 19 (Versa): conventional law that does not reflect custom is not part of Israel's internal
+    law.
+- id: m13-082
+  module: 13
+  lesson: "13.5"
+  subject: custom-in-israeli-law
+  difficulty: 3
+  question: >-
+    A petition invokes a customary rule. The State replies that a 1990s Knesset statute says the
+    opposite. What is the petitioner's best response?
+  options:
+    - >-
+      Argue for a compatible reading; else the statute wins.
+    - >-
+      Insist that custom always overrides any statute.
+    - >-
+      Ask the ICJ to suspend the statute meanwhile.
+    - >-
+      Withdraw, since custom never applies in Israel.
+  correct: 0
+  explanation: >-
+    Abu Aita: a directly conflicting statute prevails, so the only route is a compatible reading of the
+    statute.
+- id: m13-083
+  module: 13
+  lesson: "13.5"
+  subject: presumption-of-compatibility
+  difficulty: 3
+  question: >-
+    Which description of the Israeli debate over the presumption is accurate and neutral?
+  options:
+    - >-
+      All scholars agree it applies to Basic Laws too.
+    - >-
+      The Government has always backed a broad use.
+    - >-
+      Kohelet argues that treaties override Basic Laws.
+    - >-
+      Bohrer favours a broad use; Kohelet a narrow, dualist one.
+  correct: 3
+  explanation: >-
+    Both views are attributed; the Court in Hasson said the Basic Law question is undecided.
+- id: m13-084
+  module: 13
+  lesson: "13.5"
+  subject: treaties-in-israeli-law
+  difficulty: 2
+  question: >-
+    Which route fits a petition about a migrant child's school placement citing the CRC?
+  options:
+    - >-
+      Ratified, unlegislated treaty: guide interpretation.
+    - >-
+      Customary rule: apply the CRC directly in court.
+    - >-
+      Legislated treaty: apply it as an Israeli statute.
+    - >-
+      ICJ route: ask the Court to order the ministry.
+  correct: 0
+  explanation: >-
+    Israel ratified the CRC in 1991 but did not legislate it as such, so the presumption is the route.
+- id: m13-085
+  module: 13
+  lesson: "13.5"
+  subject: custom-in-israeli-law
+  difficulty: 2
+  question: >-
+    Which Hague Regulations article did the Court use in Elon Moreh to test the requisition?
+  options:
+    - >-
+      Article 49, on transfers of population.
+    - >-
+      Article 52, on requisitions for the army.
+    - >-
+      Article 2, on when the Convention applies.
+    - >-
+      Article 94, on compliance with judgments.
+  correct: 1
+  explanation: >-
+    The Court examined the requisition under Hague Regulations art. 52 as customary law; art. 49 belongs
+    to GC IV.
+- id: m13-086
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 3
+  question: >-
+    Your section relies on an ICJ advisory opinion. The State has said it rejects that opinion. How do
+    you present it?
+  options:
+    - >-
+      As binding law that ends the dispute for good.
+    - >-
+      As non-binding and attributed, answering the State.
+    - >-
+      Without the State's rejection, to keep it strong.
+    - >-
+      As if it were a Security Council decision.
+  correct: 1
+  explanation: >-
+    Advisory opinions are not binding as such; neutrality and credibility require noting the State's
+    position.
+- id: m13-087
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 1
+  question: >-
+    What kind of remedy should an Israeli petition with an international-law section ask for?
+  options:
+    - >-
+      An order that Israel ratify a treaty.
+    - >-
+      One an Israeli court can grant.
+    - >-
+      A referral of the case to the UN.
+    - >-
+      A finding that Israel broke the law.
+  correct: 1
+  explanation: >-
+    The court grants Israeli remedies, such as cancelling a decision; international law supports the
+    reasoning.
+- id: m13-088
+  module: 13
+  lesson: "13.5"
+  subject: treaties-in-israeli-law
+  difficulty: 3
+  question: >-
+    A parent asks the Family Court to order a child's return under the Hague Child Abduction Convention.
+    Why can the court apply the Convention directly here?
+  options:
+    - >-
+      All child-rights treaties are customary.
+    - >-
+      The presumption makes every treaty a statute.
+    - >-
+      A Knesset statute gave it the force of law.
+    - >-
+      The ICJ ordered Israel to apply it.
+  correct: 2
+  explanation: >-
+    The 1991 Law, s. 2, gives the Convention's articles the force of law, and s. 6 sends cases to the
+    Family Court.
+- id: m13-089
+  module: 13
+  lesson: "13.5"
+  subject: presumption-of-compatibility
+  difficulty: 2
+  question: >-
+    What did the Court say in Hasson (2021) about the presumption and Basic Laws?
+  options:
+    - >-
+      That it applies fully to all Basic Laws.
+    - >-
+      That the question was still undecided.
+    - >-
+      That it never applies to any Basic Law.
+    - >-
+      That it applies only to post-1992 Basic Laws.
+  correct: 1
+  explanation: >-
+    As quoted by Bohrer: "טרם הוכרעה בדין הישראלי".
+- id: m13-090
+  module: 13
+  lesson: "13.5"
+  subject: drafting-intl-section
+  difficulty: 3
+  question: >-
+    Before filing, you red-team your section as the State Attorney. Which line would they attack first?
+  options:
+    - >-
+      "Israel ratified on 3.10.1991", with the UN record.
+    - >-
+      "It is well established that…" with no source.
+    - >-
+      "Section 2 gives it force of law", with a link.
+    - >-
+      "The State's position is…", quoting its reply.
+  correct: 1
+  explanation: >-
+    Unsourced claims of settled law are the easiest to attack; sourced facts are not.

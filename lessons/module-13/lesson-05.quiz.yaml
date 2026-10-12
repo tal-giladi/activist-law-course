@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A petition asks the High Court to "enforce Article 3 of the Convention on the Rights of the Child"
+    against a ministry. Israel ratified the CRC in 1991, and no statute incorporates it. How is the State
+    likely to answer, and how should the petition be framed instead?
+  options:
+    - >-
+      The State will concede; every ratified treaty is part of Israeli law.
+    - >-
+      It is not Israeli law; use it to guide how the Israeli law is read.
+    - >-
+      The CRC binds only the UN, so drop it from the petition.
+    - >-
+      Only the ICJ can apply the CRC, so file there instead.
+  correct: 1
+  explanation: >-
+    Treaties apply in Israeli courts only through legislation (Elon Moreh; Abu Aita). A ratified treaty can
+    still guide interpretation under the presumption of compatibility.
+- id: q2
+  question: >-
+    A landowner relies on Article 52 of the Hague Regulations against a requisition order in Judea and
+    Samaria. Why can an Israeli court apply that article directly?
+  options:
+    - >-
+      Because Israel ratified the Hague Convention and the Knesset passed it as a statute.
+    - >-
+      Because the military commander adopted the Hague Regulations in a security order.
+    - >-
+      Because the Supreme Court treats the Hague Regulations as customary law, part of Israeli law.
+    - >-
+      Because the ICJ ordered Israeli courts to apply them in its 2004 opinion.
+  correct: 2
+  explanation: >-
+    In Elon Moreh the Court applied the Hague Regulations as customary international law, which "is part of
+    municipal law", while declining to apply Art. 49 of the Fourth Geneva Convention as treaty law.
+- id: q3
+  question: >-
+    A customary rule seems to point one way, but a clear Knesset statute says the opposite. What did the
+    Court hold in Abu Aita?
+  options:
+    - >-
+      The customary rule prevails, because international law is above domestic law.
+    - >-
+      The court must refer the conflict to the ICJ for an advisory opinion.
+    - >-
+      The court must strike down the statute as contrary to the Basic Laws.
+    - >-
+      Custom is part of Israeli law, but a directly conflicting statute takes precedence.
+  correct: 3
+  explanation: >-
+    Abu Aita: custom is automatically incorporated "except when it is in direct conflict with enacted
+    Israeli law, in which case, Israeli law takes precedence".
+- id: q4
+  question: >-
+    You argue that a Basic Law should be read in light of a human-rights treaty Israel ratified. What is
+    the accurate statement of the law?
+  options:
+    - >-
+      Whether the presumption of compatibility applies to Basic Laws is undecided and debated.
+    - >-
+      The presumption applies to Basic Laws exactly as to statutes, by a 2021 ruling.
+    - >-
+      The presumption was abolished in 2020, so treaties cannot be used at all.
+    - >-
+      The presumption applies only to regulations, never to statutes or Basic Laws.
+  correct: 0
+  explanation: >-
+    In Hasson (2021) the Court said the question "טרם הוכרעה". Scholars such as Bohrer support applying it;
+    the Kohelet Forum, and the Government and Knesset in some cases, argued against it.

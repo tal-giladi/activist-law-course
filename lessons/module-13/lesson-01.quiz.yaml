@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your draft letter to a ministry says: "UN General Assembly resolution X binds Israel under
+    international law." A friend who studied law flags the sentence. What is the best fix?
+  options:
+    - >-
+      Keep it; every General Assembly resolution binds all UN members under the Charter.
+    - >-
+      Keep it, but add that Israel voted for the resolution, which makes it a treaty.
+    - >-
+      Call it soft law or evidence of state practice, and lead with a binding source instead.
+    - >-
+      Delete all international sources, since only Israeli law can appear in such a letter.
+  correct: 2
+  explanation: >-
+    Most General Assembly resolutions are not binding. They can be evidence of practice or opinio juris,
+    but a letter should lead with a treaty Israel ratified or a customary rule, and present the
+    resolution for what it is.
+- id: q2
+  question: >-
+    Which list matches the sources of international law in Article 38(1) of the ICJ Statute?
+  options:
+    - >-
+      Treaties, custom and general principles, with judicial decisions and scholarship as subsidiary means.
+    - >-
+      Treaties, Security Council resolutions and ICJ precedents, with custom as a subsidiary means.
+    - >-
+      The UN Charter, General Assembly resolutions and the decisions of national supreme courts.
+    - >-
+      Treaties only; custom and general principles apply only when a treaty refers to them.
+  correct: 0
+  explanation: >-
+    Article 38(1)(a)–(c) lists conventions, custom and general principles; (d) adds judicial decisions and
+    the teachings of publicists as subsidiary means for determining the rules.
+- id: q3
+  question: >-
+    An activist says: "The ICJ ruled against State A in a case with State B, so that ruling now binds
+    every state, including Israel." What does the ICJ Statute say?
+  options:
+    - >-
+      He is right, because ICJ judgments are binding precedent for all UN members.
+    - >-
+      The judgment binds only the parties and that case, though it may persuade others.
+    - >-
+      The judgment binds Israel only if Israel was a judge ad hoc in the case.
+    - >-
+      The judgment binds every state that has accepted the Court's compulsory jurisdiction.
+  correct: 1
+  explanation: >-
+    Article 59: a decision "has no binding force except between the parties and in respect of that
+    particular case". Others may cite it as a subsidiary means, but it does not bind them.
+- id: q4
+  question: >-
+    A group wants to file a case at the ICJ in its own name against a foreign government. What is the
+    legal obstacle?
+  options:
+    - >-
+      Groups may file only after exhausting remedies in that government's courts.
+    - >-
+      Groups may file only if they are registered NGOs with UN consultative status.
+    - >-
+      Groups may file only advisory requests, not contentious cases.
+    - >-
+      Only states may be parties in contentious cases before the ICJ.
+  correct: 3
+  explanation: >-
+    Article 34(1) of the Statute: "Only states may be parties in cases before the Court." Individuals and
+    NGOs cannot file; advisory opinions are requested by UN organs, not by NGOs.

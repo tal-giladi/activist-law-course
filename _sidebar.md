@@ -98,3 +98,12 @@
   - [64 · MKs, Parliamentary Questions and Lobbying Rules](lessons/module-12/lesson-04.md)
   - [65 · Your Local Authority: Council Meetings, Municipal Complaints and Local FOI](lessons/module-12/lesson-05.md)
   - [Module 12 quiz](assessments/module-12-quiz.md)
+
+- Stage 3 — International Law and Human Rights
+- **Module 13 — International Law Foundations (about 15 hours)**
+  - [66 · What International Law Is](lessons/module-13/lesson-01.md)
+  - [67 · Treaties](lessons/module-13/lesson-02.md)
+  - [68 · Customary International Law](lessons/module-13/lesson-03.md)
+  - [69 · The International Court of Justice](lessons/module-13/lesson-04.md)
+  - [70 · International Law Inside Israeli Courts](lessons/module-13/lesson-05.md)
+  - [Module 13 quiz](assessments/module-13-quiz.md)

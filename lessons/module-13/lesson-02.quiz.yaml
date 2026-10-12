@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    A state signed a treaty five years ago but never ratified it, and has not said it will stay out.
+    Which statement about its obligations is correct under the Vienna Convention?
+  options:
+    - >-
+      It is bound by every article, because signature expresses full consent.
+    - >-
+      It must not defeat the treaty's object and purpose, but is not yet bound by each article.
+    - >-
+      It has no obligations of any kind until it deposits an instrument of ratification.
+    - >-
+      It is bound only by the articles it has already written into its own laws.
+  correct: 1
+  explanation: >-
+    Art. 18: a signatory must refrain from acts that would defeat the object and purpose until it makes
+    clear it will not become a party. Full treaty obligations start with ratification or accession.
+- id: q2
+  question: >-
+    You want to cite ICCPR Art. 23 (marriage and family) in a letter about civil marriage in Israel.
+    What must you check first on the UN Treaty Collection?
+  options:
+    - >-
+      Whether the ICCPR has entered into force for all UN members.
+    - >-
+      Whether the Human Rights Committee issued a General Comment on Art. 23.
+    - >-
+      Whether Israel's reservations or declarations cover Art. 23.
+    - >-
+      Whether the ICCPR was laid before the Knesset in the year of ratification.
+  correct: 2
+  explanation: >-
+    Israel reserved on Art. 23: personal status is governed by the religious law of the parties, and Israel
+    may apply that law where it is inconsistent with the Covenant. Your letter must deal with that reservation.
+- id: q3
+  question: >-
+    A minister wants the Government to ratify a new multilateral treaty. Under the procedure described by
+    the Knesset Legal Adviser, what happens before the Government decides?
+  options:
+    - >-
+      Its Hebrew text and summary go to the Knesset two weeks ahead, for MKs' information.
+    - >-
+      The Knesset must pass a law approving the treaty by a majority of 61 MKs.
+    - >-
+      The Supreme Court reviews the treaty for compatibility with the Basic Laws first.
+    - >-
+      The President signs the treaty after a 30-day public consultation on the text.
+  correct: 0
+  explanation: >-
+    Section 10 of the Government's working regulations requires the text to be laid before the Knesset two
+    weeks ahead. A Knesset vote is not required for every treaty; by convention important political
+    agreements are brought for approval.
+- id: q4
+  question: >-
+    A court is asked to apply a treaty Israel ratified. Which finding shows that the treaty itself has
+    the force of law in Israel?
+  options:
+    - >-
+      A Government decision approving the ratification, published on gov.il.
+    - >-
+      A UN record showing Israel ratified the treaty without reservations.
+    - >-
+      A Foreign Ministry statement that Israel complies with the treaty.
+    - >-
+      A Knesset statute saying the treaty's articles "יהיה להם תוקף של חוק".
+  correct: 3
+  explanation: >-
+    Ratification binds Israel internationally, but a treaty becomes part of Israeli law only through
+    legislation, as in the Hague Child Abduction Convention Law, s. 2.
+- id: q5
+  question: >-
+    Two ministries sign a "memorandum of understanding" with a foreign ministry. An activist calls it "a
+    binding treaty". What is the safest legal position?
+  options:
+    - >-
+      It is a treaty, because every written text between states is a treaty.
+    - >-
+      It may be non-binding; check the text, form and the parties' intention.
+    - >-
+      It is binding only after the Knesset votes on it by a simple majority.
+    - >-
+      It is binding because pacta sunt servanda applies to all political commitments.
+  correct: 1
+  explanation: >-
+    A treaty must be "governed by international law" (VCLT art. 2(1)(a)), which depends on the parties'
+    intention. Israel's 2025 UN statement says non-binding texts do not fall under pacta sunt servanda.

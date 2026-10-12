@@ -1,0 +1,39 @@
+# Glossary inbox — Module 13
+
+- **משפט בינלאומי פומבי** (mishpat beinleumi pumbi) — Public international law: the law between states and international organisations.
+- **אמנה** (amana) — Treaty (convention, covenant, agreement): a written agreement between states governed by international law.
+- **מנהג בינלאומי** (minhag beinleumi) — International custom: a general practice accepted as law.
+- **משפט בינלאומי מנהגי** (mishpat beinleumi minhagi) — Customary international law; part of Israeli law unless a statute contradicts it.
+- **משפט בינלאומי הסכמי** (mishpat beinleumi heskemi) — Conventional (treaty) international law; applies in Israeli courts only through legislation.
+- **עקרונות כלליים של המשפט** (ekronot klaliyim shel hamishpat) — General principles of law, the third source in Article 38(1)(c) of the ICJ Statute.
+- **אמצעי עזר** (emtza'ei ezer) — Subsidiary means: judicial decisions and scholarly writing, used to find the law.
+- **משפט רך** (mishpat rach) — Soft law: non-binding texts such as declarations, guidelines and recommendations.
+- **מדינה ריבונית** (medina ribonit) — Sovereign state, the main subject of international law.
+- **חתימה** (chatima) — Signature of a treaty: approval of the text, usually subject to ratification.
+- **אשרור** (ishrur) — Ratification: the international act by which a state consents to be bound by a treaty.
+- **הצטרפות** (hitztarfut) — Accession: joining a treaty without having signed it first.
+- **הסתייגות** (histaygut) — Reservation: a statement excluding or modifying certain treaty provisions for the reserving state.
+- **הצהרה פרשנית** (hatzhara parshanit) — Interpretative declaration: a state's statement of how it understands a treaty provision.
+- **ההסכמים יש לקיימם** (hahaskamim yesh lekayemam) — Pacta sunt servanda: treaties in force must be performed in good faith.
+- **תקנון עבודת הממשלה** (takanon avodat hamemshala) — The Government's working regulations; s. 10 sets the procedure for ratifying treaties.
+- **הנחה על שולחן הכנסת** (hanacha al shulchan haknesset) — Laying a document before the Knesset for MKs' information (two weeks before treaty ratification).
+- **נוהג מדינות** (noheg medinot) — State practice: what states do and say, one element of custom.
+- **תודעת חיוב (אופיניו יוריס)** (toda'at chiyuv, opinio juris) — Acceptance as law: the belief that a practice is legally required or permitted.
+- **המתנגד העקבי** (hamitnaged ha'akavi) — Persistent objector: a state not bound by a customary rule it objected to while the rule was forming.
+- **נורמה קוגנטית (יוס קוגנס)** (norma kogentit, jus cogens) — Peremptory norm from which no derogation is permitted.
+- **חסינות מדינות זרות** (chasinut medinot zarot) — Foreign state immunity, codified in Israel in 2008.
+- **קודיפיקציה** (kodifikatzya) — Codification: writing customary rules into a treaty or statute.
+- **בית הדין הבינלאומי לצדק** (beit hadin habeinleumi letzedek) — International Court of Justice (ICJ), the principal judicial organ of the UN.
+- **הליך שנוי במחלוקת** (halich shanuy bemachloket) — Contentious case at the ICJ: a dispute between states ending in a binding judgment.
+- **חוות דעת מייעצת** (chavat da'at meya'etzet) — Advisory opinion: the ICJ's answer to a legal question from an authorised UN body; not binding as such.
+- **צו לאמצעים זמניים** (tzav le'emtza'im zmaniyim) — Provisional measures order: interim measures pending judgment.
+- **סמכות שיפוט** (samchut shiput) — Jurisdiction; at the ICJ it rests on the states' consent.
+- **הצהרה לפי סעיף 36(2)** (hatzhara lefi se'if 36(2)) — Optional-clause declaration accepting the ICJ's compulsory jurisdiction (Israel has none in force).
+- **סעיף שיפוט באמנה** (se'if shiput be'amana) — Compromissory clause: a treaty article sending disputes about it to the ICJ.
+- **שופט אד הוק** (shofet ad hoc) — Judge ad hoc: a judge a party appoints for its case when it has no national on the ICJ bench.
+- **קליטה אוטומטית** (klita otomatit) — Automatic incorporation of customary international law into Israeli law.
+- **אימוץ בחקיקה** (imutz bechakika) — Incorporation of a treaty into Israeli law by legislation.
+- **חזקת ההתאמה (הפרשנית)** (chezkat hahat'ama haparshanit) — Presumption of compatibility: reading Israeli law, as far as possible, in line with Israel's international obligations.
+- **דואליזם** (dualizm) — Dualism: international and domestic law as separate systems.
+- **המשפט המוניציפאלי** (hamishpat hamunitzipali) — Municipal (domestic) law, as opposed to international law.
+- **תקנות האג** (takanot ha'hag) — The Hague Regulations of 1907, treated by the Supreme Court as customary law.

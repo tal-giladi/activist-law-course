@@ -21,6 +21,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Formal Letter to an Authority (פנייה לרשות)](formal-letter.md)
 - [High Court Petition (עתירה לבג״ץ)](hcj-petition.md)
 - [Hearing Checklist (רשימת הכנה לדיון)](hearing-checklist.md)
+- [International-Law Argument (טיעון מן המשפט הבינלאומי)](intl-law-argument.md)
 - [Issue map (מפת סוגיה)](issue-map.md)
 - [Complaint to the Local Authority's Public Complaints Commissioner (תלונה לממונה על תלונות הציבור ברשות המקומית)](municipal-complaint.md)
 - [Complaint to the Public Complaints Commissioner (תלונה לנציב תלונות הציבור)](ombudsman-complaint.md)
