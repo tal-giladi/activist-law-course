@@ -1,0 +1,50 @@
+# Glossary inbox — Module 5
+
+- **ארגז כלים** (argaz kelim) — Toolbox: the set of procedures you can use against an authority.
+- **בקשת חופש מידע** (bakashat chofesh meida) — Freedom of Information (FOI) request.
+- **ממונה על חופש המידע** (memune al chofesh hameida) — FOI officer every public authority must appoint (FOI Law s. 3).
+- **רשות ציבורית** (reshut tziburit) — Public authority, as defined in s. 2 of the FOI Law.
+- **אגרת בקשה** (agrat bakasha) — FOI request fee, paid on filing.
+- **אגרת טיפול** (agrat tipul) — FOI handling fee, charged per hour from the fourth hour.
+- **אגרת הפקה** (agrat hafaka) — FOI production fee, per page or disc.
+- **כתב התחייבות** (ktav hitchayvut) — Advance undertaking to pay FOI handling and production fees up to a cap.
+- **פטור מאגרה** (ptor me'agra) — Fee exemption (FOI fees or court fees).
+- **מאגר התשובות** (ma'agar hatshuvot) — The Government FOI Unit's database of answers already given.
+- **מידע על איכות הסביבה** (meida al eichut hasviva) — Environmental information authorities must publish (FOI Law s. 6א).
+- **הודעת הארכה** (hoda'at ha'arracha) — Written, reasoned notice extending an FOI deadline.
+- **היחידה הממשלתית לחופש המידע** (hayechida hamemshaltit lechofesh hameida) — Government FOI Unit in the Ministry of Justice, supervising ministries and their units.
+- **תעודת חיסיון** (te'udat chisayon) — Privilege certificate signed by a minister (Evidence Ordinance s. 44).
+- **צד שלישי** (tzad shlishi) — Third party whose information is requested, entitled to object (FOI Law s. 13).
+- **נציב תלונות הציבור** (netziv tlunot hatzibur) — Public Complaints Commissioner: the State Comptroller acting as ombudsman.
+- **גוף מבוקר** (guf mevukar) — Audited body under s. 9 of the State Comptroller Law.
+- **גוף נילון** (guf nilon) — The body a complaint is about.
+- **מינהל תקין** (minhal takin) — Proper administration.
+- **נוקשות יתירה / אי־צדק בולט** (nukshut yetera / i-tzedek bolet) — Excessive rigidity / flagrant injustice, grounds for an ombudsman complaint.
+- **פניית ציבור למבקר המדינה** (pniyat tzibur lemevaker hamedina) — Public inquiry to the State Comptroller: general information, not a personal complaint.
+- **דוח ביקורת** (doch bikoret) — Audit report.
+- **פנייה מוקדמת** (pniya mukdemet) — Prior written approach to the authority before a petition.
+- **מכתב התראה לפני הגשת עתירה** (michtav hatra'a lifnei hagashat atira) — Pre-petition (warning) letter.
+- **סעד** (sa'ad) — Remedy: the act or order you ask for.
+- **פגם** (pgam) — Legal defect in an administrative decision.
+- **שיהוי** (shihui) — Delay that can defeat a petition.
+- **עתירה מינהלית** (atira minhalit) — Administrative petition to a District Court sitting as an Administrative Court.
+- **בית משפט לעניינים מינהליים** (beit mishpat le'inyanim minhaliyim) — Administrative Court.
+- **התוספת הראשונה** (hatosefet harishona) — First Schedule of the Administrative Courts Law: matters the Administrative Court hears.
+- **התוספת הרביעית** (hatosefet harevi'it) — Fourth Schedule: Judea and Samaria matters heard by the Administrative Court in Jerusalem.
+- **עותר / משיב** (oter / meshiv) — Petitioner / respondent.
+- **כתב עתירה** (ktav atira) — The petition document (Form 1).
+- **תצהיר תומך** (tatzhir tomech) — Supporting affidavit (Form 2).
+- **תגובה מקדמית** (tguva mukdemet) — Preliminary response ordered from a respondent.
+- **כתב תשובה** (ktav tshuva) — Respondent's full answer in an administrative petition (Form 3).
+- **צו ביניים** (tzav beinayim) — Interim order until judgment.
+- **צו ארעי** (tzav ar'i) — Temporary order given before the other side responds.
+- **המצאה** (hamtza'a) — Service of court documents.
+- **דחייה על הסף** (dchiya al hasaf) — Dismissal at the threshold (in limine).
+- **בג״ץ** (Bagatz) — High Court of Justice: the Supreme Court sitting in public-law matters.
+- **צו על תנאי** (tzav al tnai) — Order nisi: an order to show cause.
+- **צו מוחלט** (tzav muchlat) — Final (absolute) order.
+- **לבוא וליתן טעם** (lavo velitten ta'am) — "To come and show cause": the standard wording of an HCJ remedy.
+- **עותר ציבורי** (oter tziburi) — Public petitioner, without personal harm.
+- **הודעת עדכון** (hoda'at idkun) — Update notice, often filed by the State when it changes position.
+- **התייתרות העתירה** (hityatrut ha'atira) — A petition becoming redundant because the remedy was given.
+- **עיקרי טיעון** (ikarei ti'un) — Skeleton arguments.

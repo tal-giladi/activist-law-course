@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You want the court to cancel a regulation the Minister of Education signed on school-zone
+    registration. Education decisions are in the First Schedule. Which court hears the petition?
+  options:
+    - >-
+      The Administrative Court, because education is a First Schedule matter.
+    - >-
+      The High Court of Justice, because the main remedy concerns regulations.
+    - >-
+      The Magistrates' Court, because registration is a local matter.
+    - >-
+      The Administrative Court in Jerusalem, because a minister signed it.
+  correct: 1
+  explanation: >-
+    Section 5(1) of the Administrative Courts Law excludes petitions whose main remedy concerns making or
+    cancelling regulations; those go to the HCJ under Basic Law: The Judiciary s. 15.
+- id: q2
+  question: >-
+    A self-represented petitioner sends the HCJ a 40-page petition with no affidavit. Under the HCJ
+    Procedure Regulations, what is missing?
+  options:
+    - >-
+      Nothing; affidavits are needed only in the Administrative Court.
+    - >-
+      A lawyer's signature confirming the petition is serious.
+    - >-
+      A supporting affidavit in Form 2, attached or at the end (reg. 4).
+    - >-
+      A letter from the Attorney General agreeing to the hearing.
+  correct: 2
+  explanation: >-
+    Reg. 4 requires every HCJ petition to be supported by an affidavit in Form 2, separating facts within
+    personal knowledge from facts believed.
+- id: q3
+  question: >-
+    A judge reads your HCJ petition and finds that it does not show a cause on its face. What may happen
+    without you being called to a hearing?
+  options:
+    - >-
+      Nothing; the court must always hear the petitioner first.
+    - >-
+      The petition is sent automatically to the Administrative Court.
+    - >-
+      The respondent must answer within eight days in any case.
+    - >-
+      Dismissal on its face, possibly with costs to the State.
+  correct: 3
+  explanation: >-
+    Reg. 5 allows the panel to dismiss a petition that shows no cause on its face without summoning the
+    petitioner, and reg. 6 allows costs in favour of the State.
+- id: q4
+  question: >-
+    A Civil Administration officer refused an individual's request for information under FOI rules that
+    apply in Judea and Samaria. Where does a petition go?
+  options:
+    - >-
+      To the Administrative Court in Jerusalem, under the Fourth Schedule.
+    - >-
+      To the High Court of Justice, which hears all matters in the area.
+    - >-
+      To the District Court nearest to the petitioner's home.
+    - >-
+      To a military court, because the decision-maker is military.
+  correct: 0
+  explanation: >-
+    Section 5א and the Fourth Schedule (item 1, FOI) send such petitions to the Administrative Court in
+    Jerusalem. Matters not listed there still go to the HCJ.

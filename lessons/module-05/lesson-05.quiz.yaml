@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A regional council rejected your request on 1 March. Today is 30 March. You have not yet written a
+    pre-petition letter. What response date should your letter set?
+  options:
+    - >-
+      Thirty days, so the council has the full time the law usually gives.
+    - >-
+      Forty-five days, matching the Decisions and Reasons Law.
+    - >-
+      About a week, so you can still petition by 15 April.
+    - >-
+      No date at all, so the council does not feel threatened.
+  correct: 2
+  explanation: >-
+    The 45-day petition deadline from 1 March ends on 15 April. The letter must leave time to read the
+    answer and file; a short date, explained by the deadline, is fair.
+- id: q2
+  question: >-
+    Your administrative petition is ready, but you never wrote to the authority before filing. What do the
+    procedure regulations require you to do in the petition?
+  options:
+    - >-
+      Nothing, because a prior approach is required only in the HCJ.
+    - >-
+      Explain why you filed without a prior written approach.
+    - >-
+      Ask the court to send the pre-petition letter for you.
+    - >-
+      Attach a letter from the authority confirming it refused.
+  correct: 1
+  explanation: >-
+    Reg. 5(ב)(6): attach the correspondence with the authority, or give the reasons for petitioning without
+    a prior approach. In practice, send a letter first.
+- id: q3
+  question: >-
+    Which remedy paragraph in a pre-petition letter best prepares a petition?
+  options:
+    - >-
+      "To cancel the refusal of 2 May and rent us the hall on 18 June."
+    - >-
+      "To reconsider the matter in light of everything written above."
+    - >-
+      "To act in accordance with the law and the principles of good governance."
+    - >-
+      "To explain in writing why the municipality acted as it did here."
+  correct: 0
+  explanation: >-
+    The remedy should name the decision and the exact act you want, mirroring the order you would ask the
+    court for. Vague remedies get vague answers.
+- id: q4
+  question: >-
+    You sent a pre-petition letter to a ministry clerk only. The legal department never saw it, and the
+    clerk did not answer. What is the main risk?
+  options:
+    - >-
+      The letter is invalid because only lawyers may write to legal departments.
+    - >-
+      The petition will be heard by the Magistrates' Court instead.
+    - >-
+      The ministry must pay your court fee because it did not answer.
+    - >-
+      The authority argues it was never properly approached, and no lawyer reviewed it.
+  correct: 3
+  explanation: >-
+    The letter should reach the decision-maker and the legal adviser, with proof of receipt; that is what
+    shows the court you gave the authority a real chance to fix the decision.

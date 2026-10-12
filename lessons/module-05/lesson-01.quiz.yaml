@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A municipality refused your written request to stop a tender it published. Tenders of local
+    authorities appear in the First Schedule of the Administrative Courts Law. Where would a petition go?
+  options:
+    - >-
+      To the High Court of Justice, because a municipality is a public authority.
+    - >-
+      To the Magistrates' Court, because the municipality is a local body.
+    - >-
+      To the District Court sitting as an Administrative Court.
+    - >-
+      To the Public Complaints Commissioner, who decides tender disputes.
+  correct: 2
+  explanation: >-
+    Matters listed in the First Schedule (here, tenders) go to the Administrative Court. The HCJ hears
+    only what no other court can hear (Basic Law: The Judiciary s. 15(ג)).
+- id: q2
+  question: >-
+    You filed an ombudsman complaint about a ministry's refusal. Thirty days later the 45-day petition
+    deadline is approaching and the Commissioner has not finished. What is the legal position?
+  options:
+    - >-
+      The petition deadline is paused until the Commissioner gives a decision.
+    - >-
+      The petition deadline keeps running; the complaint does not extend it.
+    - >-
+      The deadline restarts from the date of the Commissioner's decision.
+    - >-
+      You lose the right to petition once you choose to complain.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint does not stop you from going to court, but it does
+    not extend any deadline set by law. Run the two in parallel.
+- id: q3
+  question: >-
+    A residents' group wants the Ministry of Transport's internal safety reports on a dangerous
+    junction. Which tool fits this need best?
+  options:
+    - >-
+      A pre-petition letter demanding that the ministry rebuild the junction.
+    - >-
+      A complaint to the Public Complaints Commissioner about the junction.
+    - >-
+      An HCJ petition asking the court to order the ministry to act.
+    - >-
+      A Freedom of Information request to the ministry's FOI officer.
+  correct: 3
+  explanation: >-
+    The group needs documents, which is what the FOI Law is for. Asking for action comes later, once
+    the reports show what the ministry knew.
+- id: q4
+  question: >-
+    A petitioner goes straight to court after a phone call with a clerk, without any written request.
+    What is the most likely result?
+  options:
+    - >-
+      The petition is dismissed for not exhausting remedies with the authority.
+    - >-
+      The court orders the authority to answer the phone call in writing.
+    - >-
+      The petition is heard, since a phone call counts as a request.
+    - >-
+      The court converts the petition into an ombudsman complaint.
+  correct: 0
+  explanation: >-
+    Courts require a prior written approach to the authority. The administrative-court regulations even
+    require the correspondence to be attached to the petition (reg. 5(ב)(6)).

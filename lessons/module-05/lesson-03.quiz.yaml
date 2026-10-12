@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A ministry ignored your FOI request. Forty days after you paid the fee there is no answer and no
+    extension notice. What is the best first move?
+  options:
+    - >-
+      Wait another month, since the ministry may still extend the period.
+    - >-
+      File a petition in the High Court of Justice against the minister.
+    - >-
+      Send a reminder citing s. 7(ב), and complain to the Government FOI Unit.
+    - >-
+      Appeal to the Magistrates' Court, which hears FOI delays.
+  correct: 2
+  explanation: >-
+    The 30 days passed without a reasoned extension. A reminder and an FOI Unit complaint are free and
+    often work; keep a petition deadline in the calendar in parallel.
+- id: q2
+  question: >-
+    A municipality refused your FOI request in writing on 1 June. You complained to the Public
+    Complaints Commissioner and are waiting. By when must your petition normally be filed?
+  options:
+    - >-
+      Within 45 days of 1 June, whatever happens with the complaint.
+    - >-
+      Within 45 days of the Commissioner's decision on the complaint.
+    - >-
+      Within one year of the refusal, as for ombudsman complaints.
+    - >-
+      There is no deadline, because FOI petitions can be filed at any time.
+  correct: 0
+  explanation: >-
+    Reg. 3(ב) of the administrative-courts procedure regulations sets 45 days from notice of the decision.
+    A complaint does not extend it (State Comptroller Law s. 45(א)(2)).
+- id: q3
+  question: >-
+    A ministry refuses part of your request and attaches a privilege certificate signed by the minister
+    under s. 44 of the Evidence Ordinance. Where does a petition go?
+  options:
+    - >-
+      To the District Court sitting as an Administrative Court, as usual.
+    - >-
+      To the Government FOI Unit, which reviews privilege certificates.
+    - >-
+      To the Magistrates' Court, which hears FOI appeals.
+    - >-
+      To the Supreme Court, because a privilege certificate was issued.
+  correct: 3
+  explanation: >-
+    FOI Law s. 17(א): FOI petitions go to the Administrative Court unless a privilege certificate was
+    issued, in which case the Supreme Court hears them.
+- id: q4
+  question: >-
+    A refusal says only: "The information is exempt under the Freedom of Information Law." What is its
+    main weakness?
+  options:
+    - >-
+      It was not signed by the minister in person.
+    - >-
+      It gives no section or reasons, contrary to s. 7(ו).
+    - >-
+      It was sent by email instead of registered mail.
+    - >-
+      It does not offer you a refund of the request fee.
+  correct: 1
+  explanation: >-
+    A refusal must be written and reasoned and must tell you of your right to petition (s. 7(ו)). Without
+    a section and reasons you can demand them and attack the decision as unreasoned.
+- id: q5
+  question: >-
+    The FOI officer demands a ₪900 handling fee that you think is wildly overstated. Which route fits
+    this dispute?
+  options:
+    - >-
+      An administrative petition under s. 17 of the FOI Law.
+    - >-
+      A complaint to the State Comptroller's audit division.
+    - >-
+      An appeal to the Magistrates' Court within 30 days of the decision.
+    - >-
+      An HCJ petition, because fees are set by regulations.
+  correct: 2
+  explanation: >-
+    Fee decisions of the FOI officer are appealed to the Magistrates' Court within 30 days (FOI Fees
+    Regulations reg. 8; FOI Law s. 18(ה)).

@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    You filed an administrative petition against a municipality and paid the fee. Two weeks later no
+    judge has looked at it. What did you most likely forget?
+  options:
+    - >-
+      To ask the registry to assign a judge in writing.
+    - >-
+      To file proof that you served the petition on the respondents.
+    - >-
+      To send the municipality a second pre-petition letter.
+    - >-
+      To attach a translation of the exhibits into English.
+  correct: 1
+  explanation: >-
+    Reg. 7(ב): the petition is not brought before the court until the petitioner files confirmation of
+    proper service under reg. 35, which requires service within three days of filing.
+- id: q2
+  question: >-
+    You petition against a planning committee's approval of a neighbour's building permit. Who must be
+    named as respondents?
+  options:
+    - >-
+      The planning committee only, because it made the decision.
+    - >-
+      The planning committee and the Minister of the Interior.
+    - >-
+      The neighbour only, because the permit benefits him.
+    - >-
+      The committee, any other authority involved, and the neighbour.
+  correct: 3
+  explanation: >-
+    Reg. 6(א): the deciding authority, any other authority concerned, and anyone who may be harmed if the
+    petition succeeds — here the permit holder.
+- id: q3
+  question: >-
+    An unemployed petitioner receiving income support cannot pay the administrative-petition fee. What
+    should she file?
+  options:
+    - >-
+      With the petition, an exemption request backed by an assets affidavit.
+    - >-
+      The petition alone, and pay the fee later only if she loses.
+    - >-
+      A letter to the Ministry of Justice asking it to pay the fee.
+    - >-
+      An exemption request sent months before the petition, to be safe.
+  correct: 0
+  explanation: >-
+    Reg. 14(א) requires the request with the proceeding, with an affidavit on assets and six months of
+    income; receiving income support is prima facie proof of inability to pay (reg. 14(ה)).
+- id: q4
+  question: >-
+    Which statement must your administrative petition contain under reg. 5(ב)(3א)?
+  options:
+    - >-
+      A summary of the respondent's expected main arguments.
+    - >-
+      A statement that the petitioner has no lawyer at all.
+    - >-
+      The empowering law and the First Schedule item that applies.
+    - >-
+      A list of rulings in which the court granted similar petitions.
+  correct: 2
+  explanation: >-
+    The petition must set out the source of the court's subject-matter and local jurisdiction,
+    including the empowering enactment and the First Schedule item.
+- id: q5
+  question: >-
+    You filed an administrative petition against a demolition order, but the authority says it will carry
+    out the order next week. What does filing the petition do?
+  options:
+    - >-
+      It automatically freezes the order until the judgment.
+    - >-
+      It freezes the order only if the fee was paid in full.
+    - >-
+      It freezes the order for 30 days while the court reviews it.
+    - >-
+      Nothing by itself; you must ask for an interim order separately.
+  correct: 3
+  explanation: >-
+    Reg. 42: filing does not stay the decision. An interim or temporary order needs a separate request
+    with an affidavit (regs 9, 9א).

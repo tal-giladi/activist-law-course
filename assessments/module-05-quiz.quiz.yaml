@@ -1,0 +1,169 @@
+- id: q1
+  question: >-
+    A ministry refused your FOI request in writing on 3 April and you received it the same day. You want
+    to send a reminder, complain to the FOI Unit and then petition. Which plan is safe?
+  options:
+    - >-
+      Complain first, wait for the FOI Unit's answer, then petition within 45 days of that answer.
+    - >-
+      Petition within one year, since FOI petitions follow the ombudsman time limit.
+    - >-
+      Complain and remind in parallel, and file the petition by 18 May at the latest.
+    - >-
+      Send reminders until the ministry answers again, then count 45 days from the new answer.
+  correct: 2
+  explanation: >-
+    The 45 days run from notice of the refusal (reg. 3(ב)): 3 April + 45 = 18 May. Complaints and reminders
+    do not pause that clock.
+- id: q2
+  question: >-
+    A disability activist wants to force a minister to make accessibility regulations that a law required
+    years ago. She has written twice and received no timetable. Where and how should she proceed?
+  options:
+    - >-
+      An administrative petition in the District Court of her home district.
+    - >-
+      A pre-petition letter with a short date, then an HCJ petition for an order nisi.
+    - >-
+      A complaint to the ombudsman, which can order the minister to sign.
+    - >-
+      An FOI request asking the minister to make the regulations.
+  correct: 1
+  explanation: >-
+    Remedies about making regulations are excluded from the Administrative Court (s. 5(1)) and go to the
+    HCJ. A pre-petition letter first answers the exhaustion threshold.
+- id: q3
+  question: >-
+    A residents' group with no registered amuta asks a municipality for noise-monitoring data. The
+    municipality refuses, citing the operator's trade secrets. What is the strongest legal answer?
+  options:
+    - >-
+      The group is exempt from fees, so the municipality must release everything.
+    - >-
+      Trade secrets can never be withheld from residents of the same city.
+    - >-
+      The FOI Law does not apply to municipalities, so the refusal is lawful.
+    - >-
+      The trade-secret ground excludes noise, smell and radiation measurements.
+  correct: 3
+  explanation: >-
+    Section 9(ב)(6) lets an authority withhold trade secrets but expressly excludes results of noise, smell
+    and radiation measurements outside private premises. Municipalities are public authorities under s. 2.
+- id: q4
+  question: >-
+    An administrative petition was filed and the fee paid, but the petitioner never served the
+    respondents. Three weeks pass. What is the position?
+  options:
+    - >-
+      The petition has not reached a judge; serve now and file proof of service.
+    - >-
+      The court served the respondents, so nothing is missing.
+    - >-
+      The respondents have defaulted and the petition will be granted.
+    - >-
+      The petition is void and must be filed again with a new fee.
+  correct: 0
+  explanation: >-
+    Service is the petitioner's job, within three days of filing (reg. 35(א)); the petition is not brought
+    to the court until proof of service is filed (reg. 7(ב)).
+- id: q5
+  question: >-
+    A family's child-care subsidy was cut by a ministry eight months ago through an obvious data error.
+    They want it fixed, not a court case. Which tool fits best?
+  options:
+    - >-
+      An HCJ petition, because a government ministry decided.
+    - >-
+      Information to the State Comptroller's audit division.
+    - >-
+      An ombudsman complaint, with their letters attached.
+    - >-
+      An FOI request asking the ministry to restore the subsidy.
+  correct: 2
+  explanation: >-
+    A direct harm by an audited body within a year is the Commissioner's core work (ss. 36, 37, 39). It is
+    free and can get the error corrected; the Comptroller's audit deals with systemic issues.
+- id: q6
+  question: >-
+    You petition the Administrative Court against a tender won by a company. You named only the
+    municipality. The municipality's lawyer points this out. What is the risk?
+  options:
+    - >-
+      None; the winning company can join later if it wishes.
+    - >-
+      It may be struck out: a proper respondent is missing.
+    - >-
+      The fee must be paid again for each missing respondent.
+    - >-
+      The case moves automatically to the HCJ instead.
+  correct: 1
+  explanation: >-
+    Reg. 6(א) requires joining anyone who may be harmed by the petition; under reg. 6(ב) the court may
+    strike a petition that did not join a proper respondent, or order the joinder.
+- id: q7
+  question: >-
+    A municipality refused on 1 June to let your group use a public park for a lecture event. On 20 July
+    you send your first pre-petition letter, giving 30 days to reply. What is the main problem?
+  options:
+    - >-
+      Pre-petition letters must be sent by a lawyer to be valid.
+    - >-
+      The letter should have been sent to the Minister of the Interior.
+    - >-
+      Thirty days is too short for a municipality to answer.
+    - >-
+      The 45-day deadline from 1 June has already passed.
+  correct: 3
+  explanation: >-
+    The petition deadline was 16 July (reg. 3(ב)). The letter should have gone within days of the decision,
+    with a short response date; now you must ask the court to extend time (reg. 3(ג)).
+- id: q8
+  question: >-
+    You cannot afford the HCJ petition fee. What should you file, and when?
+  options:
+    - >-
+      An exemption request with an assets-and-income affidavit, filed with it.
+    - >-
+      The petition alone; the court decides on the fee after the hearing.
+    - >-
+      A request asking the Attorney General to pay the fee for you.
+    - >-
+      A request asking the Legal Aid Bureau to waive the court fee.
+  correct: 0
+  explanation: >-
+    Reg. 14(א) of the Court Fees Regulations requires the exemption request with the proceeding, supported
+    by an affidavit on your assets, your spouse's and six months of income.
+- id: q9
+  question: >-
+    An FOI officer asks for ₪1,200 in handling fees before releasing documents you requested. You never
+    agreed to more than the cap. What is your best response?
+  options:
+    - >-
+      Pay it, because the officer's estimate binds every requester.
+    - >-
+      File an HCJ petition against the officer's fee demand.
+    - >-
+      Insist on the cap rule; appeal a fee decision within 30 days.
+    - >-
+      Complain to the ombudsman, which sets all FOI fees.
+  correct: 2
+  explanation: >-
+    Above the cap the officer must give an estimate and wait for your agreement (reg. 4(ב)–(ג)). A fee
+    decision is appealed to the Magistrates' Court within 30 days (reg. 8).
+- id: q10
+  question: >-
+    A self-represented HCJ petitioner writes 50 pages about government policy in general, with no
+    specific decision and no prior letter. What is the most likely outcome?
+  options:
+    - >-
+      An order nisi, because the petition raises public issues.
+    - >-
+      Dismissal on its face, possibly with costs to the State.
+    - >-
+      Transfer to the Administrative Court for a full hearing.
+    - >-
+      A referral to the ombudsman for investigation.
+  correct: 1
+  explanation: >-
+    A general petition without a concrete decision and without exhaustion fails at the threshold; the
+    court may dismiss without hearing the petitioner (reg. 5) and award costs to the State (reg. 6).

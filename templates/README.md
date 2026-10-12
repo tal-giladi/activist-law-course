@@ -4,9 +4,16 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 ## All templates
 
+- [Administrative Petition (עתירה מינהלית)](administrative-petition.md)
 - [Affidavit (תצהיר)](affidavit.md)
+- [Decision audit (בדיקת החלטה מינהלית)](decision-audit.md)
+- [Freedom of Information Request (בקשה לקבלת מידע)](foi-request.md)
+- [FOI Reminder and FOI Unit Complaint (תזכורת ותלונה ליחידה הממשלתית לחופש המידע)](foi-unit-complaint.md)
 - [Formal Letter to an Authority (פנייה לרשות)](formal-letter.md)
+- [High Court Petition (עתירה לבג״ץ)](hcj-petition.md)
 - [Issue map (מפת סוגיה)](issue-map.md)
+- [Complaint to the Public Complaints Commissioner (תלונה לנציב תלונות הציבור)](ombudsman-complaint.md)
+- [Pre-Petition Letter (מכתב התראה לפני הגשת עתירה)](pre-petition-letter.md)
 - [Research Memo (מזכר מחקר משפטי)](research-memo.md)
 - [Ruling brief (תקציר פסק דין)](ruling-brief.md)
 - [Statute reading sheet (דף קריאת חוק)](statute-reading-sheet.md)

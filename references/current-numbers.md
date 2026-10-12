@@ -21,6 +21,16 @@ The numbers change on fixed dates:
 | Silence on a written request counts as a refusal without reasons | 3 months | Decisions and Reasons Law, s. 6(b) |
 | Appeal (ערר) to the minister when reasons are withheld | 30 days from the notice | Decisions and Reasons Law, s. 4 |
 | Knowingly false affidavit | up to 3 years' imprisonment | Penal Law, s. 239 |
+| FOI further extension by the head of the authority | up to 60 more days, with reasons | Freedom of Information Law, s. 7(c) |
+| FOI delivery after a decision to release | within 15 days | Freedom of Information Law, s. 7(d) |
+| FOI third-party objection period | 21 days | Freedom of Information Law, s. 13(a) |
+| FOI production fee per disc | ₪3.01 (from October 2026); production fees of ₪10 or less are not collected | FOI Fees Regulations, regs. 3(a), 6(d) |
+| Appeal against an FOI fee decision | 30 days, to the Magistrates' Court | FOI Fees Regulations, reg. 8 |
+| Ombudsman complaint time limit | 1 year from the act or from learning of it (later only for a special reason) | State Comptroller Law, s. 39(2) |
+| Serving an administrative petition on the respondents | within 3 days of filing | Administrative Courts (Procedure) Regulations, reg. 35(a) |
+| Appeal to the Supreme Court from an Administrative Court judgment | 60 days | Administrative Courts (Procedure) Regulations, reg. 33(a) |
+| HCJ skeleton arguments | at least 3 days before the hearing | HCJ Procedure Regulations, reg. 16(a) |
+| Court-fee refund when a case ends early: fixed deduction | ₪588 | Court Fees Regulations, item 33 |
 | High Court petition fee (בג"ץ) | ₪2,144 | Court Fees Regulations, item 24, 2026 indexation |
 | Administrative petition fee (עתירה מינהלית) | ₪2,329 | Court Fees Regulations, item 20, 2026 indexation |
 | Administrative appeal fee | ₪1,654 | Kovetz Takanot 12149 (25.12.2025) |

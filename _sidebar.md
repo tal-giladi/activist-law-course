@@ -23,3 +23,21 @@
   - [11 · Writing a Formal Letter to an Authority](lessons/module-02/lesson-05.md)
   - [12 · Affidavits](lessons/module-02/lesson-06.md)
   - [Module 2 quiz](assessments/module-02-quiz.md)
+
+- Stage 2 — Public Law Toolbox
+- **Module 4 — Administrative Law Principles (about 11 hours)**
+  - [18 · Authority and the Principle of Legality](lessons/module-04/lesson-01.md)
+  - [19 · Discretion: Relevant and Extraneous Considerations](lessons/module-04/lesson-02.md)
+  - [20 · Reasonableness and Proportionality in Administrative Decisions](lessons/module-04/lesson-03.md)
+  - [21 · Fair Procedure: Hearing, Reasons, Conflict of Interest](lessons/module-04/lesson-04.md)
+  - [22 · Standing, Justiciability and Exhausting Remedies](lessons/module-04/lesson-05.md)
+  - [Module 4 quiz](assessments/module-04-quiz.md)
+- **Module 5 — Acting Against the Authorities (about 19 hours)**
+  - [23 · Choosing the Right Tool](lessons/module-05/lesson-01.md)
+  - [24 · Freedom of Information Request](lessons/module-05/lesson-02.md)
+  - [25 · When FOI Fails: Reminders, Complaints and Petitions](lessons/module-05/lesson-03.md)
+  - [26 · The Public Complaints Commissioner and the State Comptroller](lessons/module-05/lesson-04.md)
+  - [27 · The Pre-Petition Letter](lessons/module-05/lesson-05.md)
+  - [28 · Administrative Petition, Self-Represented](lessons/module-05/lesson-06.md)
+  - [29 · High Court Petition, Self-Represented](lessons/module-05/lesson-07.md)
+  - [Module 5 quiz](assessments/module-05-quiz.md)

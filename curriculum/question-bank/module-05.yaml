@@ -1,0 +1,1806 @@
+# Module 5 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m05-001
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 1
+  question: >-
+    Which tool is designed to get you documents and data that a public authority holds?
+  options:
+    - >-
+      A complaint to the Public Complaints Commissioner.
+    - >-
+      A pre-petition letter to the legal adviser.
+    - >-
+      A Freedom of Information request.
+    - >-
+      A public inquiry to the State Comptroller.
+  correct: 2
+  explanation: >-
+    The FOI Law gives every citizen or resident a right to information held by a public authority (s. 1). The other tools aim at decisions or investigations.
+- id: m05-002
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 1
+  question: >-
+    What is usually the very first step before any complaint or petition against an authority?
+  options:
+    - >-
+      A written request to the official who holds the power.
+    - >-
+      A post on social media tagging the authority.
+    - >-
+      A phone call to the authority's call centre.
+    - >-
+      A complaint to the State Comptroller's audit.
+  correct: 0
+  explanation: >-
+    A written request starts the 45-day duty to decide (Decisions and Reasons Law s. 2) and is the first exhibit of every later step.
+- id: m05-003
+  module: 5
+  lesson: "05.1"
+  subject: forum
+  difficulty: 1
+  question: >-
+    Which list decides whether a petition goes to the Administrative Court?
+  options:
+    - >-
+      The schedule to the Court Fees Regulations.
+    - >-
+      The list of audited bodies in the State Comptroller Law.
+    - >-
+      The definitions section of the FOI Law.
+    - >-
+      The First Schedule of the Administrative Courts Law.
+  correct: 3
+  explanation: >-
+    Section 5(1) of the Administrative Courts Law gives the court jurisdiction over matters listed in the First Schedule.
+- id: m05-004
+  module: 5
+  lesson: "05.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    A local planning committee granted a permit you oppose. No minister was involved. Where would a petition go?
+  options:
+    - >-
+      The High Court of Justice in Jerusalem, as for all permits.
+    - >-
+      The District Court as an Administrative Court.
+    - >-
+      The Magistrates' Court of the town where the land is.
+    - >-
+      The National Planning Council's appeals board only.
+  correct: 1
+  explanation: >-
+    Planning and building matters are First Schedule item 10, with exclusions only for national and district outline plans and ministers' decisions.
+- id: m05-005
+  module: 5
+  lesson: "05.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    Your petition concerns a decision of the Government as a whole about national education budgets. The education item of the First Schedule excludes government decisions. Where does it go?
+  options:
+    - >-
+      To the Administrative Court of your district.
+    - >-
+      To the Administrative Court in Jerusalem.
+    - >-
+      To the High Court of Justice.
+    - >-
+      To the Knesset Education Committee.
+  correct: 2
+  explanation: >-
+    Item 3 (education) excludes decisions of the Government and of a minister; matters outside the Schedule go to the HCJ (Basic Law: The Judiciary s. 15(ג)).
+- id: m05-006
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 2
+  question: >-
+    A neighbourhood group wants a municipality to install speed bumps. It has not written to anyone yet. Which order of steps is sound?
+  options:
+    - >-
+      A petition first, then a written request during the hearing.
+    - >-
+      Written request, pre-petition letter if refused, then a petition.
+    - >-
+      An ombudsman complaint first, then a written request later.
+    - >-
+      An FOI request first, then a petition with no letter at all.
+  correct: 1
+  explanation: >-
+    Courts expect the authority to be asked first and given a chance to answer; the pre-petition letter then exhausts remedies before any petition.
+- id: m05-007
+  module: 5
+  lesson: "05.1"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    Which statement about deadlines in a tool plan is correct?
+  options:
+    - >-
+      The latest deadline governs, so you can wait for all answers.
+    - >-
+      Complaints pause court deadlines until they are decided.
+    - >-
+      Court deadlines start only after a complaint is closed.
+    - >-
+      The earliest court deadline governs; complaints run in parallel.
+  correct: 3
+  explanation: >-
+    State Comptroller Law s. 45(א)(2) says a complaint does not extend any statutory deadline, so the earliest court deadline controls the plan.
+- id: m05-008
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 2
+  question: >-
+    A parent's child was refused a statutory school service by the municipality. Time is short and the parent wants a binding order. Which tool gives a binding order?
+  options:
+    - >-
+      A petition, after a short pre-petition letter.
+    - >-
+      A complaint to the Public Complaints Commissioner.
+    - >-
+      Information sent to the State Comptroller's audit.
+    - >-
+      A Freedom of Information request for the file.
+  correct: 0
+  explanation: >-
+    Only a court gives binding orders. The Commissioner's findings give no new legal right and cannot be enforced in court (s. 45).
+- id: m05-009
+  module: 5
+  lesson: "05.1"
+  subject: forum
+  difficulty: 3
+  question: >-
+    An activist group wants the court to order a minister to sign regulations on hospital waiting times. Health matters partly appear in the First Schedule. Where should it petition?
+  options:
+    - >-
+      The HCJ, because the main remedy concerns making regulations.
+    - >-
+      The Administrative Court, because health is in the Schedule.
+    - >-
+      The Magistrates' Court, because it concerns individual patients.
+    - >-
+      The Labour Court, because hospitals employ the staff.
+  correct: 0
+  explanation: >-
+    Section 5(1) excludes from the Administrative Court any petition whose main remedy concerns making, cancelling or declaring void regulations.
+- id: m05-010
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 3
+  question: >-
+    An activist plans: FOI request now, wait for the answer, then a letter asking the authority to change its decision. The decision was published 20 days ago. What is wrong with the plan?
+  options:
+    - >-
+      FOI requests may not be filed once a decision is published.
+    - >-
+      A letter must always be sent before any FOI request is made.
+    - >-
+      Nothing; the petition deadline starts only after the FOI answer.
+    - >-
+      Doing the steps in sequence risks the 45-day petition deadline.
+  correct: 3
+  explanation: >-
+    The petition deadline runs from the decision (reg. 3(ב)). Send the pre-petition letter now and the FOI request in parallel.
+- id: m05-011
+  module: 5
+  lesson: "05.1"
+  subject: forum
+  difficulty: 3
+  question: >-
+    A petition concerns a Civil Administration planning decision about a specific building permit in Judea and Samaria. Which court is likely competent?
+  options:
+    - >-
+      The District Court nearest to the building.
+    - >-
+      The Administrative Court in Jerusalem, under the Fourth Schedule.
+    - >-
+      The High Court of Justice, which hears every matter there.
+    - >-
+      A military appeals committee only, with no court review.
+  correct: 1
+  explanation: >-
+    Section 5א and the Fourth Schedule give the Jerusalem Administrative Court certain area matters, including some planning decisions; read the item's exclusions.
+- id: m05-012
+  module: 5
+  lesson: "05.1"
+  subject: tool-choice
+  difficulty: 1
+  question: >-
+    Which tool investigates a wrong that an authority did to you personally, for free?
+  options:
+    - >-
+      An administrative petition with a court-fee exemption.
+    - >-
+      An FOI request together with a fee-exemption claim.
+    - >-
+      A complaint to the Public Complaints Commissioner.
+    - >-
+      A request to appear before a Knesset committee.
+  correct: 2
+  explanation: >-
+    The Commissioner investigates acts of audited bodies that directly harmed the complainant (State Comptroller Law ss. 36–37), at no cost.
+- id: m05-013
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 1
+  question: >-
+    Must you give a reason for an FOI request?
+  options:
+    - >-
+      Yes; requests without a reason are refused.
+    - >-
+      Only when you ask a government ministry.
+    - >-
+      Only when you claim a fee exemption.
+    - >-
+      No; the law says you need not state a reason.
+  correct: 3
+  explanation: >-
+    FOI Law s. 7(א): the requester is not obliged to state the reason for the request.
+- id: m05-014
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 1
+  question: >-
+    To whom is an FOI request addressed?
+  options:
+    - >-
+      The authority's FOI officer, or someone the officer authorised.
+    - >-
+      The minister or the mayor personally, by name and post.
+    - >-
+      The authority's spokesperson, who handles all public queries.
+    - >-
+      The Attorney General, who supervises every authority.
+  correct: 0
+  explanation: >-
+    Section 7(א) sends the request to the officer (ממונה) appointed under s. 3, or to someone the officer authorised.
+- id: m05-015
+  module: 5
+  lesson: "05.2"
+  subject: foi-deadlines
+  difficulty: 1
+  question: >-
+    How long does an authority have to decide on an FOI request, before any extension?
+  options:
+    - >-
+      45 days.
+    - >-
+      30 days.
+    - >-
+      14 days.
+    - >-
+      60 days.
+  correct: 1
+  explanation: >-
+    FOI Law s. 7(ב): without delay and no later than 30 days from receipt; a reasoned extension adds 30 days.
+- id: m05-016
+  module: 5
+  lesson: "05.2"
+  subject: foi-fees
+  difficulty: 1
+  question: >-
+    Which fee do you always pay when filing an FOI request, unless exempt?
+  options:
+    - >-
+      The production fee for every page.
+    - >-
+      The handling fee for the first three hours.
+    - >-
+      The request fee.
+    - >-
+      A court fee for registering the request.
+  correct: 2
+  explanation: >-
+    Reg. 1 sets the request fee; handling is charged only from the fourth hour (reg. 2) and production per page (reg. 3).
+- id: m05-017
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 2
+  question: >-
+    A non-resident tourist asks the Ministry of Tourism for its marketing budget data. What is the legal position?
+  options:
+    - >-
+      Non-residents may ask only about their own rights in Israel.
+    - >-
+      Anyone in the world may ask for any information at all.
+    - >-
+      Tourists may ask, but must pay double the usual fees.
+    - >-
+      Only Israeli citizens, not residents, may ever ask.
+  correct: 0
+  explanation: >-
+    Section 1 gives the right to citizens and residents; s. 12 extends it to others only for information about their own rights in Israel.
+- id: m05-018
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 2
+  question: >-
+    Spot the mistake in this request: 'Please send me all information you hold about the beach, in any form.'
+  options:
+    - >-
+      It does not explain why the requester wants the information.
+    - >-
+      It should be addressed to the mayor, not to the FOI officer.
+    - >-
+      It must list the s. 9 exemptions the requester is willing to accept.
+    - >-
+      It names no record type, period or dates, so it invites refusal.
+  correct: 3
+  explanation: >-
+    A vague request can be refused for needing unreasonable resources (s. 8(1)). Name record types, a date range and a format.
+- id: m05-019
+  module: 5
+  lesson: "05.2"
+  subject: foi-fees
+  difficulty: 2
+  question: >-
+    The FOI officer expects handling and production fees above the cap you committed to. What must happen?
+  options:
+    - >-
+      The officer simply charges the extra amount after release.
+    - >-
+      The request is refused automatically as too expensive.
+    - >-
+      The officer gives you the estimate and waits for your agreement.
+    - >-
+      You pay a fixed penalty set for unusually large requests.
+  correct: 2
+  explanation: >-
+    Reg. 4(ב)–(ג): the officer informs you of the estimate, may ask for a deposit, and does not continue until you agree.
+- id: m05-020
+  module: 5
+  lesson: "05.2"
+  subject: foi-fees
+  difficulty: 2
+  question: >-
+    A student needs data for a university thesis. Which fee exemption applies?
+  options:
+    - >-
+      None; only amutot and benefit recipients are ever exempt.
+    - >-
+      Academic research: request fee and four more handling hours.
+    - >-
+      A full exemption from every fee, with no limit on hours.
+    - >-
+      A 50% discount on the request fee, and nothing more.
+  correct: 1
+  explanation: >-
+    Reg. 6(ב) exempts information needed for academic research from the request fee and handling for four hours beyond the free three.
+- id: m05-021
+  module: 5
+  lesson: "05.2"
+  subject: foi-fees
+  difficulty: 1
+  question: >-
+    Information about yourself and your rights: what is the fee position?
+  options:
+    - >-
+      The full request fee, plus double the handling fee.
+    - >-
+      Only the production fee is waived, nothing else.
+    - >-
+      Exempt from the request fee and four more handling hours.
+    - >-
+      No exemption; personal requests are treated like any other.
+  correct: 2
+  explanation: >-
+    Reg. 6(א) exempts information a person asks about themselves and their rights; FOI Law s. 18(ד) also bars a request fee for it.
+- id: m05-022
+  module: 5
+  lesson: "05.2"
+  subject: foi-exemptions
+  difficulty: 2
+  question: >-
+    An authority may refuse information that is already published and available to the public. What must it tell you?
+  options:
+    - >-
+      Where you can buy, receive or read the published information.
+    - >-
+      Nothing more; published information is simply refused.
+    - >-
+      The name of the official who originally published it.
+    - >-
+      The fee it charged the first person who asked for it.
+  correct: 0
+  explanation: >-
+    Section 8(4) allows refusal of published information, but the authority must say where it can be obtained or read.
+- id: m05-023
+  module: 5
+  lesson: "05.2"
+  subject: foi-exemptions
+  difficulty: 2
+  question: >-
+    What is the difference between s. 9(א) and s. 9(ב) of the FOI Law?
+  options:
+    - >-
+      9(א) applies to ministries; 9(ב) applies to local authorities.
+    - >-
+      9(א) covers old information; 9(ב) covers recent information.
+    - >-
+      9(א) is for individual requesters; 9(ב) is for amutot.
+    - >-
+      9(א) is information it must not give; 9(ב), information it may withhold.
+  correct: 3
+  explanation: >-
+    Section 9(א) says the authority 'will not' give certain information; s. 9(ב) says it is 'not obliged' to, which leaves discretion.
+- id: m05-024
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 2
+  question: >-
+    Why add a sentence about your interest and the public interest, though you need not give reasons?
+  options:
+    - >-
+      Without it, the request fee is automatically doubled.
+    - >-
+      The authority must weigh them before refusing (s. 10).
+    - >-
+      The officer cannot open a file for a request without it.
+    - >-
+      It turns the request into an ombudsman complaint as well.
+  correct: 1
+  explanation: >-
+    Section 10 requires the authority to consider the requester's interest, if stated, and the public interest in health, safety and the environment.
+- id: m05-025
+  module: 5
+  lesson: "05.2"
+  subject: foi-deadlines
+  difficulty: 3
+  question: >-
+    You emailed a request on 1 May; the officer confirms receipt on 3 May; you pay on 6 May. When is day 30?
+  options:
+    - >-
+      5 June, counting from 6 May.
+    - >-
+      31 May, counting from 1 May.
+    - >-
+      2 June, counting from 3 May.
+    - >-
+      1 June, counting from the end of April.
+  correct: 0
+  explanation: >-
+    Reg. 9(א): the periods run from receipt or payment, whichever is later — 6 May. Not counting that day, day 30 is 5 June.
+- id: m05-026
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 3
+  question: >-
+    You want the spreadsheet a ministry uses to track grant applications. It offers a printed summary report instead. What can you insist on?
+  options:
+    - >-
+      A new analysis of the data prepared especially for you.
+    - >-
+      A summary of the data signed by the director general.
+    - >-
+      Nothing; the authority chooses any format it likes freely.
+    - >-
+      The data produced with the ministry's usual tools, such as an export.
+  correct: 3
+  explanation: >-
+    Section 7(ה): records are given as held, without processing for you, but computer data is produced by the means the authority normally uses.
+- id: m05-027
+  module: 5
+  lesson: "05.2"
+  subject: foi-fees
+  difficulty: 3
+  question: >-
+    A ministry missed the FOI deadline without extending it and then billed production fees for 400 pages. What is your answer?
+  options:
+    - >-
+      Pay for the pages, but refuse to pay the request fee itself.
+    - >-
+      It may charge no handling or production fees after missing it.
+    - >-
+      Pay in full, because producing 400 pages is a real cost.
+    - >-
+      Ask the Administrative Court to reduce the fee by half.
+  correct: 1
+  explanation: >-
+    Reg. 6א: an authority that did not handle the request within the statutory times may not collect handling and production fees.
+- id: m05-028
+  module: 5
+  lesson: "05.2"
+  subject: foi-request
+  difficulty: 2
+  question: >-
+    Which bodies are completely outside the FOI Law?
+  options:
+    - >-
+      All government companies, whatever their activity.
+    - >-
+      All local authorities and their municipal companies.
+    - >-
+      Bodies listed in s. 14, such as the security services.
+    - >-
+      Every university that receives state funding.
+  correct: 2
+  explanation: >-
+    Section 14 excludes the bodies it lists (for example the ISA and Mossad); government companies, local authorities and funded universities are generally covered.
+- id: m05-029
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 1
+  question: >-
+    On day 31 you have no answer and no extension notice. What do you send first?
+  options:
+    - >-
+      A reminder citing s. 7(ב) with a short final date.
+    - >-
+      A petition to the High Court of Justice against the minister.
+    - >-
+      A new request for the same information, with a new fee.
+    - >-
+      A fee appeal to the Magistrates' Court of the district.
+  correct: 0
+  explanation: >-
+    A firm reminder citing the missed deadline (and reg. 6א on fees) often resolves the matter, while you keep the petition deadline in view.
+- id: m05-030
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 1
+  question: >-
+    Which bodies does the Government FOI Unit supervise?
+  options:
+    - >-
+      All public authorities, including municipalities.
+    - >-
+      Government ministries and their auxiliary units.
+    - >-
+      Only the Knesset and the courts.
+    - >-
+      Private companies holding public data.
+  correct: 1
+  explanation: >-
+    The Unit's procedure and the Movement for FOI guide describe complaints about ministries and auxiliary units; it has no supervisory role over local authorities.
+- id: m05-031
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 1
+  question: >-
+    Which court hears a petition against an FOI refusal, when no privilege certificate was issued?
+  options:
+    - >-
+      The High Court of Justice.
+    - >-
+      The Magistrates' Court.
+    - >-
+      The Supreme Court as a court of appeal.
+    - >-
+      The Administrative Court.
+  correct: 3
+  explanation: >-
+    FOI Law s. 17(א) and First Schedule item 2 send FOI petitions to the Administrative Court.
+- id: m05-032
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 2
+  question: >-
+    An extension notice says only: 'We need more time.' Is it a lawful extension?
+  options:
+    - >-
+      Yes; any written notice extends by 30 days.
+    - >-
+      Yes, if it was sent by the director general.
+    - >-
+      No; an extension must be written and reasoned.
+    - >-
+      No; extensions are never allowed under the FOI Law.
+  correct: 2
+  explanation: >-
+    Section 7(ב) allows a 30-day extension only if the requester is notified in writing with the reasons for the need.
+- id: m05-033
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 2
+  question: >-
+    A ministry gives a reasoned 30-day extension, then on day 60 a further reasoned extension signed by the director general because of volume. What is the maximum further extension?
+  options:
+    - >-
+      Up to 30 more days.
+    - >-
+      Up to 90 more days.
+    - >-
+      No further extension is allowed.
+    - >-
+      Up to 60 more days.
+  correct: 3
+  explanation: >-
+    Section 7(ג) allows the head of the authority a further reasoned extension for volume or complexity, not exceeding 60 days.
+- id: m05-034
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 2
+  question: >-
+    The authority wants to release information about a company, which objects. How long does the company have to object, and do those days count?
+  options:
+    - >-
+      7 days, which are counted in the 30-day period.
+    - >-
+      45 days, which are counted in the petition deadline.
+    - >-
+      21 days, which do not count toward the FOI deadlines.
+    - >-
+      30 days, which also extend the request-fee period.
+  correct: 2
+  explanation: >-
+    Section 13(א): a third party may object within 21 days; those days are not counted in the s. 7 periods.
+- id: m05-035
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 2
+  question: >-
+    Before ordering disclosure that may harm a third party, what must the court do?
+  options:
+    - >-
+      Ask the FOI Unit for its opinion.
+    - >-
+      Give the third party a chance to be heard.
+    - >-
+      Wait for the ombudsman's findings.
+    - >-
+      Obtain the minister's written consent.
+  correct: 1
+  explanation: >-
+    FOI Law s. 17(ג): the court will not order disclosure that may harm a third party before giving it an opportunity to argue.
+- id: m05-036
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 3
+  question: >-
+    A refusal cites internal deliberations (s. 9(ב)(4)) for a report the decision relied on, and the decision was made a year ago. Which argument is strongest?
+  options:
+    - >-
+      The decision is final, so the report is no longer deliberation; s. 17(ד).
+    - >-
+      The authority must release every internal document on request.
+    - >-
+      Internal documents are always secret, so the request should be dropped.
+    - >-
+      Ask the ombudsman to declare the report a public document.
+  correct: 0
+  explanation: >-
+    Section 9(ב)(4) is discretionary. The court may order disclosure where the public interest prevails (s. 17(ד)), and finished decisions weaken the deliberation ground.
+- id: m05-037
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 3
+  question: >-
+    An activist complains to the FOI Unit after a written refusal received on 1 March, and waits. On 20 April the Unit says it cannot help. When was the petition deadline?
+  options:
+    - >-
+      15 April, 45 days from the refusal.
+    - >-
+      4 June, 45 days from the Unit's answer.
+    - >-
+      1 March next year, one year later.
+    - >-
+      There is none while a complaint is open.
+  correct: 0
+  explanation: >-
+    The 45 days run from notice of the refusal (reg. 3(ב)); the complaint did not pause them. Now only an extension request (reg. 3(ג)) can help.
+- id: m05-038
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 2
+  question: >-
+    Spot the mistake: a reminder to a municipality's FOI officer says, 'If you do not answer, I will complain to the Government FOI Unit.'
+  options:
+    - >-
+      Reminders may not mention next steps.
+    - >-
+      A reminder must be sent by registered mail only.
+    - >-
+      The FOI Unit does not supervise municipalities.
+    - >-
+      The reminder should be addressed to the Prime Minister.
+  correct: 2
+  explanation: >-
+    The Government FOI Unit handles ministries and their units. For a municipality the realistic next steps are the mayor, the Commissioner or a petition.
+- id: m05-039
+  module: 5
+  lesson: "05.3"
+  subject: foi-petition
+  difficulty: 2
+  question: >-
+    A refusal partly withholds a document but does not say whether redacted release was considered. Which section supports your challenge?
+  options:
+    - >-
+      Section 14, which lists the bodies excluded from the law.
+    - >-
+      Section 11, which requires partial release where possible.
+    - >-
+      Section 5, which deals with the authority's annual report.
+    - >-
+      Section 18, which deals with the fee regulations.
+  correct: 1
+  explanation: >-
+    Section 11 requires the authority to release information with omissions, changes or conditions where that is possible without unreasonable resources.
+- id: m05-040
+  module: 5
+  lesson: "05.3"
+  subject: foi-follow-up
+  difficulty: 3
+  question: >-
+    A ministry has been silent for 50 days with no extension. You want to protect a petition. Which approach is cautious?
+  options:
+    - >-
+      Wait until the ministry answers, then count 45 days.
+    - >-
+      Wait three months, since silence then becomes a refusal.
+    - >-
+      File an ombudsman complaint and count from its result.
+    - >-
+      Treat day 30 as the refusal and petition within 45 days of it.
+  correct: 3
+  explanation: >-
+    With silence there is no written decision. Counting from the end of the answer period avoids a delay argument (regs 3–4).
+- id: m05-041
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 1
+  question: >-
+    Who may file a complaint with the Public Complaints Commissioner?
+  options:
+    - >-
+      Only Israeli citizens over 18.
+    - >-
+      Any person.
+    - >-
+      Only people represented by a lawyer.
+    - >-
+      Only residents of the authority complained about.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 33: every person may submit a complaint.
+- id: m05-042
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 1
+  question: >-
+    How much does a complaint to the Commissioner cost?
+  options:
+    - >-
+      Nothing; it is free.
+    - >-
+      The same as an FOI request fee.
+    - >-
+      A fee set by the Court Fees Regulations.
+    - >-
+      A deposit returned if the complaint is justified.
+  correct: 0
+  explanation: >-
+    Filing with the Commissioner is free and needs no lawyer.
+- id: m05-043
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 1
+  question: >-
+    Within how long should a complaint normally be filed?
+  options:
+    - >-
+      Within 45 days of the act complained about.
+    - >-
+      Within 30 days of the authority's written answer.
+    - >-
+      Within seven years of the act, like most claims.
+    - >-
+      Within one year of the act or of learning of it.
+  correct: 3
+  explanation: >-
+    Section 39(2): a complaint filed after a year from the act, or from when the complainant learned of it, is investigated only for a special reason.
+- id: m05-044
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 2
+  question: >-
+    Your phone company overcharged you. Can the Commissioner investigate?
+  options:
+    - >-
+      Yes; any company serving the public is covered.
+    - >-
+      Yes, if the overcharge exceeds the small-claims ceiling.
+    - >-
+      No; a private company is not a body under s. 36.
+    - >-
+      Only after the Communications Ministry refuses to act.
+  correct: 2
+  explanation: >-
+    Section 36 covers audited bodies listed in s. 9(1)–(6) and certain others. Private companies go to their regulator or to court.
+- id: m05-045
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 2
+  question: >-
+    Which complaint is excluded from investigation under s. 38?
+  options:
+    - >-
+      A complaint about a municipal clerk's delay.
+    - >-
+      A complaint about a ministry's failure to answer.
+    - >-
+      A complaint about a government company's billing.
+    - >-
+      A complaint about a judicial decision in your case.
+  correct: 3
+  explanation: >-
+    Section 38(4) excludes complaints about judicial or quasi-judicial acts; the others concern audited bodies.
+- id: m05-046
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 2
+  question: >-
+    Your elderly neighbour was harmed by a National Insurance delay and asks you to complain for her. What do you need?
+  options:
+    - >-
+      A power of attorney signed in front of a notary.
+    - >-
+      Her consent, to the Commissioner's satisfaction.
+    - >-
+      A court order appointing you as her guardian.
+    - >-
+      Nothing; anyone may complain about anyone's harm.
+  correct: 1
+  explanation: >-
+    Section 37(1) allows a complaint about harm to another person if the complainant obtained that person's consent to the Commissioner's satisfaction.
+- id: m05-047
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 2
+  question: >-
+    What can the Commissioner do when it finds a complaint justified?
+  options:
+    - >-
+      Point to the defect and how and when to fix it; the body reports back.
+    - >-
+      Order the body to pay compensation that is enforceable in court.
+    - >-
+      Cancel the body's decision with immediate legal effect.
+    - >-
+      Refer the complainant to the HCJ with an automatic fee waiver.
+  correct: 0
+  explanation: >-
+    Section 43(א)–(ב): the Commissioner may point to the need to correct the defect and the way and time; the body reports the steps taken.
+- id: m05-048
+  module: 5
+  lesson: "05.4"
+  subject: comptroller
+  difficulty: 2
+  question: >-
+    What should you expect after sending general information about a systemic failure to the State Comptroller?
+  options:
+    - >-
+      A full written ruling on your information within 45 days.
+    - >-
+      A hearing at which you present the evidence in person.
+    - >-
+      An acknowledgement, but no right to updates on its use.
+    - >-
+      A binding order to the audited body to fix the failure.
+  correct: 2
+  explanation: >-
+    The Comptroller's public-inquiries procedure gives an acknowledgement within about two weeks; the sender has no standing or right to updates.
+- id: m05-049
+  module: 5
+  lesson: "05.4"
+  subject: comptroller
+  difficulty: 2
+  question: >-
+    Will the body you report to the State Comptroller learn who you are?
+  options:
+    - >-
+      Yes; the body receives the full inquiry with your name on it.
+    - >-
+      Only if you are yourself an employee of a public body.
+    - >-
+      As a rule no; the sender's details are kept confidential.
+    - >-
+      Only once the Comptroller publishes a report on the subject.
+  correct: 2
+  explanation: >-
+    The procedure instructs audit staff not to reveal the sender's identifying details when approaching the audited body.
+- id: m05-050
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 3
+  question: >-
+    A council refused your business licence. The law gives you an appeal (ערר) to an appeals board, which you did not use. You complain to the Commissioner. What is likely?
+  options:
+    - >-
+      Automatic investigation, since the council is an audited body.
+    - >-
+      Investigation only if the Commissioner finds a special reason.
+    - >-
+      Automatic referral of the complaint to the appeals board.
+    - >-
+      Rejection, because licensing decisions are judicial acts.
+  correct: 1
+  explanation: >-
+    Section 39(1): a complaint about a decision open to objection, appeal-board or appeal is investigated only for a special reason.
+- id: m05-051
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 3
+  question: >-
+    A complaint is still under investigation when the petition deadline approaches. The Commissioner's office says 'wait for us'. What do you do?
+  options:
+    - >-
+      File the petition on time and inform the Commissioner.
+    - >-
+      Wait, since the office asked you to.
+    - >-
+      Ask the Commissioner to extend the court deadline.
+    - >-
+      Withdraw the complaint and restart it after the case.
+  correct: 0
+  explanation: >-
+    Section 45(א)(2): a complaint does not extend a statutory deadline. Note that once the matter is pending in court the Commissioner may stop (ss. 38(5), 42).
+- id: m05-052
+  module: 5
+  lesson: "05.4"
+  subject: ombudsman
+  difficulty: 2
+  question: >-
+    Which of these is NOT required for a complaint under s. 34?
+  options:
+    - >-
+      The complainant's name.
+    - >-
+      The complainant's address.
+    - >-
+      The complainant's signature.
+    - >-
+      A lawyer's signature.
+  correct: 3
+  explanation: >-
+    Section 34 requires the complaint to be signed by the complainant and to state their name and address. No lawyer is needed.
+- id: m05-053
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 1
+  question: >-
+    What is the main legal purpose of a pre-petition letter?
+  options:
+    - >-
+      To start the 45-day deadline for filing a petition.
+    - >-
+      To exempt the petitioner from paying the court fee.
+    - >-
+      To show the court you exhausted remedies first.
+    - >-
+      To notify the court registry that a petition is coming.
+  correct: 2
+  explanation: >-
+    Courts expect a prior written demand; the regulations require it to be attached to an administrative petition (reg. 5(ב)(6)).
+- id: m05-054
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 1
+  question: >-
+    To whom should the pre-petition letter be sent?
+  options:
+    - >-
+      The court registry, with a copy to the authority.
+    - >-
+      The decision-maker, copied to the legal adviser.
+    - >-
+      The Attorney General only, as head of the legal system.
+    - >-
+      The authority's spokesperson, who answers the public.
+  correct: 1
+  explanation: >-
+    The decision-maker can change the decision; the legal adviser assesses the risk of a petition and often drives the answer.
+- id: m05-055
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    Spot the mistake in this remedy paragraph: 'I demand that you act fairly and lawfully.'
+  options:
+    - >-
+      It is too specific for the authority to be able to answer.
+    - >-
+      It should be written in English for the legal department.
+    - >-
+      It should cite the court fee schedule for the petition.
+    - >-
+      It names no decision and no specific act to be done.
+  correct: 3
+  explanation: >-
+    A remedy should mirror the court order you would ask for: cancel decision X of date Y, or do act Z by a date.
+- id: m05-056
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    Does a request to reconsider a decision restart the 45-day petition deadline?
+  options:
+    - >-
+      Assume not; count from the original decision.
+    - >-
+      Yes, always from the date of the new answer.
+    - >-
+      Yes, but only for HCJ petitions.
+    - >-
+      No deadline applies once you have written.
+  correct: 0
+  explanation: >-
+    A repeated request does not reliably create a new decision. Plan the letter inside the 45 days from the original decision.
+- id: m05-057
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    Why should a pre-petition letter avoid insults and threats?
+  options:
+    - >-
+      Insults make the letter legally void.
+    - >-
+      The judge will read it as an exhibit.
+    - >-
+      The authority may charge a fee for rude letters.
+    - >-
+      Threats automatically extend the deadline.
+  correct: 1
+  explanation: >-
+    The letter is attached to the petition; a calm, factual letter supports you, while an abusive one undermines you before the court.
+- id: m05-058
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    What should the letter ask for besides the remedy, if you lack the authority's reasons?
+  options:
+    - >-
+      A meeting with the minister.
+    - >-
+      A waiver of the court fee.
+    - >-
+      The documents the decision relied on.
+    - >-
+      A copy of the petition the authority expects.
+  correct: 2
+  explanation: >-
+    Asking for the documents (and filing an FOI request in parallel) lets you see the real reasons before you draft the petition.
+- id: m05-059
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 3
+  question: >-
+    A decision was given on 1 September. You send a letter on 5 September giving 10 days. The authority answers on 14 September with a new reason. What now?
+  options:
+    - >-
+      Answer both reasons in a petition filed before 16 October.
+    - >-
+      Start a new 45-day period from the answer of 14 September.
+    - >-
+      Send a second letter giving the authority 30 more days.
+    - >-
+      Complain to the ombudsman and wait for its findings first.
+  correct: 0
+  explanation: >-
+    The deadline from 1 September is 16 October. A new reason does not reset it; the petition answers both reasons.
+- id: m05-060
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 3
+  question: >-
+    A demolition is scheduled for tomorrow morning. Can you petition without a pre-petition letter?
+  options:
+    - >-
+      No; a letter giving at least 7 days is always required.
+    - >-
+      Yes, and the petition need not mention the missing letter.
+    - >-
+      No; urgent cases must go to the ombudsman instead.
+    - >-
+      Yes, explaining the urgency; still email the authority today.
+  correct: 3
+  explanation: >-
+    Reg. 5(ב)(6) allows a petition without a prior approach if you give the reasons; an email the same day shows good faith.
+- id: m05-061
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    Which defect statement belongs in a pre-petition letter?
+  options:
+    - >-
+      The official who decided is often rude to the public.
+    - >-
+      The decision is unpopular with residents on social media.
+    - >-
+      The decision relied on a consideration foreign to the law.
+    - >-
+      The municipality's budget is generally wasteful and opaque.
+  correct: 2
+  explanation: >-
+    Each defect should be a legal one — authority, extraneous considerations, reasonableness, hearing, reasons, discrimination — with its rule.
+- id: m05-062
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 1
+  question: >-
+    What does 'בלי לפגוע בזכויות' at the top of the letter signal?
+  options:
+    - >-
+      You waive your right to petition.
+    - >-
+      You keep all your other claims and rights.
+    - >-
+      The letter is confidential and cannot be used.
+    - >-
+      The authority need not answer in writing.
+  correct: 1
+  explanation: >-
+    'Without prejudice to rights' tells the reader that the letter does not give up any claim you may have.
+- id: m05-063
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 3
+  question: >-
+    A group wants to petition the HCJ against a national decision taken 6 months ago, about which they learned the same week. They never wrote. What is the biggest risk?
+  options:
+    - >-
+      Dismissal for delay and for not exhausting remedies.
+    - >-
+      Dismissal because only lawyers write to ministers.
+    - >-
+      Transfer to the Magistrates' Court.
+    - >-
+      An automatic fee doubling for late petitions.
+  correct: 0
+  explanation: >-
+    The HCJ applies the delay doctrine and requires a prior demand. Six silent months answer neither.
+- id: m05-064
+  module: 5
+  lesson: "05.5"
+  subject: pre-petition
+  difficulty: 2
+  question: >-
+    Which response date is most defensible when the decision was 5 days ago and nothing is urgent?
+  options:
+    - >-
+      About 45 days.
+    - >-
+      Within 24 hours.
+    - >-
+      Three months, as in the Decisions and Reasons Law.
+    - >-
+      About 10–14 days.
+  correct: 3
+  explanation: >-
+    Ten to fourteen days is fair to the authority and still leaves time to file inside the 45-day petition deadline.
+- id: m05-065
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 1
+  question: >-
+    Within how many days of the decision must an administrative petition normally be filed?
+  options:
+    - >-
+      30 days.
+    - >-
+      45 days.
+    - >-
+      60 days.
+    - >-
+      90 days.
+  correct: 1
+  explanation: >-
+    Administrative Courts (Procedure) Regulations, reg. 3(ב): without delay and no later than 45 days, unless another law sets a deadline.
+- id: m05-066
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 1
+  question: >-
+    Which court district hears an administrative petition?
+  options:
+    - >-
+      Where the decision was made, or where the land lies.
+    - >-
+      The district where the petitioner lives or works.
+    - >-
+      Always the Jerusalem District Court, for every authority.
+    - >-
+      The district where the authority's lawyer has an office.
+  correct: 0
+  explanation: >-
+    Reg. 2(א): the court in whose area the decision was given; for land, where the land lies.
+- id: m05-067
+  module: 5
+  lesson: "05.6"
+  subject: petition-affidavit
+  difficulty: 1
+  question: >-
+    What must support the facts in an administrative petition?
+  options:
+    - >-
+      A letter from a lawyer.
+    - >-
+      A police report.
+    - >-
+      A signed statement from the authority.
+    - >-
+      An affidavit in Form 2.
+  correct: 3
+  explanation: >-
+    Reg. 5(ג): the facts are verified by an attached affidavit in Form 2.
+- id: m05-068
+  module: 5
+  lesson: "05.6"
+  subject: service
+  difficulty: 1
+  question: >-
+    Who serves the petition on the respondents?
+  options:
+    - >-
+      The court registry, after the judge reads it.
+    - >-
+      The police, at the court's request.
+    - >-
+      The petitioner, within three days of filing.
+    - >-
+      The respondents collect it from Net HaMishpat.
+  correct: 2
+  explanation: >-
+    Reg. 35(א): a pleading filed in court is served directly on the other parties no later than three days after filing.
+- id: m05-069
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 2
+  question: >-
+    Spot the mistake: an administrative petition's jurisdiction paragraph says only 'This court has jurisdiction.'
+  options:
+    - >-
+      It must cite the empowering law and the First Schedule item.
+    - >-
+      It must also cite the petitioner's identity number there.
+    - >-
+      It should be placed at the end, after the remedies.
+    - >-
+      Jurisdiction is never stated in a self-represented petition.
+  correct: 0
+  explanation: >-
+    Reg. 5(ב)(3א) requires the source of subject-matter and local jurisdiction, including the empowering enactment and the First Schedule item.
+- id: m05-070
+  module: 5
+  lesson: "05.6"
+  subject: petition-affidavit
+  difficulty: 2
+  question: >-
+    In your petition affidavit you state that the mayor met the developer, which you heard from a council member. How should it appear?
+  options:
+    - >-
+      As personal knowledge, since you trust the source.
+    - >-
+      Not at all; hearsay can never appear in affidavits.
+    - >-
+      In the petition text only, not in the affidavit.
+    - >-
+      As a belief, naming the council member as the source.
+  correct: 3
+  explanation: >-
+    Reg. 5(ג) requires separating personal knowledge from belief and stating the source of each belief.
+- id: m05-071
+  module: 5
+  lesson: "05.6"
+  subject: court-fees
+  difficulty: 2
+  question: >-
+    Which document proves inability to pay at first sight in a fee-exemption request?
+  options:
+    - >-
+      A letter from your employer praising your work.
+    - >-
+      A bank statement showing one month's balance.
+    - >-
+      A court fee exemption granted in the last two years.
+    - >-
+      A pre-petition letter sent to the authority.
+  correct: 2
+  explanation: >-
+    Reg. 14(ד) lists prima facie proof: a court exemption within two years, a limited-means debtor order, bankruptcy or insolvency proceedings.
+- id: m05-072
+  module: 5
+  lesson: "05.6"
+  subject: court-fees
+  difficulty: 2
+  question: >-
+    Does filing a fee-exemption request cost a fee?
+  options:
+    - >-
+      Yes, half of the petition fee.
+    - >-
+      No; such requests are fee-free.
+    - >-
+      Yes, the full petition fee, refunded later.
+    - >-
+      Only if the request is rejected.
+  correct: 1
+  explanation: >-
+    Reg. 20(4) of the Court Fees Regulations exempts requests for a fee exemption from fees.
+- id: m05-073
+  module: 5
+  lesson: "05.6"
+  subject: court-fees
+  difficulty: 3
+  question: >-
+    Besides inability to pay, what else does the court consider in a fee-exemption request?
+  options:
+    - >-
+      Whether the petitioner has a lawyer.
+    - >-
+      Whether the authority agrees to the exemption.
+    - >-
+      Whether the petition is shorter than ten pages.
+    - >-
+      Whether the proceeding shows a cause of action.
+  correct: 3
+  explanation: >-
+    Reg. 14(ג): the court may exempt if the applicant cannot pay and the proceeding appears to disclose a cause of action.
+- id: m05-074
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 2
+  question: >-
+    After a preliminary look, what may the judge do with a petition that shows no cause for intervention on its face?
+  options:
+    - >-
+      Dismiss it at the threshold, possibly with costs.
+    - >-
+      Send it to the ombudsman for an investigation.
+    - >-
+      Order the authority to pay the petitioner's fee.
+    - >-
+      Convert it into a small claim in the same court.
+  correct: 0
+  explanation: >-
+    Reg. 7(א)(2) allows dismissal on the face of the petition, and reg. 41(ב) allows costs in favour of the State Treasury.
+- id: m05-075
+  module: 5
+  lesson: "05.6"
+  subject: interim-orders
+  difficulty: 2
+  question: >-
+    How do you ask the Administrative Court to stop a decision until judgment?
+  options:
+    - >-
+      A sentence asking for it in the petition's introduction.
+    - >-
+      A separate request with an affidavit, served the same day.
+    - >-
+      An email to the authority's legal adviser asking it to wait.
+    - >-
+      A phone call to the court registry asking for a freeze.
+  correct: 1
+  explanation: >-
+    Reg. 9(א) requires a separate request supported by an affidavit; reg. 35(ב) requires same-day service.
+- id: m05-076
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 2
+  question: >-
+    If the court orders a full answer, how long does the respondent have unless the court sets another time?
+  options:
+    - >-
+      30 days.
+    - >-
+      15 days.
+    - >-
+      60 days.
+    - >-
+      7 days.
+  correct: 2
+  explanation: >-
+    Reg. 10(א): a response (כתב תשובה) is filed within 60 days unless the court sets a different time.
+- id: m05-077
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 3
+  question: >-
+    Your petition wins a partial remedy and you want to appeal. What is the deadline and the court?
+  options:
+    - >-
+      30 days, to the District Court president.
+    - >-
+      45 days, to the High Court of Justice.
+    - >-
+      60 days, to the Supreme Court.
+    - >-
+      90 days, to a panel of the same court.
+  correct: 2
+  explanation: >-
+    Reg. 33(א): an appeal as of right against a judgment of the Administrative Court is filed within 60 days, to the Supreme Court.
+- id: m05-078
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 3
+  question: >-
+    A month after you filed, the authority gives you everything you asked for and you withdraw. What can you ask about the fee?
+  options:
+    - >-
+      Nothing; court fees are never refunded once paid.
+    - >-
+      A full refund plus interest at double the usual rate.
+    - >-
+      A transfer of the fee to any future petition you file.
+    - >-
+      A refund of most of it, minus a fixed deduction.
+  correct: 3
+  explanation: >-
+    Regs 15 and 6(ב) provide a refund on early termination, minus the sum in item 33 of the schedule; check the conditions with the registry.
+- id: m05-079
+  module: 5
+  lesson: "05.6"
+  subject: service
+  difficulty: 3
+  question: >-
+    You uploaded the petition on Sunday but serve the respondents only on Thursday of the next week. What is the problem?
+  options:
+    - >-
+      Service was late; the rule is three days after filing.
+    - >-
+      None, since service of a petition has no deadline.
+    - >-
+      The petition is granted because the respondents delayed.
+    - >-
+      Service is the court's job, so your service is invalid.
+  correct: 0
+  explanation: >-
+    Reg. 35(א) sets three days; reg. 7(ב) keeps the petition from the judge until proof of service is filed.
+- id: m05-080
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 2
+  question: >-
+    Which matter must a petition disclose under reg. 5(ב)(9)?
+  options:
+    - >-
+      The petitioner's income during the last six months.
+    - >-
+      Any other proceeding on the same facts, even if finished.
+    - >-
+      The names of the judges the petitioner would prefer.
+    - >-
+      The petitioner's political or organisational affiliation.
+  correct: 1
+  explanation: >-
+    Reg. 5(ב)(9) requires disclosure of any other court or tribunal proceeding on the same facts or decision, including one that ended.
+- id: m05-081
+  module: 5
+  lesson: "05.6"
+  subject: admin-petition
+  difficulty: 1
+  question: >-
+    How does an unrepresented petitioner file an administrative petition online?
+  options:
+    - >-
+      By email straight to the office of the duty judge.
+    - >-
+      Through the FOI Unit's online complaint form.
+    - >-
+      Through Net HaMishpat, with National Digital Identity.
+    - >-
+      Through the State Comptroller's online complaint form.
+  correct: 2
+  explanation: >-
+    The judiciary's guide for unrepresented parties describes filing in Net HaMishpat with National Digital Identity.
+- id: m05-082
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 1
+  question: >-
+    What does an HCJ petition ask for first?
+  options:
+    - >-
+      An order nisi (צו על תנאי).
+    - >-
+      A final order without a hearing.
+    - >-
+      A declaration of the petitioner's rights.
+    - >-
+      Damages from the respondent.
+  correct: 0
+  explanation: >-
+    Reg. 1: a request for an order nisi is filed as a petition; if granted, the respondent must show cause why it should not become absolute.
+- id: m05-083
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 1
+  question: >-
+    What address must an HCJ petitioner give?
+  options:
+    - >-
+      Any email address, anywhere.
+    - >-
+      An address for service inside Israel.
+    - >-
+      The address of a lawyer.
+    - >-
+      The address of the Supreme Court registry.
+  correct: 1
+  explanation: >-
+    Reg. 3: the petitioner states an address for service within the State; delivery there is valid service.
+- id: m05-084
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 1
+  question: >-
+    How must an HCJ petition be laid out under reg. 2?
+  options:
+    - >-
+      Double-sided, with margins of at least 2 cm.
+    - >-
+      In a bound booklet with only a table of contents.
+    - >-
+      Handwritten in full, to show it is the petitioner's own.
+    - >-
+      On one side of the page, with 5 cm margins or more.
+  correct: 3
+  explanation: >-
+    Reg. 2: the petition follows Form 1 and is written on one side of the page with margins of at least five centimetres.
+- id: m05-085
+  module: 5
+  lesson: "05.7"
+  subject: hcj-threshold
+  difficulty: 2
+  question: >-
+    Which petitioner is most likely to be called a public petitioner?
+  options:
+    - >-
+      One whose own building permit was refused by the council.
+    - >-
+      A company suing the State for profits it says it lost.
+    - >-
+      A lawyer acting for a paying client in a public matter.
+    - >-
+      One raising an important public matter without personal harm.
+  correct: 3
+  explanation: >-
+    Public-petitioner standing covers people who raise important public matters without a personal interest; lesson 04.5 covers its limits.
+- id: m05-086
+  module: 5
+  lesson: "05.7"
+  subject: hcj-threshold
+  difficulty: 2
+  question: >-
+    Why does an HCJ petition need a section explaining why the HCJ is the right forum?
+  options:
+    - >-
+      The HCJ hears only cases involving ministers.
+    - >-
+      The HCJ hears only what no other court or tribunal can hear.
+    - >-
+      The Knesset must approve each HCJ petition.
+    - >-
+      Every petition must first be refused by a District Court.
+  correct: 1
+  explanation: >-
+    Basic Law: The Judiciary s. 15(ג) limits the HCJ to matters not within another court's or tribunal's jurisdiction.
+- id: m05-087
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 2
+  question: >-
+    After filing an HCJ petition, when must you serve later filings on the other parties?
+  options:
+    - >-
+      The same day you file them.
+    - >-
+      Within 45 days.
+    - >-
+      Only when the court orders it.
+    - >-
+      After the first hearing.
+  correct: 0
+  explanation: >-
+    Reg. 8א: after the petition is filed, a party filing a pleading serves a copy with its attachments on every other party the same day.
+- id: m05-088
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 2
+  question: >-
+    The HCJ issues an order nisi. What must the respondent file to oppose it?
+  options:
+    - >-
+      Nothing; the order becomes absolute automatically.
+    - >-
+      A new petition of its own against the petitioner.
+    - >-
+      An answering affidavit in Form 3, within the time set.
+    - >-
+      A fee-exemption request to the Supreme Court registry.
+  correct: 2
+  explanation: >-
+    Reg. 9(א): a respondent who opposes making the order absolute files an answering affidavit (Form 3), within eight days or as the court directs.
+- id: m05-089
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 2
+  question: >-
+    The State files an update notice that it changed the decision you challenged. What usually happens?
+  options:
+    - >-
+      The petition continues to a full judgment regardless of the change.
+    - >-
+      The petition may be deleted as redundant, often with costs for you.
+    - >-
+      You must pay the State's costs because it changed its decision.
+    - >-
+      The case moves to the Administrative Court for a fresh hearing.
+  correct: 1
+  explanation: >-
+    When the remedy is given, petitions are typically deleted as redundant (התייתרות); the court may award costs to the petitioner.
+- id: m05-090
+  module: 5
+  lesson: "05.7"
+  subject: hcj-threshold
+  difficulty: 3
+  question: >-
+    A petitioner challenges a 2-year-old government decision on which many people already relied, explaining nothing about the gap. Which threshold ground is most likely to defeat it?
+  options:
+    - >-
+      Delay (שיהוי).
+    - >-
+      Lack of a fee exemption.
+    - >-
+      The petition being in Hebrew.
+    - >-
+      The State Comptroller's prior report.
+  correct: 0
+  explanation: >-
+    The delay doctrine looks at how long the petitioner waited, harm to reliance, and the rule of law; an unexplained two-year gap is a classic case.
+- id: m05-091
+  module: 5
+  lesson: "05.7"
+  subject: hcj-threshold
+  difficulty: 3
+  question: >-
+    A petitioner asks the HCJ to cancel an FOI refusal by a ministry, without any privilege certificate. What will the court likely say?
+  options:
+    - >-
+      Correct forum: ministries are always HCJ matters.
+    - >-
+      Wrong forum: FOI goes to the Magistrates' Court.
+    - >-
+      Correct forum, if the petitioner is a public petitioner.
+    - >-
+      Wrong forum: FOI petitions go to the Administrative Court.
+  correct: 3
+  explanation: >-
+    FOI Law s. 17(א) and First Schedule item 2 send FOI petitions to the Administrative Court; only a privilege certificate moves them to the Supreme Court.
+- id: m05-092
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 3
+  question: >-
+    You plan to file an HCJ petition yourself next Thursday. What should you have done by Monday?
+  options:
+    - >-
+      Asked the Attorney General to accept the petition first.
+    - >-
+      Booked a hearing date for the petition with the registry.
+    - >-
+      Confirmed the filing route and fee payment by phone.
+    - >-
+      Sent the draft petition to the ombudsman for a review.
+  correct: 2
+  explanation: >-
+    The online route for unrepresented HCJ petitioners was not confirmed officially; calling ahead avoids losing the filing day.
+- id: m05-093
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 2
+  question: >-
+    Which document must be attached to, or written at the end of, every HCJ petition?
+  options:
+    - >-
+      A letter of support from an NGO.
+    - >-
+      The State's answer to the petition.
+    - >-
+      The petitioner's affidavit in Form 2.
+    - >-
+      A lawyer's opinion on the merits.
+  correct: 2
+  explanation: >-
+    Reg. 4: every petition is supported by an affidavit in Form 2, attached or recorded at its end.
+- id: m05-094
+  module: 5
+  lesson: "05.7"
+  subject: hcj-procedure
+  difficulty: 2
+  question: >-
+    When must skeleton arguments be filed in the HCJ, unless the court says otherwise?
+  options:
+    - >-
+      At least three days before the hearing.
+    - >-
+      On the morning of the hearing itself.
+    - >-
+      Together with the original petition.
+    - >-
+      Within 60 days after the hearing ends.
+  correct: 0
+  explanation: >-
+    Reg. 16(א): each party files skeleton arguments and serves them at least three days before the hearing date.
+- id: m05-095
+  module: 5
+  lesson: "05.7"
+  subject: hcj-threshold
+  difficulty: 1
+  question: >-
+    Which of these is a threshold ground, decided before the merits of an HCJ petition?
+  options:
+    - >-
+      The reasonableness of the decision.
+    - >-
+      The proportionality of the measure.
+    - >-
+      The weight of the evidence.
+    - >-
+      Failure to exhaust remedies.
+  correct: 3
+  explanation: >-
+    Threshold grounds include exhaustion, delay, standing, alternative remedy and justiciability; reasonableness and proportionality are merits questions.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A local council has delayed your building-completion certificate for eight months without any
+    decision. You have not gone to court. Can the Public Complaints Commissioner investigate?
+  options:
+    - >-
+      No, because the Commissioner handles only ministries, not councils.
+    - >-
+      No, because a delay is not an act and cannot be complained about.
+    - >-
+      Only if a lawyer files the complaint for you.
+    - >-
+      Yes: a council is audited, and delay counts as an act under s. 37.
+  correct: 3
+  explanation: >-
+    Local authorities are audited bodies (s. 9(4)), and s. 37 defines "act" to include a failure to act
+    and delay. The harm is direct to you, and no court case is pending.
+- id: q2
+  question: >-
+    An activist group wants the Commissioner to investigate the national policy on funding sports
+    clubs, which none of its members was personally refused. What is the right route?
+  options:
+    - >-
+      Send it to the Comptroller's audit as a public inquiry.
+    - >-
+      File a Commissioner complaint, since any person may complain.
+    - >-
+      File the complaint in the name of the group's elected chair.
+    - >-
+      Ask the Commissioner to issue a binding order to the ministry.
+  correct: 0
+  explanation: >-
+    A complaint needs direct harm to the complainant or a consenting person (s. 37(1)). General
+    information about an audited body goes to the Comptroller's audit divisions.
+- id: q3
+  question: >-
+    You sued a government company in the Magistrates' Court over a billing dispute. The case is still
+    open. Can you also complain to the Commissioner about the same billing?
+  options:
+    - >-
+      Yes, and the court will wait for the Commissioner's findings.
+    - >-
+      Yes, as long as you file within one year of the bill.
+    - >-
+      No, a matter pending in court is not investigated (s. 38(5)).
+    - >-
+      No, because government companies are outside the Commissioner's reach.
+  correct: 2
+  explanation: >-
+    Section 38(5) bars investigation of a matter pending in a court or tribunal, or decided by one on its
+    merits. Government companies are audited bodies, so that is not the problem.
+- id: q4
+  question: >-
+    The Commissioner found your complaint unjustified. You think the finding is wrong. What can you do
+    in court about the finding itself?
+  options:
+    - >-
+      Petition the HCJ against the Commissioner's finding.
+    - >-
+      Nothing; no court hears challenges to the findings (s. 45(ב)).
+    - >-
+      Appeal to the District Court within 45 days of the finding.
+    - >-
+      Ask the Magistrates' Court to review the finding.
+  correct: 1
+  explanation: >-
+    Under s. 45(ב) no court entertains relief against the Commissioner's decisions and findings. You may
+    still use any legal right you had against the body itself, within its own deadlines.

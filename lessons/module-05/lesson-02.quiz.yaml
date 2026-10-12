@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    You emailed an FOI request to a ministry's FOI officer on 1 March but paid the request fee only on
+    10 March. From which day does the 30-day answer period run?
+  options:
+    - >-
+      From 1 March, when the officer received the request.
+    - >-
+      From 10 March, the later of receipt and payment.
+    - >-
+      From the day the officer opens a file for the request.
+    - >-
+      From 1 April, after the first month of handling.
+  correct: 1
+  explanation: >-
+    FOI Fees Regulations reg. 9(א): the periods in s. 7 run from receipt by the officer or payment of
+    the request fee, whichever is later.
+- id: q2
+  question: >-
+    A city council answers your FOI request: "We do not hold a summary of complaints per neighbourhood."
+    It does hold the complaints database. What should your next request say?
+  options:
+    - >-
+      Ask the council to prepare the summary, since FOI requires it to analyse data.
+    - >-
+      Ask for the summary again, adding that you are a resident of the city.
+    - >-
+      Ask for an export of the complaints database fields you need, in Excel.
+    - >-
+      Drop the request, because data that needs sorting is exempt under s. 9.
+  correct: 2
+  explanation: >-
+    Under s. 7(ה) the authority need not process information for you, but computer data must be produced
+    with its usual tools. Ask for the raw export and do the analysis yourself.
+- id: q3
+  question: >-
+    A registered amuta with a valid proper-management certificate files an FOI request about school
+    transport budgets. What is its fee position?
+  options:
+    - >-
+      It pays the full request fee, since only individuals are exempt.
+    - >-
+      It pays nothing at all, however many hours the work takes.
+    - >-
+      It must show that the information concerns its own members.
+    - >-
+      It is exempt from the request fee and from four more hours of handling.
+  correct: 3
+  explanation: >-
+    Reg. 6(ב) exempts a registered amuta or public-benefit company with a proper-management certificate,
+    acting for a public purpose, from the request fee and four hours of handling beyond the free three.
+- id: q4
+  question: >-
+    A ministry never answered your FOI request and never sent an extension notice. Two months later it
+    releases the documents and asks you to pay handling fees. What is the rule?
+  options:
+    - >-
+      It may not charge handling or production fees: it missed the deadline.
+    - >-
+      It may charge, but only half of the handling fee it calculated.
+    - >-
+      It may charge in full, because the documents were eventually released.
+    - >-
+      It may charge in full only if you signed the advance undertaking.
+  correct: 0
+  explanation: >-
+    Reg. 6א: an authority that did not handle the request within the statutory times, including by not
+    extending them, may not collect handling and production fees.
+- id: q5
+  question: >-
+    You want minutes of a regional council's meetings about a new quarry. Which wording gives the
+    council the least room to refuse?
+  options:
+    - >-
+      "All information you hold about the quarry since the council was founded."
+    - >-
+      "Quarry meeting minutes, council and committees, 1.1.2025–30.9.2026, PDF."
+    - >-
+      "Any documents that explain why the council supports the quarry."
+    - >-
+      "An explanation of the council's position on the quarry and its reasons."
+  correct: 1
+  explanation: >-
+    Naming the record type, subject, date range and format avoids the "unreasonable resources" ground
+    (s. 8(1)). FOI gives you records, not explanations written for you.

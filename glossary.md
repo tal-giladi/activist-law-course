@@ -5,44 +5,73 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 ## Terms
 
 - **אבחנה** (avchana) — Distinguishing: showing a ruling does not apply to your facts.
+- **אגרת בקשה** (agrat bakasha) — FOI request fee, paid on filing.
+- **אגרת הפקה** (agrat hafaka) — FOI production fee, per page or disc.
+- **אגרת טיפול** (agrat tipul) — FOI handling fee, charged per hour from the fourth hour.
 - **איסור פרסום** (isur pirsum) — Publication ban (gag order).
 - **אישור מסירה** (ishur mesira) — Proof of delivery.
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark in passing, not binding.
 - **אסמכתה** (asmachta) — Authority: the source cited for a rule.
+- **אצילת סמכויות** (atzilat samchuyot) — Delegation of a power to another official.
+- **ארגז כלים** (argaz kelim) — Toolbox: the set of procedures you can use against an authority.
 - **בג״ץ** (bagatz) — High Court of Justice.
 - **בית דין לעבודה** (beit din la-avoda) — Labour Court.
 - **בית המשפט המחוזי** (beit ha-mishpat ha-mechozi) — District Court.
 - **בית משפט השלום** (beit mishpat ha-shalom) — Magistrates' Court.
 - **בית משפט לעניינים מינהליים** (beit mishpat le-inyanim minhaliyim) — Administrative Affairs Court.
 - **בלי לפגוע בזכויות** (bli lifgo'a bezchuyot) — "Without prejudice to rights".
+- **בקשת חופש מידע** (bakashat chofesh meida) — Freedom of Information (FOI) request.
 - **בתמורה** (bitmura) — for payment or other consideration; the other trigger of s. 20.
+- **גוף מבוקר** (guf mevukar) — Audited body under s. 9 of the State Comptroller Law.
+- **גוף נילון** (guf nilon) — The body a complaint is about.
+- **דוח ביקורת** (doch bikoret) — Audit report.
+- **דחייה על הסף** (dchiya al hasaf) — Dismissal at the threshold (in limine).
 - **דיון נוסף** (diyun nosaf) — further hearing in the Supreme Court before a larger panel.
 - **דין** (din) — law in the broad sense defined by the Interpretation Law.
 - **דינו** (dino) — "his penalty is"; introduces a criminal penalty.
+- **דעה נעולה** (de'a ne'ula) — A closed mind: a decision made in advance, whatever is said.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority / minority opinion.
 - **דרך עיסוק** (derech isuk) — as an occupation; one trigger of the Bar Association Law s. 20 reservation.
 - **הגדרות** (hagdarot) — definitions section.
+- **הודעת הארכה** (hoda'at ha'arracha) — Written, reasoned notice extending an FOI deadline.
+- **הודעת עדכון** (hoda'at idkun) — Update notice, often filed by the State when it changes position.
 - **הוצאות** (hotza'ot) — costs a party is ordered to pay.
+- **הוראת הסמכה** (hora'at hasmacha) — The enabling provision that gives an authority its power.
 - **הוראת מינהל** (hora'at minhal) — administrative instruction (permit, notice, appointment) given in writing under a law.
 - **הוראת שעה** (hora'at sha'a) — Temporary provision with an end date.
 - **החלטה** (hachlata) — Decision: a ruling on an interim matter.
+- **היחידה הממשלתית לחופש המידע** (hayechida hamemshaltit lechofesh hameida) — Government FOI Unit in the Ministry of Justice, supervising ministries and their units.
 - **היקש** (hekesh) — analogy.
+- **הכתבה** (hachtava) — Dictation: deciding on someone else's instruction instead of using one's own discretion.
 - **הלכה** (halacha) — Binding legal rule set by a court (precedent).
 - **הלכה פסוקה / הלכה** (halacha psuka / halacha) — binding precedent; the holding of a case.
+- **המצאה** (hamtza'a) — Service of court documents.
 - **הנדון** (hanadon) — "Re:", the subject line of a letter.
 - **הנחיות היועמ״ש** (hanchayot ha-yoamash) — Attorney General guidelines.
 - **הנחיות היועץ המשפטי לממשלה** (hanchayot hayoetz hamishpati lamemshala) — Attorney General guidelines, binding inside government.
 - **הסגת גבול המקצוע** (hasagat gvul ha-miktzoa) — unauthorised practice of law (Bar Association Law s. 96).
+- **הסדר למניעת ניגוד עניינים** (hesder limni'at nigud inyanim) — Conflict-of-interest arrangement set by a legal adviser.
+- **הסדרים ראשוניים** (hesderim rishoniyim) — Primary arrangements: basic policy choices the Knesset itself must make.
 - **הסמכה** (hasmacha) — authorisation: the section that gives a power.
+- **הסמכה מפורשת** (hasmacha meforeshet) — Express statutory authorisation, required to limit a basic right.
 - **העתק** (he'etek) — Copy (cc).
 - **הרכב** (herkev) — panel of judges.
+- **התוספת הראשונה** (hatosefet harishona) — First Schedule of the Administrative Courts Law: matters the Administrative Court hears.
+- **התוספת הרביעית** (hatosefet harevi'it) — Fourth Schedule: Judea and Samaria matters heard by the Administrative Court in Jerusalem.
+- **התייתרות העתירה** (hityatrut ha'atira) — A petition becoming redundant because the remedy was given.
 - **ובלבד ש…** (u-vilvad she…) — provided that.
 - **ועדת ערר** (va'adat arar) — appeals committee (a tribunal).
+- **זכות הטיעון / שימוע** (zchut hate'un / shimu'a) — The right to be heard / a hearing.
+- **זכות עמידה** (zchut amida) — Standing: the right to bring a case.
+- **חובת ההנמקה** (chovat hahanmaka) — The duty to give reasons.
+- **חוסר סבירות קיצוני** (choser svirut kitzoni) — Extreme unreasonableness: the threshold for intervention.
 - **חוק** (chok) — law (statute) of the Knesset; under the Interpretation Law it also includes an ordinance.
 - **חוק עזר** (chok ezer) — municipal by-law.
 - **חוק־יסוד** (chok yesod) — Basic Law.
+- **חזקת התקינות** (chezkat hatkinut) — Presumption of regularity: an authority is presumed to have acted lawfully until shown otherwise.
 - **חיקוק** (chikuk) — enactment: a law or a regulation.
 - **חקירה נגדית** (chakira negdit) — Cross-examination.
+- **חריגה מסמכות** (chariga mismchut) — Acting beyond one's legal power (ultra vires).
 - **טענה חלופית** (ta'ana chalufit) — Alternative argument ("even if…").
 - **ידיעה אישית** (yedi'a ishit) — Personal knowledge.
 - **ייעוץ משפטי** (yi'utz mishpati) — legal advice.
@@ -51,13 +80,28 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ייצוג עצמי** (yitzug atzmi) — self-representation: acting in your own name.
 - **יישום** (yisum) — Application: matching facts to each element of a rule.
 - **יסודות** (yesodot) — Elements: the conditions a rule requires.
+- **כבילת שיקול הדעת** (kvilat shikul hada'at) — Fettering discretion: a rigid rule that leaves no room for the individual case.
+- **כללי הצדק הטבעי** (klalei hatzedek hativ'i) — Rules of natural justice.
+- **כתב התחייבות** (ktav hitchayvut) — Advance undertaking to pay FOI handling and production fees up to a cap.
 - **כתב עת משפטי** (ktav et mishpati) — Law journal or law review.
+- **כתב עתירה** (ktav atira) — The petition document (Form 1).
+- **כתב תשובה** (ktav tshuva) — Respondent's full answer in an administrative petition (Form 3).
 - **לאקונה** (lacuna) — a gap that no law or precedent answers.
+- **לבוא וליתן טעם** (lavo velitten ta'am) — "To come and show cause": the standard wording of an HCJ remedy.
 - **לרבות / למעט** (lerabot / lema'et) — including / except.
 - **מאגר החקיקה הלאומי** (ma'agar hachakika haleumi) — The Knesset's National Legislation Database.
+- **מאגר התשובות** (ma'agar hatshuvot) — The Government FOI Unit's database of answers already given.
+- **מבחן האמצעי שפגיעתו פחותה** (mivchan ha'emtza'i shepgi'ato pchuta) — Least harmful means test.
+- **מבחן הקשר הרציונלי** (mivchan hakesher harationali) — Rational connection test.
 - **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
+- **מידע על איכות הסביבה** (meida al eichut hasviva) — Environmental information authorities must publish (FOI Law s. 6א).
+- **מידתיות** (midatiyut) — Proportionality.
+- **מידתיות במובן הצר** (midatiyut bamuvan hatzar) — Proportionality in the narrow sense: benefit against harm.
 - **מיטב ידיעתי ואמונתי** (meitav yedi'ati ve'emunati) — "To the best of my knowledge and belief".
+- **מינהל תקין** (minhal takin) — Proper administration.
 - **מכתב דרישה** (michtav drisha) — Demand letter with a deadline and a stated next step.
+- **מכתב התראה לפני הגשת עתירה** (michtav hatra'a lifnei hagashat atira) — Pre-petition (warning) letter.
+- **ממונה על חופש המידע** (memune al chofesh hameida) — FOI officer every public authority must appoint (FOI Law s. 3).
 - **מספר הליך** (mispar halich) — Case number, for example בג״ץ 5658/23.
 - **מערער / תובע / נתבע** (me'arer / tove'a / nitba) — appellant / plaintiff / defendant.
 - **מצהיר** (matzhir) — Declarant: the person making an affidavit.
@@ -65,39 +109,74 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מקור ראשוני** (makor rishoni) — Primary source: a law, regulation or ruling.
 - **מרכז המחקר והמידע של הכנסת (ממ״מ)** (merkaz hamechkar vehameida shel haknesset) — The Knesset Research and Information Center.
 - **משביע / מאמת** (mashbi'a / me'amet) — The person who warns the declarant and certifies the affidavit.
+- **משוא פנים** (masso panim) — Bias, partiality.
 - **משפט עברי** (mishpat ivri) — Jewish law as a source of legal principles.
+- **מתחם הסבירות** (mitcham hasvirut) — The range of reasonable decisions within which courts do not intervene.
 - **נוהל** (nohal) — internal procedure of a ministry or authority.
 - **נוטריון** (notaryon) — Notary: a senior lawyer with a special licence and regulated fees.
 - **נוסח חדש** (nusach chadash) — new version: an official Hebrew re-enactment of a Mandate ordinance; the binding text.
 - **נוסח משולב** (nusach meshulav) — Consolidated version: a law re-enacted with all its amendments merged.
+- **נוקשות יתירה / אי־צדק בולט** (nukshut yetera / i-tzedek bolet) — Excessive rigidity / flagrant injustice, grounds for an ombudsman complaint.
 - **נטל ההוכחה** (netel hahochacha) — Burden of proof.
+- **ניגוד עניינים** (nigud inyanim) — Conflict of interest.
 - **נייר עמדה** (neyar emda) — Position paper (advocacy, written for one side).
 - **נספח** (nispach) — Attachment / exhibit.
+- **נציב תלונות הציבור** (netziv tlunot hatzibur) — Public Complaints Commissioner: the State Comptroller acting as ombudsman.
+- **סילוק על הסף** (siluk al hasaf) — Dismissal in limine, without examining the merits.
 - **סימוכין** (simuchin) — Reference numbers of earlier letters.
+- **סמכויות עזר** (samchuyot ezer) — Ancillary powers reasonably needed to carry out a granted power (Interpretation Law s. 17).
 - **סמכות עניינית** (samchut inyanit) — subject-matter jurisdiction.
+- **סמכות שיורית** (samchut shyurit) — The government's residual power to act for the state (Basic Law: The Government s. 32).
+- **סעד** (sa'ad) — Remedy: the act or order you ask for.
+- **סעד חלופי** (sa'ad chalufi) — Alternative remedy: another route the law provides, which must be used first.
 - **סעיף / סעיף קטן** (se'if / se'if katan) — section / subsection.
 - **ספר החוקים** (Sefer HaHukim) — The gazette series for Knesset laws (cited ס״ח).
 - **ספרות משפטית** (sifrut mishpatit) — Legal literature (books and articles).
 - **עורך דין** (orech din) — lawyer (advocate) licensed by the Israel Bar Association.
 - **עותר / משיב** (oter / meshiv) — petitioner / respondent.
+- **עותר ציבורי** (oter tziburi) — Public petitioner, acting without a personal interest on a matter of public importance.
+- **עילת הסבירות** (ilat hasvirut) — The reasonableness ground of judicial review.
+- **עיקרי טיעון** (ikarei ti'un) — Skeleton arguments.
 - **על אף / בכפוף ל…** (al af / bechafuf le…) — notwithstanding / subject to.
+- **עקרון חוקיות המינהל** (ikron chukiyut haminhal) — The principle of administrative legality: an authority may act only under a power given by law.
 - **ערכאה** (ercha'a) — instance: the level of a court.
 - **ערכאה קודמת** (ercaa kodemet) — The lower court whose decision is under appeal.
 - **ערעור / רשות ערעור** (ir'ur / reshut ir'ur) — appeal / leave to appeal.
+- **עתירה מינהלית** (atira minhalit) — Administrative petition to a District Court sitting as an Administrative Court.
+- **עתירה תאורטית** (atira te'oretit) — A theoretical (moot) petition.
 - **פ״ד** (piskei din) — The official law reports of the Supreme Court.
+- **פגם** (pgam) — Legal defect in an administrative decision.
+- **פטור מאגרה** (ptor me'agra) — Fee exemption (FOI fees or court fees).
 - **פנייה** (pniya) — Request or letter to an authority.
+- **פנייה מוקדמת** (pniya mukdemet) — Prior written request to the authority before filing a petition.
+- **פניית ציבור למבקר המדינה** (pniyat tzibur lemevaker hamedina) — Public inquiry to the State Comptroller: general information, not a personal complaint.
 - **פסק דין** (psak din) — Judgment: the final decision in a case.
 - **פסק דין / החלטה** (psak din / hachlata) — judgment / decision (interim or procedural).
 - **פסקה / פסקת משנה** (piska / piskat mishne) — paragraph / sub-paragraph.
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause in a Basic Law.
 - **פקודה** (pkuda) — ordinance: a law from the British Mandate period or the first months of the state.
+- **צד שלישי** (tzad shlishi) — Third party whose information is requested, entitled to object (FOI Law s. 13).
+- **צו ארעי** (tzav ar'i) — Temporary order given before the other side responds.
+- **צו ביניים** (tzav beinayim) — Interim order until judgment.
+- **צו מוחלט** (tzav muchlat) — Final (absolute) order.
+- **צו על תנאי** (tzav al tnai) — Order nisi: an order to show cause.
 - **צו על תנאי / צו מוחלט** (tzav al tnai / tzav muchlat) — order nisi / order made absolute.
 - **קובץ התקנות** (Kovetz HaTakanot) — The gazette series for regulations and notices (cited ק״ת).
 - **רשאי / חייב** (rashai / chayav) — may (power) / must (duty).
 - **רשומות** (Reshumot) — The official gazette where laws and regulations are published.
+- **רשות ציבורית** (reshut tziburit) — Public authority, as defined in s. 2 of the FOI Law.
 - **שאלה משפטית / סוגיה** (she'ela mishpatit / sugya) — Legal issue: the question the reader must decide.
+- **שיהוי** (shihui) — Delay in filing a petition.
+- **שיקול דעת** (shikul da'at) — Discretion: the authority's choice within its power.
+- **שיקול זר** (shikul zar) — Extraneous consideration: one outside the purpose of the law.
+- **שפיטות** (shfitut) — Justiciability: whether a matter is suitable for a court to decide (normative and institutional).
+- **תגובה מקדמית** (tguva mukdemet) — Preliminary response ordered from a respondent.
 - **תוספת** (tosefet) — schedule at the end of a law.
 - **תחילה** (tchila) — Commencement: the date a provision takes effect.
 - **תיקון עקיף** (tikun akif) — Indirect amendment: a change made by a different law.
+- **תכלית החוק** (tachlit hachok) — The purpose of the law.
+- **תכלית ראויה** (tachlit re'uya) — Proper purpose (first proportionality test).
+- **תעודת חיסיון** (te'udat chisayon) — Privilege certificate signed by a minister (Evidence Ordinance s. 44).
 - **תצהיר** (tatzhir) — Affidavit: a written statement made after a warning to tell the truth.
+- **תצהיר תומך** (tatzhir tomech) — Supporting affidavit (Form 2).
 - **תקנות** (takanot) — regulations made by a minister under a power in a law.
