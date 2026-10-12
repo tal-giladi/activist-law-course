@@ -494,5 +494,5 @@ See `curriculum/course-details.md`:
 
 1. Repo: public (Tal, 2026-10-12).
 2. Title: "Activist Law: A Free Practical Course" (Tal, 2026-10-12). Never "degree" or "nano degree".
-3. **Certificate wording.** The suggestion is in `course-details.md`.
+3. Certificate wording: approved as in course-details.md (Tal, 2026-10-12).
 4. **Hebrew-only Academy translation later.** Prose is English. If Hebrew translation is switched on, the Hebrew quotes stay as they are.
