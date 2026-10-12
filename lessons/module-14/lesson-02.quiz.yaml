@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A disability-rights group wants the CRPD to question Israel about accessible public transport.
+    The OHCHR database shows the next list of issues prior to reporting expected in 2034. What is the
+    most useful step now?
+  options:
+    - >-
+      File a complaint with the CRPD, since the next review is too far away.
+    - >-
+      Ask the Ministry of Justice to consult it on the next state report.
+    - >-
+      Send a full shadow report today so that it is first in the committee's file.
+    - >-
+      Wait until 2038, when the committee meets the Israeli delegation.
+  correct: 1
+  explanation: >-
+    Israel accepted no complaint procedure, and a report sent years early will not be used. The
+    Ministry of Justice invites NGO comments on its draft reports; meanwhile the group can use the
+    2023 concluding observations and the UPR.
+- id: q2
+  question: >-
+    Under the simplified reporting procedure, why is input to the list of issues prior to reporting
+    (LOIPR) so important?
+  options:
+    - >-
+      Israel's answers to the list become its report, so issues left out may never be raised.
+    - >-
+      The LOIPR is the only stage at which the committee reads civil-society material.
+    - >-
+      The LOIPR is a binding order that Israel must obey within a year.
+    - >-
+      Only the LOIPR stage is open to NGOs without UN consultative status.
+  correct: 0
+  explanation: >-
+    In the simplified procedure the state reports by answering the LOIPR. A topic missing from the
+    list is unlikely to be in the report or the dialogue, though shadow reports remain welcome later.
+- id: q3
+  question: >-
+    A group has a moving testimony from a detainee's mother and wants to put her full name in a
+    shadow report to the CAT. What should it do first?
+  options:
+    - >-
+      Nothing special; shadow reports are always kept confidential by OHCHR.
+    - >-
+      Send her name only to the Israeli delegation, which handles sensitive details.
+    - >-
+      Get her written consent, or anonymise, and ask for confidentiality before sending if needed.
+    - >-
+      Publish the testimony on social media first, so the committee can verify it.
+  correct: 2
+  explanation: >-
+    Submissions are usually posted publicly. Consent comes first; if there is risk, anonymise and ask
+    OHCHR in advance to keep the submission or the details confidential.
+- id: q4
+  question: >-
+    In December 2025 the CAT asked Israel for follow-up information on four priority recommendations
+    by 28 November 2026. Your organisation monitors one of those issues. What can you do?
+  options:
+    - >-
+      Nothing until 2029; NGOs may only submit before a periodic review.
+    - >-
+      Appeal the concluding observations to the Human Rights Council.
+    - >-
+      Ask the High Court to order Israel to file its follow-up report on time.
+    - >-
+      Send the committee short follow-up information on whether Israel acted on it.
+  correct: 3
+  explanation: >-
+    The follow-up procedure accepts information from other sources; the OHCHR database lists such
+    submissions. Short, factual and tied to the specific recommendation works best.

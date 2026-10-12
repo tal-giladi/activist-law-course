@@ -1,0 +1,1944 @@
+# Module 14 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m14-001
+  module: 14
+  lesson: "14.1"
+  subject: treaties-ratified
+  difficulty: 1
+  question: >-
+    Which of these UN human-rights treaties has Israel NOT ratified?
+  options:
+    - >-
+      The Convention on the Rights of Persons with Disabilities.
+    - >-
+      The Convention against Torture (CAT).
+    - >-
+      The Convention on Enforced Disappearance (CED).
+    - >-
+      The Convention on Racial Discrimination (CERD).
+  correct: 2
+  explanation: >-
+    Israel ratified CERD, ICCPR, ICESCR, CEDAW, CAT, CRC and CRPD. It is not a party to the CED, the
+    Migrant Workers Convention, OPCAT or the ICCPR's Second Optional Protocol.
+- id: m14-002
+  module: 14
+  lesson: "14.1"
+  subject: treaties-ratified
+  difficulty: 1
+  question: >-
+    In which year did Israel ratify the ICCPR, ICESCR, CEDAW, CAT and CRC?
+  options:
+    - >-
+      1991, all on 3 October.
+    - >-
+      1966, when the Covenants were adopted.
+    - >-
+      1979, on the same day as CERD.
+    - >-
+      2012, together with the CRPD.
+  correct: 0
+  explanation: >-
+    All five were ratified on 3 October 1991. CERD was ratified in 1979 and the CRPD in 2012.
+- id: m14-003
+  module: 14
+  lesson: "14.1"
+  subject: treaties-ratified
+  difficulty: 1
+  question: >-
+    Which committee monitors Israel's compliance with the ICCPR?
+  options:
+    - >-
+      The Human Rights Council in Geneva.
+    - >-
+      The Committee on Economic, Social and Cultural Rights.
+    - >-
+      The International Court of Justice.
+    - >-
+      The Human Rights Committee (CCPR).
+  correct: 3
+  explanation: >-
+    Each treaty has its own expert committee. The ICCPR's is the Human Rights Committee, not the
+    Human Rights Council, which is a political body of states.
+- id: m14-004
+  module: 14
+  lesson: "14.1"
+  subject: treaties-ratified
+  difficulty: 2
+  question: >-
+    A youth movement wants to cite the CRC's optional protocol on children in armed conflict. What
+    should its treaty map record?
+  options:
+    - >-
+      Israel signed but never ratified it, so it cannot be cited.
+    - >-
+      Israel ratified that protocol in 2005, so it can be cited.
+    - >-
+      Only the CRC itself binds Israel, never its protocols.
+    - >-
+      It binds Israel only if the Knesset enacted it as a law.
+  correct: 1
+  explanation: >-
+    Israel ratified the CRC optional protocols on children in armed conflict (2005) and on the sale
+    of children (2008), but not the third protocol on communications.
+- id: m14-005
+  module: 14
+  lesson: "14.1"
+  subject: reservations
+  difficulty: 1
+  question: >-
+    What is the common subject of Israel's reservations to ICCPR art. 23, CEDAW art. 16 and CRPD
+    art. 23(1)(a)?
+  options:
+    - >-
+      Administrative detention of security suspects.
+    - >-
+      Religious personal-status law on marriage and family.
+    - >-
+      Restrictions on freedom of expression in wartime.
+    - >-
+      Land ownership, planning and building permits.
+  correct: 1
+  explanation: >-
+    All three reservations keep the personal-status laws of the religious communities where they
+    conflict with the treaty.
+- id: m14-006
+  module: 14
+  lesson: "14.1"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    Israel declared that it does not recognise the competence of the Committee against Torture under
+    art. 20. What does that exclude?
+  options:
+    - >-
+      Israel's duty to send periodic reports to the Committee.
+    - >-
+      The Committee's power to adopt concluding observations.
+    - >-
+      NGOs' right to send shadow reports to the Committee.
+    - >-
+      The Committee's confidential inquiry procedure.
+  correct: 3
+  explanation: >-
+    Article 20 is the inquiry procedure. Israel still reports under art. 19 and is reviewed; shadow
+    reports remain open.
+- id: m14-007
+  module: 14
+  lesson: "14.1"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    Spot the mistake in this shadow-report sentence: "Israel breaches CEDAW art. 7(b), which binds
+    it fully, by barring women from serving as rabbinical-court judges."
+  options:
+    - >-
+      Israel reserved on art. 7(b) for religious-court judges.
+    - >-
+      CEDAW does not deal with women in public life at all.
+    - >-
+      Israel never ratified CEDAW, so no article binds it.
+    - >-
+      Article 7(b) concerns nationality, not public office.
+  correct: 0
+  explanation: >-
+    Israel reserved on art. 7(b) regarding women as judges of religious courts. A credible report
+    names the reservation and argues from unreserved articles.
+- id: m14-008
+  module: 14
+  lesson: "14.1"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    What did Israel notify under ICCPR art. 4 when it ratified the Covenant?
+  options:
+    - >-
+      A reservation excluding art. 19 on freedom of expression.
+    - >-
+      A declaration accepting individual complaints by detainees.
+    - >-
+      A derogation from art. 9, based on the 1948 state of emergency.
+    - >-
+      A withdrawal from art. 2 for all areas outside Israel.
+  correct: 2
+  explanation: >-
+    Israel notified that the state of emergency proclaimed in May 1948 is a public emergency and
+    that it derogates from art. 9 (arrest and detention) to the extent its measures are
+    inconsistent.
+- id: m14-009
+  module: 14
+  lesson: "14.1"
+  subject: individual-complaints
+  difficulty: 1
+  question: >-
+    Can an Israeli citizen file an individual complaint against Israel with the UN Human Rights
+    Committee?
+  options:
+    - >-
+      Yes, after exhausting all remedies in the Supreme Court.
+    - >-
+      Yes, but only with the Attorney General's permission.
+    - >-
+      Only if the complaint concerns the death penalty.
+    - >-
+      No; Israel never ratified the First Optional Protocol.
+  correct: 3
+  explanation: >-
+    Individual complaints require the optional protocol or a declaration. Israel accepted none of
+    them, for any committee.
+- id: m14-010
+  module: 14
+  lesson: "14.1"
+  subject: individual-complaints
+  difficulty: 2
+  question: >-
+    A migrant worker from the Philippines says her employer in Israel abused her and the authorities
+    ignored it. Which UN route is NOT available to her?
+  options:
+    - >-
+      A communication to the Special Rapporteur on trafficking.
+    - >-
+      Information for a shadow report to the CEDAW Committee.
+    - >-
+      An individual complaint to the CEDAW Committee.
+    - >-
+      A stakeholder submission to Israel's next UPR.
+  correct: 2
+  explanation: >-
+    Israel did not ratify CEDAW's optional protocol, so no individual complaint is possible. Special
+    Procedures, shadow reports and the UPR remain open.
+- id: m14-011
+  module: 14
+  lesson: "14.1"
+  subject: individual-complaints
+  difficulty: 3
+  question: >-
+    A lawyer argues that because the CAT invited Israel in 2025 to make the art. 22 declaration, the
+    Committee can already hear complaints against Israel. Is he right?
+  options:
+    - >-
+      Yes; the invitation takes effect automatically after a year.
+    - >-
+      No; an invitation is not a declaration, and Israel made none.
+    - >-
+      Yes; concluding observations oblige Israel to accept them.
+    - >-
+      No; but complaints can go to CERD under its art. 14 instead.
+  correct: 1
+  explanation: >-
+    Complaints under CAT art. 22 depend on the state's own declaration. Israel has not made it, nor
+    the CERD art. 14 declaration.
+- id: m14-012
+  module: 14
+  lesson: "14.1"
+  subject: territorial-scope
+  difficulty: 2
+  question: >-
+    According to its 5th ICCPR report, what is Israel's position on where the Covenant applies?
+  options:
+    - >-
+      On Israel's national territory, not beyond it.
+    - >-
+      Everywhere Israel exercises effective control.
+    - >-
+      Only in East Jerusalem and the Golan Heights.
+    - >-
+      In wartime, only through humanitarian law.
+  correct: 0
+  explanation: >-
+    Israel's report (2019, paras 22–24) says the Covenant is territorially bound and was not
+    intended to apply beyond national territory, while noting that its courts refer to it in West
+    Bank cases.
+- id: m14-013
+  module: 14
+  lesson: "14.1"
+  subject: territorial-scope
+  difficulty: 2
+  question: >-
+    What did the Committee against Torture say in December 2025 about the Convention's territorial
+    scope?
+  options:
+    - >-
+      It applies wherever Israel has jurisdiction, including the OPT.
+    - >-
+      It applies only inside the Green Line, as Israel argues.
+    - >-
+      It applies in the West Bank only in times of peace.
+    - >-
+      It does not apply where humanitarian law applies.
+  correct: 0
+  explanation: >-
+    In CAT/C/ISR/CO/6, paras 8–9, the Committee regretted Israel's position and reaffirmed that the
+    Convention applies to all territory under its jurisdiction, including in armed conflict and
+    occupation.
+- id: m14-014
+  module: 14
+  lesson: "14.1"
+  subject: territorial-scope
+  difficulty: 3
+  question: >-
+    A settlers' local council and a Palestinian village council both write to a UN committee about
+    access to water in the same area. How should each handle the scope question?
+  options:
+    - >-
+      The settlers' council should argue the treaty does not apply.
+    - >-
+      State both positions, attributed, then move to the facts.
+    - >-
+      The village council should omit Israel's view as irrelevant.
+    - >-
+      Both should avoid the area and write about Israel proper.
+  correct: 1
+  explanation: >-
+    Neutral attribution keeps each submission credible to every reader. Arguing scope at length
+    distracts from the facts the committee needs.
+- id: m14-015
+  module: 14
+  lesson: "14.1"
+  subject: domestic-status
+  difficulty: 2
+  question: >-
+    Can a petitioner ask an Israeli court to enforce the CRPD as a statute?
+  options:
+    - >-
+      Yes; ratified treaties are automatically Israeli law.
+    - >-
+      Yes, but only before the High Court of Justice.
+    - >-
+      No; it is not enacted, but it guides interpretation.
+    - >-
+      No; courts may never refer to unenacted treaties.
+  correct: 2
+  explanation: >-
+    Treaties are not part of Israeli law unless legislated; courts use the presumption of
+    compatibility (lesson 13.5).
+- id: m14-016
+  module: 14
+  lesson: "14.1"
+  subject: domestic-status
+  difficulty: 3
+  question: >-
+    A group wants one document both for the UN and for a High Court petition. Which approach is
+    sound?
+  options:
+    - >-
+      Present the treaty as binding Israeli law in both forums.
+    - >-
+      Leave international law out of the petition entirely.
+    - >-
+      Ask the Court to apply the committee's recommendations as orders.
+    - >-
+      Keep the UN treaty argument apart from the domestic one.
+  correct: 3
+  explanation: >-
+    At the UN the treaty is the yardstick; in an Israeli court it works through the presumption of
+    compatibility, not as a direct cause of action.
+- id: m14-017
+  module: 14
+  lesson: "14.1"
+  subject: treaties-ratified
+  difficulty: 1
+  question: >-
+    Where do you check Israel's signature, ratification and reservations for a UN treaty?
+  options:
+    - >-
+      Only the Knesset's national legislation database.
+    - >-
+      The website of the Human Rights Council.
+    - >-
+      The UN Treaty Collection and the OHCHR database.
+    - >-
+      The Ministry of Justice's annual activity report.
+  correct: 2
+  explanation: >-
+    The UN Treaty Collection gives dates and the full text of reservations; the OHCHR database gives
+    ratification status and reporting cycles.
+- id: m14-018
+  module: 14
+  lesson: "14.2"
+  subject: reporting-cycle
+  difficulty: 1
+  question: >-
+    What are "concluding observations"?
+  options:
+    - >-
+      A committee's findings and recommendations on a state.
+    - >-
+      The state's final reply to an individual complaint.
+    - >-
+      A Human Rights Council resolution about a country.
+    - >-
+      The NGO summary that OHCHR prepares for the UPR.
+  correct: 0
+  explanation: >-
+    After the dialogue with the state delegation, the committee publishes concluding observations:
+    concerns and recommendations.
+- id: m14-019
+  module: 14
+  lesson: "14.2"
+  subject: reporting-cycle
+  difficulty: 1
+  question: >-
+    What is a "list of issues prior to reporting" (LOIPR)?
+  options:
+    - >-
+      A list of the NGOs allowed to attend the review.
+    - >-
+      The agenda of the next Human Rights Council session.
+    - >-
+      The list of the state's reservations to the treaty.
+    - >-
+      Questions the state answers instead of a full report.
+  correct: 3
+  explanation: >-
+    Under the simplified procedure the committee sends a LOIPR first, and the state's replies form
+    its periodic report.
+- id: m14-020
+  module: 14
+  lesson: "14.2"
+  subject: reporting-cycle
+  difficulty: 2
+  question: >-
+    Why does the simplified reporting procedure make early civil-society input more important?
+  options:
+    - >-
+      It cancels the public dialogue with the delegation.
+    - >-
+      Topics missing from the LOIPR may never be raised.
+    - >-
+      It lets NGOs replace the state's report with theirs.
+    - >-
+      It makes the concluding observations legally binding.
+  correct: 1
+  explanation: >-
+    The state reports by answering the LOIPR, so the list largely sets the agenda of the review.
+- id: m14-021
+  module: 14
+  lesson: "14.2"
+  subject: israel-calendar
+  difficulty: 1
+  question: >-
+    When did the Committee against Torture last review Israel?
+  options:
+    - >-
+      In May 2023, together with the UPR.
+    - >-
+      In November 2025, at its 83rd session.
+    - >-
+      In March 2022, at its 134th session.
+    - >-
+      In September 2024, at its 97th session.
+  correct: 1
+  explanation: >-
+    The CAT reviewed Israel's 6th report on 11–12 November 2025 and adopted CAT/C/ISR/CO/6 on 25
+    November 2025. The 134th session was the Human Rights Committee's; the 97th was the CRC's.
+- id: m14-022
+  module: 14
+  lesson: "14.2"
+  subject: israel-calendar
+  difficulty: 2
+  question: >-
+    According to the OHCHR database in October 2026, what is the status of Israel's CERD report that
+    was due on 2 February 2024?
+  options:
+    - >-
+      It was reviewed at the 100th session.
+    - >-
+      It was replaced by a UPR submission.
+    - >-
+      It was submitted and published in 2025.
+    - >-
+      It is not shown as submitted.
+  correct: 3
+  explanation: >-
+    The 100th session (2019) reviewed the combined 17th–19th reports. The 20th–23rd reports, due in
+    February 2024, are not shown as submitted.
+- id: m14-023
+  module: 14
+  lesson: "14.2"
+  subject: israel-calendar
+  difficulty: 2
+  question: >-
+    Israel's 7th CEDAW report was submitted in October 2025. Which stage is next for civil society?
+  options:
+    - >-
+      A shadow report for the review, expected in 2027.
+    - >-
+      Input to the list of issues prior to reporting.
+    - >-
+      An individual complaint, since the report was late.
+    - >-
+      Comments to the Ministry of Justice on its draft.
+  correct: 0
+  explanation: >-
+    The LOIPR and the draft stage are over once the report is submitted. The database lists the
+    review for the 94th session (2027, to be confirmed).
+- id: m14-024
+  module: 14
+  lesson: "14.2"
+  subject: israel-calendar
+  difficulty: 2
+  question: >-
+    How do you find the civil-society deadline for a committee session?
+  options:
+    - >-
+      By asking the Foreign Ministry to send it to you.
+    - >-
+      From the treaty text, which fixes every deadline.
+    - >-
+      From the session page's note for civil society.
+    - >-
+      From the UPR deadline, which applies to all bodies.
+  correct: 2
+  explanation: >-
+    Each committee sets its own deadlines per session; the session page and its civil-society note
+    give them.
+- id: m14-025
+  module: 14
+  lesson: "14.2"
+  subject: israel-calendar
+  difficulty: 3
+  question: >-
+    A disability group sees that the CRPD's next LOIPR for Israel is expected in September 2034.
+    What is the best use of its effort in 2026–2028?
+  options:
+    - >-
+      Send a full shadow report now so it is on file early.
+    - >-
+      File an individual complaint, as the review is far off.
+    - >-
+      Wait until 2034; the CRPD accepts nothing before then.
+    - >-
+      Use the 2023 findings at home and target the next UPR.
+  correct: 3
+  explanation: >-
+    A report sent years early will not be used. The 2023 COs can be quoted in Israeli advocacy now,
+    and the UPR stakeholder deadline is expected around late 2027.
+- id: m14-026
+  module: 14
+  lesson: "14.2"
+  subject: shadow-report-writing
+  difficulty: 1
+  question: >-
+    Who may send a shadow report to a UN treaty body?
+  options:
+    - >-
+      Only NGOs with ECOSOC consultative status.
+    - >-
+      Only amutot with a proper-management certificate.
+    - >-
+      Anyone, including individuals and informal groups.
+    - >-
+      Only organisations the government has invited.
+  correct: 2
+  explanation: >-
+    No UN accreditation is needed for treaty-body submissions.
+- id: m14-027
+  module: 14
+  lesson: "14.2"
+  subject: shadow-report-writing
+  difficulty: 2
+  question: >-
+    Why should a shadow report follow the treaty article by article?
+  options:
+    - >-
+      Because committees reject reports in any other order.
+    - >-
+      So members can match each point to the state report.
+    - >-
+      Because the treaty text requires NGOs to use that order.
+    - >-
+      So that the report is allowed to exceed the page limit.
+  correct: 1
+  explanation: >-
+    Members review the state report article by article; matching that structure makes your
+    information easy to use.
+- id: m14-028
+  module: 14
+  lesson: "14.2"
+  subject: shadow-report-writing
+  difficulty: 2
+  question: >-
+    Spot the weakness in this shadow-report section: "The situation of asylum seekers is terrible
+    and Israel must respect human rights."
+  options:
+    - >-
+      No article, facts, question or recommendation.
+    - >-
+      It should be in Hebrew, like the state's report.
+    - >-
+      Asylum seekers are outside every UN treaty.
+    - >-
+      It is too short; sections need five pages.
+  correct: 0
+  explanation: >-
+    A usable section names the article, quotes Israel's report, gives sourced facts, and ends in a
+    question and a recommendation.
+- id: m14-029
+  module: 14
+  lesson: "14.2"
+  subject: shadow-report-writing
+  difficulty: 3
+  question: >-
+    Your group's shadow report on detention conditions must engage with Israel's own account. What
+    does that mean in practice?
+  options:
+    - >-
+      Quote Israel's paragraph and answer it with sourced facts.
+    - >-
+      Have the Ministry of Justice approve your text first.
+    - >-
+      Leave out every issue that Israel's report covers.
+    - >-
+      Copy Israel's statistics without comment, to look neutral.
+  correct: 0
+  explanation: >-
+    Answering the state's own paragraphs shows the gap and makes the report hard to dismiss as
+    one-sided.
+- id: m14-030
+  module: 14
+  lesson: "14.2"
+  subject: submission-rules
+  difficulty: 1
+  question: >-
+    Through which channel do NGOs send written input to the Committee on the Rights of the Child?
+  options:
+    - >-
+      The UPR system at uprdoc.ohchr.org.
+    - >-
+      The Child Rights Connect platform.
+    - >-
+      The Special Procedures online form.
+    - >-
+      The National Council for the Child.
+  correct: 1
+  explanation: >-
+    The CRC is the exception: NGO written input goes through Child Rights Connect. Other committees
+    use the OHCHR platform or the secretariat.
+- id: m14-031
+  module: 14
+  lesson: "14.2"
+  subject: submission-rules
+  difficulty: 2
+  question: >-
+    Your group writes its shadow report in Hebrew. What does it need to add?
+  options:
+    - >-
+      A certified translation of the full report.
+    - >-
+      An affidavit confirming the translation.
+    - >-
+      An English summary of up to two pages.
+    - >-
+      Nothing; committees work in Hebrew too.
+  correct: 2
+  explanation: >-
+    Committees work in English, French and Spanish. ISHR advises adding an English summary of up to
+    two pages to a submission in another language.
+- id: m14-032
+  module: 14
+  lesson: "14.2"
+  subject: submission-rules
+  difficulty: 2
+  question: >-
+    A group fears its staff will be harassed if its shadow report is published under its name. What
+    should it do?
+  options:
+    - >-
+      Send the report from a false name and e-mail address.
+    - >-
+      Post the report on social media instead of sending it.
+    - >-
+      Nothing; treaty-body submissions are never published.
+    - >-
+      Ask OHCHR for confidentiality before sending it.
+  correct: 3
+  explanation: >-
+    Submissions are usually public. Confidentiality must be requested before sending; a false
+    identity undermines credibility.
+- id: m14-033
+  module: 14
+  lesson: "14.2"
+  subject: follow-up
+  difficulty: 2
+  question: >-
+    What is the follow-up procedure after concluding observations?
+  options:
+    - >-
+      The committee visits the state to check every point.
+    - >-
+      The Council votes to enforce the recommendations.
+    - >-
+      The state reports in about a year on a few priorities.
+    - >-
+      NGOs appeal the observations to the General Assembly.
+  correct: 2
+  explanation: >-
+    Committees pick two to four priority recommendations and ask for a follow-up report, usually
+    after a year. CAT asked Israel for one by 28 November 2026.
+- id: m14-034
+  module: 14
+  lesson: "14.2"
+  subject: follow-up
+  difficulty: 3
+  question: >-
+    Israel's follow-up report to the Human Rights Committee was published on 25 September 2026. How
+    can a civil-liberties group use this?
+  options:
+    - >-
+      Send short information on whether Israel acted on them.
+    - >-
+      Ask the Committee to reopen the 2022 dialogue at once.
+    - >-
+      File an individual complaint based on the follow-up.
+    - >-
+      Wait for the next UPR, since follow-up is closed to NGOs.
+  correct: 0
+  explanation: >-
+    Committees accept follow-up information from other sources; the OHCHR database lists such
+    submissions for Israel.
+- id: m14-035
+  module: 14
+  lesson: "14.2"
+  subject: reporting-cycle
+  difficulty: 2
+  question: >-
+    A ministry official says NGOs can only comment once a report reaches Geneva. What can you
+    answer?
+  options:
+    - >-
+      Treaty bodies forbid states from consulting NGOs.
+    - >-
+      NGOs may comment only on concluding observations.
+    - >-
+      Comments go only through Knesset committees.
+    - >-
+      The MoJ invites NGO comments before writing reports.
+  correct: 3
+  explanation: >-
+    Israel's 5th ICCPR report (paras 2, 32–33) describes inviting NGOs to comment before compiling
+    reports and posting a general invitation.
+- id: m14-036
+  module: 14
+  lesson: "14.3"
+  subject: upr-process
+  difficulty: 1
+  question: >-
+    Who makes recommendations to Israel in the Universal Periodic Review?
+  options:
+    - >-
+      Independent experts of the treaty bodies.
+    - >-
+      Other states, in the Working Group dialogue.
+    - >-
+      OHCHR staff who summarise NGO submissions.
+    - >-
+      The President of the Council, acting alone.
+  correct: 1
+  explanation: >-
+    The UPR is a peer review: states make recommendations in the Working Group.
+- id: m14-037
+  module: 14
+  lesson: "14.3"
+  subject: upr-process
+  difficulty: 1
+  question: >-
+    Which three documents is every UPR review based on?
+  options:
+    - >-
+      The state report, ICJ opinions and Security Council resolutions.
+    - >-
+      The national report, a UN compilation, a stakeholder summary.
+    - >-
+      Three reports by NGOs that are chosen by lot.
+    - >-
+      The treaty bodies' concluding observations, and nothing else.
+  correct: 1
+  explanation: >-
+    HRC res. 5/1, para. 15: national report, OHCHR compilation of UN information, and OHCHR summary
+    of stakeholder submissions.
+- id: m14-038
+  module: 14
+  lesson: "14.3"
+  subject: upr-process
+  difficulty: 1
+  question: >-
+    What does it mean when Israel "supports" a UPR recommendation?
+  options:
+    - >-
+      A court can now enforce it against Israel.
+    - >-
+      The recommendation is enacted as law at once.
+    - >-
+      Israel agrees with it but will take no action.
+    - >-
+      Israel commits to it and can be held to it.
+  correct: 3
+  explanation: >-
+    Supported recommendations are political commitments, not law. They are what activists hold the
+    government to.
+- id: m14-039
+  module: 14
+  lesson: "14.3"
+  subject: upr-process
+  difficulty: 2
+  question: >-
+    How long does the interactive dialogue in the UPR Working Group take?
+  options:
+    - >-
+      About three and a half hours.
+    - >-
+      One full week of public hearings.
+    - >-
+      Fifteen minutes for each speaking state.
+    - >-
+      None; the process is written only.
+  correct: 0
+  explanation: >-
+    Each state's review is a public dialogue of about three and a half hours, broadcast on UN Web
+    TV.
+- id: m14-040
+  module: 14
+  lesson: "14.3"
+  subject: upr-israel-record
+  difficulty: 1
+  question: >-
+    When was Israel's 4th-cycle UPR review held?
+  options:
+    - >-
+      In January 2018, at the 29th session.
+    - >-
+      In October 2013, at the 17th session.
+    - >-
+      On 9 May 2023, at the 43rd session.
+    - >-
+      In November 2025, with the CAT review.
+  correct: 2
+  explanation: >-
+    The 4th-cycle review was on 9 May 2023; the outcome was adopted on 3 October 2023.
+- id: m14-041
+  module: 14
+  lesson: "14.3"
+  subject: upr-israel-record
+  difficulty: 2
+  question: >-
+    In the 4th cycle, how did Israel respond to the 320 recommendations it received?
+  options:
+    - >-
+      It rejected all of them as one-sided.
+    - >-
+      All supported except those on settlements.
+    - >-
+      It noted all of them and supported none.
+    - >-
+      156 supported, 154 noted, 10 clarified.
+  correct: 3
+  explanation: >-
+    The Council's Vice-President reported 156 supported, 154 noted and 10 with additional
+    clarification (UN Geneva, 3 October 2023).
+- id: m14-042
+  module: 14
+  lesson: "14.3"
+  subject: upr-israel-record
+  difficulty: 2
+  question: >-
+    What happened in Israel's 2nd UPR cycle in January 2013?
+  options:
+    - >-
+      Israel was suspended from the UN for missing its review.
+    - >-
+      The review went ahead without Israel and was final.
+    - >-
+      Israel did not appear; the review moved to October 2013.
+    - >-
+      Israel asked for and received a permanent exemption.
+  correct: 2
+  explanation: >-
+    Israel had suspended its relations with the Council in 2012 and was the first state to miss its
+    review. It was reviewed on 29 October 2013.
+- id: m14-043
+  module: 14
+  lesson: "14.3"
+  subject: upr-israel-record
+  difficulty: 3
+  question: >-
+    At the 2023 adoption, what did Israel's delegation say about the Council, and how should a
+    neutral report present it?
+  options:
+    - >-
+      It left the UPR; report that the outcome is void.
+    - >-
+      It protested bias, citing item 7; quote and attribute it.
+    - >-
+      It praised item 7; report that the dispute is over.
+    - >-
+      It said nothing; report only other states' views.
+  correct: 1
+  explanation: >-
+    Per the UN Geneva summary, Israel recognised the role of international mechanisms but protested
+    institutional bias. Neutral writing quotes and attributes it.
+- id: m14-044
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 1
+  question: >-
+    What is the word limit for a UPR submission by a single organisation?
+  options:
+    - >-
+      2,815 words.
+    - >-
+      5,630 words.
+    - >-
+      10 pages.
+    - >-
+      No limit.
+  correct: 0
+  explanation: >-
+    The OHCHR technical guidelines set 2,815 words for individual submissions and 5,630 for
+    coalitions.
+- id: m14-045
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 1
+  question: >-
+    In what file format must a UPR stakeholder submission be uploaded?
+  options:
+    - >-
+      A Word document.
+    - >-
+      A signed PDF file.
+    - >-
+      An Excel matrix.
+    - >-
+      Any format at all.
+  correct: 0
+  explanation: >-
+    The technical guidelines say written submissions should be saved as a Word document only.
+- id: m14-046
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 2
+  question: >-
+    Through which channel are UPR stakeholder submissions sent?
+  options:
+    - >-
+      E-mail to Israel's Geneva mission.
+    - >-
+      The online system, uprdoc.ohchr.org.
+    - >-
+      The Special Procedures online form.
+    - >-
+      The treaty bodies' NGO platform.
+  correct: 1
+  explanation: >-
+    The guidelines require the online system, by 23:59 on the deadline day.
+- id: m14-047
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 2
+  question: >-
+    Which parts of the OHCHR technical guidelines are binding?
+  options:
+    - >-
+      Only the advice on content and style.
+    - >-
+      None; all of them are only advisory.
+    - >-
+      The form and deadline rules.
+    - >-
+      Only the rule on which languages to use.
+  correct: 2
+  explanation: >-
+    Form (length, format, identification, language) and deadlines are binding; submissions that
+    break them are not considered.
+- id: m14-048
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 2
+  question: >-
+    Do footnotes count towards the UPR word limit?
+  options:
+    - >-
+      Yes, every word counts, even the cover.
+    - >-
+      No, so put key arguments in footnotes.
+    - >-
+      Yes, and footnote words count double.
+    - >-
+      No, but OHCHR's summary ignores them.
+  correct: 3
+  explanation: >-
+    Footnotes are outside the limit but ignored in the summary, so key facts belong in the main
+    text.
+- id: m14-049
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 3
+  question: >-
+    A coalition asks to correct a number in its UPR submission a week after the deadline. What
+    happens?
+  options:
+    - >-
+      OHCHR swaps the file if the error is explained.
+    - >-
+      A second version may be sent within 30 days.
+    - >-
+      Revisions are in principle not accepted.
+    - >-
+      The fix is accepted if Israel agrees to it.
+  correct: 2
+  explanation: >-
+    The guidelines say written submissions should be final and revisions cannot in principle be
+    accommodated.
+- id: m14-050
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 2
+  question: >-
+    Is a UPR submission confidential?
+  options:
+    - >-
+      No; it is published with the submitter's name.
+    - >-
+      Yes, unless the submitter asks to publish it.
+    - >-
+      Only joint submissions are ever published.
+    - >-
+      Yes; only OHCHR's summary becomes public.
+  correct: 0
+  explanation: >-
+    The UPR is based on public documents. Mention individual cases only if no one's safety is at
+    risk.
+- id: m14-051
+  module: 14
+  lesson: "14.3"
+  subject: upr-submission-rules
+  difficulty: 3
+  question: >-
+    Spot the problem in this UPR submission plan: "Three pages listing Israel's treaties and every
+    committee recommendation since 2010, then our two recommendations."
+  options:
+    - >-
+      UPR submissions may not mention any treaty at all.
+    - >-
+      Committee recommendations must go in a photo annex.
+    - >-
+      It is too short; a submission must cover every treaty.
+    - >-
+      OHCHR already compiles UN findings; use first-hand facts.
+  correct: 3
+  explanation: >-
+    The guidelines ask stakeholders not to list ratifications and treaty-body recommendations, which
+    appear in the UN compilation.
+- id: m14-052
+  module: 14
+  lesson: "14.3"
+  subject: upr-advocacy
+  difficulty: 2
+  question: >-
+    Which recommendation is most likely to be taken up by a state in the Working Group?
+  options:
+    - >-
+      "Respect the rights of all persons with disabilities."
+    - >-
+      "Adopt by 2030 a plan to cut benefit waits to 30 days."
+    - >-
+      "Continue its efforts to improve the overall situation."
+    - >-
+      "Consider the concerns raised by its civil society."
+  correct: 1
+  explanation: >-
+    SMART recommendations — one action, a time frame, a measure — can be adopted word for word and
+    checked later.
+- id: m14-053
+  module: 14
+  lesson: "14.3"
+  subject: upr-advocacy
+  difficulty: 2
+  question: >-
+    What are UPR Info pre-sessions?
+  options:
+    - >-
+      Hearings where Israel answers NGOs directly.
+    - >-
+      Geneva meetings where NGOs brief diplomats.
+    - >-
+      The official opening of the Working Group.
+    - >-
+      OHCHR training for state delegations.
+  correct: 1
+  explanation: >-
+    Pre-sessions, held about a month before the review, let NGOs present recommendations to states.
+- id: m14-054
+  module: 14
+  lesson: "14.3"
+  subject: upr-advocacy
+  difficulty: 3
+  question: >-
+    A forum of hostages' families wants Israel to commit to long-term support for released hostages.
+    What UPR strategy fits?
+  options:
+    - >-
+      Ask the UPR to order Hamas to compensate the families.
+    - >-
+      Send a complaint about Hamas to the Working Group.
+    - >-
+      Skip the UPR, which covers only the territories.
+    - >-
+      SMART recommendations, then briefing interested states.
+  correct: 3
+  explanation: >-
+    The UPR reviews Israel's own obligations, so the forum's recommendations address the Israeli
+    state's support system.
+- id: m14-055
+  module: 14
+  lesson: "14.3"
+  subject: upr-israel-record
+  difficulty: 2
+  question: >-
+    Where can you find which state made each 2023 recommendation to Israel?
+  options:
+    - >-
+      The UHRI or UPR Info's database.
+    - >-
+      The Foreign Affairs and Defense Committee's protocols.
+    - >-
+      Israel's national report for the 4th cycle.
+    - >-
+      The CAT's latest concluding observations.
+  correct: 0
+  explanation: >-
+    The UHRI and UPR Info list every recommendation, the recommending state and Israel's position.
+- id: m14-056
+  module: 14
+  lesson: "14.3"
+  subject: upr-process
+  difficulty: 3
+  question: >-
+    Israel's 5th-cycle dates on UPR Info differ slightly between pages. How should your plan treat
+    the deadline?
+  options:
+    - >-
+      Use the latest date; OHCHR always grants extensions.
+    - >-
+      Ignore it; deadlines are set after the review.
+    - >-
+      As provisional, confirmed later on the OHCHR page.
+    - >-
+      Ask Israel's Geneva mission to fix it for you.
+  correct: 2
+  explanation: >-
+    UPR Info lists a stakeholder deadline around 1 November 2027 and a review around April–May 2028.
+    Only the OHCHR page is authoritative.
+- id: m14-057
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 1
+  question: >-
+    Who appoints the UN Special Rapporteurs and Working Groups?
+  options:
+    - >-
+      The treaty bodies jointly.
+    - >-
+      The UN Security Council.
+    - >-
+      The International Court.
+    - >-
+      The Human Rights Council.
+  correct: 3
+  explanation: >-
+    Special Procedures are Charter-based mechanisms created and appointed by the Human Rights
+    Council.
+- id: m14-058
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 1
+  question: >-
+    Must Israel have ratified a treaty for a Special Rapporteur to write to it?
+  options:
+    - >-
+      Yes; only ratified treaties count.
+    - >-
+      Yes, unless the Security Council agrees.
+    - >-
+      No; they cover every UN member.
+    - >-
+      No, but Israel must invite them first.
+  correct: 2
+  explanation: >-
+    Special Procedures do not depend on ratification, and no exhaustion of domestic remedies is
+    needed.
+- id: m14-059
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 2
+  question: >-
+    A Reform congregation's rabbi is barred from performing weddings and receives threats over his
+    activism. Which mandates fit a communication?
+  options:
+    - >-
+      The Working Group on Enforced Disappearances.
+    - >-
+      Freedom of religion, and human-rights defenders.
+    - >-
+      The Special Rapporteur on the right to food.
+    - >-
+      The Committee against Torture in Geneva.
+  correct: 1
+  explanation: >-
+    Choose thematic mandates that match the facts; a committee is not a Special Procedure.
+- id: m14-060
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 2
+  question: >-
+    When should you ask for a joint communication?
+  options:
+    - >-
+      When several mandates apply and joint action helps.
+    - >-
+      Always; single-mandate letters are not accepted.
+    - >-
+      Never; every mandate must be written to separately.
+    - >-
+      Only when the government itself requests one.
+  correct: 0
+  explanation: >-
+    ISHR advises sending to all relevant mandates and explaining why joint action helps.
+- id: m14-061
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 3
+  question: >-
+    A woman's brother has been held for weeks with no word of his whereabouts. Who may submit his
+    case to the Working Group on Enforced or Involuntary Disappearances?
+  options:
+    - >-
+      He, his family or their representatives.
+    - >-
+      Any journalist who reported the case.
+    - >-
+      Only the Israeli Public Defender.
+    - >-
+      Only an NGO with ECOSOC status.
+  correct: 0
+  explanation: >-
+    WGEID and WGAD accept cases only from the person concerned, the family or their representatives.
+- id: m14-062
+  module: 14
+  lesson: "14.4"
+  subject: sp-criteria
+  difficulty: 1
+  question: >-
+    Under the Code of Conduct, may a communication rely only on news reports?
+  options:
+    - >-
+      Yes, if the outlets are reputable ones.
+    - >-
+      No; not exclusively on media reports.
+    - >-
+      Yes, but only for urgent appeals.
+    - >-
+      No; media may not be mentioned at all.
+  correct: 1
+  explanation: >-
+    Art. 9(e) of the Code of Conduct. Media reports may support, but not be the only basis.
+- id: m14-063
+  module: 14
+  lesson: "14.4"
+  subject: sp-criteria
+  difficulty: 2
+  question: >-
+    When may mandate-holders use an urgent appeal?
+  options:
+    - >-
+      Whenever the sender marks the case urgent.
+    - >-
+      Only after the government failed to reply.
+    - >-
+      For a threat to life or grave imminent harm.
+    - >-
+      Only for cases already before an Israeli court.
+  correct: 2
+  explanation: >-
+    Code of Conduct art. 10: urgent appeals are for time-sensitive, very grave situations.
+- id: m14-064
+  module: 14
+  lesson: "14.4"
+  subject: sp-criteria
+  difficulty: 2
+  question: >-
+    Spot the problem in this communication: "The fascist police thugs brutally attacked peaceful
+    protesters, as everyone knows."
+  options:
+    - >-
+      Special Procedures cannot address police.
+    - >-
+      It is too short; ten pages are required.
+    - >-
+      It must go to the Security Council instead.
+    - >-
+      Abusive language, and no facts or sources.
+  correct: 3
+  explanation: >-
+    Code of Conduct art. 9(b) and (c): a factual description and no abusive language. Name dates,
+    places and sources instead.
+- id: m14-065
+  module: 14
+  lesson: "14.4"
+  subject: sp-criteria
+  difficulty: 2
+  question: >-
+    Who may send a letter of allegation under the Code of Conduct?
+  options:
+    - >-
+      Only lawyers who are members of the Israel Bar.
+    - >-
+      Only the victim personally, never an organisation.
+    - >-
+      A victim, or anyone in good faith with reliable knowledge.
+    - >-
+      Only states that are members of the Human Rights Council.
+  correct: 2
+  explanation: >-
+    Art. 9(d) allows victims and any person or group, including NGOs, acting in good faith with
+    direct or reliable knowledge.
+- id: m14-066
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 1
+  question: >-
+    How long can you keep a draft in the OHCHR Special Procedures online form?
+  options:
+    - >-
+      24 hours.
+    - >-
+      7 days.
+    - >-
+      30 days.
+    - >-
+      Indefinitely.
+  correct: 0
+  explanation: >-
+    After 24 hours the draft is lost, so write offline first.
+- id: m14-067
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 1
+  question: >-
+    In which languages are Special Procedures submissions accepted?
+  options:
+    - >-
+      Any UN language, or Hebrew.
+    - >-
+      English only, in every case.
+    - >-
+      Hebrew, for cases on Israel.
+    - >-
+      English, French or Spanish.
+  correct: 3
+  explanation: >-
+    ISHR: submissions must be in English, French or Spanish.
+- id: m14-068
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 2
+  question: >-
+    By default, does the experts' letter to the government include the victim's name?
+  options:
+    - >-
+      No; names are always removed from letters.
+    - >-
+      Yes, unless security concerns are made clear.
+    - >-
+      Only if the government asks for the names.
+    - >-
+      Only in urgent appeals, never otherwise.
+  correct: 1
+  explanation: >-
+    The OHCHR form explains that letters name victims by default; names may be withheld when
+    security concerns are made clear.
+- id: m14-069
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 2
+  question: >-
+    Whose names are never published in the Special Procedures' public reports?
+  options:
+    - >-
+      All victims, in every single case.
+    - >-
+      Minors and victims of sexual violence.
+    - >-
+      Officials named as perpetrators.
+    - >-
+      Submitters that are registered NGOs.
+  correct: 1
+  explanation: >-
+    The OHCHR form says names of minors and of victims of sexual violence are not published.
+- id: m14-070
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 3
+  question: >-
+    A volunteer wants to submit a case about a neighbour without asking her, "to protect her". What
+    is the right course?
+  options:
+    - >-
+      Submit anyway and tell her about it afterwards.
+    - >-
+      Submit in her name from a new e-mail address.
+    - >-
+      Submit, but ask that the government not be told.
+    - >-
+      Get her informed consent before anything is sent.
+  correct: 3
+  explanation: >-
+    ISHR advises that without the consent of those named, the information will not be considered.
+    Consent also protects the person.
+- id: m14-071
+  module: 14
+  lesson: "14.4"
+  subject: sp-process
+  difficulty: 1
+  question: >-
+    What does the automatic acknowledgement after an online submission mean?
+  options:
+    - >-
+      Only that OHCHR received it.
+    - >-
+      That a letter went to the government.
+    - >-
+      That the case was found admissible.
+    - >-
+      That a press release will follow.
+  correct: 0
+  explanation: >-
+    The acknowledgement confirms receipt only; submitters are usually not told whether a letter was
+    sent.
+- id: m14-072
+  module: 14
+  lesson: "14.4"
+  subject: sp-process
+  difficulty: 2
+  question: >-
+    How long does a government usually have to reply to a communication before it is published?
+  options:
+    - >-
+      One year, as in the treaty-body follow-up procedure.
+    - >-
+      Seven days, in every case without exception.
+    - >-
+      About 60 days, less if a press release is planned.
+    - >-
+      No limit; letters stay secret until a reply comes.
+  correct: 2
+  explanation: >-
+    ISHR: the letter sets a deadline, usually 60 days, or as little as 48 hours when a press release
+    or draft law is involved.
+- id: m14-073
+  module: 14
+  lesson: "14.4"
+  subject: sp-process
+  difficulty: 2
+  question: >-
+    Where can you read published communications to Israel and Israel's replies?
+  options:
+    - >-
+      The UPR outcome reports on Israel.
+    - >-
+      The archive of the Knesset library.
+    - >-
+      The case files of the ICJ registry.
+    - >-
+      The OHCHR communications database.
+  correct: 3
+  explanation: >-
+    spcommreports.ohchr.org publishes letters after the deadline, with replies; Israel also
+    publishes some replies on its MFA site.
+- id: m14-074
+  module: 14
+  lesson: "14.4"
+  subject: sp-process
+  difficulty: 3
+  question: >-
+    Israel's reply to a joint communication rejects the allegations as based on unreliable sources.
+    How should an activist use the exchange?
+  options:
+    - >-
+      Treat the reply as proof the claims are true.
+    - >-
+      Treat the reply as proof the claims are false.
+    - >-
+      Quote both, and strengthen sourcing next time.
+    - >-
+      Ignore the reply; only the letter is official.
+  correct: 2
+  explanation: >-
+    Reading both shows which facts are contested; attributing both keeps your material credible.
+- id: m14-075
+  module: 14
+  lesson: "14.4"
+  subject: sp-mandates
+  difficulty: 3
+  question: >-
+    Which tool fits a draft bill that would restrict NGOs' foreign funding, before it passes?
+  options:
+    - >-
+      An individual complaint to the Human Rights Committee.
+    - >-
+      A request for an "other letter" to the relevant mandates.
+    - >-
+      A shadow report to the CEDAW Committee next year.
+    - >-
+      A contentious case before the International Court.
+  correct: 1
+  explanation: >-
+    Special Procedures comment on draft legislation through "other letters"; timing before the vote
+    matters.
+- id: m14-076
+  module: 14
+  lesson: "14.4"
+  subject: sp-process
+  difficulty: 2
+  question: >-
+    After submitting, the detainee in your communication is released. What should you do?
+  options:
+    - >-
+      Tell OHCHR, so the file stays accurate.
+    - >-
+      Nothing; OHCHR follows Israeli news daily.
+    - >-
+      Submit a new case with the same facts.
+    - >-
+      Ask the government to inform OHCHR.
+  correct: 0
+  explanation: >-
+    ISHR advises keeping OHCHR informed of developments, such as a release or new threats.
+- id: m14-077
+  module: 14
+  lesson: "14.4"
+  subject: sp-form-consent
+  difficulty: 3
+  question: >-
+    A Bedouin family consents to a communication but not to publication in a public UN report. How
+    do you record this?
+  options:
+    - >-
+      Mark the two disclosure choices separately in the form.
+    - >-
+      Refuse to submit, since consent must cover everything.
+    - >-
+      Use a false name so that publication does not matter.
+    - >-
+      Submit the case with no details about the victims.
+  correct: 0
+  explanation: >-
+    The disclosure section asks separately about the government and the public report.
+- id: m14-078
+  module: 14
+  lesson: "14.5"
+  subject: hrc-structure
+  difficulty: 1
+  question: >-
+    How many member states does the Human Rights Council have?
+  options:
+    - >-
+      15.
+    - >-
+      47.
+    - >-
+      53.
+    - >-
+      193.
+  correct: 1
+  explanation: >-
+    GA res. 60/251, para. 7: 47 members elected by the General Assembly.
+- id: m14-079
+  module: 14
+  lesson: "14.5"
+  subject: hrc-structure
+  difficulty: 1
+  question: >-
+    Is Israel a member of the Human Rights Council?
+  options:
+    - >-
+      Yes, as a permanent member.
+    - >-
+      Yes, elected for 2024–2026.
+    - >-
+      No; it is an observer state.
+    - >-
+      It was a member until 2025.
+  correct: 2
+  explanation: >-
+    Israel has never been a member; it takes part as an observer.
+- id: m14-080
+  module: 14
+  lesson: "14.5"
+  subject: hrc-structure
+  difficulty: 2
+  question: >-
+    What is the difference between the Human Rights Council and the Human Rights Committee?
+  options:
+    - >-
+      They are two names for the same UN body.
+    - >-
+      The Committee elects the Council's members.
+    - >-
+      The Council monitors only the ICCPR.
+    - >-
+      The Council is states; the Committee is experts.
+  correct: 3
+  explanation: >-
+    The Council (47 states) is political; the Human Rights Committee (independent experts) monitors
+    the ICCPR.
+- id: m14-081
+  module: 14
+  lesson: "14.5"
+  subject: hrc-structure
+  difficulty: 2
+  question: >-
+    What can a Council resolution do?
+  options:
+    - >-
+      Order an Israeli court to reopen a case.
+    - >-
+      Impose sanctions binding on every state.
+    - >-
+      Create or renew mandates and ask for reports.
+    - >-
+      Overrule a treaty body's observations.
+  correct: 2
+  explanation: >-
+    Council resolutions are political decisions that create mechanisms such as Special Procedures
+    and commissions of inquiry.
+- id: m14-082
+  module: 14
+  lesson: "14.5"
+  subject: item-7
+  difficulty: 1
+  question: >-
+    What is item 7 of the Human Rights Council's agenda?
+  options:
+    - >-
+      Palestine and other occupied Arab territories.
+    - >-
+      Situations needing attention in any country.
+    - >-
+      The Universal Periodic Review of all states.
+    - >-
+      Racism, racial discrimination and xenophobia.
+  correct: 0
+  explanation: >-
+    HRC res. 5/1 lists item 7 as the human-rights situation in Palestine and other occupied Arab
+    territories; item 4 covers any country.
+- id: m14-083
+  module: 14
+  lesson: "14.5"
+  subject: item-7
+  difficulty: 2
+  question: >-
+    Which statement about item 7 is a fact, not an opinion?
+  options:
+    - >-
+      It is discriminatory and must be removed.
+    - >-
+      It is the best tool for documenting abuses.
+    - >-
+      It proves the whole Council is biased.
+    - >-
+      It is the only country-specific standing item.
+  correct: 3
+  explanation: >-
+    That item 7 is the only country-specific item is a fact; whether it is discriminatory or vital
+    is contested.
+- id: m14-084
+  module: 14
+  lesson: "14.5"
+  subject: item-7
+  difficulty: 3
+  question: >-
+    A newsletter writes: "Every state at the Council condemns Israel under item 7." Which correction
+    is accurate?
+  options:
+    - >-
+      Item 7 is a Security Council rule; states cannot speak.
+    - >-
+      Some states defend item 7; others call it biased.
+    - >-
+      Item 7 debates are confidential, so nobody knows.
+    - >-
+      Only Israel is allowed to speak under item 7.
+  correct: 1
+  explanation: >-
+    The October 2023 debate summary records states defending item 7 and states calling for its
+    removal.
+- id: m14-085
+  module: 14
+  lesson: "14.5"
+  subject: coi
+  difficulty: 1
+  question: >-
+    Which resolution created the commission of inquiry on the Occupied Palestinian Territory and
+    Israel?
+  options:
+    - >-
+      Security Council resolution 2334 (2016).
+    - >-
+      HRC resolution S-30/1 (27 May 2021).
+    - >-
+      General Assembly resolution 60/251 (2006).
+    - >-
+      HRC resolution 5/1 on institution-building (2007).
+  correct: 1
+  explanation: >-
+    Resolution S-30/1, adopted at a special session, established an ongoing commission.
+- id: m14-086
+  module: 14
+  lesson: "14.5"
+  subject: coi
+  difficulty: 2
+  question: >-
+    What area does the commission's mandate cover?
+  options:
+    - >-
+      Only the Gaza Strip and its border crossings.
+    - >-
+      Only Israel, inside the 1949 armistice lines.
+    - >-
+      Every state in the Middle East and North Africa.
+    - >-
+      The OPT, including East Jerusalem, and Israel.
+  correct: 3
+  explanation: >-
+    Resolution S-30/1 covers the OPT, including East Jerusalem, and Israel, and root causes.
+- id: m14-087
+  module: 14
+  lesson: "14.5"
+  subject: coi
+  difficulty: 2
+  question: >-
+    What is the commission's May 2026 report A/HRC/62/22 about?
+  options:
+    - >-
+      Harm by non-state actors: settlers and armed groups.
+    - >-
+      Israel's national report for the 5th UPR cycle.
+    - >-
+      The Committee against Torture's 2025 review.
+    - >-
+      The ICJ's 2024 advisory opinion on the OPT.
+  correct: 0
+  explanation: >-
+    The report examines settler attacks and acts of Palestinian armed groups in Gaza and the West
+    Bank, including Hamas-affiliated forces.
+- id: m14-088
+  module: 14
+  lesson: "14.5"
+  subject: coi
+  difficulty: 2
+  question: >-
+    Can a commission of inquiry compel witnesses or enter a country without consent?
+  options:
+    - >-
+      Yes; its summonses bind all UN member states.
+    - >-
+      Yes, once the High Commissioner approves it.
+    - >-
+      No; it finds facts and reports, with no powers.
+    - >-
+      Only in states that ratified the Rome Statute.
+  correct: 2
+  explanation: >-
+    Commissions rely on remote interviews, open sources and submissions when access is refused.
+- id: m14-089
+  module: 14
+  lesson: "14.5"
+  subject: coi
+  difficulty: 3
+  question: >-
+    What is Israel's official position on the commission, per its MFA response of June 2026?
+  options:
+    - >-
+      It welcomes the commission and cooperates fully.
+    - >-
+      It has no official position on the commission.
+    - >-
+      It accepts the findings but disputes the numbers.
+    - >-
+      It challenges its composition, mandate and method.
+  correct: 3
+  explanation: >-
+    The MFA response challenges the commission's entire framework and lists what it calls errors and
+    omissions.
+- id: m14-090
+  module: 14
+  lesson: "14.5"
+  subject: hrc-engagement
+  difficulty: 1
+  question: >-
+    Who may make an oral statement at a Human Rights Council session, besides states?
+  options:
+    - >-
+      Anyone who registers online.
+    - >-
+      No one; only member states.
+    - >-
+      NGOs with ECOSOC status.
+    - >-
+      Only UN staff members.
+  correct: 2
+  explanation: >-
+    NGOs need ECOSOC status to speak; others can join their statements or brief states.
+- id: m14-091
+  module: 14
+  lesson: "14.5"
+  subject: hrc-engagement
+  difficulty: 2
+  question: >-
+    A commission of inquiry publishes a call for submissions on your issue. Who may respond?
+  options:
+    - >-
+      Only states that are Council members.
+    - >-
+      Anyone with relevant information.
+    - >-
+      Only NGOs with ECOSOC status.
+    - >-
+      Only victims who are UN staff.
+  correct: 1
+  explanation: >-
+    Calls for submissions are open; follow the call's instructions on consent and deadlines.
+- id: m14-092
+  module: 14
+  lesson: "14.5"
+  subject: complaint-procedure
+  difficulty: 2
+  question: >-
+    What does the Council's complaint procedure address?
+  options:
+    - >-
+      Consistent patterns of gross violations.
+    - >-
+      Any single violation within 24 hours.
+    - >-
+      Disputes between states over treaties.
+    - >-
+      Appeals against treaty-body decisions.
+  correct: 0
+  explanation: >-
+    HRC res. 5/1, para. 85. It is confidential and addresses patterns, not single cases.
+- id: m14-093
+  module: 14
+  lesson: "14.5"
+  subject: complaint-procedure
+  difficulty: 3
+  question: >-
+    Which condition applies to complaints under the Council's complaint procedure?
+  options:
+    - >-
+      Domestic remedies tried, unless ineffective.
+    - >-
+      The state ratified the ICCPR Optional Protocol.
+    - >-
+      The complaint is filed by a member state.
+    - >-
+      The complaint was first posted on social media.
+  correct: 0
+  explanation: >-
+    Res. 5/1 requires domestic remedies to be exhausted unless they would be ineffective or
+    unreasonably prolonged.
+- id: m14-094
+  module: 14
+  lesson: "14.5"
+  subject: attribution
+  difficulty: 2
+  question: >-
+    Which sentence meets the course's standard for citing a commission of inquiry?
+  options:
+    - >-
+      "The United Nations has now proven beyond any doubt that [x]."
+    - >-
+      "The commission found [x] (A/HRC/62/22, para. [n]); Israel rejects it."
+    - >-
+      "Everyone knows the UN is biased against Israel, so [x] is false."
+    - >-
+      "According to various reports, [x] may possibly have happened."
+  correct: 1
+  explanation: >-
+    Name the author and symbol, quote the paragraph, and add the official response.
+- id: m14-095
+  module: 14
+  lesson: "14.5"
+  subject: attribution
+  difficulty: 3
+  question: >-
+    Two readers with opposite views review your summary of a commission report. What is the goal?
+  options:
+    - >-
+      Both agree that the finding itself is correct.
+    - >-
+      Both agree the commission should be closed.
+    - >-
+      Both agree it states accurately who said what.
+    - >-
+      Neither of them can identify the sources.
+  correct: 2
+  explanation: >-
+    Neutrality means accurate attribution, not agreement on the substance.
+- id: m14-096
+  module: 14
+  lesson: "14.5"
+  subject: hrc-structure
+  difficulty: 2
+  question: >-
+    What did US Executive Order 14199 of 4 February 2025 say about the Human Rights Council?
+  options:
+    - >-
+      The US will seek a seat on it.
+    - >-
+      The US will fund a new commission.
+    - >-
+      The US will join item 7 debates.
+    - >-
+      The US will not participate in it.
+  correct: 3
+  explanation: >-
+    Section 2(a): the United States will not participate in the UNHRC and will not seek election to
+    it.
+- id: m14-097
+  module: 14
+  lesson: "14.5"
+  subject: hrc-engagement
+  difficulty: 3
+  question: >-
+    A group wants a Council resolution changed. What is the realistic route?
+  options:
+    - >-
+      Petition the High Court to amend the resolution.
+    - >-
+      File it under the confidential complaint procedure.
+    - >-
+      Brief the states drafting or voting on it.
+    - >-
+      Send an urgent appeal to a Special Rapporteur.
+  correct: 2
+  explanation: >-
+    Only states negotiate and vote on resolutions; ISHR's module covers how NGOs influence
+    negotiations.

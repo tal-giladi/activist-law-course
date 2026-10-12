@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    A Druze village council says a new planning policy discriminates against its residents and wants
+    "a binding UN decision against Israel". What should you tell it first?
+  options:
+    - >-
+      File an individual complaint with CERD, which can order Israel to change the policy.
+    - >-
+      No UN body can bind Israel here; CERD review, the UPR and experts remain.
+    - >-
+      Ask the ICJ for an advisory opinion, which the council can request directly.
+    - >-
+      Wait until Israel ratifies CERD, which it has only signed so far.
+  correct: 1
+  explanation: >-
+    Israel ratified CERD in 1979 but never accepted its individual-complaint procedure (art. 14). The
+    open routes produce recommendations and public records, not binding orders.
+- id: q2
+  question: >-
+    In October 2026 a women's rights group wants to influence CEDAW's next review of Israel. The
+    database shows the 7th report was submitted in October 2025 and the review is set for the 94th
+    session (2027, to be confirmed). What is its next step?
+  options:
+    - >-
+      Send input for the list of issues prior to reporting, which is still open.
+    - >-
+      Submit a UPR stakeholder report, since CEDAW does not accept NGO material.
+    - >-
+      Watch the 94th-session page for the civil-society deadline and prepare a shadow report.
+    - >-
+      Ask the Ministry of Justice to withdraw the report and consult the group first.
+  correct: 2
+  explanation: >-
+    The LOIPR stage has passed because Israel already reported. The next opening is a shadow report
+    for the review, sent by the deadline in the session's civil-society note.
+- id: q3
+  question: >-
+    A settlers' council writes to the Committee against Torture about the treatment of a resident in
+    detention. Israel's reply says the Convention does not apply outside its national territory. How
+    should the council's next document deal with this?
+  options:
+    - >-
+      Withdraw the case, because the Committee accepts Israel's view of territorial scope.
+    - >-
+      Ignore the argument, because Israeli courts already settled the question.
+    - >-
+      State that Israel's position is plainly wrong and needs no discussion.
+    - >-
+      Attribute both positions in one sentence and focus on the facts.
+  correct: 3
+  explanation: >-
+    Israel holds that the treaties apply only to its territory; the committees, including the CAT in
+    2025, hold that they apply wherever Israel has jurisdiction. Attributing both keeps the document
+    credible to every reader.
+- id: q4
+  question: >-
+    An environmental coalition of six organisations plans a joint UPR submission of 5,200 words, in
+    Word, with numbered paragraphs. Which remaining risk could still get it rejected?
+  options:
+    - >-
+      Uploading it after 23:59 on the posted deadline day.
+    - >-
+      Being over the word limit for a joint submission.
+    - >-
+      Being written in English rather than Hebrew.
+    - >-
+      Not having UN consultative status for each member.
+  correct: 0
+  explanation: >-
+    5,200 words is within the 5,630 joint limit and English is preferred. No UN status is needed.
+    Deadlines are binding: late submissions are not considered.
+- id: q5
+  question: >-
+    A journalist from Umm al-Fahm was arrested over posts and released after a week; she wants UN
+    experts to raise it. She has her own written account and the court decision. Which tool fits
+    best?
+  options:
+    - >-
+      An individual complaint to the Human Rights Committee under the Optional Protocol.
+    - >-
+      A request to the Security Council to place the case on its agenda.
+    - >-
+      A UPR submission, which will be discussed within a few weeks.
+    - >-
+      A communication to the Special Rapporteur on freedom of expression.
+  correct: 3
+  explanation: >-
+    A specific recent event with first-hand facts fits a Special Procedures communication. Israel
+    accepted no Optional Protocol, and the UPR is years away.
+- id: q6
+  question: >-
+    A family's son, an Israeli yeshiva student, is in administrative detention. A national NGO that
+    never spoke with the family wants to send the case to the Working Group on Arbitrary Detention.
+    What should happen?
+  options:
+    - >-
+      The NGO files alone; any organisation may submit to any Working Group.
+    - >-
+      The family submits, or authorises the NGO to act as its representative.
+    - >-
+      The NGO waits until the High Court rules, because exhaustion is required.
+    - >-
+      The NGO sends a press release to OHCHR instead of a submission.
+  correct: 1
+  explanation: >-
+    WGAD accepts cases only from the person, the family or their representatives. With the family's
+    authorisation, the NGO can act for them. No exhaustion of remedies is required.
+- id: q7
+  question: >-
+    A group sends a Special Procedures communication about threats to local activists and wants
+    their names kept from the government. What does the submission need?
+  options:
+    - >-
+      The security concerns stated clearly, and each activist's consent.
+    - >-
+      Nothing; the experts never disclose names to governments.
+    - >-
+      A request that the experts not write to the government at all.
+    - >-
+      Fake names, so the experts cannot disclose the real ones.
+  correct: 0
+  explanation: >-
+    By default the experts' letters name the victims; names are withheld only if the submission makes
+    the security concerns clear. False names would undermine credibility.
+- id: q8
+  question: >-
+    A municipal councillor's newsletter says: "The UN Human Rights Council proved that item 7 is
+    needed." Which correction is accurate?
+  options:
+    - >-
+      Item 7 is a Security Council rule that binds all states, so nothing needs correcting.
+    - >-
+      Item 7 was abolished in 2025, so the sentence is outdated.
+    - >-
+      Item 7 is a standing agenda item; some states defend it, Israel and others call it biased.
+    - >-
+      Item 7 is a commission of inquiry, so the newsletter should cite its report.
+  correct: 2
+  explanation: >-
+    Item 7 has been on the Council's agenda since resolution 5/1 (2007). In the debates some states
+    call it vital and others, with Israel, call it discriminatory. Neither is a proven fact.
+- id: q9
+  question: >-
+    Two groups with opposite views both want to cite the commission of inquiry's May 2026 report.
+    Which practice should both follow?
+  options:
+    - >-
+      Cite only the paragraphs that support them and omit the document symbol.
+    - >-
+      Quote exact paragraphs with the symbol and add Israel's official response.
+    - >-
+      Present the findings as court judgments, because the commission is a UN body.
+    - >-
+      Avoid naming the commission and call the findings "well known".
+  correct: 1
+  explanation: >-
+    Commission reports are findings, not judgments. Exact quotes with the symbol (A/HRC/62/22) and
+    Israel's official response let any reader check both sides.
+- id: q10
+  question: >-
+    A residents' forum in the north wants to raise the slow rebuilding of homes damaged by rockets
+    at the UN, in a way that leads to a commitment by Israel. Which plan fits best?
+  options:
+    - >-
+      An urgent appeal to the Special Rapporteur on torture next week.
+    - >-
+      A confidential complaint to the Council about a single family's home.
+    - >-
+      An oral statement at the Council in its own name, without any partner.
+    - >-
+      A UPR submission with SMART recommendations, then briefing states before the review.
+  correct: 3
+  explanation: >-
+    In the UPR Israel says whether it supports each recommendation, and supported ones become
+    commitments. The other options use the wrong mandate, the wrong scale or a route closed to it.

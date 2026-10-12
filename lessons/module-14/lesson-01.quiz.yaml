@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A resident of Be'er Sheva says a police unit tortured him during an interrogation. His lawyer
+    suggests filing an individual complaint with the UN Committee against Torture. What is the
+    problem with that plan?
+  options:
+    - >-
+      He must first wait for Israel's next periodic report to the Committee.
+    - >-
+      Israel never made the art. 22 declaration accepting such complaints.
+    - >-
+      Only NGOs with UN consultative status may complain to the Committee.
+    - >-
+      Torture complaints go to the Human Rights Committee, not to the CAT.
+  correct: 1
+  explanation: >-
+    Individual complaints under the CAT exist only against states that declared under art. 22. Israel
+    did not, so the open routes are a shadow report, a Special Procedures communication or the UPR.
+- id: q2
+  question: >-
+    A women's organisation drafts a shadow report arguing that Israel breaches CEDAW art. 16 because
+    marriage and divorce follow religious law. What must the report deal with first?
+  options:
+    - >-
+      Israel's reservation to art. 16 on personal-status laws.
+    - >-
+      Whether the Knesset enacted CEDAW as an Israeli statute.
+    - >-
+      Proof that every member of the committee has read the Israeli statute.
+    - >-
+      A ruling of the Rabbinical Court rejecting the same argument.
+  correct: 0
+  explanation: >-
+    Israel reserved on art. 16 to the extent that personal-status laws do not conform. A strong report
+    names the reservation and argues from unreserved articles or asks the committee to press for its
+    withdrawal.
+- id: q3
+  question: >-
+    You are writing one neutral sentence on whether the ICCPR applies in the West Bank for a
+    submission. Which sentence fits the course's standard?
+  options:
+    - >-
+      The Covenant clearly applies in the West Bank, as every expert agrees.
+    - >-
+      The Covenant does not apply in the West Bank, so the Committee has no say there.
+    - >-
+      The question is open, so we leave the West Bank out of the submission entirely.
+    - >-
+      Israel says territory only; the committees say wherever it has jurisdiction.
+  correct: 3
+  explanation: >-
+    The lesson pairs Israel's position (5th ICCPR report) with the committees' position (for example
+    CAT/C/ISR/CO/6), each attributed, and does not state either in the writer's own voice.
+- id: q4
+  question: >-
+    A Haredi parents' group wants to raise education funding for its schools at the UN. Which step
+    belongs in its treaty map before anything is filed?
+  options:
+    - >-
+      Asking the Supreme Court to confirm that the CRC is part of Israeli law.
+    - >-
+      Registering the group as an NGO with ECOSOC consultative status.
+    - >-
+      Listing CRC and ICESCR education articles and checking reservations.
+    - >-
+      Collecting signatures from at least 1,000 affected parents.
+  correct: 2
+  explanation: >-
+    The map lists the treaties and articles, checks reservations (Israel made none on the CRC or
+    ICESCR), and then picks an open route. No UN status or signatures are needed.

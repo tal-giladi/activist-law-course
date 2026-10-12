@@ -107,3 +107,10 @@
   - [69 · The International Court of Justice](lessons/module-13/lesson-04.md)
   - [70 · International Law Inside Israeli Courts](lessons/module-13/lesson-05.md)
   - [Module 13 quiz](assessments/module-13-quiz.md)
+- **Module 14 — The UN Human Rights System (about 14 hours)**
+  - [71 · The Core Treaties Israel Ratified](lessons/module-14/lesson-01.md)
+  - [72 · Treaty Bodies and Shadow Reports](lessons/module-14/lesson-02.md)
+  - [73 · The Universal Periodic Review](lessons/module-14/lesson-03.md)
+  - [74 · Special Procedures: Sending a Communication](lessons/module-14/lesson-04.md)
+  - [75 · The Human Rights Council and Commissions of Inquiry](lessons/module-14/lesson-05.md)
+  - [Module 14 quiz](assessments/module-14-quiz.md)

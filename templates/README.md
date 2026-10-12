@@ -40,5 +40,8 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Reply to a Defamation Demand Letter (תשובה למכתב התראה לפני תביעת לשון הרע)](reply-to-threat-letter.md)
 - [Research Memo (מזכר מחקר משפטי)](research-memo.md)
 - [Ruling brief (תקציר פסק דין)](ruling-brief.md)
+- [Shadow Report Outline (UN treaty body)](shadow-report-outline.md)
 - [Small Claim Statement (כתב תביעה קטנה)](small-claim-statement.md)
+- [Special Procedures Communication](special-procedures-communication.md)
 - [Statute reading sheet (דף קריאת חוק)](statute-reading-sheet.md)
+- [UPR Stakeholder Submission](upr-stakeholder-submission.md)

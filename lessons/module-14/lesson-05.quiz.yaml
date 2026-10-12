@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A blogger writes: "The UN has ruled that X committed crimes," citing a commission of inquiry
+    report. What is the accurate way to put it?
+  options:
+    - >-
+      "A UN court convicted X in a final judgment that binds Israel and its courts."
+    - >-
+      "The Security Council found X guilty in a resolution binding on every UN member."
+    - >-
+      "The commission found that X…; Israel's Foreign Ministry rejects its framework."
+    - >-
+      "The UN proved X's guilt beyond doubt, so Israel's response is irrelevant."
+  correct: 2
+  explanation: >-
+    A commission of inquiry is created by the Human Rights Council and issues findings, not
+    judgments. The course standard is to attribute the finding and add Israel's official response.
+- id: q2
+  question: >-
+    A small residents' group without ECOSOC status wants its message heard during a Human Rights
+    Council session. Which plan works?
+  options:
+    - >-
+      Register to speak in the plenary in its own name, as any member state may do.
+    - >-
+      Join an accredited NGO's oral statement, or brief delegations in writing.
+    - >-
+      Ask the Council President to add a new standing agenda item for its issue.
+    - >-
+      File its message as an individual complaint under the ICCPR.
+  correct: 1
+  explanation: >-
+    Oral statements are made by NGOs with ECOSOC consultative status; others join through them or
+    brief states. Israel accepted no ICCPR complaint procedure.
+- id: q3
+  question: >-
+    Which statement about item 7 of the Council's agenda is accurate and neutral?
+  options:
+    - >-
+      The only country-specific item: Israel calls it discriminatory, others vital.
+    - >-
+      It was removed from the agenda in 2025 after the United States left the Council.
+    - >-
+      It applies equally to every country that has a territorial dispute.
+    - >-
+      It was created by the Security Council and binds all UN members.
+  correct: 0
+  explanation: >-
+    Item 7 has been on the agenda since resolution 5/1 (2007). Israel and some states call it
+    discriminatory; other states, in the same debates, say it must stay.
+- id: q4
+  question: >-
+    Your group has evidence of a consistent pattern of gross violations over several years and has
+    tried the Israeli courts. It wants a confidential UN route. What fits?
+  options:
+    - >-
+      A shadow report, which committees always keep confidential.
+    - >-
+      A UPR submission, which OHCHR keeps confidential on request.
+    - >-
+      An urgent appeal to a Special Rapporteur about a single incident.
+    - >-
+      The Human Rights Council's complaint procedure under resolution 5/1.
+  correct: 3
+  explanation: >-
+    The complaint procedure addresses consistent patterns of gross and reliably attested violations,
+    is confidential, and expects domestic remedies to be tried unless ineffective. UPR submissions are
+    public.

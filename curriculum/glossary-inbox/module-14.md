@@ -1,0 +1,28 @@
+# Glossary inbox — Module 14
+
+- **אמנת זכויות אדם** (amanat zchuyot adam) — Human-rights treaty (convention, covenant).
+- **אשרור** (ishrur) — Ratification: the act that makes Israel bound by a treaty.
+- **גריעה מהתחייבויות** (gri'a mehitchayvuyot) — Derogation: suspension of a treaty obligation in a public emergency (ICCPR art. 4); Israel's covers art. 9.
+- **ועדת אמנה** (va'adat amana) — Treaty body: the expert committee that monitors one UN treaty.
+- **פרוטוקול נלווה / פרוטוקול רשות** (protokol nilve / protokol reshut) — Optional protocol: a separate treaty that adds a procedure, such as individual complaints.
+- **תלונה פרטנית** (tluna pratanit) — Individual complaint (communication) to a treaty body; not available against Israel.
+- **תחולה טריטוריאלית** (tchula teritoryalit) — Territorial scope of a treaty; disputed between Israel and the treaty bodies.
+- **דוח תקופתי** (doch tkufati) — Periodic report of a state to a treaty body.
+- **דוח צל / דוח חלופי** (doch tzel / doch chalufi) — Shadow (alternative) report from civil society.
+- **רשימת שאלות לפני הדיווח** (reshimat she'elot lifnei hadivuach) — List of issues prior to reporting (LOIPR) in the simplified procedure.
+- **דיאלוג בונה** (di'alog bone) — Constructive dialogue: the public session between a committee and the state delegation.
+- **הערות מסכמות** (he'arot mesakmot) — Concluding observations: a committee's findings and recommendations.
+- **הליך מעקב** (halich ma'akav) — Follow-up procedure on priority recommendations, usually after a year.
+- **הסקירה התקופתית האוניברסלית** (haskira hatkufatit ha'universalit) — Universal Periodic Review (UPR) of every UN member by other states.
+- **בעלי עניין** (ba'alei inyan) — Stakeholders in the UPR: NGOs, national institutions, academics and others.
+- **המלצה נתמכת / המלצה שנרשמה** (hamlatza nitmechet / hamlatza shenirshema) — Supported / noted UPR recommendation.
+- **ההליכים המיוחדים** (hahalichim hameyuchadim) — Special Procedures: independent experts appointed by the Human Rights Council.
+- **דווח/ת מיוחד/ת** (dove'ach/dovachat meyuchad/et) — Special Rapporteur.
+- **פנייה דחופה** (pniya dchufa) — Urgent appeal by Special Procedures for grave imminent harm.
+- **מכתב טענות** (michtav te'anot) — Letter of allegation by Special Procedures.
+- **פעולות תגמול** (pe'ulot tagmul) — Reprisals against people who cooperate with the UN.
+- **מועצת זכויות האדם** (mo'etzet zchuyot ha'adam) — UN Human Rights Council: 47 elected member states.
+- **סעיף 7 בסדר היום** (se'if sheva beseder hayom) — Item 7 of the Council's agenda: Palestine and other occupied Arab territories.
+- **ועדת חקירה בינלאומית** (va'adat chakira beinle'umit) — International commission of inquiry created by the Council.
+- **מעמד מייעץ ב-ECOSOC** (ma'amad meya'etz) — ECOSOC consultative status, which lets an NGO speak at the Council.
+- **הליך התלונות של המועצה** (halich hatlunot shel hamo'etza) — The Council's confidential complaint procedure for patterns of gross violations.

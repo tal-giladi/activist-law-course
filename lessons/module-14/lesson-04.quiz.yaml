@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    An NGO in Tel Aviv reads in the news that a human-rights worker in another town was detained. It
+    has no contact with him or his family and wants to file with the Working Group on Arbitrary
+    Detention. What is the problem?
+  options:
+    - >-
+      Israel has not ratified the treaty the Working Group applies.
+    - >-
+      He must first exhaust every Israeli court before any UN step.
+    - >-
+      The Working Group accepts cases only from him, his family or representatives.
+    - >-
+      Only Special Rapporteurs, not Working Groups, accept cases about Israel.
+  correct: 2
+  explanation: >-
+    WGAD and WGEID accept cases only from the person, the family or their representatives. The NGO
+    also relies only on media reports, which fails Code of Conduct art. 9(e).
+- id: q2
+  question: >-
+    You are halfway through the OHCHR online form when you are called away for two days. What
+    happens to your draft?
+  options:
+    - >-
+      It is lost after 24 hours, so you must start again.
+    - >-
+      It is sent automatically when the session times out.
+    - >-
+      It is kept for 30 days under your reference number.
+    - >-
+      OHCHR staff complete it from the details you entered.
+  correct: 0
+  explanation: >-
+    Drafts can be reopened with the reference and password within 24 hours only. Write the text
+    offline first, then paste it into the form in one sitting.
+- id: q3
+  question: >-
+    A Bedouin family agrees to send a communication about a planned demolition but fears retaliation
+    if its name reaches the authorities. What must the submission do?
+  options:
+    - >-
+      Nothing; the UN never shows victims' names to governments.
+    - >-
+      Leave the family out entirely and describe only the village.
+    - >-
+      Send the case by post, because posted names are always kept secret.
+    - >-
+      State the security concern clearly so the experts can withhold the names.
+  correct: 3
+  explanation: >-
+    By default the experts' letter names the victims; names are withheld only if the submission makes
+    clear there are security concerns. Consent and the disclosure choice are recorded in the form.
+- id: q4
+  question: >-
+    Which submission best meets the Code of Conduct criteria for a letter of allegation?
+  options:
+    - >-
+      A list of links to news stories, with a demand that the UN condemn the government.
+    - >-
+      Dated first-hand statements and court records, in neutral language, with a clear request.
+    - >-
+      A strongly worded op-ed by the group's chair, describing officials as criminals.
+    - >-
+      An anonymous summary of rumours from social media, marked "urgent".
+  correct: 1
+  explanation: >-
+    Article 9 asks for a factual description, non-abusive language, a sender with direct or reliable
+    knowledge and more than media reports. Dated, sourced facts and a clear request meet all of them.

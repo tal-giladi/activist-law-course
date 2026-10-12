@@ -76,3 +76,17 @@ These amounts change every month with the consumer price index, so the numbers b
 | Discrimination in products, services and entry, without proof of damage | ₪79,700 (our calculation; no official figure published) | Prohibition of Discrimination in Products, Services and Entry Law, s. 5 |
 | Disability discrimination, without proof of damage | ₪73,200 (our calculation; the law does not say which month is used) | Equal Rights for Persons with Disabilities Law |
 | Privacy breach, without proof of damage | ₪72,600 | Protection of Privacy Law, s. 29A |
+
+## UN human rights mechanisms (Israel)
+
+Dates come from the OHCHR treaty body database's page for Israel and from UPR Info, checked 2026-10-13. Review dates move, so confirm them on the committee's page before you plan a submission.
+
+| Item | Date or limit | Source |
+|---|---|---|
+| CAT: Israel's follow-up on its priority recommendations | due 28 November 2026 | CAT/C/ISR/CO/6, para. 54 |
+| CCPR: list of issues before Israel's 6th report | tentatively 31 March 2028 | OHCHR treaty body database |
+| CEDAW: review of Israel's 7th report | 94th session (2027, to be confirmed) | OHCHR treaty body database |
+| CERD and CESCR: Israel's next reports | overdue (were due in 2024) | OHCHR treaty body database |
+| UPR 5th cycle: stakeholder submission deadline | about 1 November 2027; Working Group about April–May 2028 (provisional) | UPR Info |
+| UPR stakeholder submission length | 2,815 words (one organisation), 5,630 words (joint) | OHCHR technical guidelines |
+| Special Procedures: usual government reply time | about 60 days | ISHR Academy |

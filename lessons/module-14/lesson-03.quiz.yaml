@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    An environmental NGO finishes a 3,400-word UPR submission on air pollution in Haifa Bay, on its
+    own. The deadline is in a week. What should it do?
+  options:
+    - >-
+      Send it as is; the word limit is only advice.
+    - >-
+      Save it as a PDF, since PDFs are not word-counted.
+    - >-
+      Cut it to 2,815 words or file it jointly with other groups.
+    - >-
+      Move the extra text into footnotes, which are summarised too.
+  correct: 2
+  explanation: >-
+    The form rules are binding: 2,815 words for one organisation, 5,630 for a coalition, Word format
+    only. Footnotes do not count towards the limit but are not used in the summary either.
+- id: q2
+  question: >-
+    In the 2023 review Israel "noted" a recommendation on a topic you work on. How should you describe
+    it in a letter to a ministry?
+  options:
+    - >-
+      Israel formally rejected the recommendation and may never be asked about it again.
+    - >-
+      Israel did not commit to it, though the issue can be raised again in the next cycle.
+    - >-
+      Israel accepted it, since noting is a polite form of support.
+    - >-
+      Israel must implement it anyway, because UPR recommendations are binding.
+  correct: 1
+  explanation: >-
+    States answer "supported" or "noted". Noted means no commitment, but the topic can be raised
+    again; supported recommendations are the ones you can hold the government to.
+- id: q3
+  question: >-
+    A small residents' group submitted on time, but its points shrank to one sentence in the OHCHR
+    summary. What is the most effective next step before the Working Group session?
+  options:
+    - >-
+      Brief interested embassies with two concrete recommendations.
+    - >-
+      Send a corrected, longer version of the submission to OHCHR.
+    - >-
+      File a complaint against OHCHR for shortening the submission.
+    - >-
+      Ask the Israeli delegation to read the submission aloud in Geneva.
+  correct: 0
+  explanation: >-
+    Only states make recommendations in the Working Group. Revisions are not accepted after the
+    deadline; embassy briefings and UPR Info pre-sessions are how a recommendation reaches a state.
+- id: q4
+  question: >-
+    Which source shows, for each 2023 UPR recommendation to Israel, which state made it and whether
+    Israel supported or noted it?
+  options:
+    - >-
+      Israel's national report for the 4th cycle.
+    - >-
+      The concluding observations of the Human Rights Committee.
+    - >-
+      The Knesset's protocol of the Foreign Affairs and Defense Committee.
+    - >-
+      The UHRI database, or the outcome report and its addendum.
+  correct: 3
+  explanation: >-
+    The UHRI and the outcome report (A/HRC/54/16 and its addendum) list each recommendation, the
+    recommending state and Israel's position. The national report was written before the review.
