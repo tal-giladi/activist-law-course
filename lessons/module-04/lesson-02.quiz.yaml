@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A licensing law aims to keep public events safe. The licensing officer refuses a licence for a
+    rally because "the organisers' message offends many residents". How do you classify that reason?
+  options:
+    - >-
+      Relevant, because public feelings are part of public safety under any licensing law.
+    - >-
+      Extraneous, because the law's safety purpose does not make the message a ground for refusal.
+    - >-
+      Relevant, because the officer has broad discretion and may weigh anything he finds important.
+    - >-
+      Extraneous only if the officer also admits in writing that he disagrees with the message.
+  correct: 1
+  explanation: >-
+    Relevance is objective and set by the law's purpose. A safety law makes concrete safety risks
+    relevant, not disagreement with the message. You need evidence of the reason, not an admission.
+- id: q2
+  question: >-
+    You suspect a council refused your group's grant because you criticised the mayor. All you have
+    is the timing. What is the best next step before alleging an extraneous consideration?
+  options:
+    - >-
+      Publish the allegation, since public pressure usually makes councils reverse decisions.
+    - >-
+      File a petition, because timing alone shifts the burden of proof to the council.
+    - >-
+      Ask for the written reasons, the committee minutes and how similar applicants were treated.
+    - >-
+      Drop the matter, since the presumption of regularity cannot be overcome by an applicant.
+  correct: 2
+  explanation: >-
+    The presumption of regularity means you must show the flaw. Reasons, minutes and comparison with
+    similar cases are the usual evidence; timing alone is a lead, not proof.
+- id: q3
+  question: >-
+    A ministry's policy says: "No permits for events on public land during school holidays, without
+    exception." Your event is a one-hour memorial ceremony. What is your best argument?
+  options:
+    - >-
+      The policy fetters discretion: the official must still consider whether your case justifies an exception.
+    - >-
+      Any written policy is unlawful, because each permit must be decided only on its own facts.
+    - >-
+      Holiday periods are an extraneous consideration in every case involving public land.
+    - >-
+      The ministry may not have policies unless the Knesset approved them in a statute.
+  correct: 0
+  explanation: >-
+    Policies are lawful tools, but an authority must stay open to exceptional cases. A rigid rule
+    with no exceptions is fettering.
+- id: q4
+  question: >-
+    A local planning committee approves a plan after a minister phones the chair and "instructs" the
+    committee to approve it. The committee holds no real discussion. Which flaw is this?
+  options:
+    - >-
+      Lack of authority, because only the minister may approve plans of this kind.
+    - >-
+      Fettering, because the committee followed its own past policy too rigidly.
+    - >-
+      Unreasonableness, because the result falls outside the range of reasonable plans.
+    - >-
+      Dictation, because the holder of the power did not exercise its own discretion.
+  correct: 3
+  explanation: >-
+    The committee holds the power and must use its own judgment. Deciding on someone else's
+    instruction, without independent consideration, is acting under dictation.
+- id: q5
+  question: >-
+    A refusal rests on two reasons: a real fire-safety problem and the applicant's political views.
+    The fire problem alone would clearly have justified refusal. How are courts likely to treat it?
+  options:
+    - >-
+      The decision is void automatically, because any extraneous consideration taints it.
+    - >-
+      The decision may stand, because the relevant consideration would have produced the same result.
+    - >-
+      The decision is valid only if the authority deletes the political reason from the letter.
+    - >-
+      The decision must be sent to a different authority, because the first one was biased.
+  correct: 1
+  explanation: >-
+    With mixed motives courts ask how much the extraneous consideration influenced the outcome. If
+    the relevant one would clearly have led to the same result, the decision may stand.

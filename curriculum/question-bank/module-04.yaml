@@ -1,0 +1,1743 @@
+# Module 4 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m04-001
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 1
+  question: >-
+    What does the principle of administrative legality (עקרון חוקיות המינהל) say?
+  options:
+    - >-
+      An authority may do anything that no law forbids it to do.
+    - >-
+      An authority may act only under a power given to it by law.
+    - >-
+      An authority may act freely unless a court has ruled otherwise.
+    - >-
+      An authority may act only after a public consultation.
+  correct: 1
+  explanation: >-
+    For private persons, what is not forbidden is allowed. For public authorities it is the
+    reverse: they need a power from law for every act.
+- id: m04-002
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 1
+  question: >-
+    Which of these, on its own, can be the source of a public authority's power?
+  options:
+    - >-
+      An internal procedure published on the ministry's website.
+    - >-
+      A long-standing practice that nobody has challenged.
+    - >-
+      A section in a statute, or in regulations made under one.
+    - >-
+      A minister's public statement announcing a new policy.
+  correct: 2
+  explanation: >-
+    Procedures, practices and statements may guide how a power is used, but the power itself must
+    come from a statute or from secondary legislation made under it.
+- id: m04-003
+  module: 4
+  lesson: "04.1"
+  subject: express-authority
+  difficulty: 1
+  question: >-
+    Under Basic Law: Human Dignity and Liberty s. 8, how may an authority limit a basic right?
+  options:
+    - >-
+      Only under a statute, or by express authorisation in a statute, for a proper purpose.
+    - >-
+      Whenever the authority's legal adviser approves the limit in writing.
+    - >-
+      Whenever the public interest outweighs the right in the authority's view.
+    - >-
+      Only after the Knesset committee responsible for the area approves the limit.
+  correct: 0
+  explanation: >-
+    Section 8 allows limits "בחוק" or "לפי חוק כאמור מכוח הסמכה מפורשת בו", for a proper purpose
+    and no more than necessary.
+- id: m04-004
+  module: 4
+  lesson: "04.1"
+  subject: residual-power
+  difficulty: 2
+  question: >-
+    Who holds the residual power in Basic Law: The Government s. 32?
+  options:
+    - >-
+      Every public authority, including local councils.
+    - >-
+      Each minister, separately, in the area of their ministry.
+    - >-
+      The Prime Minister personally, for urgent matters.
+    - >-
+      The government as a body, subject to any law.
+  correct: 3
+  explanation: >-
+    Section 32 gives the government the power to act for the state where no law assigns the matter
+    to another authority, "בכפוף לכל דין". Local councils have no residual power.
+- id: m04-005
+  module: 4
+  lesson: "04.1"
+  subject: residual-power
+  difficulty: 2
+  question: >-
+    A municipality says it may run a new "neighbourhood patrol permit" scheme because it has
+    "residual powers like the government". What is wrong with this claim?
+  options:
+    - >-
+      Nothing, because every public body shares the government's residual power.
+    - >-
+      Residual powers apply only in wartime, under a declared state of emergency.
+    - >-
+      Local authorities act only under their ordinances, other laws and by-laws.
+    - >-
+      Residual powers exist, but only the Interior Minister may use them for councils.
+  correct: 2
+  explanation: >-
+    Section 32 belongs to the government. A municipality must point to a specific power in the
+    Municipalities Ordinance, another law or a by-law.
+- id: m04-006
+  module: 4
+  lesson: "04.1"
+  subject: ancillary-powers
+  difficulty: 2
+  question: >-
+    A law empowers a regulator to license food stalls. The regulator sets a procedure for how
+    inspections are scheduled. Which provision supports this?
+  options:
+    - >-
+      Interpretation Law s. 17, which includes ancillary powers reasonably needed to use a power.
+    - >-
+      Basic Law: The State Economy s. 1, which allows fees and procedures together.
+    - >-
+      Basic Law: The Government s. 33, which lets officials create new powers.
+    - >-
+      Basic Law: Human Dignity and Liberty s. 11, which applies to all authorities.
+  correct: 0
+  explanation: >-
+    Section 17(א)–(ב) of the Interpretation Law lets a power-holder set working procedures and use
+    ancillary powers reasonably needed — not create new, independent powers.
+- id: m04-007
+  module: 4
+  lesson: "04.1"
+  subject: ancillary-powers
+  difficulty: 3
+  question: >-
+    The same food-stall regulator now announces that stall owners must pay a yearly "inspection
+    contribution" and argues this is an ancillary power. Is it?
+  options:
+    - >-
+      Yes, because inspections cost money and paying for them is reasonably needed.
+    - >-
+      Yes, as long as the amount is published on the regulator's website in advance.
+    - >-
+      No, unless the regulator first holds a hearing for every stall owner.
+    - >-
+      No, because a compulsory payment needs a basis in a statute or under one.
+  correct: 3
+  explanation: >-
+    Ancillary powers fill small gaps. A compulsory payment is a separate matter that needs a basis
+    "בחוק או על פיו" (Basic Law: The State Economy s. 1).
+- id: m04-008
+  module: 4
+  lesson: "04.1"
+  subject: delegation
+  difficulty: 1
+  question: >-
+    Under Basic Law: The Government s. 33(ב), which power may a minister NOT delegate to a public
+    servant?
+  options:
+    - >-
+      The power to grant individual permits under a law.
+    - >-
+      The power to make regulations.
+    - >-
+      The power to decide on individual applications.
+    - >-
+      The power to approve a budget line already set by law.
+  correct: 1
+  explanation: >-
+    Section 33(ב) lets a minister delegate statutory powers to a public servant, "למעט סמכות
+    להתקין תקנות".
+- id: m04-009
+  module: 4
+  lesson: "04.1"
+  subject: delegation
+  difficulty: 2
+  question: >-
+    A permit refusal is signed by a deputy director. The law gives the power to "המנהל". What is the
+    most efficient way to test whether the deputy had authority?
+  options:
+    - >-
+      Assume no authority and file a petition, since only the director may sign.
+    - >-
+      Ask the deputy director to confirm orally that he is allowed to sign.
+    - >-
+      Ask in writing for the delegation document and the section that permits delegation.
+    - >-
+      Search news reports for earlier decisions the deputy director signed.
+  correct: 2
+  explanation: >-
+    Delegation must be lawful and is usually in a written document. Asking for it in writing tests
+    the point cheaply and creates a record.
+- id: m04-010
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 2
+  question: >-
+    Spot the mistake in this sentence from a resident's letter: "Your decision is unlawful because
+    it is unwise and I disagree with it; please cancel it."
+  options:
+    - >-
+      It should be written in English, since letters to authorities are bilingual.
+    - >-
+      It names no legal flaw: no missing power, no improper consideration, no procedural defect.
+    - >-
+      It asks the authority itself for cancellation, which only a court may order after a petition.
+    - >-
+      It should be addressed to the court rather than to the authority.
+  correct: 1
+  explanation: >-
+    Disagreement is not a legal ground. A strong letter names a specific flaw, starting with the
+    question of authority.
+- id: m04-011
+  module: 4
+  lesson: "04.1"
+  subject: primary-arrangements
+  difficulty: 3
+  question: >-
+    A ministry sets, by an internal guideline, a sweeping national rule on who is exempt from a
+    civic duty — a deeply contested social question. Which argument fits best?
+  options:
+    - >-
+      The guideline is valid as long as the ministry consulted the public first.
+    - >-
+      The guideline is a primary arrangement that the Knesset itself should make by law.
+    - >-
+      The guideline is valid because ministry guidelines rank above regulations in the hierarchy.
+    - >-
+      The guideline can only be challenged if it imposes a fee.
+  correct: 1
+  explanation: >-
+    Courts hold that basic policy choices on contested matters ("הסדרים ראשוניים") must be made by
+    the Knesset, not left to officials — as in the yeshiva-deferral line of cases after Ressler.
+- id: m04-012
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 3
+  question: >-
+    A council's by-law allows it to "regulate street trading". The council bans all street trading
+    citywide. A trader asks which point to raise first.
+  options:
+    - >-
+      That the ban had no hearing, because hearings come before authority questions.
+    - >-
+      That the ban is unreasonable, because traders' livelihoods matter.
+    - >-
+      That the council must answer within 45 days of the trader's complaint.
+    - >-
+      That a power to regulate may not cover a total ban, which also limits a right.
+  correct: 3
+  explanation: >-
+    Whether the power covers the act comes first. A power to regulate is not automatically a power to
+    ban, and a total ban limits freedom of occupation, which needs clear authority.
+- id: m04-013
+  module: 4
+  lesson: "04.1"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "חריגה מסמכות" mean?
+  options:
+    - >-
+      Acting beyond the power the law gives (ultra vires).
+    - >-
+      Refusing to use a power that one lawfully holds.
+    - >-
+      Delegating a power to another official without approval.
+    - >-
+      Using a power slowly, after a deadline.
+  correct: 0
+  explanation: >-
+    Chariga mismchut is acting outside one's legal power — the core legality flaw.
+- id: m04-014
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 2
+  question: >-
+    What does a court usually do with a decision made without authority?
+  options:
+    - >-
+      Leaves it in place but orders the authority to apologise and pay costs.
+    - >-
+      Declares it void or cancels it, often sending the matter back to the right body.
+    - >-
+      Approves it anyway if the result turned out to be good for the public as a whole.
+    - >-
+      Refers the decision-maker to the police for a criminal investigation.
+  correct: 1
+  explanation: >-
+    An act without power is defective at the root. Courts cancel it and often let the competent body
+    decide again lawfully; they may limit remedies such as refunds.
+- id: m04-015
+  module: 4
+  lesson: "04.1"
+  subject: express-authority
+  difficulty: 3
+  question: >-
+    A ministry asks protest organisers to sign an undertaking not to criticise named officials as a
+    condition of a permit. No law mentions such undertakings. What is the strongest objection?
+  options:
+    - >-
+      The condition is too vague for the organisers to know what is required.
+    - >-
+      The ministry should have asked for the undertaking after the protest.
+    - >-
+      The condition limits expression, which needs express authority in a statute.
+    - >-
+      The organisers were not given 45 days to consider the condition.
+  correct: 2
+  explanation: >-
+    A permit condition that limits a basic right needs express statutory authority (Basic Law s. 8).
+    Without it, the condition is outside the power.
+- id: m04-016
+  module: 4
+  lesson: "04.1"
+  subject: legality
+  difficulty: 2
+  question: >-
+    Which question should come FIRST when you audit an administrative decision?
+  options:
+    - >-
+      Was the result the best one available?
+    - >-
+      Did the decision-maker give enough weight to all of my arguments?
+    - >-
+      Was I treated the same as my neighbours?
+    - >-
+      Which section of law gave this body the power to decide this?
+  correct: 3
+  explanation: >-
+    Authority comes first: without a power, nothing else matters, and it is the ground courts are
+    most comfortable applying.
+- id: m04-017
+  module: 4
+  lesson: "04.2"
+  subject: considerations-purpose
+  difficulty: 1
+  question: >-
+    According to Ressler, what decides whether a consideration is relevant?
+  options:
+    - >-
+      The personal views of the official who holds the power.
+    - >-
+      The purpose of the enabling law, judged objectively.
+    - >-
+      The number of residents who support the consideration.
+    - >-
+      Whether the consideration appears in the decision letter.
+  correct: 1
+  explanation: >-
+    Barak J.: "The test of their relevance is objective", set by the law's purpose (Ressler, para. 64).
+- id: m04-018
+  module: 4
+  lesson: "04.2"
+  subject: considerations-purpose
+  difficulty: 1
+  question: >-
+    Which source is usually the BEST guide to a law's purpose when its text is unclear?
+  options:
+    - >-
+      A news article describing the debate about the law's passage.
+    - >-
+      The explanatory notes to the bill (דברי הסבר) on the Knesset database.
+    - >-
+      The official's own explanation of the law in the decision letter.
+    - >-
+      A social media post by the minister responsible.
+  correct: 1
+  explanation: >-
+    After the text, structure and any purpose clause, the explanatory notes to the bill are a primary
+    guide to purpose; officials' later explanations are not.
+- id: m04-019
+  module: 4
+  lesson: "04.2"
+  subject: extraneous-considerations
+  difficulty: 1
+  question: >-
+    What is a "שיקול זר"?
+  options:
+    - >-
+      A consideration raised by a foreign government or an international body.
+    - >-
+      A consideration the authority used but forgot to write down in its decision.
+    - >-
+      A consideration outside the purpose of the law, such as personal or political interest.
+    - >-
+      A consideration raised late in the process, after the applicant had already been heard.
+  correct: 2
+  explanation: >-
+    An extraneous consideration is one the law's purpose does not make relevant — personal,
+    political or other improper motives.
+- id: m04-020
+  module: 4
+  lesson: "04.2"
+  subject: extraneous-considerations
+  difficulty: 2
+  question: >-
+    A regional council delays a building permit for a settlement's synagogue after the community's
+    rabbi criticised the council head. The engineer's file shows no technical problem. Which flaw
+    should the community investigate?
+  options:
+    - >-
+      An extraneous consideration: retaliation for criticism.
+    - >-
+      Lack of authority: councils cannot approve religious buildings.
+    - >-
+      Fettering: the council follows a strict policy on synagogues.
+    - >-
+      Mootness: the community can build elsewhere.
+  correct: 0
+  explanation: >-
+    Delay after criticism, with no technical reason on file, suggests retaliation — an extraneous
+    consideration. The community should request reasons and the file to prove it.
+- id: m04-021
+  module: 4
+  lesson: "04.2"
+  subject: evidence-of-motive
+  difficulty: 2
+  question: >-
+    Which piece of evidence is usually the most persuasive that an extraneous consideration was used?
+  options:
+    - >-
+      An anonymous post claiming the decision was political.
+    - >-
+      Your own belief, stated in an affidavit, that the official dislikes you.
+    - >-
+      A general news report that the authority is politicised.
+    - >-
+      The committee minutes recording the reason discussed before the vote.
+  correct: 3
+  explanation: >-
+    Minutes are official records of what was actually considered. They are far stronger than
+    suspicion, rumours or general reporting.
+- id: m04-022
+  module: 4
+  lesson: "04.2"
+  subject: discrimination
+  difficulty: 2
+  question: >-
+    A municipality funds after-school programmes in Jewish neighbourhoods but refuses the same
+    programme in an Arab neighbourhood with similar needs, giving no reason. Which ground fits?
+  options:
+    - >-
+      Fettering, because the municipality follows its budget too closely.
+    - >-
+      Dictation, because the budget was set by the finance department.
+    - >-
+      Discrimination: unequal treatment of like cases for no relevant reason.
+    - >-
+      Lack of standing, because funding decisions cannot be challenged.
+  correct: 2
+  explanation: >-
+    Equality is a consideration every authority must respect. Treating similar cases differently for
+    an irrelevant reason is discrimination, an extraneous-consideration flaw.
+- id: m04-023
+  module: 4
+  lesson: "04.2"
+  subject: fettering
+  difficulty: 2
+  question: >-
+    A ministry's policy says applications for an accessibility grant are "never accepted after
+    30 June". A disabled applicant was hospitalised all of June. What is the best argument?
+  options:
+    - >-
+      The policy itself is void, because ministries may not set dates.
+    - >-
+      The ministry must consider an exception, since a rigid rule fetters discretion.
+    - >-
+      The applicant had no standing, so the policy cannot be challenged.
+    - >-
+      The ministry must hold a public hearing on every grant policy.
+  correct: 1
+  explanation: >-
+    Deadlines and policies are lawful, but the authority must stay willing to consider exceptional
+    cases. A rule applied with no exceptions at all is fettering.
+- id: m04-024
+  module: 4
+  lesson: "04.2"
+  subject: dictation
+  difficulty: 2
+  question: >-
+    A licensing officer refuses a licence and writes: "The mayor instructed me to refuse." The law
+    gives the power to the licensing officer. What flaw does this reveal?
+  options:
+    - >-
+      Dictation: the officer did not use his own discretion.
+    - >-
+      Lack of authority: the mayor holds all municipal powers.
+    - >-
+      Delay: the officer waited for the mayor's instruction.
+    - >-
+      None, since following a superior's instruction is lawful.
+  correct: 0
+  explanation: >-
+    The holder of the power must decide. Following another person's instruction without independent
+    judgment is acting under dictation.
+- id: m04-025
+  module: 4
+  lesson: "04.2"
+  subject: considerations-purpose
+  difficulty: 3
+  question: >-
+    A law on nature reserves lets the authority close trails "for the protection of nature". It
+    closes a trail to stop a planned protest walk by an environmental group. Assess the closure.
+  options:
+    - >-
+      Lawful, because the authority holds the power to close trails for any reason.
+    - >-
+      Lawful, because protests are not a protected use of nature reserves.
+    - >-
+      Unlawful only if the group applied for a permit at least 45 days ahead.
+    - >-
+      Likely unlawful, because stopping a protest is not the purpose of the power.
+  correct: 3
+  explanation: >-
+    The power exists for protecting nature. Using it to stop a protest serves a purpose the law does
+    not give — an extraneous consideration, unless a real nature-protection reason applies.
+- id: m04-026
+  module: 4
+  lesson: "04.2"
+  subject: mixed-motives
+  difficulty: 3
+  question: >-
+    A refusal cites a real parking problem and, in the minutes, the council's dislike of the
+    applicant's views. The parking problem was minor and had been ignored for other applicants.
+    How should your audit present this?
+  options:
+    - >-
+      Ignore the views point, since a relevant reason exists.
+    - >-
+      Show the extraneous consideration was decisive, using the minutes and the comparison.
+    - >-
+      Argue only that parking is never a relevant consideration.
+    - >-
+      Argue that any mention of the applicant's views in the minutes voids the decision automatically.
+  correct: 1
+  explanation: >-
+    With mixed motives, courts ask whether the extraneous consideration was decisive. The comparison
+    with other applicants shows the minor relevant reason would not have produced the refusal alone.
+- id: m04-027
+  module: 4
+  lesson: "04.2"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "חזקת התקינות" mean for an activist challenging a decision?
+  options:
+    - >-
+      The decision is presumed lawful, so the challenger must show the flaw.
+    - >-
+      The decision is presumed unlawful until the authority proves otherwise.
+    - >-
+      The authority must re-examine any decision when asked.
+    - >-
+      The court must hold a hearing before deciding any petition.
+  correct: 0
+  explanation: >-
+    The presumption of regularity places the initial burden on the challenger, which is why evidence
+    matters so much.
+- id: m04-028
+  module: 4
+  lesson: "04.2"
+  subject: extraneous-considerations
+  difficulty: 2
+  question: >-
+    A ministry conditions a cultural grant on the theatre staging "at least one play supporting
+    government policy". The grant law aims to support artistic quality. Classify the condition.
+  options:
+    - >-
+      A relevant consideration, because public funds may serve government policy.
+    - >-
+      A procedural flaw, because the theatre had no hearing on the condition.
+    - >-
+      An extraneous consideration, outside the law's purpose of artistic quality.
+    - >-
+      A lawful policy, since every grant may carry conditions.
+  correct: 2
+  explanation: >-
+    Conditions must serve the law's purpose. Requiring political content in a law aimed at artistic
+    quality is an extraneous consideration — whichever government is in power.
+- id: m04-029
+  module: 4
+  lesson: "04.2"
+  subject: considerations-missing
+  difficulty: 2
+  question: >-
+    A ministry closes a rural clinic to save money and never considers the travel distance for
+    elderly patients, which the health law makes central. Which flaw is this?
+  options:
+    - >-
+      Lack of authority, because only the Knesset may close clinics.
+    - >-
+      Dictation, because the finance ministry asked for savings.
+    - >-
+      Conflict of interest, because the ministry benefits from the savings.
+    - >-
+      Failure to consider a relevant consideration the law requires.
+  correct: 3
+  explanation: >-
+    Ignoring a consideration the law makes central is as much a flaw as weighing an extraneous one,
+    and it leads naturally into reasonableness (weight).
+- id: m04-030
+  module: 4
+  lesson: "04.2"
+  subject: evidence-of-motive
+  difficulty: 3
+  question: >-
+    You have strong suspicion but no documents that a decision was political. You will need the
+    minutes and internal emails. Which tool fits best before any court step?
+  options:
+    - >-
+      A Freedom of Information request for the minutes and correspondence.
+    - >-
+      A defamation warning letter sent to the decision-maker personally.
+    - >-
+      A complaint to the police for breach of trust.
+    - >-
+      An immediate High Court petition asking the court to order discovery.
+  correct: 0
+  explanation: >-
+    FOI (lesson 05.2) is the standard way to obtain minutes and documents. Courts expect evidence,
+    and accusations without it carry legal risk.
+- id: m04-031
+  module: 4
+  lesson: "04.2"
+  subject: extraneous-considerations
+  difficulty: 1
+  question: >-
+    Which of these is an extraneous consideration for a municipal official deciding a building
+    permit?
+  options:
+    - >-
+      Compliance with the approved plan.
+    - >-
+      Fire-safety requirements.
+    - >-
+      The applicant's vote in the last local election.
+    - >-
+      The building's impact on neighbours' light and access.
+  correct: 2
+  explanation: >-
+    How the applicant voted has nothing to do with the purposes of planning law. The other three are
+    standard planning considerations.
+- id: m04-032
+  module: 4
+  lesson: "04.2"
+  subject: fettering
+  difficulty: 3
+  question: >-
+    Spot the mistake in this protest group's letter: "Your policy of limiting demonstrations near
+    hospitals is unlawful because authorities may not have policies."
+  options:
+    - >-
+      The letter should cite the 45-day deadline for answering.
+    - >-
+      Policies are lawful; the argument should be that the policy left no room for this case.
+    - >-
+      The letter should be sent to the Knesset, which approves all police policies on demonstrations.
+    - >-
+      The letter should have asked for a hearing on the policy itself.
+  correct: 1
+  explanation: >-
+    Authorities may adopt policies to guide discretion. The flaw is a policy applied rigidly, with no
+    willingness to consider exceptions.
+- id: m04-033
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 1
+  question: >-
+    In Israeli administrative law, what is the core of the reasonableness ground?
+  options:
+    - >-
+      Whether the decision is the one the judge would have made.
+    - >-
+      Whether the decision followed a written procedure.
+    - >-
+      Whether proper weight was given to the relevant considerations.
+    - >-
+      Whether the decision was popular with the public.
+  correct: 2
+  explanation: >-
+    Reasonableness is about balance: the weight given to relevant considerations. Ressler (para. 67)
+    speaks of "allowing appropriate weight to the various factors".
+- id: m04-034
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 1
+  question: >-
+    What is "מתחם הסבירות"?
+  options:
+    - >-
+      The range of reasonable decisions within which the court does not intervene.
+    - >-
+      The geographic area in which a local authority may lawfully act.
+    - >-
+      The period during which a decision may still be challenged in an administrative court.
+    - >-
+      The list of considerations written into the enabling law itself.
+  correct: 0
+  explanation: >-
+    Several decisions can be reasonable. The court intervenes only when a decision falls outside
+    that range.
+- id: m04-035
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 1
+  question: >-
+    On what date did the High Court annul the 2023 reasonableness amendment?
+  options:
+    - >-
+      24 July 2023.
+    - >-
+      12 September 2023.
+    - >-
+      27 March 2025.
+    - >-
+      1 January 2024.
+  correct: 3
+  explanation: >-
+    HCJ 5658/23 was decided on 1.1.2024. 24.7.2023 is when the amendment passed; 12.9.2023 the
+    hearing; 27.3.2025 the judicial selection amendment.
+- id: m04-036
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 1
+  question: >-
+    By what majority did the Court annul the reasonableness amendment in HCJ 5658/23?
+  options:
+    - >-
+      15 to 0.
+    - >-
+      8 to 7.
+    - >-
+      12 to 3.
+    - >-
+      10 to 1.
+  correct: 1
+  explanation: >-
+    Eight of the fifteen justices voided the amendment. A larger majority (12 per the official
+    abstract) held that Basic Laws may be reviewed in extreme cases.
+- id: m04-037
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 2
+  question: >-
+    Whose decisions did the 2023 amendment (s. 15(ד1)) try to exclude from reasonableness review?
+  options:
+    - >-
+      All public authorities, including local councils.
+    - >-
+      Only the Knesset and its committees.
+    - >-
+      The government, the Prime Minister and ministers.
+    - >-
+      Only the Attorney General and ministry legal advisers.
+  correct: 2
+  explanation: >-
+    The annulled s. 15(ד1) covered "הממשלה, ראש הממשלה או שר אחר", including appointments and
+    decisions not to act. It never covered local authorities or officials below ministers.
+- id: m04-038
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 2
+  question: >-
+    What did the three-justice minority that read the amendment narrowly propose?
+  options:
+    - >-
+      To keep the amendment but read it as still allowing review of arbitrary decisions.
+    - >-
+      To void the amendment and extend reasonableness to the Knesset.
+    - >-
+      To refer the whole question to a national referendum before deciding.
+    - >-
+      To suspend the amendment until the next Knesset could reconsider it.
+  correct: 0
+  explanation: >-
+    Justices Willner, Stein and Canfy-Steinitz would have upheld the amendment, read so that it
+    removed balancing-type review but left review of capricious decisions.
+- id: m04-039
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 2
+  question: >-
+    Which description of the reasonableness debate is balanced enough for a course or a leaflet?
+  options:
+    - >-
+      Reasonableness lets unelected judges rule the country, as everyone across politics now accepts.
+    - >-
+      Only opponents of democracy criticise the reasonableness ground, so their view need not be presented.
+    - >-
+      Amendment supporters saw too broad a scope to intervene; defenders see a check on arbitrary acts.
+    - >-
+      The debate ended in 2024, so there is no need to present positions.
+  correct: 2
+  explanation: >-
+    Each side's position is attributed and stated fairly. The debate continues, with critics and
+    defenders among judges, scholars and politicians.
+- id: m04-040
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 2
+  question: >-
+    Which threshold do courts apply before cancelling a decision for unreasonableness?
+  options:
+    - >-
+      Any unreasonableness, however small.
+    - >-
+      Unreasonableness proven beyond reasonable doubt.
+    - >-
+      Unreasonableness that a majority of the public perceives.
+    - >-
+      Extreme unreasonableness (חוסר סבירות קיצוני).
+  correct: 3
+  explanation: >-
+    Courts intervene only where the decision is extremely unreasonable — far outside the range of
+    reasonable decisions.
+- id: m04-041
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 2
+  question: >-
+    What is the significance of the Deri-Pinhasi rulings (1993) for reasonableness?
+  options:
+    - >-
+      They held that a Prime Minister's failure to dismiss an indicted minister can be unreasonable.
+    - >-
+      They abolished reasonableness review of all ministers' appointments and dismissals by the government.
+    - >-
+      They held that indicted ministers are automatically disqualified by statute.
+    - >-
+      They created the proportionality test for administrative decisions.
+  correct: 0
+  explanation: >-
+    No statute required dismissal, but the Court held that refraining from using the power to
+    dismiss could, in the circumstances, be unreasonable.
+- id: m04-042
+  module: 4
+  lesson: "04.3"
+  subject: proportionality
+  difficulty: 1
+  question: >-
+    What is the correct order of the proportionality tests?
+  options:
+    - >-
+      Least harmful means, proper purpose, rational connection, benefit against harm.
+    - >-
+      Proper purpose, rational connection, least harmful means, benefit against harm.
+    - >-
+      Rational connection, benefit against harm, proper purpose, least harmful means.
+    - >-
+      Benefit against harm, least harmful means, rational connection, proper purpose.
+  correct: 1
+  explanation: >-
+    First the purpose must be proper; then the measure must advance it; then it must be the least
+    harmful effective option; finally its benefit must justify its harm.
+- id: m04-043
+  module: 4
+  lesson: "04.3"
+  subject: proportionality
+  difficulty: 1
+  question: >-
+    When does the proportionality test apply to an administrative decision?
+  options:
+    - >-
+      Whenever a citizen disagrees with the decision.
+    - >-
+      Only when a decision involves spending public money.
+    - >-
+      When the decision limits a basic right.
+    - >-
+      Only when the decision was taken by a minister.
+  correct: 2
+  explanation: >-
+    Proportionality is the test for limits on rights (Basic Law s. 8: "במידה שאינה עולה על
+    הנדרש"), and courts apply it to administrative acts too.
+- id: m04-044
+  module: 4
+  lesson: "04.3"
+  subject: proportionality
+  difficulty: 2
+  question: >-
+    A council removes all benches from a square to stop rough sleeping. Homeless-rights activists
+    argue the measure is disproportionate. Which point best fits the least harmful means test?
+  options:
+    - >-
+      Social services outreach and night patrols would address the problem with less harm.
+    - >-
+      Preventing rough sleeping is never a proper purpose for a council.
+    - >-
+      Removing benches has no rational connection to where homeless people choose to sleep.
+    - >-
+      The council did not answer the activists within 45 days.
+  correct: 0
+  explanation: >-
+    The least harmful means test asks whether another measure achieves the purpose about as well
+    with less harm to all users, including the elderly and disabled who need benches.
+- id: m04-045
+  module: 4
+  lesson: "04.3"
+  subject: proportionality
+  difficulty: 3
+  question: >-
+    A ministry bans a political group's rally citing a specific, credible threat of violence, after
+    considering and rejecting a smaller venue and extra police. Which proportionality stage is now
+    the realistic battleground?
+  options:
+    - >-
+      Proper purpose, because public safety is never a proper purpose for a ban.
+    - >-
+      Rational connection, because bans never reduce violence.
+    - >-
+      Least harmful means, because the ministry did not consider alternatives at all.
+    - >-
+      Proportionality in the narrow sense: whether the safety benefit justifies a total ban.
+  correct: 3
+  explanation: >-
+    Safety is proper, a ban is connected to it, and alternatives were weighed. The remaining question
+    is whether the benefit is worth the harm to expression.
+- id: m04-046
+  module: 4
+  lesson: "04.3"
+  subject: proportionality
+  difficulty: 2
+  question: >-
+    What is the main point of Beit Sourik (HCJ 2056/04) for this module?
+  options:
+    - >-
+      Courts may not review military commanders' decisions at all, even where rights are harmed.
+    - >-
+      Proportionality applies to administrative acts; a less harmful available route can decide the case.
+    - >-
+      The reasonableness ground was abolished for all security decisions taken by the army in the field.
+    - >-
+      Public petitioners have no standing in security matters.
+  correct: 1
+  explanation: >-
+    The Court accepted the security purpose but annulled parts of the route because an alternative
+    caused less harm — proportionality applied to a commander's decision.
+- id: m04-047
+  module: 4
+  lesson: "04.3"
+  subject: choosing-grounds
+  difficulty: 3
+  question: >-
+    A minister refused to renew a grant to an NGO. You find no authority problem, but the minister
+    gave no reasons, ignored the grant committee's recommendation and held no hearing. Which ground
+    should lead your letter?
+  options:
+    - >-
+      Extreme unreasonableness, because the decision feels unfair.
+    - >-
+      Proportionality, because every grant refusal limits a basic right.
+    - >-
+      Procedure and reasons, supported by the ignored recommendation.
+    - >-
+      Lack of standing of the minister to refuse grants.
+  correct: 2
+  explanation: >-
+    Concrete procedural flaws are stronger than a general reasonableness claim. The ignored
+    recommendation then supports a weight-based reasonableness argument.
+- id: m04-048
+  module: 4
+  lesson: "04.3"
+  subject: choosing-grounds
+  difficulty: 3
+  question: >-
+    You disagree with a lawful government policy on fuel taxes that was adopted with full procedure
+    and relevant considerations. What is the most realistic route?
+  options:
+    - >-
+      Political action: Knesset committees, MKs, public campaigns.
+    - >-
+      A petition for extreme unreasonableness, since you disagree.
+    - >-
+      A petition for disproportionality, since all taxes limit property.
+    - >-
+      A petition for lack of standing of the finance minister.
+  correct: 0
+  explanation: >-
+    Courts do not replace lawful policy choices. Disagreement with a lawful policy belongs to the
+    political process (Module 12).
+- id: m04-049
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 2
+  question: >-
+    Spot the weakness in this sentence from a petition draft: "The decision is unreasonable."
+  options:
+    - >-
+      It should say "illegal" instead, since reasonableness no longer exists.
+    - >-
+      It does not say which consideration got no or wrong weight, and why.
+    - >-
+      It should be in English, since reasonableness is an English doctrine.
+    - >-
+      It should be at the end of the petition, not the start.
+  correct: 1
+  explanation: >-
+    A label persuades nobody. A strong argument names the consideration, the weight it received and
+    why the result falls outside the range.
+- id: m04-050
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness-status
+  difficulty: 3
+  question: >-
+    A group wants to cite reasonableness against a 2026 ministerial decision. A member says "check
+    first whether the Knesset has re-legislated it." Where should they look, and why?
+  options:
+    - >-
+      Nowhere; once the Court has ruled, the Knesset can never legislate on the topic again.
+    - >-
+      Only in the 2024 judgment, because later developments cannot change it.
+    - >-
+      Only on social media and in the news, where legislative changes usually appear first.
+    - >-
+      The current Basic Law text and legislative trackers, because a new Knesset could act again.
+  correct: 3
+  explanation: >-
+    The status can change. Check the current text (Wikisource, the Knesset database) and up-to-date
+    trackers, and attribute any advocacy source.
+- id: m04-051
+  module: 4
+  lesson: "04.3"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "מידתיות במובן הצר" ask?
+  options:
+    - >-
+      Whether the measure is legal under the enabling law.
+    - >-
+      Whether the measure advances the purpose at all.
+    - >-
+      Whether the benefit of the measure justifies the harm it causes.
+    - >-
+      Whether the measure was adopted within the deadline set by law.
+  correct: 2
+  explanation: >-
+    The last stage compares benefit and harm, even when no gentler measure exists.
+- id: m04-052
+  module: 4
+  lesson: "04.3"
+  subject: reasonableness
+  difficulty: 3
+  question: >-
+    In Ressler, Barak J. upheld the yeshiva deferrals but warned "Quantity makes a qualitative
+    difference". What does that mean for reasonableness?
+  options:
+    - >-
+      A lawful policy can become unreasonable when its scale grows far beyond its original balance.
+    - >-
+      Larger numbers of petitioners make a petition more likely to succeed.
+    - >-
+      Decisions affecting very many people are not justiciable, because they are political by nature.
+    - >-
+      Policies must be re-legislated every year by the Knesset.
+  correct: 0
+  explanation: >-
+    The weight of considerations changes with scale. A deferral policy reasonable for a few could
+    cross the line as numbers grow (Ressler, para. 69).
+- id: m04-053
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    Where does the general right to be heard (זכות הטיעון) in Israeli administrative law come from?
+  options:
+    - >-
+      From the rules of natural justice applied by the courts.
+    - >-
+      From a specific section of the Decisions and Reasons Law.
+    - >-
+      From the Freedom of Information Law.
+    - >-
+      From Basic Law: The Government s. 32.
+  correct: 0
+  explanation: >-
+    There is no general statute; the courts apply natural justice ("שמע את הצד השני") to every
+    administrative body. Some specific laws add their own hearing rules.
+- id: m04-054
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    Which of these is NOT one of the elements of a proper hearing?
+  options:
+    - >-
+      Notice that a decision is being considered.
+    - >-
+      Access to the material the authority relies on.
+    - >-
+      A real chance to respond, with an open mind.
+    - >-
+      The right to choose which official will decide.
+  correct: 3
+  explanation: >-
+    A hearing includes notice, the material, time, a chance to respond and an open mind — not a
+    choice of decision-maker.
+- id: m04-055
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    A municipality adopts a new city-wide rule on outdoor seating hours. A café owner says he was
+    owed a personal hearing before the rule. Is he right?
+  options:
+    - >-
+      Yes, every person affected by any decision has a right to a personal hearing.
+    - >-
+      No; general rules usually need no individual hearing, though some laws require consultation.
+    - >-
+      Yes, but only if he submitted a written request for a personal hearing within 45 days.
+    - >-
+      No, because municipalities are not bound by natural justice.
+  correct: 1
+  explanation: >-
+    Individual hearings attach to decisions about specific persons. General rules may require public
+    consultation where a law says so, not individual hearings.
+- id: m04-056
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    A building is about to collapse and the municipality evacuates it immediately, without a
+    hearing. Is the lack of a prior hearing unlawful?
+  options:
+    - >-
+      Yes, hearings are always required before any decision about specific people.
+    - >-
+      Yes, unless a court approved the evacuation in advance.
+    - >-
+      No, in a real emergency it may act first, but it must hear the residents afterwards.
+    - >-
+      No, emergencies remove the duty to hear entirely, even after the danger passes.
+  correct: 2
+  explanation: >-
+    Real urgency can justify acting before a hearing, but the authority must then hear the affected
+    people and remain willing to change its decision.
+- id: m04-057
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 3
+  question: >-
+    A council invites you to a "hearing" on cancelling your group's permit, but refuses to show you
+    the complaints, saying only that "there were many". What is your best response?
+  options:
+    - >-
+      Ask in writing for the complaints, redacted if needed, so that you can respond to them.
+    - >-
+      Refuse to attend, because an incomplete hearing is no hearing.
+    - >-
+      Attend the hearing and argue only that your group is popular in the whole neighbourhood.
+    - >-
+      Ask the council to postpone the hearing for at least six months.
+  correct: 0
+  explanation: >-
+    A hearing without the material is not a real chance to respond. Ask for it in writing (redaction
+    can protect complainants) and attend, putting your objection on record.
+- id: m04-058
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 3
+  question: >-
+    At a hearing, the committee chair reads a decision that was printed before you finished speaking.
+    Which hearing element is most clearly missing?
+  options:
+    - >-
+      Notice of the planned decision, given in writing a reasonable time in advance.
+    - >-
+      Access to the material that the committee relied on.
+    - >-
+      Reasonable time to prepare a response before the meeting.
+    - >-
+      An open mind: the decision was ready before you were heard.
+  correct: 3
+  explanation: >-
+    A decision prepared in advance suggests a closed mind (דעה נעולה). A hearing must be able to
+    change the outcome.
+- id: m04-059
+  module: 4
+  lesson: "04.4"
+  subject: reasons
+  difficulty: 1
+  question: >-
+    Under Decisions and Reasons Law s. 2א, when must an official give written reasons?
+  options:
+    - >-
+      When refusing a written request to use a power.
+    - >-
+      Only when a court orders the official to explain.
+    - >-
+      Only when approving a request, so others can rely on it.
+    - >-
+      Only for decisions that cost the applicant money.
+  correct: 0
+  explanation: >-
+    Section 2א: an official who refused a request under s. 2(א) must inform the applicant in writing
+    of the reasons for refusal.
+- id: m04-060
+  module: 4
+  lesson: "04.4"
+  subject: reasons
+  difficulty: 2
+  question: >-
+    Which of these is a lawful exception to the duty to give reasons under s. 3?
+  options:
+    - >-
+      The official thinks the reasons would embarrass the minister.
+    - >-
+      The request was to appoint the applicant to a particular post.
+    - >-
+      The official is too busy to write reasons.
+    - >-
+      The applicant is a member of an opposition party.
+  correct: 1
+  explanation: >-
+    Section 3 lists exceptions including requests to be appointed to a post, and security or foreign
+    relations. Embarrassment, workload and politics are not among them.
+- id: m04-061
+  module: 4
+  lesson: "04.4"
+  subject: reasons
+  difficulty: 2
+  question: >-
+    An official refuses your request and writes that reasons are withheld "under section 3", without
+    saying which paragraph. What may you do?
+  options:
+    - >-
+      Nothing, since s. 3 gives the official complete discretion.
+    - >-
+      Ask a court for damages for the missing reasons.
+    - >-
+      Insist on the specific ground (s. 4), and appeal (ערר) to the minister within the time set.
+    - >-
+      File a criminal complaint against the official for breach of the Decisions and Reasons Law.
+  correct: 2
+  explanation: >-
+    Section 4 requires the official to state which s. 3 ground applies and gives a right of appeal to
+    the minister within a set period (see current numbers).
+- id: m04-062
+  module: 4
+  lesson: "04.4"
+  subject: reasons
+  difficulty: 2
+  question: >-
+    Spot the problem with this reply: "Your request is refused following a professional review."
+  options:
+    - >-
+      It is a label, not reasons: it does not say what the review found or why it led to refusal.
+    - >-
+      It should have been signed by the minister personally, not by an official of the ministry.
+    - >-
+      It was sent too quickly, before the 45 days for answering had passed, so it is premature.
+    - >-
+      It should have been sent by registered mail only.
+  correct: 0
+  explanation: >-
+    Reasons must let you understand the decision and respond to it. A reference to "a review" without
+    its content does not meet the duty.
+- id: m04-063
+  module: 4
+  lesson: "04.4"
+  subject: reasons
+  difficulty: 3
+  question: >-
+    Under s. 5 of the Decisions and Reasons Law, what must an official tell you if the decision is
+    subject to appeal under some enactment?
+  options:
+    - >-
+      Nothing, because applicants must find their own appeal routes.
+    - >-
+      Only the name and address of the appeals committee.
+    - >-
+      The right of appeal, how to file it and the deadlines set by law.
+    - >-
+      The likely result of the appeal, based on past cases.
+  correct: 2
+  explanation: >-
+    Section 5 requires written notice of the right of appeal, how to file it and its deadlines. If
+    it is missing, s. 6(א) shifts the burden of proving legality to the authority.
+- id: m04-064
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 1
+  question: >-
+    What is the test for a conflict of interest of a public servant, as stated by Barak J.?
+  options:
+    - >-
+      Proof that the official was actually influenced by the interest.
+    - >-
+      A real possibility of a conflict of interest.
+    - >-
+      A criminal conviction for breach of trust.
+    - >-
+      A complaint by at least two members of the public.
+  correct: 1
+  explanation: >-
+    "אסור לו לעובד הציבור להימצא במצב בו קיימת אפשרות ממשית של ניגוד עניינים". Actual influence need
+    not be proved.
+- id: m04-065
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 1
+  question: >-
+    What is an institutional conflict of interest?
+  options:
+    - >-
+      A conflict between an official's public role and a relative's business.
+    - >-
+      A dispute between two ministries over a budget.
+    - >-
+      A clash between two public roles the same person holds.
+    - >-
+      Any disagreement inside a committee.
+  correct: 2
+  explanation: >-
+    An institutional conflict pits two public interests one person is entrusted with against each
+    other, such as promoting and supervising the same project.
+- id: m04-066
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 2
+  question: >-
+    A district planning committee member is a paid consultant to the developer of a plan under
+    discussion. He declares this and leaves the room before the vote. Was s. 47 complied with?
+  options:
+    - >-
+      Yes, because he declared the interest and did not attend or vote on the matter.
+    - >-
+      No, because consultants may never sit on planning committees.
+    - >-
+      No, because he should have voted against the plan to show neutrality.
+    - >-
+      Yes, but only if the developer agreed to his recusal in writing.
+  correct: 0
+  explanation: >-
+    Section 47(א) requires notifying the chair and not attending the discussion or the vote. Check
+    that the minutes record both.
+- id: m04-067
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 2
+  question: >-
+    Which relative is NOT listed in the definition of "קרוב" in Municipalities Ordinance s. 122א?
+  options:
+    - >-
+      A spouse.
+    - >-
+      A parent.
+    - >-
+      A brother or sister.
+    - >-
+      A cousin.
+  correct: 3
+  explanation: >-
+    Section 122א defines a relative as a spouse, parent, son or daughter, brother or sister. Cousins
+    are not listed, though a general conflict may still arise.
+- id: m04-068
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 3
+  question: >-
+    A minister is to decide on extending the term of an official whose agency is investigating the
+    minister's close aides. Which flaw would a court most likely examine?
+  options:
+    - >-
+      Lack of authority, because ministers never decide on agency heads.
+    - >-
+      A personal conflict of interest affecting the minister's discretion.
+    - >-
+      Mootness, because the official could resign at any time.
+    - >-
+      Lack of standing of the official to be heard.
+  correct: 1
+  explanation: >-
+    An investigation touching the decision-maker's circle creates a real possibility of conflict.
+    That was one ground in the May 2025 Shin Bet ruling.
+- id: m04-069
+  module: 4
+  lesson: "04.4"
+  subject: conflict-of-interest
+  difficulty: 3
+  question: >-
+    You find that a council member's company won a municipal contract. Before going public, what
+    should you check?
+  options:
+    - >-
+      Whether the company has a website and offices, since that proves it is a real business.
+    - >-
+      Whether the member voted in the last council elections, which shows whether he is still active on the council.
+    - >-
+      Whether one of the s. 122א exceptions applied, such as an approved permit published in Reshumot.
+    - >-
+      Whether the contract was signed in Hebrew and stamped by the council's legal adviser.
+  correct: 2
+  explanation: >-
+    Section 122א(ב) allows some contracts, for example with a two-thirds council majority and
+    ministerial approval published in Reshumot. Check before alleging a breach.
+- id: m04-070
+  module: 4
+  lesson: "04.4"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    In the May 2025 ruling on the Shin Bet head's dismissal, which procedural point did the majority
+    make about the hearing?
+  options:
+    - >-
+      He was given less than a day and no concrete claims to answer.
+    - >-
+      He was given a full hearing but chose not to attend.
+    - >-
+      Hearings are not required for dismissing agency heads.
+    - >-
+      The hearing should have been held by the Knesset.
+  correct: 0
+  explanation: >-
+    According to the Times of Israel report, the majority found he was not given concrete claims and
+    had less than a day to prepare. The government disputed the ruling.
+- id: m04-071
+  module: 4
+  lesson: "04.4"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What is a "הסדר למניעת ניגוד עניינים"?
+  options:
+    - >-
+      A court order cancelling a decision that was tainted by a conflict of interest of the decision-maker.
+    - >-
+      An arrangement, set by a legal adviser, limiting an official's role where a conflict may arise.
+    - >-
+      A contract between a municipality and a supplier.
+    - >-
+      A fine imposed on officials who fail to declare their personal interests on time.
+  correct: 1
+  explanation: >-
+    Conflict-of-interest arrangements define which matters an official may not handle, under the
+    Attorney General's guidelines.
+- id: m04-072
+  module: 4
+  lesson: "04.5"
+  subject: standing
+  difficulty: 1
+  question: >-
+    What is a "public petitioner" (עותר ציבורי)?
+  options:
+    - >-
+      A petitioner without a personal interest, acting on a matter of public importance.
+    - >-
+      Any petitioner who is a public servant, acting in an official capacity.
+    - >-
+      A petitioner who files without paying a fee because of a public-interest exemption.
+    - >-
+      A petitioner represented by the Attorney General.
+  correct: 0
+  explanation: >-
+    Since Ressler, public petitioners may be heard on matters of public importance, serious flaws in
+    administration or the rule of law.
+- id: m04-073
+  module: 4
+  lesson: "04.5"
+  subject: standing
+  difficulty: 2
+  question: >-
+    A tenant's eviction notice from a public housing company seems unlawful, but she does not want to
+    sue. A housing-rights NGO wants to petition alone. What is the best course?
+  options:
+    - >-
+      The NGO petitions alone; public petitioners can always replace the affected person.
+    - >-
+      The NGO pays her to sign the petition so standing is secured.
+    - >-
+      The NGO files in her name without asking, as a public service.
+    - >-
+      Respect her choice; a public petition in her place will probably fail on standing.
+  correct: 3
+  explanation: >-
+    Courts generally reject a public petitioner where the directly affected person chose not to act.
+    Acting for her without consent, or paying her, raises further problems.
+- id: m04-074
+  module: 4
+  lesson: "04.5"
+  subject: justiciability
+  difficulty: 1
+  question: >-
+    What is the difference between normative and institutional justiciability?
+  options:
+    - >-
+      Normative: whether the petition was filed in time; institutional: whether fees were paid.
+    - >-
+      Normative: whether legal standards exist to decide; institutional: whether a court should decide.
+    - >-
+      Normative: whether the petitioner is affected; institutional: whether a group is involved.
+    - >-
+      There is no difference; the terms are used interchangeably.
+  correct: 1
+  explanation: >-
+    Ressler distinguished the two: almost everything has a legal standard, but some matters may
+    still be better left to other branches.
+- id: m04-075
+  module: 4
+  lesson: "04.5"
+  subject: justiciability
+  difficulty: 2
+  question: >-
+    A petition asks the court to order the government to open peace negotiations with a neighbouring
+    state. Which threshold problem is most likely?
+  options:
+    - >-
+      Lack of standing, because peace concerns every citizen equally and no one specially.
+    - >-
+      Delay, because the conflict began decades ago and nobody petitioned earlier.
+    - >-
+      Institutional non-justiciability: a core foreign-policy choice for political bodies.
+    - >-
+      Failure to pay the court fee in advance.
+  correct: 2
+  explanation: >-
+    Courts decline matters at the heart of foreign and security policy where no legal duty is at
+    stake. A petition framed around a legal duty fares better.
+- id: m04-076
+  module: 4
+  lesson: "04.5"
+  subject: exhaustion
+  difficulty: 1
+  question: >-
+    What does "פנייה מוקדמת" mean in practice?
+  options:
+    - >-
+      Writing to the authority asking for what you want before going to court.
+    - >-
+      Filing a petition early, before the authority has made its final decision.
+    - >-
+      Paying the court fee before filing.
+    - >-
+      Asking the court for an early hearing date because of urgency.
+  correct: 0
+  explanation: >-
+    A prior written request gives the authority the chance to fix the problem; the petition must
+    attach it or explain its absence (reg. 5(ב)(6)).
+- id: m04-077
+  module: 4
+  lesson: "04.5"
+  subject: alternative-remedy
+  difficulty: 2
+  question: >-
+    Why does the High Court of Justice usually dismiss a petition where a statutory appeal exists?
+  options:
+    - >-
+      Because statutory appeals are always cheaper.
+    - >-
+      Because Basic Law: The Judiciary s. 15(ג) limits it to matters no other court or tribunal can hear.
+    - >-
+      Because the Administrative Courts Law forbids petitions to the High Court on all planning and licensing matters.
+    - >-
+      Because the High Court hears only criminal appeals.
+  correct: 1
+  explanation: >-
+    The High Court acts where relief is needed for justice and no other court or tribunal has
+    jurisdiction. An available alternative remedy usually leads to dismissal.
+- id: m04-078
+  module: 4
+  lesson: "04.5"
+  subject: delay
+  difficulty: 2
+  question: >-
+    Besides the deadline itself, which factor most affects whether a court dismisses a petition for
+    delay (שיהוי)?
+  options:
+    - >-
+      Whether the petitioner has filed petitions before.
+    - >-
+      Whether the petition is longer than twenty pages, which courts treat as an abuse of process.
+    - >-
+      Whether the petitioner is represented by a lawyer.
+    - >-
+      Whether the authority or third parties relied on the decision in the meantime.
+  correct: 3
+  explanation: >-
+    Courts weigh the length of and reason for the delay, reliance by others, and the seriousness of
+    the alleged illegality. Reg. 4 allows dismissal even within the deadline.
+- id: m04-079
+  module: 4
+  lesson: "04.5"
+  subject: forum
+  difficulty: 2
+  question: >-
+    How do you decide whether an administrative petition goes to the Administrative Affairs Court
+    or to the High Court of Justice?
+  options:
+    - >-
+      Check whether the matter is listed in the First Schedule to the Administrative Courts Law.
+    - >-
+      Choose the High Court for important cases and the district court for minor or local ones.
+    - >-
+      Choose whichever court is closer to your home.
+    - >-
+      Ask the authority which court it prefers, since the respondent chooses the forum in administrative cases.
+  correct: 0
+  explanation: >-
+    The Administrative Affairs Court hears petitions on matters in the First Schedule (s. 5); other
+    administrative matters go to the High Court. Check the item before filing.
+- id: m04-080
+  module: 4
+  lesson: "04.5"
+  subject: forum
+  difficulty: 1
+  question: >-
+    Which grounds does the Administrative Affairs Court apply to an administrative petition?
+  options:
+    - >-
+      Only the grounds listed in the First Schedule item.
+    - >-
+      The grounds, powers and remedies the High Court uses as HCJ.
+    - >-
+      Only grounds of lack of authority, not reasonableness.
+    - >-
+      The grounds in the Civil Procedure Regulations.
+  correct: 1
+  explanation: >-
+    Section 8 of the Administrative Courts Law applies the High Court's grounds, powers and remedies,
+    with the necessary changes.
+- id: m04-081
+  module: 4
+  lesson: "04.5"
+  subject: exhaustion
+  difficulty: 3
+  question: >-
+    Spot the mistake: a resident writes to a ministry on Monday asking it to cancel a decision and
+    files a petition on Wednesday, saying "I exhausted remedies".
+  options:
+    - >-
+      The letter should have been sent to the court instead of the ministry.
+    - >-
+      Exhaustion requires a meeting in person with the minister, not a letter to the ministry.
+    - >-
+      The ministry was not given reasonable time to answer, so remedies were not exhausted.
+    - >-
+      Exhaustion is only needed for High Court petitions.
+  correct: 2
+  explanation: >-
+    Exhaustion means giving the authority a real chance to respond. Two days is rarely enough unless
+    the matter is genuinely urgent, which the petition must explain.
+- id: m04-082
+  module: 4
+  lesson: "04.5"
+  subject: standing
+  difficulty: 3
+  question: >-
+    A right-wing NGO petitions against a ministry's failure to enforce demolition orders on illegal
+    buildings, and a left-wing NGO petitions against non-enforcement of environmental orders. How do
+    courts approach their standing?
+  options:
+    - >-
+      The same way: enforcement of the law is a rule-of-law matter for public petitioners.
+    - >-
+      Differently: courts favour environmental petitioners over planning ones.
+    - >-
+      Neither has standing, because only residents may petition on enforcement.
+    - >-
+      Only the NGO whose views match the government's has standing.
+  correct: 0
+  explanation: >-
+    Standing doctrine is neutral. Both raise rule-of-law enforcement issues, the classic ground for
+    public-petitioner standing.
+- id: m04-083
+  module: 4
+  lesson: "04.5"
+  subject: delay
+  difficulty: 1
+  question: >-
+    From when does the petition clock in reg. 3(ב) run?
+  options:
+    - >-
+      From the day the petitioner decides to sue.
+    - >-
+      From the earliest of publication, notice to the petitioner, or the petitioner's knowledge.
+    - >-
+      From the day the authority's legal adviser replies to the petitioner's prior written request.
+    - >-
+      From the first day of the following month.
+  correct: 1
+  explanation: >-
+    The regulation counts from the earliest of the three dates. Check the deadline in current numbers.
+- id: m04-084
+  module: 4
+  lesson: "04.5"
+  subject: mootness
+  difficulty: 2
+  question: >-
+    Why did the dissenting justice in the May 2025 Shin Bet ruling say the court should not rule?
+  options:
+    - >-
+      Because the petitioners lacked standing as public petitioners.
+    - >-
+      Because the dismissal was not justiciable as a security matter.
+    - >-
+      Because the petition was filed late.
+    - >-
+      Because the head had resigned, making the petitions moot.
+  correct: 3
+  explanation: >-
+    Deputy President Sohlberg argued the question had become theoretical; the majority ruled anyway
+    because of its public importance.
+- id: m04-085
+  module: 4
+  lesson: "04.5"
+  subject: key-terms
+  difficulty: 1
+  question: >-
+    What does "סילוק על הסף" mean?
+  options:
+    - >-
+      Dismissal without examining the merits, for a threshold reason.
+    - >-
+      Removing a judge from the panel.
+    - >-
+      Ending a court hearing early because the time set for it ran out.
+    - >-
+      Sending a case back to the authority for a new decision.
+  correct: 0
+  explanation: >-
+    Threshold flaws — standing, exhaustion, delay, alternative remedy — lead to dismissal in limine.

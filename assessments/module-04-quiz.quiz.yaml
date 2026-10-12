@@ -1,0 +1,177 @@
+- id: q1
+  question: >-
+    A ministry announces that applicants for a public grant must pay a ₪150 "processing charge".
+    The grant law says nothing about charges, and no regulation sets one. An applicant asks you
+    which argument to lead with. What do you suggest?
+  options:
+    - >-
+      The charge is unreasonable, because ₪150 is too high for small community groups.
+    - >-
+      The charge was imposed without a hearing for each applicant before it took effect.
+    - >-
+      The charge needs authority in a statute or under one, and none exists.
+    - >-
+      The charge is disproportionate, because a lower charge would cover the costs.
+  correct: 2
+  explanation: >-
+    A compulsory payment needs a basis "בחוק או על פיו" (Basic Law: The State Economy s. 1). Lack of
+    authority is the strongest ground and makes the other arguments unnecessary.
+- id: q2
+  question: >-
+    A district planning official, not the district committee named in the law, rejected a residents'
+    request. The residents want to argue lack of authority. What must they check first?
+  options:
+    - >-
+      Whether the official's decision was reasonable on the facts before him.
+    - >-
+      Whether the committee lawfully delegated this power to the official.
+    - >-
+      Whether the residents asked the minister to review the official's decision.
+    - >-
+      Whether the official had a personal interest in the request.
+  correct: 1
+  explanation: >-
+    A different official may act only under a lawful delegation. If one exists, the authority
+    argument fails; if not, the decision was made by the wrong body.
+- id: q3
+  question: >-
+    A municipality refuses to rent a public hall to a Muslim women's association for a fundraiser.
+    The minutes record: "the council prefers not to be identified with this population". The
+    municipality says it had the power to refuse. What is the strongest ground?
+  options:
+    - >-
+      An extraneous, discriminatory consideration, proven by the minutes.
+    - >-
+      Lack of authority, because municipalities may not manage public halls.
+    - >-
+      Extreme unreasonableness, because the fundraiser is for a good cause.
+    - >-
+      Lack of a hearing, because the association did not speak at the meeting.
+  correct: 0
+  explanation: >-
+    Having the power does not allow using it for an extraneous reason. The minutes are direct
+    evidence of a discriminatory consideration, which is the clearest flaw here.
+- id: q4
+  question: >-
+    A minister decides against renewing a public body's chair, citing three relevant reasons. You
+    disagree and think the chair was excellent. Several commentators call the decision "unreasonable".
+    Which statement best describes the legal position in 2026?
+  options:
+    - >-
+      The decision cannot be reviewed, because the 2023 amendment bars review of ministers.
+    - >-
+      The court will reverse it if the petitioners show the chair was the best candidate.
+    - >-
+      The decision is void, because ministers must hold a hearing for every appointment.
+    - >-
+      Review is possible, but courts intervene only for extreme unreasonableness, not disagreement.
+  correct: 3
+  explanation: >-
+    The amendment was annulled in HCJ 5658/23. Reasonableness review of ministers applies again, but
+    only an extreme flaw — not a different view of the best choice — leads courts to intervene.
+- id: q5
+  question: >-
+    Police ban all amplified sound at a weekly protest outside a public official's home after
+    neighbours complain about noise late at night. Which proportionality argument is likely strongest?
+  options:
+    - >-
+      Protecting neighbours' quiet is not a proper purpose for any limit on protest.
+    - >-
+      Limiting amplification at night would protect neighbours with far less harm to the protest.
+    - >-
+      A ban on amplification is not rationally connected to reducing noise, since crowds are loud anyway.
+    - >-
+      The ban is unlawful because the police did not answer within 45 days.
+  correct: 1
+  explanation: >-
+    Neighbours' quiet is a proper purpose and a ban is rationally connected to it. The usual weak
+    point is the least harmful means: a night-time limit would serve the purpose with less harm.
+- id: q6
+  question: >-
+    A council is about to cancel a disability organisation's use of a council building. A staff
+    member tells the organisation informally that the decision will be taken next week. What is the
+    best step now?
+  options:
+    - >-
+      Wait for the decision, then petition, since hearings can only be demanded afterwards.
+    - >-
+      Organise a protest at the council meeting instead of writing, to show public support.
+    - >-
+      Ask in writing for the material behind the planned decision and to be heard before it is taken.
+    - >-
+      File an FOI request for the decision, which suspends it until the FOI answer arrives.
+  correct: 2
+  explanation: >-
+    A decision about a specific body requires a hearing. Asking for the material and a hearing before
+    the decision gives the council the chance to get it right and builds the record.
+- id: q7
+  question: >-
+    A tender committee awards a municipal cleaning contract to a company. You find that the company
+    is managed by a council member's brother. Which rule applies most directly?
+  options:
+    - >-
+      Municipalities Ordinance s. 122א, on contracts with companies a member's relatives manage.
+    - >-
+      Planning and Building Law s. 47, which governs all municipal contracts and tenders.
+    - >-
+      Decisions and Reasons Law s. 2א, which requires written reasons for every contract award by a tender committee.
+    - >-
+      Basic Law: The Government s. 32, which limits the residual powers of councils.
+  correct: 0
+  explanation: >-
+    Section 122א bars contracts between the municipality and a company in which a council member's
+    relative is a manager, subject to listed exceptions. Section 47 applies to planning bodies.
+- id: q8
+  question: >-
+    A national environmental group, with no members in the area, petitions against a factory permit.
+    Local residents are aware of the permit but have not petitioned, and the issue is pollution of a
+    regional river. How is standing likely to be treated?
+  options:
+    - >-
+      Refused, because only a person with a personal interest can ever petition.
+    - >-
+      Refused, because residents knew of the permit and did not object first.
+    - >-
+      Accepted only if the group first registers as a party in the planning process.
+    - >-
+      Likely accepted, because regional pollution is a public-interest matter affecting many.
+  correct: 3
+  explanation: >-
+    Public petitioners are accepted on matters of public importance and the rule of law. The limit on
+    public petitioners bites mainly where one identifiable affected person chose not to sue.
+- id: q9
+  question: >-
+    You want to challenge a local committee's approval of a plan. The planning law gives objectors an
+    appeal route, and you have not used it. A friend suggests going straight to the High Court because
+    "it is faster". What is the likely result?
+  options:
+    - >-
+      The High Court will hear it, since it may review any administrative decision.
+    - >-
+      Dismissal, because an alternative remedy exists and must be used first.
+    - >-
+      Transfer to the appeals committee, with the deadline paused automatically.
+    - >-
+      A hearing on the merits, but with costs against you for choosing the wrong route.
+  correct: 1
+  explanation: >-
+    The High Court hears matters no other court or tribunal can hear (Basic Law: The Judiciary
+    s. 15(ג)). Where a statutory appeal exists, a petition is usually dismissed for an alternative remedy.
+- id: q10
+  question: >-
+    A resident learned of a council decision in January, wrote to the council in February, got a
+    refusal in March, and wants to file an administrative petition in September with no explanation
+    for the wait. What is the main risk?
+  options:
+    - >-
+      None, because the refusal in March restarted the clock with no time limit.
+    - >-
+      Lack of standing, because the resident wrote to the council only once.
+    - >-
+      Dismissal for delay, since the deadline and the duty to act without delay have passed.
+    - >-
+      Non-justiciability, because old decisions are treated as political matters.
+  correct: 2
+  explanation: >-
+    Petitions must be filed without delay and within the regulation's deadline (see current numbers).
+    A six-month gap with no explanation invites dismissal for delay.

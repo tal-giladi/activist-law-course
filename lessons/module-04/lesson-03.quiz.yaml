@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A friend writes in a leaflet that "since 2023 courts can no longer review whether ministers'
+    decisions are reasonable". What is the accurate correction, as of 2026?
+  options:
+    - >-
+      The leaflet is right; the amendment is in force and covers ministers but not officials.
+    - >-
+      The amendment was annulled by HCJ 5658/23 on 1 January 2024, so the ground applies as before.
+    - >-
+      The amendment was repealed by the Knesset in 2025 as part of the judicial selection reform.
+    - >-
+      The amendment is suspended until the High Court rules on a further hearing requested in 2024.
+  correct: 1
+  explanation: >-
+    The Court annulled Amendment No. 3 (s. 15(ד1)) 8–7 on 1.1.2024. Reasonableness review applies to
+    the government and ministers as it did before; the political debate about it continues.
+- id: q2
+  question: >-
+    A ministry chose plan A over plan B for a new bus route. You think plan B is clearly better, and
+    the ministry weighed all the relevant data. How strong is a reasonableness challenge?
+  options:
+    - >-
+      Strong, because the court will choose the better of two plans if the petitioner proves it.
+    - >-
+      Strong, because a decision that is not the best possible one is unreasonable by definition.
+    - >-
+      Weak, because the court intervenes only when a decision falls outside the range of reasonable ones.
+    - >-
+      Weak, because reasonableness can no longer be argued against any government ministry.
+  correct: 2
+  explanation: >-
+    Several reasonable options usually exist. Courts do not pick the best one; they intervene only
+    for extreme unreasonableness, such as ignoring a central consideration.
+- id: q3
+  question: >-
+    A municipality bans all gatherings in a central square for six months after one protest blocked
+    traffic. Under proportionality, which argument is usually the strongest?
+  options:
+    - >-
+      That less harmful measures, such as route or time conditions, would protect traffic nearly as well.
+    - >-
+      That keeping traffic moving is never a proper purpose for limiting a gathering.
+    - >-
+      That a ban has no rational connection to traffic, since banned protests still happen.
+    - >-
+      That the municipality failed to explain the ban within 45 days of the protest.
+  correct: 0
+  explanation: >-
+    Traffic is a proper purpose and a ban is rationally connected to it. The usual weak point is the
+    least harmful means test: conditions on time, place or route could achieve the purpose with far
+    less harm.
+- id: q4
+  question: >-
+    Your audit finds that a committee approved a permit while ignoring health data it had received,
+    and the permit limits no basic right. How should you frame the substantive argument?
+  options:
+    - >-
+      As disproportionate, because every planning decision limits the right to property.
+    - >-
+      As unreasonable in general, without naming the data, so the committee cannot dispute it.
+    - >-
+      As lacking authority, because committees may not decide health questions at all.
+    - >-
+      As giving no weight to a central relevant consideration, naming the data that was ignored.
+  correct: 3
+  explanation: >-
+    Reasonableness is about the weight given to relevant considerations. A concrete claim that named
+    data was ignored is far stronger than a general label, and fits the ground correctly.

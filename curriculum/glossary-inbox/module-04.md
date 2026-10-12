@@ -1,0 +1,39 @@
+# Glossary inbox — Module 4
+
+- **עקרון חוקיות המינהל** (ikron chukiyut haminhal) — The principle of administrative legality: an authority may act only under a power given by law.
+- **הוראת הסמכה** (hora'at hasmacha) — The enabling provision that gives an authority its power.
+- **חריגה מסמכות** (chariga mismchut) — Acting beyond one's legal power (ultra vires).
+- **הסמכה מפורשת** (hasmacha meforeshet) — Express statutory authorisation, required to limit a basic right.
+- **סמכויות עזר** (samchuyot ezer) — Ancillary powers reasonably needed to carry out a granted power (Interpretation Law s. 17).
+- **סמכות שיורית** (samchut shyurit) — The government's residual power to act for the state (Basic Law: The Government s. 32).
+- **אצילת סמכויות** (atzilat samchuyot) — Delegation of a power to another official.
+- **הסדרים ראשוניים** (hesderim rishoniyim) — Primary arrangements: basic policy choices the Knesset itself must make.
+- **שיקול דעת** (shikul da'at) — Discretion: the authority's choice within its power.
+- **שיקול זר** (shikul zar) — Extraneous consideration: one outside the purpose of the law.
+- **תכלית החוק** (tachlit hachok) — The purpose of the law.
+- **כבילת שיקול הדעת** (kvilat shikul hada'at) — Fettering discretion: a rigid rule that leaves no room for the individual case.
+- **הכתבה** (hachtava) — Dictation: deciding on someone else's instruction instead of using one's own discretion.
+- **חזקת התקינות** (chezkat hatkinut) — Presumption of regularity: an authority is presumed to have acted lawfully until shown otherwise.
+- **עילת הסבירות** (ilat hasvirut) — The reasonableness ground of judicial review.
+- **מתחם הסבירות** (mitcham hasvirut) — The range of reasonable decisions within which courts do not intervene.
+- **חוסר סבירות קיצוני** (choser svirut kitzoni) — Extreme unreasonableness: the threshold for intervention.
+- **מידתיות** (midatiyut) — Proportionality.
+- **תכלית ראויה** (tachlit re'uya) — Proper purpose (first proportionality test).
+- **מבחן הקשר הרציונלי** (mivchan hakesher harationali) — Rational connection test.
+- **מבחן האמצעי שפגיעתו פחותה** (mivchan ha'emtza'i shepgi'ato pchuta) — Least harmful means test.
+- **מידתיות במובן הצר** (midatiyut bamuvan hatzar) — Proportionality in the narrow sense: benefit against harm.
+- **זכות הטיעון / שימוע** (zchut hate'un / shimu'a) — The right to be heard / a hearing.
+- **כללי הצדק הטבעי** (klalei hatzedek hativ'i) — Rules of natural justice.
+- **חובת ההנמקה** (chovat hahanmaka) — The duty to give reasons.
+- **ניגוד עניינים** (nigud inyanim) — Conflict of interest.
+- **הסדר למניעת ניגוד עניינים** (hesder limni'at nigud inyanim) — Conflict-of-interest arrangement set by a legal adviser.
+- **משוא פנים** (masso panim) — Bias, partiality.
+- **דעה נעולה** (de'a ne'ula) — A closed mind: a decision made in advance, whatever is said.
+- **זכות עמידה** (zchut amida) — Standing: the right to bring a case.
+- **עותר ציבורי** (oter tziburi) — Public petitioner, acting without a personal interest on a matter of public importance.
+- **שפיטות** (shfitut) — Justiciability: whether a matter is suitable for a court to decide (normative and institutional).
+- **פנייה מוקדמת** (pniya mukdemet) — Prior written request to the authority before filing a petition.
+- **סעד חלופי** (sa'ad chalufi) — Alternative remedy: another route the law provides, which must be used first.
+- **שיהוי** (shihui) — Delay in filing a petition.
+- **עתירה תאורטית** (atira te'oretit) — A theoretical (moot) petition.
+- **סילוק על הסף** (siluk al hasaf) — Dismissal in limine, without examining the merits.

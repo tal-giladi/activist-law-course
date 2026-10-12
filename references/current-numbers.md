@@ -18,6 +18,9 @@ The numbers change on fixed dates:
 | FOI copying | ₪0.24 per page | same |
 | FOI answer deadline | 30 days, extendable by 30 | Freedom of Information Law, s. 7(b) |
 | Authority's duty to decide on a written request | 45 days | Administrative Procedure Amendment (Decisions and Reasons) Law, s. 2 |
+| Silence on a written request counts as a refusal without reasons | 3 months | Decisions and Reasons Law, s. 6(b) |
+| Appeal (ערר) to the minister when reasons are withheld | 30 days from the notice | Decisions and Reasons Law, s. 4 |
+| Knowingly false affidavit | up to 3 years' imprisonment | Penal Law, s. 239 |
 | High Court petition fee (בג"ץ) | ₪2,144 | Court Fees Regulations, item 24, 2026 indexation |
 | Administrative petition fee (עתירה מינהלית) | ₪2,329 | Court Fees Regulations, item 20, 2026 indexation |
 | Administrative appeal fee | ₪1,654 | Kovetz Takanot 12149 (25.12.2025) |

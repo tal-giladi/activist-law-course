@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A ministry's clerk refuses your application, citing "the department's internal procedure". The
+    letter cites no law. What is the strongest first step?
+  options:
+    - >-
+      Argue in reply that the procedure is unreasonable and harms many applicants.
+    - >-
+      Ask in writing for the section of law that empowers the department, and for any delegation.
+    - >-
+      Petition the High Court at once, since a procedure without a law is void on its face.
+    - >-
+      Accept the refusal, because internal procedures bind applicants like regulations.
+  correct: 1
+  explanation: >-
+    Under the principle of legality an authority needs a power from law. Asking for the enabling
+    section and the delegation tests the decision on its strongest ground, and builds the record a
+    court will expect before any petition.
+- id: q2
+  question: >-
+    A local council starts charging a "community security fee" on every household, approved only by
+    a council vote with no by-law or statute behind it. Which provision is the clearest problem?
+  options:
+    - >-
+      Basic Law: The Government s. 32, because the council exceeded the government's residual power.
+    - >-
+      Interpretation Law s. 17, because the fee is a reasonable ancillary power of the council.
+    - >-
+      Basic Law: The State Economy s. 1, because a compulsory payment needs a statute or authority under one.
+    - >-
+      The Decisions and Reasons Law, because the council did not explain the fee in writing.
+  correct: 2
+  explanation: >-
+    Taxes, compulsory payments and fees may be imposed only "בחוק או על פיו". A council vote with no
+    statutory basis cannot create one; s. 32 is the government's power, and ancillary powers do not
+    create new payments.
+- id: q3
+  question: >-
+    A regional director in a ministry signed a decision that the law gives to "השר". What should you
+    look for before claiming the director had no authority?
+  options:
+    - >-
+      A delegation from the minister to the director, under Basic Law: The Government s. 33 or the law itself.
+    - >-
+      Proof that the minister personally agreed with the director's decision afterwards.
+    - >-
+      The director's job description on the ministry website, which defines his powers.
+    - >-
+      A cabinet decision approving the policy, since the cabinet holds every minister's powers.
+  correct: 0
+  explanation: >-
+    A minister may delegate most statutory powers to a public servant (s. 33(ב)), except the power to
+    make regulations. If a valid delegation exists, the director acted within power.
+- id: q4
+  question: >-
+    A municipality's by-law lets it license "signs for advertising". It now orders residents to
+    remove political banners from their own balconies. Which question from the authority test does
+    this fail most clearly?
+  options:
+    - >-
+      Whether there is any power at all, since municipalities cannot regulate signs.
+    - >-
+      Whether the holder is right, since only the Minister of Interior may regulate signs.
+    - >-
+      Whether the decision was made within the 45 days the law sets for decisions.
+    - >-
+      Whether the power covers this act, since political banners are not advertising signs.
+  correct: 3
+  explanation: >-
+    The municipality has a power, and it is the right body, but the by-law's scope is advertising
+    signs. Stretching it to political banners also limits expression, which needs express authority.

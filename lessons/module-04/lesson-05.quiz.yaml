@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A good-governance group wants to challenge a municipality's appointment of a department head.
+    The rejected candidate, who was clearly harmed, has decided not to sue. What is the main risk?
+  options:
+    - >-
+      The court will refuse a public petitioner where the directly affected person chose not to act.
+    - >-
+      The group cannot petition at all, because associations have no standing in Israeli courts.
+    - >-
+      Appointments are never justiciable, because they are political decisions.
+    - >-
+      The petition must go to the Civil Service Commission before any court can hear it.
+  correct: 0
+  explanation: >-
+    Public petitioners are generally allowed, but not where a directly affected person exists and has
+    chosen not to petition, unless the matter is exceptionally important.
+- id: q2
+  question: >-
+    You file an administrative petition against a council's refusal, but you never wrote to the
+    council about it first. What does the petition have to say about that?
+  options:
+    - >-
+      Nothing, because prior requests are needed only for High Court petitions.
+    - >-
+      Only that the council knew of your position from the local press.
+    - >-
+      It must explain why you filed without a prior written request, or attach the correspondence.
+    - >-
+      It must include an affidavit from the council's legal adviser confirming no request was made.
+  correct: 2
+  explanation: >-
+    Regulation 5(ב)(6) requires attaching the prior correspondence or giving reasons for filing
+    without it. In practice, a petition with no prior request is often dismissed in limine.
+- id: q3
+  question: >-
+    A local committee approved a building permit next to your home. The planning law gives you an
+    appeal (ערר) to the district appeals committee. What should you do first?
+  options:
+    - >-
+      Petition the High Court, which can hear any administrative matter.
+    - >-
+      File the appeal to the appeals committee within its deadline.
+    - >-
+      File an administrative petition, which replaces the appeal route.
+    - >-
+      Complain to the State Comptroller, which suspends the permit.
+  correct: 1
+  explanation: >-
+    Where a law provides a specific route, courts expect you to use it first (alternative remedy).
+    The High Court hears only matters no other court or tribunal can hear (Basic Law s. 15(ג)).
+- id: q4
+  question: >-
+    A petition challenges a one-day ban on a march that has already taken place. The petitioners ask
+    the court to declare the ban unlawful. What threshold problem is most likely?
+  options:
+    - >-
+      Lack of standing, because marchers have no personal interest in their own march.
+    - >-
+      Institutional non-justiciability, because protest is a matter for the police only.
+    - >-
+      Failure to exhaust remedies, because a protest ban must first go to the minister.
+    - >-
+      Mootness, because the ban no longer has effect and no practical remedy remains.
+  correct: 3
+  explanation: >-
+    Courts may decline theoretical petitions. Acting before the event, or showing the issue will
+    recur, keeps a practical remedy available.
+- id: q5
+  question: >-
+    You learned of a council decision from a published notice on 1 March, received a letter about it
+    on 20 March, and file on 10 May. From when does the petition clock run?
+  options:
+    - >-
+      From 20 March, because the clock runs from personal notice only.
+    - >-
+      From 10 May, because the clock runs only once the petition is ready.
+    - >-
+      From 1 March, the earliest of publication, notice or knowledge.
+    - >-
+      From the date the council's legal adviser confirms the decision is final.
+  correct: 2
+  explanation: >-
+    Regulation 3(ב) counts from the earliest of lawful publication, notice to the petitioner, or the
+    petitioner's knowledge. Check the current deadline before filing.

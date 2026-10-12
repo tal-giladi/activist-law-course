@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A municipality cancels a community garden's long-standing licence after "an inspection". The
+    group was never told about the inspection or asked for its side. What is the main procedural flaw?
+  options:
+    - >-
+      The municipality did not publish the cancellation in the official gazette.
+    - >-
+      The municipality decided without the minister's approval of the cancellation.
+    - >-
+      The group was not heard before a decision about its own licence was made.
+    - >-
+      The municipality used an inspector rather than an outside expert.
+  correct: 2
+  explanation: >-
+    Cancelling an existing licence is a decision about a specific body. Natural justice requires
+    notice, the material, time and a real chance to respond before deciding.
+- id: q2
+  question: >-
+    You asked a ministry in writing for a permit; it refused with no reasons and ignored your request
+    for them. You plan an administrative petition. How does the missing reasoning help you?
+  options:
+    - >-
+      The refusal is void automatically, so the court must grant the permit.
+    - >-
+      In the proceeding, the ministry bears the burden of proving the refusal was lawful.
+    - >-
+      You may skip the petition deadline, because the clock has not started.
+    - >-
+      Nothing changes, because the duty to give reasons has no consequence in court.
+  correct: 1
+  explanation: >-
+    Section 6(א) of the Decisions and Reasons Law: missing reasons do not void the decision by
+    themselves, but the authority must prove in any appeal or court case that it acted lawfully.
+- id: q3
+  question: >-
+    A local planning committee member's brother owns land inside a plan the committee is about to
+    approve. The member intends to vote. What does the Planning and Building Law require?
+  options:
+    - >-
+      He may vote if he believes he can stay objective and says so at the meeting.
+    - >-
+      He may vote, but the committee must add one independent member for balance.
+    - >-
+      He may take part in the discussion but must abstain in the final vote only.
+    - >-
+      He must declare the interest and not attend the discussion or vote on that matter.
+  correct: 3
+  explanation: >-
+    Section 47(א) covers interests held directly or through a relative. The member must notify the
+    chair and must not be present at the discussion or vote; breaching this is an offence.
+- id: q4
+  question: >-
+    You suspect a council official has a conflict of interest in a contract decision, but you have no
+    documents yet. What is the wisest first step?
+  options:
+    - >-
+      Ask the council neutrally in writing whether any participant had a personal interest.
+    - >-
+      Post the suspicion on social media, so that the official is pressured to explain publicly.
+    - >-
+      File a police complaint for breach of trust, because conflicts are always criminal.
+    - >-
+      Wait until the contract is signed, since conflicts can only be challenged afterwards.
+  correct: 0
+  explanation: >-
+    A neutral written question builds the record without exposing you to a defamation claim. Not
+    every conflict is a crime, and acting before the decision is better than after.
