@@ -76,3 +76,10 @@
   - [48 · Disability Rights and Accessibility Complaints](lessons/module-09/lesson-04.md)
   - [49 · Collecting Evidence Lawfully](lessons/module-09/lesson-05.md)
   - [Module 9 quiz](assessments/module-09-quiz.md)
+- **Module 10 — Planning, Land and Environment (about 13 hours)**
+  - [50 · The Planning System Map](lessons/module-10/lesson-01.md)
+  - [51 · Reading a Plan on Mavat](lessons/module-10/lesson-02.md)
+  - [52 · Writing an Objection](lessons/module-10/lesson-03.md)
+  - [53 · The Hearing and the Appeal](lessons/module-10/lesson-04.md)
+  - [54 · Environmental Laws and Complaints](lessons/module-10/lesson-05.md)
+  - [Module 10 quiz](assessments/module-10-quiz.md)

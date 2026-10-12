@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    At the objection hearing you want to raise a traffic argument that is not in your written
+    objection. What do the regulations say?
+  options:
+    - >-
+      You may raise any argument at all, since the hearing is public.
+    - >-
+      You may raise it only in your right of reply after the initiator.
+    - >-
+      You must file a new objection; the hearing is adjourned automatically.
+    - >-
+      Only written reasons are heard, unless the body allows more.
+  correct: 3
+  explanation: >-
+    Reg. 14 limits the argument to the reasons in the objection (and the local committee's opinion),
+    unless the deciding body decides otherwise for special reasons. Put every argument in writing.
+- id: q2
+  question: >-
+    The district committee approved a plan and rejected your objection. The decision was served on you
+    yesterday. What is the correct next step?
+  options:
+    - >-
+      Seek the district chair's leave in 15 days, then appeal to the National Council.
+    - >-
+      Appeal to the district appeals committee within 15 days, as of right, without leave.
+    - >-
+      File an administrative petition at once, because there is no planning appeal.
+    - >-
+      Ask the appeals committee chair for leave within 7 days.
+  correct: 0
+  explanation: >-
+    Section 110 lets an objector whose objection was rejected appeal a district committee decision to
+    the National Council only with the district committee chair's leave, requested within 15 days; the
+    appeal is filed within 30 days.
+- id: q3
+  question: >-
+    Your objection to a neighbour's הקלה was rejected by the local committee. The decision reached you
+    on 3 May. By when must your appeal reach the appeals committee?
+  options:
+    - >-
+      18 May, because all planning appeals have 15 days.
+    - >-
+      2 June, thirty days from service under s. 152(א)(1).
+    - >-
+      17 June, forty-five days, like an administrative petition.
+    - >-
+      There is no appeal; permit decisions are final at the local committee.
+  correct: 1
+  explanation: >-
+    Section 152(א)(1) gives whoever is harmed by the rejection of a s. 149 objection 30 days from
+    service to appeal to the appeals committee. The appeals committee's decision on permits is then
+    final within the planning system.
+- id: q4
+  question: >-
+    You file your appeal online at 17:30 on Thursday, the last day of the period, and the two printed
+    copies were delivered that morning. When is the online copy treated as filed?
+  options:
+    - >-
+      Thursday, because it was sent before midnight.
+    - >-
+      Friday, the next calendar day after sending.
+    - >-
+      Sunday, so the online copy is late.
+    - >-
+      It does not matter, because only printed copies count.
+  correct: 2
+  explanation: >-
+    Reg. 2(ב) treats an online appeal sent after 16:00 on Sunday–Thursday as sent on the next working
+    day. When filing two printed copies, the online copy must also be in by the deadline, so file early.
+- id: q5
+  question: >-
+    Residents want a court to order the local committee to enforce a demolition order against an
+    illegal building. They never wrote to the committee about it. What should come first?
+  options:
+    - >-
+      An appeal to the appeals committee against the committee's inaction.
+    - >-
+      A planning objection to the illegal building's plan.
+    - >-
+      A small-claims suit against the owner of the building.
+    - >-
+      A written demand to the enforcement body, keeping its reply.
+  correct: 3
+  explanation: >-
+    Courts expect a prior demand to the authority before a petition (lesson 05.5). There is no plan to
+    object to, and the appeals committee does not hear complaints about enforcement priorities.

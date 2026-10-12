@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    The deposit notice appeared in one newspaper on 2 March and in a second newspaper on 9 March. A sign
+    went up on the site on 5 March. From which date does the s. 102 objection period run?
+  options:
+    - >-
+      2 March, the first newspaper publication.
+    - >-
+      5 March, the day the sign went up on the site.
+    - >-
+      9 March, the later of the newspaper publications.
+    - >-
+      The day you personally saw the notice.
+  correct: 2
+  explanation: >-
+    Section 102 counts from the publication of the deposit notice and says the publication date is the
+    later of the newspaper publications. Check the last date shown on the plan page as well.
+- id: q2
+  question: >-
+    The plan's building appendix shows a large green courtyard between two towers. The appendix is
+    marked "מנחה". What does that mean for your objection?
+  options:
+    - >-
+      The courtyard is guaranteed, because every appendix is part of the plan.
+    - >-
+      The courtyard may never be built; ask to make it binding or put it in the instructions.
+    - >-
+      The courtyard must be built first, because guiding appendices set the stages.
+    - >-
+      Nothing, because appendices are never considered in objection hearings.
+  correct: 1
+  explanation: >-
+    A guiding (מנחה) appendix only illustrates; it does not bind the permit stage. If the courtyard
+    matters to you, ask for the appendix to be binding or for the open space to be fixed in the
+    instructions and rights table.
+- id: q3
+  question: >-
+    Your objection says: "The plan will build 40-storey towers." The rights table allows 18 floors.
+    What is the likely result?
+  options:
+    - >-
+      The committee will dismiss the point as not based on the plan.
+    - >-
+      The committee will reduce the towers to 18 floors in response.
+    - >-
+      The developer must prove the towers will not reach 40 floors.
+    - >-
+      The objection is rejected entirely and you lose your right to appear.
+  correct: 0
+  explanation: >-
+    Committees decide on what the plan says. Quote the rights table and the map; an objection built on
+    rumours loses credibility on that point and often on the others too.
+- id: q4
+  question: >-
+    You want to know why the district committee agreed to deposit a plan despite the traffic report.
+    What is the fastest free source?
+  options:
+    - >-
+      An FOI request to the Ministry of Transport for the traffic model.
+    - >-
+      A letter to the developer asking for its internal correspondence.
+    - >-
+      A petition asking the court to order the committee to explain itself.
+    - >-
+      The published protocol of the deposit discussion, or its recording.
+  correct: 3
+  explanation: >-
+    Section 48ד makes approved protocols public and free and requires them online; recordings may be
+    heard free of charge. FOI is for documents that are not published.

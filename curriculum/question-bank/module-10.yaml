@@ -1,0 +1,1818 @@
+# Module 10 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m10-001
+  module: 10
+  lesson: "10.1"
+  subject: planning-institutions
+  difficulty: 1
+  question: >-
+    Which body hears appeals against a local planning committee's decisions where the law gives a right
+    of appeal?
+  options:
+    - >-
+      The National Planning and Building Council.
+    - >-
+      The Magistrates' Court of the area.
+    - >-
+      The district appeals committee (ועדת ערר).
+    - >-
+      The Minister of the Interior personally.
+  correct: 2
+  explanation: >-
+    Section 12ב(א)(1) gives each district appeals committee the power to hear appeals against local
+    committees and local licensing authorities wherever the law grants a right of appeal.
+- id: m10-002
+  module: 10
+  lesson: "10.1"
+  subject: local-vs-district
+  difficulty: 1
+  question: >-
+    What decides whether a plan is within the local committee's own powers?
+  options:
+    - >-
+      Whether the plan covers fewer than ten plots in total.
+    - >-
+      Whether it deals only with topics listed in s. 62א.
+    - >-
+      Whether the mayor and the council majority support it.
+    - >-
+      Whether the land in the plan is privately owned.
+  correct: 1
+  explanation: >-
+    A local outline or detailed plan is within the local committee's powers only if it includes nothing
+    but topics from the s. 62א list; anything more goes to the district committee.
+- id: m10-003
+  module: 10
+  lesson: "10.1"
+  subject: local-vs-district
+  difficulty: 2
+  question: >-
+    A plan changes the height of a building from 5 to 8 floors without changing its total permitted
+    floor area. Which body may approve it?
+  options:
+    - >-
+      Only the district committee, because height changes are always district matters.
+    - >-
+      The National Council, because heights are regulated nationally.
+    - >-
+      The appeals committee, after the neighbours have been notified.
+    - >-
+      The local committee, under the s. 62א topic on heights.
+  correct: 3
+  explanation: >-
+    Section 62א(א)(4א) lets the local committee set or change heights and the number of floors as long
+    as the total permitted floor area does not change.
+- id: m10-004
+  module: 10
+  lesson: "10.1"
+  subject: plan-timeline
+  difficulty: 1
+  question: >-
+    What does "הפקדה" (deposit) mean in the life of a plan?
+  options:
+    - >-
+      The plan is published and open for public objections.
+    - >-
+      The plan has received final approval and is in force.
+    - >-
+      The developer has paid the planning fees.
+    - >-
+      The plan was rejected and returned to its initiator.
+  correct: 0
+  explanation: >-
+    Deposit is the stage when the plan is published (gazette, newspapers, internet, sign) and the
+    objection period runs. Approval and publication of the approval come later.
+- id: m10-005
+  module: 10
+  lesson: "10.1"
+  subject: plan-timeline
+  difficulty: 2
+  question: >-
+    A plan was approved and published eight years ago. Now a builder applies for permits under it. What
+    public-participation step may still be open?
+  options:
+    - >-
+      An objection to the plan, since objections reopen when permits are requested.
+    - >-
+      An appeal against the plan to the appeals committee within 15 days.
+    - >-
+      An objection to any הקלה or non-conforming use the builder requests.
+    - >-
+      Nothing at all, because permits under an approved plan are never published.
+  correct: 2
+  explanation: >-
+    Once a plan is in force its objection period is over. But a request for a הקלה or non-conforming use
+    must be published under s. 149, and neighbours may object within 15 days.
+- id: m10-006
+  module: 10
+  lesson: "10.1"
+  subject: special-tracks
+  difficulty: 1
+  question: >-
+    What is the public's formal response to a national infrastructure (ות״ל) plan called?
+  options:
+    - >-
+      ערר (appeal).
+    - >-
+      השגה (challenge).
+    - >-
+      הסתייגות (reservation).
+    - >-
+      קובלנה (private complaint).
+  correct: 1
+  explanation: >-
+    Under s. 76ג(8), anyone entitled to object under s. 100 may file a השגה on a national infrastructure
+    plan; an investigator hears it.
+- id: m10-007
+  module: 10
+  lesson: "10.1"
+  subject: special-tracks
+  difficulty: 2
+  question: >-
+    Who gives final approval to a national infrastructure plan after the השגות are decided?
+  options:
+    - >-
+      The district committee of each district the plan crosses.
+    - >-
+      The local committees, by a joint vote.
+    - >-
+      The district appeals committee.
+    - >-
+      The Government (or its ministerial committee).
+  correct: 3
+  explanation: >-
+    Section 76ג sends the infrastructure plan to the Government after the השגות stage, which is why a
+    court challenge to the approval is a challenge to a Government decision.
+- id: m10-008
+  module: 10
+  lesson: "10.1"
+  subject: special-tracks
+  difficulty: 2
+  question: >-
+    Under the Preferred Housing Compounds Law (ותמ״ל), who may object to a deposited plan?
+  options:
+    - >-
+      Any person.
+    - >-
+      Only owners of land inside the compound.
+    - >-
+      Only local authorities and ministries.
+    - >-
+      Only bodies approved under s. 100(3).
+  correct: 0
+  explanation: >-
+    Section 18(א) of the 2014 Law says "כל אדם רשאי להגיש התנגדות" — anyone may object, a wider rule
+    than s. 100 of the Planning and Building Law.
+- id: m10-009
+  module: 10
+  lesson: "10.1"
+  subject: special-tracks
+  difficulty: 3
+  question: >-
+    You are writing a guide in 2026 and want to say the ותמ״ל track is permanent law. What does the law
+    itself say?
+  options:
+    - >-
+      It became permanent law with its 2021 amendment.
+    - >-
+      It expired in 2018 and no longer applies to any plan.
+    - >-
+      It is temporary, for plans submitted by a set date; check extensions.
+    - >-
+      It applies only to plans in Judea and Samaria, not inside Israel.
+  correct: 2
+  explanation: >-
+    Section 34 makes it a temporary provision: as amended in 2021 it applies to plans submitted within
+    six years of 8.8.2021. A guide should say so and tell readers to check for extensions.
+- id: m10-010
+  module: 10
+  lesson: "10.1"
+  subject: courts-forum
+  difficulty: 2
+  question: >-
+    A municipality's local committee refuses a permit and the appeals committee upholds the refusal.
+    Which court hears a petition against the appeals committee's decision?
+  options:
+    - >-
+      The High Court of Justice, as for all planning bodies.
+    - >-
+      The District Court sitting as an Administrative Court.
+    - >-
+      The Magistrates' Court of the area where the plot lies.
+    - >-
+      The appeals committee again, on a request to reconsider.
+  correct: 1
+  explanation: >-
+    Planning and building matters under the 1965 Law are in First Schedule item 10 of the Administrative
+    Courts Law, except outline plans, ministers' decisions and enforcement.
+- id: m10-011
+  module: 10
+  lesson: "10.1"
+  subject: courts-forum
+  difficulty: 3
+  question: >-
+    Which of these planning decisions is most likely to be challenged in the High Court rather than the
+    Administrative Court?
+  options:
+    - >-
+      An appeals committee's decision on a הקלה.
+    - >-
+      A district committee's approval of a detailed plan for a neighbourhood.
+    - >-
+      A local committee's refusal of a building permit.
+    - >-
+      The National Council's approval of a national outline plan.
+  correct: 3
+  explanation: >-
+    Item 10 of the First Schedule excludes decisions on national and district outline plans and
+    ministers' decisions; those go to the High Court. The others are ordinary planning matters.
+- id: m10-012
+  module: 10
+  lesson: "10.1"
+  subject: judea-samaria
+  difficulty: 2
+  question: >-
+    Which law governs planning decisions of the Civil Administration in Area C?
+  options:
+    - >-
+      Jordanian planning law and military orders, through the Higher Planning Council.
+    - >-
+      The Planning and Building Law 1965, through the Judea and Samaria district committee.
+    - >-
+      The Preferred Housing Compounds Law, through a special committee.
+    - >-
+      Only the Israeli Land Authority's internal procedures.
+  correct: 0
+  explanation: >-
+    Planning there runs under the Jordanian Town, Village and Building Planning Law (No. 79 of 1966) and
+    military orders; the Administrative Courts Law's Fourth Schedule refers to exactly these.
+- id: m10-013
+  module: 10
+  lesson: "10.1"
+  subject: planning-institutions
+  difficulty: 1
+  question: >-
+    How many district planning committees are there?
+  options:
+    - >-
+      Three: North, Centre and South, plus a national one.
+    - >-
+      One for every regional council and every city.
+    - >-
+      Twelve, matching the government ministries' districts.
+    - >-
+      Six: Jerusalem, North, Haifa, Centre, Tel Aviv, South.
+  correct: 3
+  explanation: >-
+    Israel has six administrative districts, and each has a district planning committee and a district
+    appeals committee.
+- id: m10-014
+  module: 10
+  lesson: "10.1"
+  subject: plan-timeline
+  difficulty: 2
+  question: >-
+    Before a plan is deposited, which tool lets you see why the committee is moving it forward?
+  options:
+    - >-
+      A formal objection, filed early before the deposit notice.
+    - >-
+      The published protocols and recordings of its sessions.
+    - >-
+      An appeal against the committee's decision to discuss it.
+    - >-
+      A request for leave to appeal to the district committee chair.
+  correct: 1
+  explanation: >-
+    Section 48ד makes approved protocols public and requires them to be posted online; recordings may be
+    heard free. Objections open only at deposit.
+- id: m10-015
+  module: 10
+  lesson: "10.1"
+  subject: special-tracks
+  difficulty: 3
+  question: >-
+    A regional plan would leave an unrecognised village's homes without any residential designation.
+    Which response uses the planning system rather than fighting outside it?
+  options:
+    - >-
+      Ignoring the plan, since homes without permits cannot be affected by it.
+    - >-
+      Waiting for demolition orders and challenging only those.
+    - >-
+      Objecting to the plan and proposing an alternative residential designation.
+    - >-
+      Appealing to the appeals committee before the plan is deposited.
+  correct: 2
+  explanation: >-
+    Residents have an interest in the land and may object at deposit, ideally with an alternative plan.
+    Waiting for enforcement leaves only narrow challenges.
+- id: m10-016
+  module: 10
+  lesson: "10.1"
+  subject: planning-institutions
+  difficulty: 2
+  question: >-
+    What is special about an independent local committee (ועדה מקומית עצמאית) for an objector?
+  options:
+    - >-
+      Its decisions on plans cannot be challenged anywhere at all.
+    - >-
+      Objectors need the appeals committee chair's leave to appeal its plans.
+    - >-
+      It hears appeals against the other local committees in its district.
+    - >-
+      Its plans are approved without deposit or any objection period.
+  correct: 1
+  explanation: >-
+    Section 112(א1) requires objectors (and initiators) to get leave from the appeals committee chair to
+    appeal plan decisions of an independent local committee.
+- id: m10-017
+  module: 10
+  lesson: "10.1"
+  subject: plan-timeline
+  difficulty: 2
+  question: >-
+    A deposited plan received no objections at all by the end of the period. What happens?
+  options:
+    - >-
+      It must be deposited again for a further month of objections.
+    - >-
+      The district committee must still hold a public hearing on it.
+    - >-
+      It lapses automatically, and the initiator must start again.
+    - >-
+      It is treated as approved 30 days later unless the body decides otherwise.
+  correct: 3
+  explanation: >-
+    Under s. 108(ג), a deposited plan with no objections is treated as approved by the competent body 30
+    days after the objection period ends, unless the body decides otherwise in that time.
+- id: m10-018
+  module: 10
+  lesson: "10.2"
+  subject: finding-plans
+  difficulty: 1
+  question: >-
+    Where must a notice on the deposit of a local detailed plan be displayed in addition to newspapers and
+    websites?
+  options:
+    - >-
+      On a sign at a prominent place in the plan area for the objection period.
+    - >-
+      Only on the notice board inside the local committee's own office.
+    - >-
+      On the website of the Knesset's Interior Committee for one week.
+    - >-
+      On the developer's own website, for as long as the developer chooses.
+  correct: 0
+  explanation: >-
+    Section 89א requires a sign in the plan area for the whole objection period, with the main
+    differences between the existing and proposed plans; s. 89 adds gazette, newspapers and notice
+    boards.
+- id: m10-019
+  module: 10
+  lesson: "10.2"
+  subject: finding-plans
+  difficulty: 1
+  question: >-
+    On Mavat's advanced search, which detail lets you find every plan that affects your own plot?
+  options:
+    - >-
+      The developer's company number.
+    - >-
+      The name of the committee chair.
+    - >-
+      The gush and chelka of the plot.
+    - >-
+      The date the building was completed.
+  correct: 2
+  explanation: >-
+    Advanced search ("חיפוש מתקדם") accepts gush and chelka ranges, along with district, planning area,
+    locality, street and status.
+- id: m10-020
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 1
+  question: >-
+    In a plan's map, what is the difference between "מצב מאושר" and "מצב מוצע"?
+  options:
+    - >-
+      The binding and the guiding layers of the same map.
+    - >-
+      The current approved situation and the proposed one.
+    - >-
+      The developer's version and the committee's version.
+    - >-
+      The uses above ground and the uses underground.
+  correct: 1
+  explanation: >-
+    The approved situation shows what existing plans allow; the proposed situation shows the change.
+    Compare both, or you may object to something already approved.
+- id: m10-021
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 1
+  question: >-
+    Which part of a plan tells you the main floor area, service area, units, floors and building lines
+    for each plot?
+  options:
+    - >-
+      The legend (מקרא) printed on the map sheet.
+    - >-
+      The deposit notice published in the newspaper.
+    - >-
+      The traffic appendix (נספח תנועה) of the plan.
+    - >-
+      The rights table (טבלת זכויות והוראות בנייה).
+  correct: 3
+  explanation: >-
+    The rights table, chapter 5 in most plans in the standard format, sets the numbers for each plot.
+    Quote its rows in your objection.
+- id: m10-022
+  module: 10
+  lesson: "10.2"
+  subject: appendices
+  difficulty: 2
+  question: >-
+    A traffic appendix promises a new junction before occupancy. It is marked "מנחה". What is the
+    practical risk?
+  options:
+    - >-
+      None, since guiding appendices bind the permit stage too.
+    - >-
+      The whole plan is void until the appendix is made binding.
+    - >-
+      The junction may never be required; ask for a binding condition.
+    - >-
+      The appeals committee must approve the appendix separately.
+  correct: 2
+  explanation: >-
+    A guiding appendix illustrates; it does not oblige. If the junction matters, ask for a binding
+    condition in the implementation chapter.
+- id: m10-023
+  module: 10
+  lesson: "10.2"
+  subject: protocols-foi
+  difficulty: 2
+  question: >-
+    The committee's deposit protocol mentions a "traffic survey from June" that is not on Mavat. How do
+    you get it?
+  options:
+    - >-
+      File an FOI request with the committee early in the period.
+    - >-
+      Ask the court for discovery before you file the objection.
+    - >-
+      Wait for the hearing, where all documents are handed out.
+    - >-
+      Ask a committee member to forward it to you privately.
+  correct: 0
+  explanation: >-
+    Documents that are not published are requested under the FOI Law (lesson 05.2). File early so the
+    answer arrives in time to use.
+- id: m10-024
+  module: 10
+  lesson: "10.2"
+  subject: protocols-foi
+  difficulty: 1
+  question: >-
+    Does it cost anything to read an approved protocol of a planning committee session or hear its
+    recording?
+  options:
+    - >-
+      Yes, the FOI request fee applies.
+    - >-
+      Yes, a per-page copying fee set by the committee.
+    - >-
+      Only for people who are not residents of the area.
+    - >-
+      No, inspection and listening are free.
+  correct: 3
+  explanation: >-
+    Section 48ד(ה)(1) says inspecting approved protocols and listening to recordings is free of charge.
+- id: m10-025
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 2
+  question: >-
+    You want to describe a plan's effect in your objection. Which sentence is best?
+  options:
+    - >-
+      "The plan will destroy our quiet and green neighbourhood."
+    - >-
+      "Plot 4: 6 to 14 floors, rear line 5 m to 3 m (rights table)."
+    - >-
+      "Everyone knows the developer really wants 30 floors."
+    - >-
+      "The towers are much too high for a street like ours."
+  correct: 1
+  explanation: >-
+    Committees act on specific provisions. Quoting the rights table row, with before and after numbers,
+    makes the point checkable.
+- id: m10-026
+  module: 10
+  lesson: "10.2"
+  subject: finding-plans
+  difficulty: 2
+  question: >-
+    You want to hear about every new plan in your town without checking Mavat every day. Which free tool
+    does Kol Zchut point to?
+  options:
+    - >-
+      The Knesset's legislation database alerts.
+    - >-
+      The Israel Land Authority's tender site.
+    - >-
+      Meirim (מעירים) e-mail alerts by area and topic.
+    - >-
+      The court's Net HaMishpat notifications.
+  correct: 2
+  explanation: >-
+    Meirim sends e-mail alerts about new plans by location and subject (signup needed). Kol Zchut's
+    objection page recommends it.
+- id: m10-027
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 2
+  question: >-
+    Where in a plan's documents do you usually find conditions such as "no occupancy before the school is
+    built"?
+  options:
+    - >-
+      In the provisions on implementation and permit conditions.
+    - >-
+      In the legend printed in the corner of the map sheet.
+    - >-
+      In the newspaper notice announcing the plan's deposit.
+    - >-
+      In the list of gush and chelka numbers in chapter 1.
+  correct: 0
+  explanation: >-
+    Stages and permit or occupancy conditions sit in the additional provisions and implementation
+    chapters. If a needed condition is missing, ask to add it.
+- id: m10-028
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 3
+  question: >-
+    Spot the mistake. A residents' leaflet says: "Plan 507-0999999 will turn the park into towers — see
+    the map." The proposed map shows the park unchanged; a separate approved plan from 2015 already
+    allows towers on the next plot. What went wrong?
+  options:
+    - >-
+      Nothing; any plan in the area may be blamed for the towers.
+    - >-
+      They read a guiding appendix as if it were a binding one.
+    - >-
+      They counted the deadline from the wrong newspaper notice.
+    - >-
+      They blamed the wrong plan by skipping the approved situation.
+  correct: 3
+  explanation: >-
+    The towers come from an older approved plan. An objection to the new plan on that point would fail;
+    the leaflet should describe what the new plan changes.
+- id: m10-029
+  module: 10
+  lesson: "10.2"
+  subject: environmental-review
+  difficulty: 2
+  question: >-
+    Where would you look for the plan's assessment of air, noise and traffic effects?
+  options:
+    - >-
+      In the deposit sign that stands on the site of the plan.
+    - >-
+      In the environmental impact statement or environmental opinion.
+    - >-
+      In the land registry extract for each plot in the plan.
+    - >-
+      In the planning committee's annual report to the ministry.
+  correct: 1
+  explanation: >-
+    Plans with significant effects carry an environmental impact statement (s. 119ג) or an environmental
+    opinion. Check what it covers and who it ignores.
+- id: m10-030
+  module: 10
+  lesson: "10.2"
+  subject: objection-deadline
+  difficulty: 3
+  question: >-
+    The plan page shows one last date for objections, and your own count from the newspapers gives a
+    date two days later. What do you do?
+  options:
+    - >-
+      File by the earlier date and ask the secretariat about the gap.
+    - >-
+      Rely on your own count, since the law prevails over a website.
+    - >-
+      Rely on the sign on the site, which is the official record.
+    - >-
+      File on the later date and attach your own calculation.
+  correct: 0
+  explanation: >-
+    Filing by the earlier date removes the risk. The law prevails, but a dispute over two days is not
+    worth losing your objection.
+- id: m10-031
+  module: 10
+  lesson: "10.2"
+  subject: finding-plans
+  difficulty: 3
+  question: >-
+    A plan for a road near a Druze village was published in Hebrew newspapers only. Arabic speakers are
+    over ten per cent of the planning area. What may residents argue?
+  options:
+    - >-
+      Nothing, since publication in Hebrew is always enough by law.
+    - >-
+      That the plan must be re-approved by the National Council.
+    - >-
+      That s. 1א also required an Arabic newspaper: a publication defect.
+    - >-
+      That the plan is void because the sign had no English text.
+  correct: 2
+  explanation: >-
+    Section 1א(א)(2) requires, in planning areas where Arabic speakers are at least ten per cent, one
+    publication in an Arabic newspaper; s. 89א(ב) also requires Arabic on the sign. Raise it promptly
+    in the objection.
+- id: m10-032
+  module: 10
+  lesson: "10.2"
+  subject: reading-plans
+  difficulty: 1
+  question: >-
+    What is a building line (קו בניין)?
+  options:
+    - >-
+      The maximum height a building may reach on the plot.
+    - >-
+      The minimum distance of a building from the plot edge.
+    - >-
+      The number of housing units allowed on each floor.
+    - >-
+      The route of a planned road through the plan area.
+  correct: 1
+  explanation: >-
+    Building lines set how close to the plot boundary you may build; changing them is a s. 62א topic and
+    a common הקלה request.
+- id: m10-033
+  module: 10
+  lesson: "10.2"
+  subject: existing-objections
+  difficulty: 2
+  question: >-
+    Why read the objections already published under a plan's "התנגדויות" tab before writing yours?
+  options:
+    - >-
+      Because only the first objection on each topic is heard.
+    - >-
+      Because copying another objection makes yours a group objection.
+    - >-
+      Because published objections replace the need for an affidavit.
+    - >-
+      To coordinate, avoid repetition, and prepare answers to opposing objections.
+  correct: 3
+  explanation: >-
+    Others may raise your points better, or ask for the opposite. The body may hear only some of
+    identical objections (s. 106(ג)), so coordination helps.
+- id: m10-034
+  module: 10
+  lesson: "10.2"
+  subject: plan-numbers
+  difficulty: 1
+  question: >-
+    In a new-format plan number such as 507-0403931, what do the first three digits indicate?
+  options:
+    - >-
+      The planning area.
+    - >-
+      The year of submission.
+    - >-
+      The number of housing units.
+    - >-
+      The district appeals committee.
+  correct: 0
+  explanation: >-
+    The prefix identifies the planning area (507 is Tel Aviv-Jaffa); the rest is the plan's serial
+    number.
+- id: m10-035
+  module: 10
+  lesson: "10.3"
+  subject: standing
+  difficulty: 1
+  question: >-
+    Under s. 100, which of these people may object to a deposited plan?
+  options:
+    - >-
+      Only registered owners of land inside the plan's area.
+    - >-
+      Only residents of the same municipality as the plan.
+    - >-
+      Anyone interested who sees themselves harmed by the plan.
+    - >-
+      Only people whom the committee invites to take part.
+  correct: 2
+  explanation: >-
+    Section 100 opens objections to anyone "interested" who sees themselves harmed, plus listed public
+    bodies; Kol Zchut notes CA 2962/97 held prima facie harm is enough.
+- id: m10-036
+  module: 10
+  lesson: "10.3"
+  subject: standing
+  difficulty: 2
+  question: >-
+    A tenant (not an owner) uses a public garden that a plan turns into parking. May the tenant object?
+  options:
+    - >-
+      Yes, as someone interested in a planning detail and harmed.
+    - >-
+      No, because only registered owners have an interest in land.
+    - >-
+      Only with the landlord's written consent to the objection.
+    - >-
+      Only through the local authority, which objects for tenants.
+  correct: 0
+  explanation: >-
+    The interest may be in "any other planning detail"; a regular user harmed by losing public open space
+    can object, explaining the interest and the harm (reg. 3(1)).
+- id: m10-037
+  module: 10
+  lesson: "10.3"
+  subject: objection-deadline
+  difficulty: 1
+  question: >-
+    What is the basic objection period for a deposited plan under s. 102?
+  options:
+    - >-
+      15 days from the day the sign is put up on site.
+    - >-
+      30 days from the publication in the official gazette.
+    - >-
+      45 days from the committee's decision to deposit.
+    - >-
+      Two months from the later newspaper publication.
+  correct: 3
+  explanation: >-
+    Section 102 sets two months from the deposit notice, counted from the later newspaper publication;
+    the body may extend to three months.
+- id: m10-038
+  module: 10
+  lesson: "10.3"
+  subject: objection-deadline
+  difficulty: 2
+  question: >-
+    Can the planning body give more time than two months to object?
+  options:
+    - >-
+      No, the two-month period is fixed by law for every plan.
+    - >-
+      Yes, up to three months in total, for a case or type of plans.
+    - >-
+      Yes, without any limit, if many people ask to object.
+    - >-
+      Only a court can extend it, on a motion by an objector.
+  correct: 1
+  explanation: >-
+    Section 102 allows the depositing body to set a longer period, not exceeding three months, for a
+    particular case or class of plans.
+- id: m10-039
+  module: 10
+  lesson: "10.3"
+  subject: where-to-file
+  difficulty: 1
+  question: >-
+    Where is an objection to a district outline plan filed?
+  options:
+    - >-
+      With the local committee, copy to the district committee.
+    - >-
+      With the district appeals committee, copy to the Council.
+    - >-
+      With the National Council, copy to the district committee.
+    - >-
+      With the Interior Ministry's legal adviser, by registered mail.
+  correct: 2
+  explanation: >-
+    Section 103(1) sends objections to district outline plans to the National Council, with a copy to the
+    district committee concerned.
+- id: m10-040
+  module: 10
+  lesson: "10.3"
+  subject: objection-content
+  difficulty: 1
+  question: >-
+    How many copies of a paper objection do the 1989 regulations require?
+  options:
+    - >-
+      Four.
+    - >-
+      One original only.
+    - >-
+      Six, plus one for each respondent.
+    - >-
+      Two, plus an online copy.
+  correct: 0
+  explanation: >-
+    Reg. 3 requires the objection in four copies. Six copies (or two plus online) is the rule for appeals
+    to appeals committees.
+- id: m10-041
+  module: 10
+  lesson: "10.3"
+  subject: affidavit
+  difficulty: 1
+  question: >-
+    What does the affidavit attached to an objection verify?
+  options:
+    - >-
+      The planning arguments.
+    - >-
+      The objector's political views on the plan.
+    - >-
+      The legal conclusions.
+    - >-
+      The facts the objection relies on.
+  correct: 3
+  explanation: >-
+    Section 103א(א) requires an affidavit verifying the facts on which the objection relies; arguments
+    belong in the objection itself.
+- id: m10-042
+  module: 10
+  lesson: "10.3"
+  subject: affidavit
+  difficulty: 2
+  question: >-
+    Spot the mistake in this affidavit paragraph: "4. The plan is unreasonable and contradicts the
+    district outline plan, as any planner can see."
+  options:
+    - >-
+      It should begin with "to the best of my knowledge and belief".
+    - >-
+      It states arguments and opinions, not facts the declarant knows.
+    - >-
+      It should be written in the third person, not the first.
+    - >-
+      It should cite the court ruling that defines unreasonableness.
+  correct: 1
+  explanation: >-
+    An affidavit verifies facts: what you measured, saw or hold. Unreasonableness and contradiction with
+    a higher plan are arguments for the objection text.
+- id: m10-043
+  module: 10
+  lesson: "10.3"
+  subject: group-objection
+  difficulty: 3
+  question: >-
+    Neighbours want one representative affidavit for a group objection about the value of their
+    apartments falling. Does s. 103א(ב) allow it?
+  options:
+    - >-
+      Yes, for any objection that has more than five objectors.
+    - >-
+      Yes, as long as all the objectors live in the same building.
+    - >-
+      No; the rule covers public issues such as nature and quality of life.
+    - >-
+      No, because groups may never object together to one plan.
+  correct: 2
+  explanation: >-
+    The representative-affidavit rule covers public issues of heritage sites, nature, landscape, quality
+    of life and environment. Personal or property claims need each objector's affidavit, as the online
+    service also says.
+- id: m10-044
+  module: 10
+  lesson: "10.3"
+  subject: online-filing
+  difficulty: 1
+  question: >-
+    What login does the Planning Administration's online objection form require?
+  options:
+    - >-
+      The National Digital Identity (הזדהות לאומית).
+    - >-
+      A lawyer's smart card issued by the Bar Association.
+    - >-
+      A Net HaMishpat account opened at the court registry.
+    - >-
+      None; the form can be sent anonymously by anyone.
+  correct: 0
+  explanation: >-
+    The form is reached from the plan page on Mavat and requires the government identification login.
+- id: m10-045
+  module: 10
+  lesson: "10.3"
+  subject: online-filing
+  difficulty: 2
+  question: >-
+    After you send an online objection, when does it appear on the plan page?
+  options:
+    - >-
+      Immediately after sending, under your user name.
+    - >-
+      Only after the hearing of all objections is over.
+    - >-
+      Never, because online objections are kept confidential.
+    - >-
+      After the committee secretariat checks and approves it.
+  correct: 3
+  explanation: >-
+    The Planning Administration's guide says the objection is shown under the "התנגדויות" tab only after
+    the district secretariat has checked and approved it.
+- id: m10-046
+  module: 10
+  lesson: "10.3"
+  subject: online-filing
+  difficulty: 2
+  question: >-
+    A group of 35 objectors files online through one representative. What extra file does the service ask
+    for?
+  options:
+    - >-
+      A separate affidavit from the committee chair.
+    - >-
+      An Excel file with the objectors' details.
+    - >-
+      A court approval of the group.
+    - >-
+      A copy of each objector's land registry extract.
+  correct: 1
+  explanation: >-
+    For more than 20 objectors, the service asks for their details in an Excel file, together with the
+    power of attorney or signatures page.
+- id: m10-047
+  module: 10
+  lesson: "10.3"
+  subject: objection-content
+  difficulty: 2
+  question: >-
+    Which argument is weakest in a planning objection?
+  options:
+    - >-
+      The plan removes the only public open space within 400 m.
+    - >-
+      The plan contradicts a binding provision of the district outline plan.
+    - >-
+      The developer is a bad person who cannot be trusted.
+    - >-
+      The plan adds 300 units with no new school or kindergarten.
+  correct: 2
+  explanation: >-
+    Planning bodies decide on planning grounds. Personal attacks persuade no one and can expose you to
+    defamation claims (Module 8).
+- id: m10-048
+  module: 10
+  lesson: "10.3"
+  subject: objection-content
+  difficulty: 3
+  question: >-
+    Your objection lists ten arguments in random order and asks only to "reject the plan". How would you
+    improve it most?
+  options:
+    - >-
+      Add more arguments, since quantity impresses planning committees.
+    - >-
+      Remove the affidavit so that the file is shorter to read.
+    - >-
+      Move all the arguments into the affidavit so they are verified.
+    - >-
+      Put the requested changes on page one, strongest arguments first.
+  correct: 3
+  explanation: >-
+    Committees accept changes far more often than they reject whole plans. A clear list of requested
+    changes and a strength-ordered argument make the objection usable.
+- id: m10-049
+  module: 10
+  lesson: "10.3"
+  subject: hakala
+  difficulty: 1
+  question: >-
+    What is a הקלה?
+  options:
+    - >-
+      A permitted deviation from the plan, decided at the permit stage.
+    - >-
+      A tax reduction for building in a town in the periphery.
+    - >-
+      An exemption from the need to obtain any building permit.
+    - >-
+      A shorter objection period for plans that are urgent.
+  correct: 0
+  explanation: >-
+    Section 1 defines הקלה as permission for work needing a permit in deviation from a plan. Section 149
+    sets publication and a 15-day objection period.
+- id: m10-050
+  module: 10
+  lesson: "10.3"
+  subject: hakala
+  difficulty: 2
+  question: >-
+    Who must receive personal notice of a request for a הקלה under s. 149?
+  options:
+    - >-
+      Every resident of the municipality, by a letter to each home.
+    - >-
+      Only the members of the local council and the local committee.
+    - >-
+      Owners and occupiers of the plot, adjoining plots and others likely harmed.
+    - >-
+      Only the applicant's bank and the registered mortgage holders.
+  correct: 2
+  explanation: >-
+    Section 149(א)(2א) requires notice to owners and occupiers of the property, of adjoining properties,
+    and of others the committee thinks may be harmed. The 15 days run from delivery for them.
+- id: m10-051
+  module: 10
+  lesson: "10.3"
+  subject: costs
+  difficulty: 2
+  question: >-
+    When may a planning body order an objector to pay the initiator's costs?
+  options:
+    - >-
+      Whenever the objection is rejected by the committee.
+    - >-
+      When it was filed in bad faith and is vexatious.
+    - >-
+      Whenever the objector does not live in the town.
+    - >-
+      Never, because planning bodies have no power over costs.
+  correct: 1
+  explanation: >-
+    Section 106(ד)(1) allows costs against an objector only for a bad-faith, vexatious objection; s.
+    106(ד)(2) allows costs in the objector's favour when the objection was justified.
+- id: m10-052
+  module: 10
+  lesson: "10.3"
+  subject: affidavit
+  difficulty: 3
+  question: >-
+    Two days before the deadline you discover your affidavit was never certified. Which step best
+    protects the objection?
+  options:
+    - >-
+      File the objection without it and say the affidavit will follow.
+    - >-
+      Sign the affidavit yourself and attach it uncertified.
+    - >-
+      Skip the objection and appeal after approval instead.
+    - >-
+      Get it certified the same day, file on time, and keep proof of filing.
+  correct: 3
+  explanation: >-
+    An objection without an affidavit "shall not be accepted and shall not be heard" (s. 103א). The body
+    may allow a correction instead of striking out (reg. 7(ב)), but do not rely on that.
+- id: m10-053
+  module: 10
+  lesson: "10.3"
+  subject: where-to-file
+  difficulty: 2
+  question: >-
+    Spot the mistake: Noa files an objection to a district committee plan with the district committee and
+    keeps a copy at home. What did she miss?
+  options:
+    - >-
+      She should have filed it with the district appeals committee.
+    - >-
+      She had to send a copy to the local committee and keep proof.
+    - >-
+      She should have filed it with the National Council instead.
+    - >-
+      Nothing, because one filing with one committee is enough.
+  correct: 1
+  explanation: >-
+    For a district plan, s. 103(2) and reg. 4(ב) require a copy to the local committee concerned, with
+    evidence of service and its date.
+- id: m10-054
+  module: 10
+  lesson: "10.3"
+  subject: online-filing
+  difficulty: 3
+  question: >-
+    An objector's reasons file includes the ages and school names of her children, to show harm from
+    traffic. What is the better approach?
+  options:
+    - >-
+      Keep them, because personal details make the harm credible.
+    - >-
+      Delete the whole traffic argument from the objection file.
+    - >-
+      Describe the harm generally; leave the children's details out.
+    - >-
+      Ask the committee to keep the entire objection file secret.
+  correct: 2
+  explanation: >-
+    Online objection files are published. Describe the harm ("my children walk to the school on this
+    street") without identifying details; the service itself warns against personal details.
+- id: m10-055
+  module: 10
+  lesson: "10.3"
+  subject: objection-content
+  difficulty: 2
+  question: >-
+    A farmer's objection to a road plan includes a proposed alternative alignment. Why does that help?
+  options:
+    - >-
+      It shows how to meet the plan's goal with less harm.
+    - >-
+      It obliges the committee to adopt the alternative route.
+    - >-
+      It replaces the need to show any harm to the objector.
+    - >-
+      It turns the objection into an appeal to the National Council.
+  correct: 0
+  explanation: >-
+    Planning bodies weigh goals against harm. A realistic alternative makes it easier to accept the
+    objection in part by changing the plan (s. 106(ב)).
+- id: m10-056
+  module: 10
+  lesson: "10.3"
+  subject: special-tracks
+  difficulty: 3
+  question: >-
+    For a ותמ״ל plan, the sign went up on 1 June, the last newspaper notice was on 3 June and the
+    Ministry's website notice on 5 June. From which date do the 60 days run?
+  options:
+    - >-
+      1 June, the sign.
+    - >-
+      3 June, the newspaper.
+    - >-
+      The date of the decision to deposit.
+    - >-
+      5 June, the latest of the three.
+  correct: 3
+  explanation: >-
+    Section 18(ב) of the 2014 Law counts from the latest of the last sign, the last newspaper publication
+    and the website publication.
+- id: m10-057
+  module: 10
+  lesson: "10.3"
+  subject: hakala
+  difficulty: 3
+  question: >-
+    You never got a personal notice about your neighbour's הקלה, but a newspaper notice appeared 20 days
+    ago. You are an adjoining owner. What can you argue?
+  options:
+    - >-
+      Nothing, because the newspaper notice binds everyone equally.
+    - >-
+      That the whole plan for the area must be deposited again.
+    - >-
+      That your 15 days run from personal notice, never delivered.
+    - >-
+      That the permit is void because the sign on site was too small.
+  correct: 2
+  explanation: >-
+    Section 149(א)(1) counts the 15 days from delivery of the notice for those entitled to personal
+    notice. Raise it at once with the committee and, if needed, on appeal.
+- id: m10-058
+  module: 10
+  lesson: "10.3"
+  subject: standing
+  difficulty: 3
+  question: >-
+    A national religious-Zionist organisation with no land in the area wants to object to a plan
+    affecting a historic synagogue. It is not on the s. 100(3) list. What is its best route?
+  options:
+    - >-
+      Object in its own name, since any organisation may object.
+    - >-
+      Support members with a direct interest to object, with expert input.
+    - >-
+      Skip the objection and file an appeal directly after approval.
+    - >-
+      Ask the Minister to add it to the list before the deadline ends.
+  correct: 1
+  explanation: >-
+    Only bodies approved by order have automatic standing. Members with an interest in the land or the
+    planning detail can object, and the organisation can provide research and an expert opinion.
+- id: m10-059
+  module: 10
+  lesson: "10.3"
+  subject: affidavit
+  difficulty: 2
+  question: >-
+    Who may question the declarant on an objection affidavit, and when?
+  options:
+    - >-
+      The deciding body, once the hearing starts, or its chair before.
+    - >-
+      Only the developer's lawyer, and only in written questions.
+    - >-
+      Only a court, because planning bodies cannot question people.
+    - >-
+      Nobody, since affidavits in planning are never tested.
+  correct: 0
+  explanation: >-
+    Reg. 9 lets the deciding body require the declarant to appear and answer questions; its chair may
+    ask for this before the hearing to avoid delay.
+- id: m10-060
+  module: 10
+  lesson: "10.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    How much notice must objectors get of the objection hearing?
+  options:
+    - >-
+      3 days before the hearing.
+    - >-
+      7 days before the hearing.
+    - >-
+      30 days before the hearing.
+    - >-
+      14 days at least.
+  correct: 3
+  explanation: >-
+    Reg. 6(א) requires invitations at least 14 days before the hearing, and a public notice of it.
+- id: m10-061
+  module: 10
+  lesson: "10.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    Is the hearing of objections open to the public?
+  options:
+    - >-
+      Yes, s. 107 says it is held in public.
+    - >-
+      No, only the parties may attend it.
+    - >-
+      Only if the chair allows the public in.
+    - >-
+      Only for district plans, not local ones.
+  correct: 0
+  explanation: >-
+    Section 107 requires objections to be heard in public; the deliberation and vote may be separate.
+- id: m10-062
+  module: 10
+  lesson: "10.4"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    In what order do the parties speak at an objection hearing?
+  options:
+    - >-
+      The initiator first, then the committee planner, then objectors.
+    - >-
+      Any order the chair chooses, since there are no rules on it.
+    - >-
+      Objector first, then the initiator and others; objector replies.
+    - >-
+      All objectors together first, then an immediate vote.
+  correct: 2
+  explanation: >-
+    Reg. 12 sets the order: objector, then the initiator and others entitled under s. 107, with a right
+    of reply for the objector.
+- id: m10-063
+  module: 10
+  lesson: "10.4"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    The committee appoints an investigator (חוקר) because there are 400 objections. What does the
+    investigator do?
+  options:
+    - >-
+      Decides the objections finally, instead of the committee.
+    - >-
+      Hears the objections and recommends to the committee.
+    - >-
+      Investigates the identities and motives of the objectors.
+    - >-
+      Approves the plan if no objector comes to the hearing.
+  correct: 1
+  explanation: >-
+    Under s. 107א the investigator hears objections and recommends; the committee decides after reading
+    the recommendations.
+- id: m10-064
+  module: 10
+  lesson: "10.4"
+  subject: hearing
+  difficulty: 3
+  question: >-
+    You have five minutes at the hearing. Which opening is most effective?
+  options:
+    - >-
+      Reading the first three pages of the objection word for word.
+    - >-
+      Criticising the committee for the towers it approved before.
+    - >-
+      Asking for an adjournment so that a lawyer can attend later.
+    - >-
+      Who you are, the harm, and your three requested changes, with a map.
+  correct: 3
+  explanation: >-
+    Committees hear many objections in one session. A short statement of the requested changes, backed by
+    a map, gives them something to decide.
+- id: m10-065
+  module: 10
+  lesson: "10.4"
+  subject: decision
+  difficulty: 1
+  question: >-
+    What must the objector receive after the committee decides the objection?
+  options:
+    - >-
+      A written notice of the decision and its reasons.
+    - >-
+      Only an oral announcement at the end of the hearing.
+    - >-
+      A refund of the fee paid when filing the objection.
+    - >-
+      A copy of the developer's contract with the landowners.
+  correct: 0
+  explanation: >-
+    Section 108(ב) requires written notice of the decision on objections and its reasons to the objector
+    and to anyone heard under s. 106.
+- id: m10-066
+  module: 10
+  lesson: "10.4"
+  subject: appeal-routes
+  difficulty: 1
+  question: >-
+    Within how many days must an objector appeal a local committee's approval of a plan to the appeals
+    committee?
+  options:
+    - >-
+      7 days from the decision.
+    - >-
+      30 days from the decision.
+    - >-
+      15 days from service.
+    - >-
+      45 days from publication.
+  correct: 2
+  explanation: >-
+    Section 112(ב) sets 15 days from the day the local committee's decision was served on the appellant.
+- id: m10-067
+  module: 10
+  lesson: "10.4"
+  subject: appeal-routes
+  difficulty: 2
+  question: >-
+    You never objected to a local plan. After approval you want to appeal. Can you?
+  options:
+    - >-
+      Yes, anyone may appeal within 15 days of the approval.
+    - >-
+      Generally no; only rejected objectors or those heard may appeal.
+    - >-
+      Yes, if you pay double the usual appeal fee to the committee.
+    - >-
+      Only with the National Council's permission, given in writing.
+  correct: 1
+  explanation: >-
+    Section 112(א) lists who may appeal; for the public it is people whose objection was rejected or who
+    were heard under s. 106(ב). That is why the objection matters.
+- id: m10-068
+  module: 10
+  lesson: "10.4"
+  subject: appeal-routes
+  difficulty: 2
+  question: >-
+    After a district committee approves a plan, when must the appeal to the National Council be filed if
+    the chair grants leave?
+  options:
+    - >-
+      Within 7 days of the hearing before the district committee.
+    - >-
+      Within 15 days of the publication of the plan's approval.
+    - >-
+      Within 60 days of the decision, like a civil appeal.
+    - >-
+      Within 30 days of service of the decision or the leave.
+  correct: 3
+  explanation: >-
+    Section 110(ד) requires the appeal within 30 days from the day the decision or the leave, as the case
+    may be, was served on the appellant.
+- id: m10-069
+  module: 10
+  lesson: "10.4"
+  subject: appeal-routes
+  difficulty: 3
+  question: >-
+    The appeals committee rejected your appeal on a local plan. You want to go further within the
+    planning system. What is the deadline for the first step?
+  options:
+    - >-
+      7 days to ask the appeals chair for leave to go to the district.
+    - >-
+      15 days to appeal to the National Council, as of right.
+    - >-
+      30 days to ask the Minister of the Interior to review it.
+    - >-
+      None; nothing follows an appeals decision on a plan.
+  correct: 0
+  explanation: >-
+    Section 111 allows an appeal to the district committee with the appeals committee chair's leave;
+    the request is due within 7 days, and the appeal within 7 days of leave. The district decision is
+    final.
+- id: m10-070
+  module: 10
+  lesson: "10.4"
+  subject: appeal-document
+  difficulty: 1
+  question: >-
+    Which of these must an appeal to an appeals committee include under reg. 3?
+  options:
+    - >-
+      The signature of a lawyer who represents the appellant.
+    - >-
+      A copy of the decision notice and the respondents' details.
+    - >-
+      An expert opinion signed by a licensed town planner.
+    - >-
+      A copy of the developer's registered title to the land.
+  correct: 1
+  explanation: >-
+    Reg. 3 requires the appellant's details, the plan or request, the decision and a copy of its notice,
+    the respondents and addresses, the reasons and the main evidence. A lawyer is optional.
+- id: m10-071
+  module: 10
+  lesson: "10.4"
+  subject: appeal-document
+  difficulty: 2
+  question: >-
+    Spot the mistake: an appeal against a local plan lists only the local committee as respondent. Who
+    else should normally be named?
+  options:
+    - >-
+      The Minister of the Interior, who supervises committees.
+    - >-
+      The district appeals committee that will hear the case.
+    - >-
+      The plan's initiator, and anyone heard on the point.
+    - >-
+      Every resident of the street who did not file an objection.
+  correct: 2
+  explanation: >-
+    Reg. 4(1) makes respondents the local committee, the initiator, objectors whose objection was
+    accepted (if that is the subject) and those heard under s. 106(ב) on the point.
+- id: m10-072
+  module: 10
+  lesson: "10.4"
+  subject: appeal-document
+  difficulty: 2
+  question: >-
+    Within how long must respondents answer an appeal about a plan, under reg. 6?
+  options:
+    - >-
+      7 days from service of the appeal.
+    - >-
+      15 days from service of the appeal.
+    - >-
+      60 days from service of the appeal.
+    - >-
+      30 days from service of the appeal.
+  correct: 3
+  explanation: >-
+    Respondents to plan appeals have 30 days; respondents to permit appeals have 15 days (reg. 6(א)).
+- id: m10-073
+  module: 10
+  lesson: "10.4"
+  subject: appeal-routes
+  difficulty: 3
+  question: >-
+    An appeal against a decision on a building permit is pending. Can the permit be issued meanwhile?
+  options:
+    - >-
+      No, unless the appeals committee decides, with reasons, not to delay it.
+    - >-
+      Yes, permits are issued and cancelled only if the appeal succeeds.
+    - >-
+      Only if the applicant deposits a bank guarantee with the committee.
+    - >-
+      Only if the local committee chair signs a special approval for it.
+  correct: 0
+  explanation: >-
+    Section 152(ב)(1) bars issuing the permit until the appeals committee decides, but s. 152(ב)(2) lets
+    the committee allow it, with reasons, considering the effect and reversibility.
+- id: m10-074
+  module: 10
+  lesson: "10.4"
+  subject: court-review
+  difficulty: 2
+  question: >-
+    Why should you file the planning appeal before petitioning a court?
+  options:
+    - >-
+      Because courts never hear any case about planning at all.
+    - >-
+      Because a petition costs nothing if you appealed before it.
+    - >-
+      Courts expect the available planning remedies to be used first.
+    - >-
+      Because the appeals committee can award you compensation.
+  correct: 2
+  explanation: >-
+    A petition that skips an available appeal is likely to be dismissed for failure to exhaust remedies
+    (Module 4). The appeal is also faster and cheaper.
+- id: m10-075
+  module: 10
+  lesson: "10.4"
+  subject: enforcement-petitions
+  difficulty: 3
+  question: >-
+    Two groups, one demanding demolition of an unpermitted structure and one demanding a plan that would
+    legalise it, both petition. What does this show about the tools?
+  options:
+    - >-
+      Only one political side may use enforcement petitions.
+    - >-
+      The same procedures serve opposite aims; courts test process.
+    - >-
+      Courts must decide for whichever side petitioned first.
+    - >-
+      Planning petitions are for NGOs only, never for residents.
+  correct: 1
+  explanation: >-
+    Regavim, Peace Now, Bimkom and residents have all used planning objections and petitions for opposite
+    goals. Courts examine legality and discretion, not which side is right politically.
+- id: m10-076
+  module: 10
+  lesson: "10.4"
+  subject: appeal-document
+  difficulty: 3
+  question: >-
+    Your appeal mostly repeats your objection word for word. What should you change?
+  options:
+    - >-
+      Nothing, since the appeal is a fresh hearing on the plan.
+    - >-
+      Add new arguments you did not raise, without saying so.
+    - >-
+      Remove the copy of the decision to keep the appeal short.
+    - >-
+      Focus on the decision's errors, gaps and missing reasons.
+  correct: 3
+  explanation: >-
+    An appeal attacks the decision. Show what the committee failed to address or got wrong; attach the
+    objection as background. New arguments need permission (reg. 11(ה)).
+- id: m10-077
+  module: 10
+  lesson: "10.5"
+  subject: env-reporting
+  difficulty: 1
+  question: >-
+    What is the phone number of the Ministry of Environmental Protection's environment hotline?
+  options:
+    - >-
+      *6911, the environment hotline.
+    - >-
+      *3639, the nature hotline.
+    - >-
+      106, the municipal hotline.
+    - >-
+      1299, the government call centre.
+  correct: 0
+  explanation: >-
+    The Ministry's environment hotline (מוקד הסביבה) is *6911, open 24/7. *3639 is the Nature and Parks
+    Authority; 106 is the municipal hotline.
+- id: m10-078
+  module: 10
+  lesson: "10.5"
+  subject: env-reporting
+  difficulty: 1
+  question: >-
+    Loud music from a neighbour's party at 1 a.m. Who handles it according to the Ministry's table?
+  options:
+    - >-
+      The Ministry's environment hotline.
+    - >-
+      The Nature and Parks Authority.
+    - >-
+      The district planning committee.
+    - >-
+      The police or the municipal hotline.
+  correct: 3
+  explanation: >-
+    The Ministry's own table sends noise hazards to the police (100) and the municipal hotline (106).
+- id: m10-079
+  module: 10
+  lesson: "10.5"
+  subject: citizen-suit
+  difficulty: 1
+  question: >-
+    Which court hears an injunction suit under the Prevention of Environmental Hazards (Civil Claims)
+    Law?
+  options:
+    - >-
+      The District Court.
+    - >-
+      The Magistrates' Court.
+    - >-
+      The High Court.
+    - >-
+      The appeals committee.
+  correct: 1
+  explanation: >-
+    Section 1 of the 1992 Law defines "court" as the Magistrates' Court.
+- id: m10-080
+  module: 10
+  lesson: "10.5"
+  subject: citizen-suit
+  difficulty: 2
+  question: >-
+    What must a resident prove to get an order under s. 2 of the 1992 Law?
+  options:
+    - >-
+      That the polluter acted negligently, with an expert opinion.
+    - >-
+      That the polluter's managers have a criminal record.
+    - >-
+      A hazard harming or likely to harm them; negligence is irrelevant.
+    - >-
+      That the resident has suffered a measurable financial loss.
+  correct: 2
+  explanation: >-
+    Section 2 allows orders for those harmed or likely to be harmed; s. 4 says it does not matter whether
+    the polluter was negligent. The court weighs harms under s. 3.
+- id: m10-081
+  module: 10
+  lesson: "10.5"
+  subject: citizen-suit
+  difficulty: 2
+  question: >-
+    What remedies can a court give under s. 2 of the 1992 Law?
+  options:
+    - >-
+      Stop the act, restore the former state, and prevent a repeat.
+    - >-
+      Only damages for past harm, assessed by a court expert.
+    - >-
+      Criminal fines against the polluter and its managers.
+    - >-
+      Revocation of the polluter's business licence by the court.
+  correct: 0
+  explanation: >-
+    The orders are to refrain or stop, to restore (תיקון המעוות), and to do what is needed to prevent a
+    repeat. Damages are possible only for a repeat hazard within two years (s. 9).
+- id: m10-082
+  module: 10
+  lesson: "10.5"
+  subject: emission-permits
+  difficulty: 2
+  question: >-
+    Where are draft emission permits and the public's comments published?
+  options:
+    - >-
+      Only in the official gazette (Reshumot), in print.
+    - >-
+      On the polluting company's own website, by law.
+    - >-
+      In the local planning committee's session protocols.
+    - >-
+      On the Ministry of Environmental Protection's website.
+  correct: 3
+  explanation: >-
+    Clean Air Law s. 21 requires the application, the draft permit and the public's comments to be
+    published on the Ministry's website.
+- id: m10-083
+  module: 10
+  lesson: "10.5"
+  subject: env-complaint
+  difficulty: 2
+  question: >-
+    Spot the mistake in a complaint: "Shmuel Cohen, the owner, is a criminal poisoning our children."
+    What should it say instead?
+  options:
+    - >-
+      "Shmuel Cohen, the owner, is probably a criminal."
+    - >-
+      Nothing; strong words get the Ministry to act faster.
+    - >-
+      Dated facts: "smoke on 4, 7 and 9 March; data attached".
+    - >-
+      "Everyone in the village knows exactly who did it."
+  correct: 2
+  explanation: >-
+    State observed facts and evidence; let the authority decide on fault. Accusing a named person of a
+    crime risks a defamation claim (Module 8).
+- id: m10-084
+  module: 10
+  lesson: "10.5"
+  subject: group-claims
+  difficulty: 3
+  question: >-
+    A whole neighbourhood is hit by the same sewage overflow. Which statement about collective routes is
+    correct?
+  options:
+    - >-
+      Only the Ministry may sue on behalf of a group of residents.
+    - >-
+      A group claim under s. 10 of the 1992 Law, or a 2006-Law class action.
+    - >-
+      Collective suits are not allowed for any environmental hazard.
+    - >-
+      Each resident must sue separately in the District Court.
+  correct: 1
+  explanation: >-
+    Section 10 of the 1992 Law allows a group claim for an injunction; the Class Actions Law 2006 lists
+    environmental hazards in its Second Schedule. Get advice on which fits.
+- id: m10-085
+  module: 10
+  lesson: "10.5"
+  subject: documentation
+  difficulty: 1
+  question: >-
+    Which item belongs in an environmental hazard log?
+  options:
+    - >-
+      Date, time, what you observed, wind, evidence, report number.
+    - >-
+      The names and home addresses of the people you suspect.
+    - >-
+      Your opinion of the local council and its environmental unit.
+    - >-
+      Screenshots of angry posts about the hazard on social media.
+  correct: 0
+  explanation: >-
+    A log records facts that can be checked: when, what, conditions, evidence and reports. It supports
+    complaints, FOI requests and a s. 5 notice.
+- id: m10-086
+  module: 10
+  lesson: "10.5"
+  subject: citizen-suit
+  difficulty: 3
+  question: >-
+    The court ordered a plant to stop a hazard. Eighteen months later the hazard returns. What does s. 9
+    allow?
+  options:
+    - >-
+      Nothing new; only the Ministry may enforce the old order.
+    - >-
+      A new suit, but only after another 60-day notice to both.
+    - >-
+      Criminal charges filed by the resident against the plant.
+    - >-
+      A new suit within two years, without notice, with compensation.
+  correct: 3
+  explanation: >-
+    Section 9 treats a hazard that returns within two years of the order as a repeat hazard: the
+    plaintiff may sue without the s. 5 notice, and the court may award compensation.
+- id: m10-087
+  module: 10
+  lesson: "10.5"
+  subject: emission-permits
+  difficulty: 3
+  question: >-
+    A plan for a plant needing an emission permit and the draft permit are dealt with in a joint
+    procedure. The objection period ends on 1 May and the permit comment period on 10 May. Which date
+    applies?
+  options:
+    - >-
+      1 May for both.
+    - >-
+      The later date, 10 May, for both.
+    - >-
+      Each keeps its own date with no link.
+    - >-
+      The decision date of the district committee.
+  correct: 1
+  explanation: >-
+    In a joint procedure, Clean Air Law s. 23(ד)(5)(ב) sets the objection and comment deadlines at the
+    later of the two, and the hearing is held on one date.
+- id: m10-088
+  module: 10
+  lesson: "10.5"
+  subject: env-complaint
+  difficulty: 2
+  question: >-
+    You reported a hazard to *6911 three times by phone. Why also send a written complaint?
+  options:
+    - >-
+      Phone reports are not valid without a written follow-up.
+    - >-
+      A written complaint is needed before calling the police.
+    - >-
+      It creates a record and a duty to decide and give reasons.
+    - >-
+      The Ministry deletes phone reports after one week.
+  correct: 2
+  explanation: >-
+    A written request engages the Decisions and Reasons Law (lesson 02.5) and builds the record you need
+    for an FOI request, a s. 5 notice or a petition.
+- id: m10-089
+  module: 10
+  lesson: "10.5"
+  subject: citizen-suit
+  difficulty: 3
+  question: >-
+    For a hazard to a protected tree or forest, to whom does the s. 5 notice go besides the polluter?
+  options:
+    - >-
+      The Minister of Agriculture or his delegate.
+    - >-
+      The Minister of Environmental Protection only.
+    - >-
+      The local planning committee.
+    - >-
+      The Israel Land Authority.
+  correct: 0
+  explanation: >-
+    The 1992 Law defines "the authority" by hazard: for trees and forests the Minister of Agriculture;
+    for protected areas and natural assets the Nature and Parks Authority director; otherwise the
+    Environment Minister.

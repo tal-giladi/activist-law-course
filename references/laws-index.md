@@ -28,3 +28,9 @@ Every law and ruling the course cites, with a free full-text link. Entries are a
 ## Pending legislation (status not confirmed)
 
 - Private bills to raise the services-law ceiling (reported as P/5247/25) and a bill tabled 26.1.2026 that would reduce compensation without proof of damage (which law it amends was not confirmed). Neither was law on 2026-10-13 as far as Wikisource shows. ⚠️ Check the Knesset bills database before publishing.
+
+## Official guidance read
+
+- gov.il — הגשת בקשת התנגדות לתוכנית של מינהל התכנון, with attachments הנחיות להגשת התנגדויות (PDF, 3 pages) and טופס פרטי התנגדות לדוגמה (DOCX): https://www.gov.il/he/service/filing-objection (opened in browser; attachments downloaded with curl, 2026-10-13).
+- gov.il — הגשת ערר לוועדת ערר לתכנון ובניה: https://www.gov.il/he/service/licensing-appeal-submission (opened in browser, 2026-10-13).
+- Ministry of Environmental Protection — פניות הציבור; למי פונים בעת מפגע סביבתי (updated 7.6.2026): https://www.gov.il/he/departments/guides/moep_public_inquiries?chapterIndex=2 (opened in browser, 2026-10-13).

@@ -20,11 +20,12 @@ Goal: build the course described in `curriculum/plan.md` under `tals-academy/doc
 - [x] Module 07 (5 lessons, 92 bank)
 - [x] Module 08 (5 lessons, 93 bank)
 - [x] Module 09 (5 lessons, 83 bank)
-- [ ] Modules 10–20 (order in plan §12)
+- [x] Module 10 (5 lessons, 89 bank)
+- [ ] Modules 11–20 (order in plan §12)
 - [ ] Phase C: QA, check-course 0 problems, TODO_FOR_TAL
 
 ## Now working
-- Agents: module 10 writer, module 11 writer.
+- Agents: module 11 writer, module 12 writer.
 
 ## Decisions
 - 2026-10-12 Mixed EN/HE language (plan §3). External free platforms assigned, not duplicated (plan §4).

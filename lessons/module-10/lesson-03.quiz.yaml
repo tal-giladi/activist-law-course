@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Thirty residents oppose a plan that removes a nature strip along a stream. They want to file one
+    objection. Which way of handling the affidavit does s. 103א allow?
+  options:
+    - >-
+      No affidavit at all, because environmental objections are exempt.
+    - >-
+      Thirty separate affidavits, because each objector must verify the facts.
+    - >-
+      One representative's affidavit, which the others may rely on.
+    - >-
+      An affidavit from the local council's engineer instead of the residents.
+  correct: 2
+  explanation: >-
+    On public issues of nature, landscape, quality of life and environment, s. 103א(ב) lets a
+    representative file a reasoned objection with his or her own affidavit, and others with a similar
+    objection may rely on it.
+- id: q2
+  question: >-
+    You file your objection online on the Planning Administration's form. Which detail should NOT
+    appear in the objection-details file you upload?
+  options:
+    - >-
+      The plan number and the gush and chelka affected.
+    - >-
+      Your ID number and mobile phone number.
+    - >-
+      The specific changes you ask the committee to make.
+    - >-
+      A reference to the rights table row you dispute.
+  correct: 1
+  explanation: >-
+    The objection file is published on the plan page. ID number and phone go only in the form fields;
+    the reasons file should contain the plan details, your arguments and the requested changes.
+- id: q3
+  question: >-
+    A local committee deposits a plan within its own powers. You deliver your objection by hand to the
+    local committee. What else do the regulations require of you?
+  options:
+    - >-
+      Send a copy to the district committee and keep proof of it and its date.
+    - >-
+      Pay a filing fee at the committee cashier within 7 days.
+    - >-
+      Send a copy to the National Council, which supervises local plans.
+    - >-
+      Publish a notice of your objection in a local newspaper.
+  correct: 0
+  explanation: >-
+    For a plan in the local committee's powers, the objector files with the local committee and serves
+    a copy on the district committee, with proof of service and its date (reg. 4(ג); s. 103(3)).
+    Objections are free.
+- id: q4
+  question: >-
+    A notice on the building next door says your neighbour has asked for a הקלה to add a floor. It
+    was published in the newspaper six days ago. What is your deadline to object?
+  options:
+    - >-
+      Two months from the publication, as for any deposited plan.
+    - >-
+      Thirty days from the day the permit is granted.
+    - >-
+      Forty-five days, under the Decisions and Reasons Law.
+    - >-
+      Fifteen days from publication, so nine days remain.
+  correct: 3
+  explanation: >-
+    For a הקלה or non-conforming use, s. 149(א)(1) sets 15 days from the newspaper publication (or
+    from personal notice). Thirty days is the later appeal period if your objection is rejected.
+- id: q5
+  question: >-
+    Your objection argues that a plan violates the district outline plan, but your affidavit only says
+    who you are and where you live. Your photos and noise measurements are attached without mention.
+    What is the risk?
+  options:
+    - >-
+      None, because legal arguments never need to be verified.
+    - >-
+      The committee must commission its own noise measurements before deciding.
+    - >-
+      Its facts are unverified, so it may be weakened or struck out.
+    - >-
+      The objection is automatically turned into a group objection.
+  correct: 2
+  explanation: >-
+    Section 103א requires an affidavit verifying the facts the objection relies on. Legal arguments
+    need no affidavit, but your measurements and photos do; refer to each exhibit in a paragraph.

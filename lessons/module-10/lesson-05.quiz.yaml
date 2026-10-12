@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A factory's night-time chemical smell has bothered your street for months. Neither the Ministry nor
+    the factory has done anything. You want to sue the factory for an injunction under the 1992 Law.
+    What must you do first?
+  options:
+    - >-
+      Give the factory and the authority 60 days' notice and wait for real steps.
+    - >-
+      Prove the factory was negligent, with an expert opinion.
+    - >-
+      File a class action, because environmental suits must be collective.
+    - >-
+      Petition the High Court against the Ministry's failure to act.
+  correct: 0
+  explanation: >-
+    Section 5 requires notice to the authority and to the polluter and 60 days in which neither takes
+    real steps. Negligence is irrelevant (s. 4), and an individual may sue alone in the Magistrates'
+    Court.
+- id: q2
+  question: >-
+    The Ministry publishes a draft emission permit for a power station near your town. What can any
+    member of the public do?
+  options:
+    - >-
+      Nothing, because emission permits concern only the operator and the Ministry.
+    - >-
+      Object to the district planning committee within 15 days.
+    - >-
+      Submit comments on the draft to the Ministry within the s. 21 period.
+    - >-
+      Appeal the permit to the appeals committee after it is granted.
+  correct: 2
+  explanation: >-
+    Clean Air Law s. 21(ה) lets anyone comment on a draft emission permit within the period after
+    publication; the comments are published and must be considered before the permit is granted.
+- id: q3
+  question: >-
+    Smoke from waste burning in an open field near your home appears again tonight. Who do you call
+    first, according to the Ministry's own table?
+  options:
+    - >-
+      The municipal hotline 106, which handles all environmental hazards.
+    - >-
+      The Ministry's environment hotline, *6911.
+    - >-
+      The Nature and Parks Authority hotline, *3639.
+    - >-
+      The police on 100, because burning waste is a criminal offence.
+  correct: 1
+  explanation: >-
+    The Ministry lists smoke and burning smells with no visible source, industrial smells and similar
+    hazards under its environment hotline *6911. Call 102 first if a fire threatens people or homes.
+- id: q4
+  question: >-
+    An environmental amuta registered last year wants to sue a polluter under the 1992 Law. It is not
+    in the Schedule. When may it sue?
+  options:
+    - >-
+      Never, because only bodies listed in the Schedule have standing.
+    - >-
+      Only with the Minister's written approval for the specific suit.
+    - >-
+      Only as a class action under the 2006 Law, with court approval.
+    - >-
+      If its main aim is the environment and at least one member could sue.
+  correct: 3
+  explanation: >-
+    Section 6(ג) lets a registered amuta whose main aim is environmental protection sue if at least one
+    of its members would be entitled to sue, in addition to the bodies listed in the Schedule.

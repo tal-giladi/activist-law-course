@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A plan would replace six four-storey buildings with two 28-storey towers, adding hundreds of
+    housing units and a lot of floor area. Which body decides it and hears the objections?
+  options:
+    - >-
+      The local committee, because every plan inside a town starts there.
+    - >-
+      The district committee, because the plan goes beyond the s. 62א list.
+    - >-
+      The appeals committee, because urban renewal is decided on appeal.
+    - >-
+      The National Council, because towers over 20 storeys are national.
+  correct: 1
+  explanation: >-
+    A local committee may approve only plans limited to the s. 62א topics. Adding large floor area and
+    changing land use is a district-committee plan, and under s. 105 the district committee hears its
+    objections.
+- id: q2
+  question: >-
+    You find a plan on Mavat whose status says the committee "decided to deposit with conditions". What
+    can you usefully do today?
+  options:
+    - >-
+      File a formal objection now, so it is in before anyone else's.
+    - >-
+      Appeal to the appeals committee against the decision to deposit.
+    - >-
+      Read the protocol, write to the planners, and watch for the deposit notice.
+    - >-
+      Nothing until the plan is approved, when the appeal period opens.
+  correct: 2
+  explanation: >-
+    The objection period starts only when the deposit is published (s. 102). Before that you can follow
+    the protocols and write; the formal objection comes at deposit, the appeal after the decision.
+- id: q3
+  question: >-
+    A notice in the newspaper says the National Infrastructure Committee (ות״ל) has transferred a road
+    plan for comments. Farmers whose fields it crosses want to fight it. What do they file?
+  options:
+    - >-
+      A השגה under s. 76ג, heard by an investigator, before its own deadline.
+    - >-
+      An objection to the local committee, with a copy to the district committee.
+    - >-
+      An appeal to the district appeals committee within 15 days.
+    - >-
+      Nothing, since national infrastructure plans allow no public input.
+  correct: 0
+  explanation: >-
+    National infrastructure plans have their own track: anyone entitled to object under s. 100 may
+    file a השגה within the s. 76ג period; an investigator hears it and the Government approves the plan.
+- id: q4
+  question: >-
+    An NGO wants to challenge in court a decision of the Civil Administration's planning bodies on a
+    regional outline plan in Judea and Samaria. Where does the challenge go?
+  options:
+    - >-
+      To the district appeals committee for the Jerusalem District.
+    - >-
+      To the Administrative Court in Jerusalem under the Fourth Schedule.
+    - >-
+      To the Magistrates' Court, which hears planning offences in the area.
+    - >-
+      To the High Court, since outline plans there are left out of the Fourth Schedule.
+  correct: 3
+  explanation: >-
+    Fourth Schedule item 2 sends some planning decisions in the area to the Administrative Court in
+    Jerusalem, but excludes regional and outline plans, offences and the commander's decisions; those
+    go to the High Court.

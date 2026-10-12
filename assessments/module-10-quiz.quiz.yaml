@@ -1,0 +1,181 @@
+- id: q1
+  question: >-
+    A local committee deposits a plan that only moves building lines on three plots in a moshav. A
+    resident wants to object. Where does the objection go?
+  options:
+    - >-
+      To the district committee, with a copy to the local committee.
+    - >-
+      To the district appeals committee, which hears all moshav plans.
+    - >-
+      To the local committee, with a copy and proof to the district committee.
+    - >-
+      To the National Council, because agricultural land is a national matter.
+  correct: 2
+  explanation: >-
+    Changing building lines is a s. 62א topic, so the plan is in the local committee's powers. Under
+    s. 103(3) and reg. 4(ג) the objection goes to the local committee, with a copy to the district
+    committee and proof of the copy.
+- id: q2
+  question: >-
+    Residents of a Haredi neighbourhood learn on day 55 after the later newspaper notice that a plan
+    removes the only site reserved for a synagogue and a kindergarten. The plan page shows no
+    extension. What should they do?
+  options:
+    - >-
+      File a reasoned objection with an affidavit within the next few days.
+    - >-
+      Wait for the approval and then appeal, since the appeal is the stronger route.
+    - >-
+      Petition the Administrative Court now, before the plan is approved.
+    - >-
+      Ask the local rabbi to write to the committee; a letter needs no affidavit.
+  correct: 0
+  explanation: >-
+    The period is two months from the later newspaper publication (s. 102), so a few days remain. Only
+    an objector whose objection was rejected can appeal a local plan, and a court expects the
+    objection route to be used first. An objection needs reasons and an affidavit (s. 103א).
+- id: q3
+  question: >-
+    An environmental organisation and a group of Druze farmers both object to a district plan for a
+    quarry. The organisation is on the list approved under s. 100(3) but owns no land there. May it
+    object?
+  options:
+    - >-
+      No, only owners of land inside the plan area may object.
+    - >-
+      Only if the farmers sign a power of attorney in its favour.
+    - >-
+      Only after the plan is approved, as a respondent to an appeal.
+    - >-
+      Yes, as an approved public body with a public interest in the plan.
+  correct: 3
+  explanation: >-
+    Section 100(3) allows public and professional bodies approved by order to object where they have a
+    public interest in the plan. Land ownership is not required; the farmers object on their own
+    interest.
+- id: q4
+  question: >-
+    Reading a plan for a new neighbourhood next to a kibbutz, you find a "school" on the binding map
+    but no condition linking the school to the occupancy of the homes. What objection request is most
+    useful?
+  options:
+    - >-
+      Reject the whole plan, because schools are never built on time.
+    - >-
+      Add a condition that the school be built before a set stage of occupancy.
+    - >-
+      Ask the Ministry of Education to fund the school before the hearing.
+    - >-
+      Ask the committee to delete the school so that land is not wasted.
+  correct: 1
+  explanation: >-
+    Committees act on specific, constructive requests. The implementation chapter can link permits or
+    occupancy to building public facilities; asking for such a condition targets the real harm.
+- id: q5
+  question: >-
+    At the hearing, the initiator's planner says your shading figures are wrong. The chair asks you to
+    answer questions on your affidavit. You refuse because you "have nothing to add". What may follow?
+  options:
+    - >-
+      Nothing, because questioning an objector is not allowed in planning hearings.
+    - >-
+      The hearing must be adjourned so that you can bring a lawyer.
+    - >-
+      The objection may be struck out under reg. 9 without a reasonable explanation.
+    - >-
+      The committee must commission its own shading study before deciding.
+  correct: 2
+  explanation: >-
+    Reg. 9 lets the deciding body question the person who gave the supporting affidavit and strike out
+    the objection if that person refuses to answer without a reasonable explanation.
+- id: q6
+  question: >-
+    The residents' committee of a community village in the Galilee objected to a plan approved by an
+    independent local committee, and the objection was rejected. They want to take it further. What is the route?
+  options:
+    - >-
+      Appeal to the appeals committee as of right, within 30 days.
+    - >-
+      Ask the district committee chair for leave within 15 days.
+    - >-
+      Petition the High Court at once, since there is no planning appeal.
+    - >-
+      Ask the appeals committee chair for leave within 15 days, then appeal.
+  correct: 3
+  explanation: >-
+    Where the 1965 Law applies, objectors appealing a plan decision of an independent local committee
+    need the appeals committee chair's leave, requested within the 15-day period (s. 112(א1)).
+- id: q7
+  question: >-
+    The appeals committee rejects your appeal against a neighbour's building permit and הקלה. You still
+    think the decision is unlawful. What now?
+  options:
+    - >-
+      An administrative petition; the permit decision is final.
+    - >-
+      Ask for leave to appeal to the district committee within 7 days.
+    - >-
+      Appeal to the National Council within 30 days of service.
+    - >-
+      Object again to the local committee when the permit is issued.
+  correct: 0
+  explanation: >-
+    Appeals committee decisions on permits, הקלות and non-conforming uses are final within the planning
+    system (s. 12ב(ד)(1)). Planning decisions are challenged in the Administrative Court (First
+    Schedule item 10), within 45 days.
+- id: q8
+  question: >-
+    An NGO wants a court to order the authorities to enforce demolition orders against unpermitted
+    buildings. It has written to the enforcement unit twice and received no answer. Which statement is
+    correct?
+  options:
+    - >-
+      The district appeals committee is the right forum for enforcement complaints.
+    - >-
+      Enforcement is outside the Administrative Court's planning item; such cases go to the HCJ.
+    - >-
+      The court will order demolition automatically once a demand letter was ignored.
+    - >-
+      Only the owners of neighbouring plots may ask a court to order enforcement.
+  correct: 1
+  explanation: >-
+    First Schedule item 10 excludes the enforcement chapter, so enforcement petitions have gone to the
+    High Court. Courts give authorities wide discretion over enforcement priorities, and groups on
+    opposite sides have used such petitions.
+- id: q9
+  question: >-
+    For three months a plant's smell has reached a mixed Jewish-Arab town. Residents reported to *6911
+    and wrote to the Ministry; nothing changed. They now send a notice under s. 5 of the 1992 Law only
+    to the plant. What is wrong?
+  options:
+    - >-
+      Nothing, the plant is the only party who must be notified.
+    - >-
+      The notice should have gone to the Magistrates' Court instead.
+    - >-
+      The notice must also go to the authority; the 60 days run from notifying both.
+    - >-
+      A notice is needed only for group claims, not for individual residents.
+  correct: 2
+  explanation: >-
+    Section 5 requires notice to both the authority and the polluter, and a suit only after 60 days in
+    which neither took real steps. Individuals as well as groups must give it.
+- id: q10
+  question: >-
+    A plan for a new power station is deposited, and the Ministry publishes a draft emission permit for
+    the same station. Residents want to influence both. What is the best approach?
+  options:
+    - >-
+      Object only to the plan, because emission permits cannot be commented on.
+    - >-
+      Object to the plan and comment on the draft permit, minding both deadlines.
+    - >-
+      Comment only on the permit, because planning bodies ignore air quality.
+    - >-
+      Wait for the permit and sue under the 1992 Law instead.
+  correct: 1
+  explanation: >-
+    Anyone may comment on a draft emission permit (Clean Air Law s. 21), and the plan is open to
+    objections. Where a joint procedure is held, the later deadline applies to both (s. 23(ד)(5)).
+    Acting at the decision stage is far easier than suing later.

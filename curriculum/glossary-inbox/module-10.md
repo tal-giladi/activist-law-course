@@ -1,0 +1,33 @@
+# Glossary inbox — Module 10
+
+- **מוסד תכנון** (mosad tichnun) — Planning institution: the National Council, a district committee, a local committee, an appeals committee or a special national committee.
+- **המועצה הארצית לתכנון ולבניה** (hamo'atza ha'artzit) — National Planning and Building Council; decides national outline plans and appeals against district committees (s. 110).
+- **ועדה מחוזית** (va'ada mechozit) — District planning and building committee; one in each of the six districts.
+- **ועדה מקומית** (va'ada mekomit) — Local planning and building committee; decides building permits and plans limited to the s. 62א topics.
+- **ועדה מקומית עצמאית** (va'ada mekomit atzma'it) — Independent local committee with wider plan powers; objectors need leave to appeal its plan decisions (s. 112(א1)).
+- **ועדת ערר** (va'adat erer) — District appeals committee for planning and building (ss. 12א–12ב).
+- **תכנית מתאר** (tochnit mit'ar) — Outline plan (national תמ״א, district or local).
+- **תכנית מפורטת** (tochnit meforetet) — Detailed plan from which permits can be issued.
+- **הפקדה** (hafkada) — Deposit: publication of a plan for public objections.
+- **התנגדות** (hitnagdut) — Objection to a deposited plan (ss. 100–103א).
+- **השגה** (hasaga) — Challenge to a national infrastructure plan (s. 76ג(8)).
+- **הוועדה לתשתיות לאומיות (ות״ל)** (vatal) — National Infrastructure Committee; its plans are approved by the Government.
+- **הוועדה למתחמים מועדפים לדיור (ותמ״ל)** (vatmal) — Preferred Housing Compounds Committee under a 2014 temporary law; anyone may object.
+- **תשריט** (tasrit) — A plan's map.
+- **הוראות התכנית** (hora'ot hatochnit) — A plan's written instructions.
+- **מצב מאושר / מצב מוצע** (matzav me'ushar / matzav mutza) — Approved situation / proposed situation on a plan's map.
+- **טבלת זכויות והוראות בנייה** (tavlat zchuyot) — Rights table: floor areas, units, floors, building lines per plot.
+- **נספח מחייב / נספח מנחה** (nispach mechayev / nispach manche) — Binding / guiding appendix.
+- **קו בניין** (kav binyan) — Building line: minimum distance from the plot boundary.
+- **היתר בנייה** (heter bniya) — Building permit.
+- **הקלה** (hakala) — Permitted deviation from a plan, decided at permit stage after a 15-day objection period (s. 149).
+- **שימוש חורג** (shimush chorig) — Non-conforming use permitted against a plan.
+- **חוקר** (choker) — Investigator appointed to hear objections and recommend (s. 107א).
+- **בקשת רשות לערור** (bakashat reshut la'aror) — Request for leave to appeal.
+- **מבא״ת / מידע תכנוני** (mavat) — The Planning Administration's national plan-information site.
+- **מפגע סביבתי** (mifga svivati) — Environmental hazard as defined in the 1992 Civil Claims Law.
+- **גורם המפגע** (gorem hamifga) — The person or body causing an environmental hazard.
+- **היתר פליטה** (heter plita) — Emission permit under the Clean Air Law 2008.
+- **מוקד הסביבה** (moked hasviva) — Ministry of Environmental Protection hotline, \*6911.
+- **תיקון המעוות** (tikun hame'uvat) — Order to restore the previous state (1992 Law s. 2).
+- **תובענה קבוצתית** (tova'ana kvutzatit) — Group claim for an injunction under s. 10 of the 1992 Law.
