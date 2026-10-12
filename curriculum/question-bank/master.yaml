@@ -2573,6 +2573,1416 @@
   explanation: >-
     Drafting legal documents for another person for payment is reserved to lawyers (Bar Association
     Law s. 20). Explaining general structure is fine.
+- id: m03-001
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-structure
+  difficulty: 1
+  question: What did the Harari decision of 1950 decide about Israel's constitution?
+  options:
+    - That the constitution would be adopted in one document by a referendum.
+    - That Israel would have no constitution and rely on British common law.
+    - That it would be written chapter by chapter, each chapter a Basic Law.
+    - That the Supreme Court would write the constitution through its rulings.
+  correct: 2
+  explanation: >-
+    The First Knesset tasked its Constitution Committee with drafting a constitution in chapters,
+    each a Basic Law, which together would form the constitution.
+- id: m03-002
+  module: 3
+  lesson: '03.1'
+  subject: basic-laws-list
+  difficulty: 1
+  question: Which of these is NOT a Basic Law in force in 2026?
+  options:
+    - 'Basic Law: Legislation.'
+    - 'Basic Law: The State Comptroller.'
+    - 'Basic Law: Referendum.'
+    - 'Basic Law: The Military.'
+  correct: 0
+  explanation: >-
+    A Basic Law on how laws and Basic Laws are made has been proposed many times but never enacted.
+    The other three are among the thirteen Basic Laws.
+- id: m03-003
+  module: 3
+  lesson: '03.1'
+  subject: basic-laws-list
+  difficulty: 1
+  question: >-
+    Which two Basic Laws, both first passed in 1992, were the first to protect individual rights
+    against the Knesset itself?
+  options:
+    - The Knesset, and The Judiciary, both rewritten that year.
+    - The Government, and The State Economy, both amended that year.
+    - Referendum, and the Nation-State Law, both passed that year.
+    - Human Dignity and Liberty, and Freedom of Occupation.
+  correct: 3
+  explanation: >-
+    The earlier Basic Laws set up state organs. The 1992 laws protect rights and include a
+    limitation clause.
+- id: m03-004
+  module: 3
+  lesson: '03.1'
+  subject: entrenchment
+  difficulty: 1
+  question: What does "רוב של חברי הכנסת" mean in an entrenchment clause?
+  options:
+    - A majority of the MKs present and voting at the session.
+    - At least 61 MKs, a majority of all 120 members.
+    - At least 80 MKs, two thirds of the Knesset.
+    - A majority of the coalition factions only.
+  correct: 1
+  explanation: >-
+    "A majority of the members of the Knesset" means a majority of all 120, that is 61, not just a
+    majority of those who happen to vote.
+- id: m03-005
+  module: 3
+  lesson: '03.1'
+  subject: entrenchment
+  difficulty: 2
+  question: >-
+    Basic Law: The Knesset s. 46 applies the special majority "בין מפורש ובין משתמע". Why does this
+    matter for an activist reading a new election bill?
+  options:
+    - Because only bills that expressly mention s. 4 need 61 votes.
+    - Because it means the special majority applies only in the third reading.
+    - Because a bill that changes s. 4 in effect, without saying so, also needs 61 votes.
+    - Because implied changes are reviewed by the Central Elections Committee instead.
+  correct: 2
+  explanation: >-
+    An implied change to an entrenched section needs the special majority too, in every reading.
+    That is how the unequal funding law in Bergman fell foul of s. 4.
+- id: m03-006
+  module: 3
+  lesson: '03.1'
+  subject: entrenchment
+  difficulty: 2
+  question: >-
+    You want to know whether Basic Law: The Judiciary can be amended by an ordinary majority. Where
+    do you look first?
+  options:
+    - In the Basic Law's own text, for a clause requiring a special majority.
+    - In the Harari decision, which sets majorities for each chapter.
+    - In the Interpretation Law, which lists the entrenched Basic Laws.
+    - In the Knesset Rules of Procedure, which entrench all Basic Laws.
+  correct: 0
+  explanation: >-
+    Entrenchment is written in each Basic Law itself, usually near the end (נוקשות). If there is no
+    such clause, an ordinary majority can amend it.
+- id: m03-007
+  module: 3
+  lesson: '03.1'
+  subject: bergman
+  difficulty: 2
+  question: In Bergman (1969), what could the Knesset have done to make the funding law valid?
+  options:
+    - Nothing; the Court held that public funding of parties is always unlawful.
+    - Ask the Court for an advisory opinion before passing the law again.
+    - Pass it as a Basic Law, which needs no special majority.
+    - Re-enact it by a majority of all MKs, or remove the inequality.
+  correct: 3
+  explanation: >-
+    The Court ordered the minister not to act unless the law was re-enacted with the required
+    majority or amended to remove the inequality. The Knesset amended the law.
+- id: m03-008
+  module: 3
+  lesson: '03.1'
+  subject: mizrahi-bank
+  difficulty: 1
+  question: What did the Supreme Court hold in United Mizrahi Bank (1995) that changed Israeli law?
+  options:
+    - That banks may not be regulated by Knesset laws without a referendum.
+    - That Basic Laws outrank ordinary laws, and courts may void a law that breaks them.
+    - That the Declaration of Independence is a binding constitution.
+    - That only the Knesset may decide whether a law breaks a Basic Law.
+  correct: 1
+  explanation: >-
+    Mizrahi Bank recognised the constitutional status of the Basic Laws and judicial review of laws
+    under the limitation clause, although the judges' reasons differed.
+- id: m03-009
+  module: 3
+  lesson: '03.1'
+  subject: mizrahi-bank
+  difficulty: 2
+  question: Which judge in Mizrahi Bank rejected the theory that the Knesset holds constituent power?
+  options:
+    - President Barak.
+    - President Shamgar.
+    - Justice Cheshin.
+    - Justice Tal.
+  correct: 2
+  explanation: >-
+    Cheshin J. held that the Knesset cannot adopt a constitution this way, though it can bind itself
+    by express entrenchment. Barak developed the constituent-authority theory.
+- id: m03-010
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-debate
+  difficulty: 2
+  question: >-
+    A critic of the "constitutional revolution" points to the 1992 vote on Human Dignity and
+    Liberty. What fact is usually cited?
+  options:
+    - It passed 32 to 21, with a small attendance.
+    - It passed unanimously but without a third reading.
+    - It was approved by referendum with a low turnout.
+    - It was passed by the Supreme Court, not the Knesset.
+  correct: 0
+  explanation: >-
+    The law passed 32 to 21. Critics such as former MK Michael Eitan say few members were present
+    and the public was not told a constitution was being adopted.
+- id: m03-011
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-debate
+  difficulty: 2
+  question: >-
+    Which statement fairly presents the supporters' answer to the critics of the constitutional
+    revolution?
+  options:
+    - The Knesset had no role in 1992; the Court adopted the Basic Laws itself.
+    - The number of MKs voting does not matter, because Basic Laws need no vote.
+    - Judicial review was invented by the Knesset Constitution Committee in 2023.
+    - The limitation clause makes sense only if courts can enforce it.
+  correct: 3
+  explanation: >-
+    Supporters such as Barak and Professor Roznai read the limitation clause as authorising review;
+    MK Rubinstein said the Knesset debates show members knew review was possible.
+- id: m03-012
+  module: 3
+  lesson: '03.1'
+  subject: basic-laws-list
+  difficulty: 2
+  question: >-
+    A friend says the 2018 Nation-State Law "is just an ordinary law with a fancy name". What is the
+    accurate legal position?
+  options:
+    - It is an ordinary law, because it passed with fewer than 61 votes.
+    - It was passed as a Basic Law; views on its content are a separate question.
+    - It is a regulation, because it was made by the Constitution Committee.
+    - It is a Basic Law only after the Supreme Court approved it in 2021.
+  correct: 1
+  explanation: >-
+    It was enacted as Basic Law: Israel – the Nation-State of the Jewish People. In Hasson (2021)
+    the Court rejected petitions against it; its status did not depend on that ruling.
+- id: m03-013
+  module: 3
+  lesson: '03.1'
+  subject: entrenchment
+  difficulty: 3
+  question: >-
+    A bill would amend Basic Law: Freedom of Occupation by an ordinary law passed 55 to 30. What is
+    wrong with this?
+  options:
+    - Nothing; any law may amend a Basic Law if the change is minor.
+    - 'It needs 80 MKs, like the emergency-regulation sections of Basic Law: The Knesset.'
+    - Section 7 allows change only by a Basic Law passed by a majority of all MKs.
+    - Freedom of Occupation can be amended only by referendum.
+  correct: 2
+  explanation: >-
+    Freedom of Occupation s. 7 requires a Basic Law adopted by 61 MKs. An ordinary law with 55 votes
+    meets neither condition.
+- id: m03-014
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-structure
+  difficulty: 3
+  question: >-
+    A petition argues a law is "unconstitutional" but names only "the principles of democracy",
+    without a Basic Law or a ruling. What is the main weakness?
+  options:
+    - Petitions may not mention democracy, which is a political concept.
+    - Unconstitutionality can be argued only by the Attorney General.
+    - Only laws passed before 1992 can be challenged as unconstitutional.
+    - 'The court needs a specific source: a Basic Law section or a ruling with its test.'
+  correct: 3
+  explanation: >-
+    Israel's constitution is a set of Basic Laws read through case law. An argument without a
+    section or a ruling gives the court nothing to apply.
+- id: m03-015
+  module: 3
+  lesson: '03.1'
+  subject: bergman
+  difficulty: 3
+  question: Why is Bergman described as a "procedural" kind of review, compared with Mizrahi Bank?
+  options:
+    - Because the Knesset could cure the defect with 61 votes, whatever the content.
+    - Because the Court only reviewed whether the bill had a first reading.
+    - Because the Court refused to look at the law's text at all.
+    - Because Bergman was decided by the Knesset's legal adviser, not a court.
+  correct: 0
+  explanation: >-
+    In Bergman the law fell for lack of the entrenched majority. With 61 votes the Knesset could
+    pass the same content; Mizrahi Bank allowed review of content itself.
+- id: m03-016
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-debate
+  difficulty: 1
+  question: Who first called the 1992 Basic Laws "the quiet constitutional revolution"?
+  options:
+    - President Aharon Barak, in his Mizrahi Bank opinion.
+    - Professor Claude Klein, in an article soon after.
+    - MK Yizhar Harari, during the 1950 Knesset debate.
+    - The Knesset's legal adviser, in the bill's explanatory notes.
+  correct: 1
+  explanation: >-
+    Professor Claude Klein coined the phrase about two weeks after the laws passed. Barak later
+    adopted and developed the idea.
+- id: m03-017
+  module: 3
+  lesson: '03.1'
+  subject: constitutional-structure
+  difficulty: 2
+  question: Which Basic Law sets the structure of the courts and the Judicial Selection Committee?
+  options:
+    - 'Basic Law: The Government.'
+    - 'Basic Law: The Knesset.'
+    - 'Basic Law: Human Dignity and Liberty.'
+    - 'Basic Law: The Judiciary.'
+  correct: 3
+  explanation: >-
+    Basic Law: The Judiciary (1984) covers the courts, judges' appointment and tenure, and the High
+    Court of Justice's powers. Lesson 03.5 reads its 2025 amendment.
+- id: m03-018
+  module: 3
+  lesson: '03.2'
+  subject: hdl-rights
+  difficulty: 1
+  question: 'Which right is written in Basic Law: Human Dignity and Liberty?'
+  options:
+    - Privacy and private life.
+    - Freedom of the press and media.
+    - The right to strike and organise.
+    - Freedom of religion and worship.
+  correct: 0
+  explanation: >-
+    Section 7 protects privacy. Press freedom, strikes and religion are not written there; some of
+    them are protected through dignity in case law (lesson 03.4).
+- id: m03-019
+  module: 3
+  lesson: '03.2'
+  subject: hdl-rights
+  difficulty: 1
+  question: Under s. 6 of Human Dignity and Liberty, who has the right to enter Israel?
+  options:
+    - Every person, whatever their citizenship.
+    - Every resident who has lived in Israel for five years.
+    - Every Israeli citizen who is abroad.
+    - Only citizens who have completed military or national service.
+  correct: 2
+  explanation: >-
+    Section 6(a) lets every person leave Israel; s. 6(b) gives every Israeli citizen abroad the
+    right to enter.
+- id: m03-020
+  module: 3
+  lesson: '03.2'
+  subject: two-stage-analysis
+  difficulty: 1
+  question: What is the correct order of a constitutional analysis under the 1992 Basic Laws?
+  options:
+    - Proportionality first, then whether any right is involved.
+    - First a protected right and its infringement, then the limitation clause.
+    - First the court's jurisdiction, then the reasonableness of the law.
+    - First the vote count, then the explanatory notes, then the right.
+  correct: 1
+  explanation: >-
+    Stage one asks whether a protected right is infringed, with facts. Only then does stage two ask
+    whether the limitation clause justifies it.
+- id: m03-021
+  module: 3
+  lesson: '03.2'
+  subject: two-stage-analysis
+  difficulty: 2
+  question: At which stage does the challenger carry the main burden of bringing facts?
+  options:
+    - Proper purpose, where the challenger must prove the Knesset's motives.
+    - Narrow sense, where the challenger must calculate the total benefit.
+    - None; the state must prove both the infringement and the justification.
+    - Stage one, showing that a protected right is actually infringed.
+  correct: 3
+  explanation: >-
+    The challenger must lay a factual basis for the infringement (as Commitment to Peace and Social
+    Justice shows). Justifying it under the limitation clause falls in practice on the state.
+- id: m03-022
+  module: 3
+  lesson: '03.2'
+  subject: express-authorisation
+  difficulty: 2
+  question: >-
+    A ministry procedure (נוהל) limits visits to people in hospital detention wards. No law mentions
+    such limits. What is the first constitutional point?
+  options:
+    - A procedure cannot limit a protected right without express authorisation in a law.
+    - The procedure is valid because ministries may make internal rules freely.
+    - Detention wards are security matters, so no Basic Law applies.
+    - Visits are a privilege, so the only question is whether the procedure is reasonable.
+  correct: 0
+  explanation: >-
+    Section 8 allows a limit only "בחוק" or under a law "מכוח הסמכה מפורשת בו". A procedure with no
+    express statutory basis fails condition 1.
+- id: m03-023
+  module: 3
+  lesson: '03.2'
+  subject: express-authorisation
+  difficulty: 3
+  question: >-
+    A by-law limits street performers' hours, citing a section that lets the council regulate "use
+    of public spaces, including permitted activities and their times". How strong is an
+    express-authorisation argument?
+  options:
+    - Strong, because no by-law may ever limit a basic right.
+    - Strong, because the by-law limits expression, which needs a Basic Law.
+    - Weak, because the section expressly covers activities and their times.
+    - Weak, because municipal by-laws are not subject to the Basic Laws.
+  correct: 2
+  explanation: >-
+    The enabling words are specific about activities and times, so the stronger arguments are
+    proportionality ones. By-laws are subject to the Basic Laws (s. 11).
+- id: m03-024
+  module: 3
+  lesson: '03.2'
+  subject: security-forces
+  difficulty: 1
+  question: >-
+    Which section of Human Dignity and Liberty deals with limits on the rights of soldiers and
+    police officers?
+  options:
+    - Section 9.
+    - Section 10.
+    - Section 12.
+    - Section 1A.
+  correct: 0
+  explanation: >-
+    Section 9 allows limits only by law and only as the nature and character of the service require.
+    Section 10 preserves old law; s. 12 covers emergency regulations.
+- id: m03-025
+  module: 3
+  lesson: '03.2'
+  subject: emergency-regulations
+  difficulty: 2
+  question: >-
+    During a declared state of emergency, the government issues emergency regulations limiting
+    gatherings. What does s. 12 of Human Dignity and Liberty require?
+  options:
+    - Nothing; emergency regulations override the Basic Law entirely.
+    - Approval by 80 MKs before the regulations take effect.
+    - That the regulations be passed as a Basic Law within 48 hours.
+    - A proper purpose, and a period and extent no greater than necessary.
+  correct: 3
+  explanation: >-
+    Section 12 lets emergency regulations limit rights only during a declared emergency, for a
+    proper purpose and for a period and extent no greater than required.
+- id: m03-026
+  module: 3
+  lesson: '03.2'
+  subject: override-clause
+  difficulty: 2
+  question: Which Basic Law contains an override clause letting a law stand "notwithstanding" it?
+  options:
+    - Human Dignity and Liberty, in s. 8.
+    - Freedom of Occupation, in s. 8.
+    - The Judiciary, in s. 15.
+    - The Knesset, in s. 46.
+  correct: 1
+  explanation: >-
+    Only Freedom of Occupation s. 8 has such a clause, limited to four years and requiring 61 MKs.
+    Proposals to add one for Human Dignity and Liberty are part of the 2023–2026 debate.
+- id: m03-027
+  module: 3
+  lesson: '03.2'
+  subject: override-clause
+  difficulty: 3
+  question: >-
+    A law passed by 63 MKs says it is valid "notwithstanding Basic Law: Human Dignity and Liberty".
+    It fails the limitation clause. What is the likely legal position under the existing texts?
+  options:
+    - It is valid for four years, as under Freedom of Occupation s. 8.
+    - It is valid permanently, because a majority of all MKs passed it.
+    - It is still subject to s. 8, because that Basic Law has no override clause.
+    - It is valid until the next election, when it must be re-enacted.
+  correct: 2
+  explanation: >-
+    Human Dignity and Liberty contains no override mechanism, so a declaration in an ordinary law
+    does not exempt it from s. 8. Adding such a clause would need a Basic Law.
+- id: m03-028
+  module: 3
+  lesson: '03.2'
+  subject: remedies
+  difficulty: 2
+  question: >-
+    In Ressler v. Knesset (2012), the Court found the Tal Law unconstitutional. What did it do with
+    the law?
+  options:
+    - Let it run to its expiry and held it could not be extended in its form.
+    - Declared it void immediately and ordered all deferrals cancelled.
+    - Rewrote it to require service from every yeshiva student at 18.
+    - 'Referred it to a referendum under Basic Law: Referendum.'
+  correct: 0
+  explanation: >-
+    The law was due to expire months later; the Court let it run out and ruled that the Knesset
+    could not extend it in its existing form.
+- id: m03-029
+  module: 3
+  lesson: '03.2'
+  subject: remedies
+  difficulty: 1
+  question: What is a suspended declaration of invalidity?
+  options:
+    - A ruling that a law is valid until a further hearing is held.
+    - A ruling that a law is void, which takes effect only after a set period.
+    - A ruling that suspends the judges who decided a case.
+    - A Knesset decision to suspend a Basic Law during an emergency.
+  correct: 1
+  explanation: >-
+    The court declares the law void but delays the effect, to let the Knesset legislate, as in
+    Tzemach (six months).
+- id: m03-030
+  module: 3
+  lesson: '03.2'
+  subject: freedom-of-occupation
+  difficulty: 1
+  question: 'Who is protected by s. 3 of Basic Law: Freedom of Occupation?'
+  options:
+    - Every person present in Israel, including tourists.
+    - Only employees, not self-employed people.
+    - Only members of licensed professions.
+    - Every citizen or resident of the state.
+  correct: 3
+  explanation: Section 3 says "כל אזרח או תושב של המדינה" may engage in any occupation, profession or trade.
+- id: m03-031
+  module: 3
+  lesson: '03.2'
+  subject: two-stage-analysis
+  difficulty: 3
+  question: >-
+    A letter against a new fee for dog parks argues the fee is "disproportionate under the
+    limitation clause". Spot the mistake.
+  options:
+    - The letter should have cited Freedom of Occupation instead.
+    - The letter should have asked for an override clause.
+    - Fees can never be challenged once they are published in the gazette.
+    - 'It skips stage one: which protected right does the fee infringe?'
+  correct: 3
+  explanation: >-
+    Without showing an infringement of a protected right, the limitation clause does not apply. The
+    fee may still be challenged on administrative grounds, such as lack of authority (Module 4).
+- id: m03-032
+  module: 3
+  lesson: '03.2'
+  subject: hdl-rights
+  difficulty: 2
+  question: >-
+    Section 1A says the purpose of Human Dignity and Liberty is to anchor the values of Israel as
+    what kind of state?
+  options:
+    - A secular and liberal state.
+    - A Jewish and democratic state.
+    - A parliamentary and federal state.
+    - A welfare state.
+  correct: 1
+  explanation: >-
+    Section 1A refers to "ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית". The limitation clause asks
+    whether a law befits those values.
+- id: m03-033
+  module: 3
+  lesson: '03.2'
+  subject: hdl-rights
+  difficulty: 3
+  question: >-
+    A home-owners' group wants to challenge a law that expropriates land for a road. Which right do
+    they rely on, and what must they show first?
+  options:
+    - Freedom of occupation; that the new road will harm their local businesses.
+    - Privacy; that the new road will pass close to the windows of their homes.
+    - Property (s. 3); that the law takes or limits their property.
+    - Dignity; that the road was planned without first holding a local referendum.
+  correct: 2
+  explanation: >-
+    Section 3 says "אין פוגעים בקנינו של אדם". Stage one is showing the infringement; then the law
+    is tested under s. 8. A law from before 1992 is protected by s. 10.
+- id: m03-034
+  module: 3
+  lesson: '03.2'
+  subject: security-forces
+  difficulty: 3
+  question: >-
+    A prison officer's union objects to a regulation banning officers from posting on social media.
+    Which framework applies?
+  options:
+    - 'Section 9: limits only by law and as the nature of the service requires.'
+    - None; officers waive constitutional rights on appointment.
+    - Section 12, because prisons are run under emergency regulations.
+    - Freedom of Occupation s. 8, because officers are employees.
+  correct: 0
+  explanation: >-
+    The Prison Service is listed in s. 9. A limit must be "לפי חוק" and no more than the service's
+    nature requires, so both the source and the scope of the ban are open to question.
+- id: m03-035
+  module: 3
+  lesson: '03.3'
+  subject: proper-purpose
+  difficulty: 1
+  question: Where is the best place to find the stated purpose of a new law?
+  options:
+    - In the explanatory notes (דברי הסבר) and committee minutes.
+    - In newspaper columns written by MKs who voted against the law.
+    - In the Supreme Court's annual report on legislation and rulings.
+    - In the definitions section of the Interpretation Law, 1981.
+  correct: 0
+  explanation: >-
+    The explanatory notes to the bill and the committee minutes state what the law is for. Every
+    later proportionality test is measured against that purpose.
+- id: m03-036
+  module: 3
+  lesson: '03.3'
+  subject: proper-purpose
+  difficulty: 2
+  question: >-
+    A law limiting street fundraising states the purpose "protecting the public from fraud". You
+    think it is unwise. What is usually the best approach to the purpose test?
+  options:
+    - Argue the purpose is improper, since fundraising is a protected activity.
+    - Ignore the purpose and argue only that the law is unpopular.
+    - Concede the purpose is proper and focus on the later tests.
+    - Ask the court to choose a better purpose for the law.
+  correct: 2
+  explanation: >-
+    Courts rarely fail a law on purpose. Conceding a legitimate purpose builds credibility for the
+    tests where cases are usually decided.
+- id: m03-037
+  module: 3
+  lesson: '03.3'
+  subject: rational-connection
+  difficulty: 1
+  question: What does the rational connection test ask?
+  options:
+    - Whether the measure is the best possible option.
+    - Whether the measure actually advances its purpose.
+    - Whether the measure was passed by a rational majority.
+    - Whether the measure's benefit outweighs its harm.
+  correct: 1
+  explanation: >-
+    The measure need not be the best or only way, but there must be a real link between the means
+    and the purpose.
+- id: m03-038
+  module: 3
+  lesson: '03.3'
+  subject: rational-connection
+  difficulty: 2
+  question: >-
+    A law against littering bans all food trucks in a city, though data show most litter comes from
+    building sites. What does this show?
+  options:
+    - The law is under-inclusive and its link to the purpose is weak.
+    - The law is proportionate, because it covers a large group.
+    - The law fails the express-authorisation condition.
+    - The law is protected by s. 10 as an old law.
+  correct: 0
+  explanation: >-
+    It misses the main source of the problem and targets a minor one. That weakens the rational
+    connection and suggests less harmful, better-aimed measures.
+- id: m03-039
+  module: 3
+  lesson: '03.3'
+  subject: rational-connection
+  difficulty: 3
+  question: Under Ressler v. Knesset (2012), why did the Tal Law fail?
+  options:
+    - Its purpose of integrating yeshiva students was improper.
+    - It was passed without a majority of all MKs.
+    - It had no real potential to achieve its own purposes.
+    - It was older than Human Dignity and Liberty.
+  correct: 2
+  explanation: >-
+    The majority held the law violated equality as part of dignity and that its means lacked a real
+    potential to realise its purposes. The purpose itself was not the problem.
+- id: m03-040
+  module: 3
+  lesson: '03.3'
+  subject: least-harmful-means
+  difficulty: 1
+  question: What counts as a valid alternative at the least-harmful-means stage?
+  options:
+    - Any measure that harms the right less, however little it achieves.
+    - A measure that achieves the purpose about as well, with less harm.
+    - Repealing the law and doing nothing at all.
+    - A measure that the challenger would personally prefer.
+  correct: 1
+  explanation: >-
+    The alternative must achieve the purpose to a similar degree. A gentler option that achieves
+    much less does not show the measure is unnecessary.
+- id: m03-041
+  module: 3
+  lesson: '03.3'
+  subject: least-harmful-means
+  difficulty: 2
+  question: >-
+    A law allows indefinite closure of businesses that break health rules. Which alternative is best
+    framed for the necessity test?
+  options:
+    - Closure only until the violation is fixed, with a quick hearing.
+    - No closures at all, relying instead on the owners' goodwill and honesty.
+    - A public information campaign about health rules, with no enforcement.
+    - A permanent licence for every business, whatever its past health record.
+  correct: 0
+  explanation: >-
+    A time-limited closure with a hearing protects health almost as well and harms occupation far
+    less. The other options do not achieve the purpose.
+- id: m03-042
+  module: 3
+  lesson: '03.3'
+  subject: least-harmful-means
+  difficulty: 3
+  question: >-
+    The state argues that individual review of each case would be too costly, so a blanket rule is
+    necessary. How do courts usually treat this argument?
+  options:
+    - Cost always justifies a blanket rule, so the challenge must fail.
+    - Cost is irrelevant; the state must always choose individual review.
+    - Cost counts, but rarely justifies a sweeping limit on a core right.
+    - Cost can be argued only at the proper-purpose stage, never later.
+  correct: 2
+  explanation: >-
+    Saving money is a legitimate consideration, but as Miller and Academic Center show, budget
+    arguments alone rarely justify a sweeping limit on a core right.
+- id: m03-043
+  module: 3
+  lesson: '03.3'
+  subject: narrow-sense
+  difficulty: 1
+  question: What does proportionality in the narrow sense compare?
+  options:
+    - The measure's total cost with the state's annual budget for that ministry.
+    - The number of MKs who supported the law with the number who opposed it.
+    - The measure's text with what its explanatory notes promised it would do.
+    - The measure's marginal benefit with its marginal harm to the right.
+  correct: 3
+  explanation: >-
+    The test asks whether the extra benefit of this measure, over the next-best option, is worth its
+    extra harm to the right.
+- id: m03-044
+  module: 3
+  lesson: '03.3'
+  subject: narrow-sense
+  difficulty: 2
+  question: >-
+    In Academic Center of Law and Business (2009), what was the main public benefit the state
+    claimed for a privately run prison?
+  options:
+    - Better rehabilitation programmes for prisoners.
+    - Saving state money and easing overcrowding.
+    - Faster trials for detainees.
+    - Improved security at the borders.
+  correct: 1
+  explanation: >-
+    The state presented the law as a pilot to save money and relieve overcrowding. The majority held
+    the added harm to liberty and dignity was disproportionately greater.
+- id: m03-045
+  module: 3
+  lesson: '03.3'
+  subject: margin-of-proportionality
+  difficulty: 2
+  question: What is the "margin of proportionality" (מתחם המידתיות)?
+  options:
+    - The room the legislature has to choose among proportionate measures.
+    - The number of votes by which a law exceeds the majority it needed to pass.
+    - The time the Knesset is given to fix a law after a ruling against it.
+    - The minimum distance a demonstration must keep from a private home.
+  correct: 0
+  explanation: >-
+    Courts do not ask whether they would have chosen the same measure. They intervene only when the
+    measure falls outside the range of proportionate options.
+- id: m03-046
+  module: 3
+  lesson: '03.3'
+  subject: proportionality-cases
+  difficulty: 2
+  question: >-
+    In Gaza Coast Regional Council v. Knesset (2005), how did the Court rule on the disengagement
+    law?
+  options:
+    - It struck down the whole law as a disproportionate taking of property.
+    - It declined to hear the petitions as non-justiciable.
+    - It upheld the law 10–1 but struck down four compensation provisions.
+    - It suspended the law for six months to allow a referendum.
+  correct: 2
+  explanation: >-
+    The core of the law survived; parts of the compensation scheme did not and went back to the
+    Knesset. A common pattern in proportionality cases.
+- id: m03-047
+  module: 3
+  lesson: '03.3'
+  subject: proportionality-cases
+  difficulty: 3
+  question: >-
+    In Tzemach, the petitioners did not contest the purpose or the narrow-sense test. Which test
+    decided the case?
+  options:
+    - Rational connection, because arrest does not help discipline.
+    - Least harmful means, because a shorter period could serve the army.
+    - Proper purpose, because military discipline is not legitimate.
+    - Express authorisation, because the arrest was set by regulation.
+  correct: 1
+  explanation: >-
+    The dispute turned on whether 96 hours without a judge was needed. The Court held the provision
+    went further than the service required and suspended the declaration for six months.
+- id: m03-048
+  module: 3
+  lesson: '03.3'
+  subject: least-harmful-means
+  difficulty: 3
+  question: >-
+    Spot the mistake: a position paper says "the law is disproportionate because doing nothing would
+    harm nobody's rights".
+  options:
+    - Position papers may not discuss proportionality at all.
+    - Proportionality applies only to regulations, not laws.
+    - The paper should have argued the purpose is improper instead.
+    - '"Doing nothing" is not a less harmful means that achieves the purpose.'
+  correct: 3
+  explanation: >-
+    The comparison must be with a realistic alternative that achieves the purpose about as well, and
+    in the narrow sense, with the best such alternative.
+- id: m03-049
+  module: 3
+  lesson: '03.3'
+  subject: proportionality-cases
+  difficulty: 1
+  question: Which test do courts most rarely use to strike down a law?
+  options:
+    - Proper purpose.
+    - Least harmful means.
+    - Proportionality in the narrow sense.
+    - Rational connection.
+  correct: 0
+  explanation: >-
+    Most laws have a legitimate aim. Cases are usually decided at the later tests, where the
+    question is whether the measure goes further than needed.
+- id: m03-050
+  module: 3
+  lesson: '03.3'
+  subject: rational-connection
+  difficulty: 2
+  question: >-
+    A law bans anyone under 25 from driving at night to reduce accidents. Data show the risk is
+    concentrated in the first year of driving, at any age. What does this suggest?
+  options:
+    - The law is under-inclusive only, so it still passes every test.
+    - Age limits can never be rationally connected to road safety goals.
+    - It is over-inclusive; a first-year rule may serve the purpose better.
+    - Driving is not a protected right, so none of the tests apply at all.
+  correct: 2
+  explanation: >-
+    It catches experienced young drivers and misses new older ones. That weakens the link and points
+    to a less harmful alternative.
+- id: m03-051
+  module: 3
+  lesson: '03.3'
+  subject: narrow-sense
+  difficulty: 3
+  question: You must compare benefit and harm for a curfew on a protest site. What is the correct baseline?
+  options:
+    - The situation with no rules at all governing the site.
+    - Your best realistic alternative, such as quiet hours.
+    - The rules that applied to the site before the 1992 Basic Laws.
+    - The rules in whichever country has the strictest protest laws.
+  correct: 1
+  explanation: >-
+    The narrow-sense test weighs the marginal benefit and harm of the measure over the best
+    alternative, not over doing nothing.
+- id: m03-052
+  module: 3
+  lesson: '03.4'
+  subject: derived-rights
+  difficulty: 1
+  question: Through which written right have Israeli courts protected equality since 1992?
+  options:
+    - Freedom of occupation.
+    - Property.
+    - Human dignity.
+    - Personal liberty.
+  correct: 2
+  explanation: >-
+    Equality is not written in a Basic Law. Courts protect the parts of it closely tied to dignity
+    under s. 2 of Human Dignity and Liberty.
+- id: m03-053
+  module: 3
+  lesson: '03.4'
+  subject: derived-rights
+  difficulty: 2
+  question: Does the dignity route protect every possible aspect of equality and expression?
+  options:
+    - Yes; every distinction between people violates dignity.
+    - No; courts protect the aspects closely tied to human dignity.
+    - No; only aspects listed in the Declaration of Independence.
+    - Yes, but only for citizens, not residents.
+  correct: 1
+  explanation: >-
+    The courts read into dignity those parts of equality and speech closely tied to it, such as
+    humiliation or exclusion, not every distinction or every limit on speech.
+- id: m03-054
+  module: 3
+  lesson: '03.4'
+  subject: derived-rights
+  difficulty: 1
+  question: What role does the Declaration of Independence play in rights cases?
+  options:
+    - It guides interpretation; s. 1 of the Basic Law refers to it.
+    - It is itself a Basic Law that can void any later Knesset statute.
+    - It has no legal role at all, only historical and symbolic value.
+    - It binds the Knesset when legislating, but never the government.
+  correct: 0
+  explanation: >-
+    The Declaration is not itself a law that voids statutes, but s. 1 of Human Dignity and Liberty
+    says rights are honoured in the spirit of its principles, and courts use it to interpret.
+- id: m03-055
+  module: 3
+  lesson: '03.4'
+  subject: equality
+  difficulty: 1
+  question: What is the basic equality test courts apply?
+  options:
+    - Everyone must receive exactly the same benefits.
+    - Majority groups may be treated differently from minorities.
+    - Any distinction approved by a minister is lawful.
+    - People alike in the relevant respect must be treated alike.
+  correct: 3
+  explanation: >-
+    Discrimination is a distinction based on a difference that is irrelevant to the purpose.
+    Treating relevantly different people differently can be lawful.
+- id: m03-056
+  module: 3
+  lesson: '03.4'
+  subject: equality
+  difficulty: 2
+  question: >-
+    In Miller (1995), the air force argued that training women pilots was not cost-effective. How
+    did the majority respond?
+  options:
+    - Budget and planning concerns did not justify excluding all women.
+    - The army may decide freely, so the Court would not intervene.
+    - Cost is a proper consideration that settled the case for the army.
+    - Women may train only if they commit to serve until 54.
+  correct: 0
+  explanation: >-
+    The 3–2 majority held that a blanket exclusion of women was not justified by cost and planning
+    considerations; the minority would not have intervened.
+- id: m03-057
+  module: 3
+  lesson: '03.4'
+  subject: equality
+  difficulty: 2
+  question: >-
+    In Ka'adan (2000), the state argued that the Jewish Agency, not the state, decided who could
+    live in Katzir. What did the Court hold?
+  options:
+    - The Agency is a private body, so equality rules simply do not apply to it.
+    - The state may not discriminate in land, directly or through others.
+    - The couple must be given a plot immediately, whatever the cost to others.
+    - The case was moot because the couple had meanwhile moved to another town.
+  correct: 1
+  explanation: >-
+    Routing state land through the Agency did not make discrimination lawful. The Court told the
+    state to reconsider the couple's request on the basis of equality.
+- id: m03-058
+  module: 3
+  lesson: '03.4'
+  subject: equality
+  difficulty: 3
+  question: >-
+    A religious women's group wants to be represented on a municipal committee on mikveh management.
+    The council says "women have never sat on it". Which argument is strongest?
+  options:
+    - Religious matters are outside the Basic Laws, so only the rabbinate decides.
+    - The group should first petition the Chief Rabbinate Council.
+    - Under Shakdiel, tradition alone does not justify excluding women from a public body.
+    - The committee must be abolished because religion and state are separate.
+  correct: 2
+  explanation: >-
+    Shakdiel held that excluding a woman from a religious council because of past practice was
+    discrimination; the council is an administrative body bound by general law.
+- id: m03-059
+  module: 3
+  lesson: '03.4'
+  subject: nation-state-law
+  difficulty: 2
+  question: >-
+    Which section of the Nation-State Basic Law did Justice Karra, in dissent, NOT propose to strike
+    down?
+  options:
+    - Section 1(ג), on national self-determination.
+    - Section 4, on language.
+    - Section 7, on Jewish settlement.
+    - Section 2, on the flag and anthem.
+  correct: 3
+  explanation: Karra J. would have annulled ss. 1(ג), 4 and 7. The majority of ten rejected all the petitions.
+- id: m03-060
+  module: 3
+  lesson: '03.4'
+  subject: nation-state-law
+  difficulty: 3
+  question: >-
+    A municipality cites s. 7 of the Nation-State Law to refuse an Arab family a plot in a publicly
+    marketed neighbourhood. What does Hasson suggest about this use?
+  options:
+    - Section 7 allows any public authority to prefer Jewish buyers in all land sales.
+    - The majority kept equality as a case-law right; s. 7 is no licence for this.
+    - Section 7 was struck down by the Court in 2021 and so no longer applies at all.
+    - The family must first challenge the Basic Law itself, before the decision.
+  correct: 1
+  explanation: >-
+    The majority read the law as consistent with the existing right to equality. Ka'adan remains
+    good law for state land. Check any later rulings before relying on this.
+- id: m03-061
+  module: 3
+  lesson: '03.4'
+  subject: expression
+  difficulty: 1
+  question: Which early ruling set the near-certainty test for limiting speech?
+  options:
+    - Kol Ha'am (1953).
+    - Bergman (1969).
+    - Horev (1997).
+    - Ragen (2011).
+  correct: 0
+  explanation: >-
+    Kol Ha'am held the minister could suspend a newspaper only if publication made harm to public
+    peace nearly certain, not merely possible.
+- id: m03-062
+  module: 3
+  lesson: '03.4'
+  subject: expression
+  difficulty: 2
+  question: >-
+    A council removes a billboard criticising the mayor, saying "it might upset some residents".
+    Which test should frame your letter?
+  options:
+    - Whether the message on the billboard can be proven true in court.
+    - Whether serious harm is nearly certain; upset feelings are not enough.
+    - Whether the billboard's content was first approved by the Knesset.
+    - Whether the mayor gave written consent to being criticised publicly.
+  correct: 1
+  explanation: >-
+    Limits on expression need a high probability of serious harm. Offence or discomfort is not the
+    kind of harm that justifies removing political speech.
+- id: m03-063
+  module: 3
+  lesson: '03.4'
+  subject: religion
+  difficulty: 1
+  question: According to Horev, how should an authority treat religious feelings?
+  options:
+    - As an absolute right that overrides all other interests and rights.
+    - As an irrelevant consideration that a secular state must ignore.
+    - As relevant only on Sabbaths and Jewish holidays, never otherwise.
+    - As a legitimate consideration, balanced against other rights.
+  correct: 3
+  explanation: >-
+    Horev held religious feelings may be considered, but not to the point of coercion; they are
+    weighed against rights such as freedom of movement.
+- id: m03-064
+  module: 3
+  lesson: '03.4'
+  subject: religion
+  difficulty: 2
+  question: In Horev, why did the Court find fault with the decision to close Bar-Ilan Street?
+  options:
+    - Religious feelings may never justify closing any road to traffic.
+    - The minister had no power at all to close any road in Jerusalem.
+    - It had not properly weighed the secular residents' interests.
+    - The closure had not first been approved by the city council.
+  correct: 2
+  explanation: >-
+    The majority accepted religious feelings as a legitimate consideration but held the decision did
+    not give proper weight to the secular residents affected. Some dissenters doubted the power
+    itself.
+- id: m03-065
+  module: 3
+  lesson: '03.4'
+  subject: religion
+  difficulty: 2
+  question: Under Ragen, which bus arrangement is lawful?
+  options:
+    - Passengers choosing to sit apart, with no pressure on others.
+    - A sign at the front asking women to board by the rear door.
+    - A driver asking women to move back when a man complains.
+    - Separate buses for men and women, run by the operator itself.
+  correct: 0
+  explanation: >-
+    Voluntary separation among passengers is allowed. Any instruction or pressure from the operator
+    or others is coercion and unlawful.
+- id: m03-066
+  module: 3
+  lesson: '03.4'
+  subject: religion
+  difficulty: 3
+  question: >-
+    A municipality funds a lecture series in a public library with a separate seating area for
+    women, at the request of the audience. What is the deciding question under the case law?
+  options:
+    - Whether most of the city's residents are religiously observant.
+    - Whether seating is voluntary, with an open area and no enforcement.
+    - Whether the lecturer is an ordained rabbi or a university scholar.
+    - Whether the library building was built before the 1992 Basic Laws.
+  correct: 1
+  explanation: >-
+    Ragen turns on voluntary choice versus coercion. An open area, no enforcement and equal
+    conditions point to lawfulness; directing women where to sit points the other way.
+- id: m03-067
+  module: 3
+  lesson: '03.4'
+  subject: protest
+  difficulty: 1
+  question: Under Levi (1984), what must police do before banning a lawful demonstration?
+  options:
+    - Consult the Attorney General's office and obtain written approval.
+    - Ask the organisers to pay in advance for the police security needed.
+    - Wait for a court order before refusing or changing the licence.
+    - Try to protect it first; a ban is the last resort.
+  correct: 3
+  explanation: >-
+    Levi held police must take reasonable steps to protect demonstrators and consider changes of
+    place, time or scope before refusing a licence.
+- id: m03-068
+  module: 3
+  lesson: '03.4'
+  subject: protest
+  difficulty: 2
+  question: Under Majority Camp (2006), which condition may the police generally NOT impose on organisers?
+  options:
+    - Keeping an ambulance and a fire engine on standby nearby.
+    - Paying for police security and public order.
+    - Following a route agreed in advance with the district police.
+    - Ending the march and dispersing by a fixed time that evening.
+  correct: 1
+  explanation: >-
+    The Court held the police may not shift the cost of security onto demonstrators, which would put
+    a price tag on a constitutional right. Emergency services can be a condition.
+- id: m03-069
+  module: 3
+  lesson: '03.4'
+  subject: protest
+  difficulty: 3
+  question: >-
+    Two groups, one for and one against a government policy, ask to demonstrate at the same square
+    on the same evening. Police want to ban both. What approach fits the case law?
+  options:
+    - Ban both, because any risk of confrontation justifies it.
+    - Allow only the group that applied first and ban the other.
+    - Separate them in place or time before considering any ban.
+    - Allow both only if they pay for separating fences.
+  correct: 2
+  explanation: >-
+    Levi requires less drastic means first: changing place, time or scope. Majority Camp bars
+    charging for security. The same rules apply to both groups.
+- id: m03-070
+  module: 3
+  lesson: '03.4'
+  subject: derived-rights
+  difficulty: 3
+  question: >-
+    Spot the mistake in this sentence from a petition: "Under Basic Law: Freedom of Expression, the
+    ban is void."
+  options:
+    - No such Basic Law exists; cite dignity (s. 2) and the rulings.
+    - 'Expression is protected only by Basic Law: Freedom of Occupation.'
+    - A ban on speech can be reviewed only on grounds of reasonableness.
+    - Petitions may cite only ordinary statutes, never the Basic Laws.
+  correct: 0
+  explanation: >-
+    Expression is a derived right. Cite Human Dignity and Liberty s. 2 as interpreted by the courts,
+    and the test from Kol Ha'am and later rulings.
+- id: m03-071
+  module: 3
+  lesson: '03.4'
+  subject: equality
+  difficulty: 2
+  question: >-
+    Which ruling applied equality to the burden of military service between yeshiva students and
+    others?
+  options:
+    - Horev v. Minister of Transportation.
+    - Levi v. Southern District Police Commander.
+    - Commitment to Peace and Social Justice.
+    - Ressler v. Knesset.
+  correct: 3
+  explanation: >-
+    Ressler v. Knesset (2012) held 6–3 that the Tal Law violated equality as part of dignity and
+    failed proportionality.
+- id: m03-072
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 1
+  question: Before Amendment No. 4 takes effect, who sits on the Judicial Selection Committee?
+  options:
+    - Three justices, two ministers, two MKs and two Bar members.
+    - Five Supreme Court justices and four ministers chosen by the cabinet.
+    - Three justices, three ministers and three MKs from the coalition.
+    - Nine MKs elected by the Knesset plenum, by secret ballot each term.
+  correct: 0
+  explanation: >-
+    Section 4(b) sets nine members: the Supreme Court President and two justices, the Justice
+    Minister and another minister, two MKs and two Bar representatives.
+- id: m03-073
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 1
+  question: 'When does Amendment No. 4 to Basic Law: The Judiciary take effect, according to its text?'
+  options:
+    - Immediately on publication in March 2025.
+    - From the start of the 26th Knesset's term.
+    - Only after approval in a referendum.
+    - On 1 January 2027, with the Attorney General law.
+  correct: 1
+  explanation: >-
+    Each new provision is marked "החל מיום תחילת כהונתה של הכנסת העשרים ושש" — from the start of the
+    26th Knesset.
+- id: m03-074
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 2
+  question: >-
+    Under the amended s. 4(d), what majority does the committee need to appoint a district-court
+    judge?
+  options:
+    - Seven of the nine members, including at least two of the justices.
+    - A simple majority of whichever members are present at the meeting.
+    - Five, including a judge and one member from each bloc.
+    - All nine members, unanimously, after a public hearing on candidates.
+  correct: 2
+  explanation: >-
+    Section 4(d) requires five members including one from each of three groups: a judge; a minister
+    or coalition-side member; an opposition-side member.
+- id: m03-075
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 2
+  question: What does the new s. 4A provide?
+  options:
+    - A deadlock procedure for two empty Supreme Court seats.
+    - A ban on any serving judge sitting on the selection committee at all.
+    - Direct election of Supreme Court justices by the public at large.
+    - A right for the President of the State to veto any appointment made.
+  correct: 0
+  explanation: >-
+    If two seats stay empty for a year and a vote fails, the Justice Minister may trigger a
+    procedure where each side proposes three candidates and the rest of the committee picks one.
+- id: m03-076
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 3
+  question: >-
+    A columnist writes that "under the new law, judges can be appointed on the eve of elections".
+    What does s. 4B say?
+  options:
+    - Appointments remain allowed right up until election day itself.
+    - Appointments in an election year must be approved by referendum.
+    - Appointments in the months before elections need 80 MKs to approve.
+    - No selections from 90 days before elections until new members sit.
+  correct: 3
+  explanation: >-
+    Section 4B freezes selection of judges from the 90th day before Knesset elections (or other
+    triggers of elections) until new committee members are chosen.
+- id: m03-077
+  module: 3
+  lesson: '03.5'
+  subject: review-of-basic-laws
+  difficulty: 2
+  question: What is an "unconstitutional constitutional amendment" argument?
+  options:
+    - That a ministerial regulation conflicts with the statute it is made under.
+    - That a Basic Law change so harms democracy that a court may intervene.
+    - That a law passed without an explanatory note is void from the start.
+    - That a Basic Law must be signed by the President of the State to be valid.
+  correct: 1
+  explanation: >-
+    It is the doctrine behind the Judicial Selection petitions: a Basic Law change may itself be
+    reviewed in extreme cases. The Knesset and government dispute that the Court has such power.
+- id: m03-078
+  module: 3
+  lesson: '03.5'
+  subject: review-of-basic-laws
+  difficulty: 3
+  question: >-
+    You must state the case for the view that courts may not review Basic Laws, in its strongest
+    form. Which sentence does that?
+  options:
+    - '"Judges are biased, and so their rulings should simply be ignored by all."'
+    - '"The Court lost all its authority when it annulled the reasonableness amendment."'
+    - '"No Basic Law grants that power or sets how Basic Laws are made."'
+    - '"The Basic Laws were written by the Court, so they cannot bind the Knesset."'
+  correct: 2
+  explanation: >-
+    This is the argument dissenting Justices Sohlberg and Mintz and critics of review make, stated
+    without insult. The other options are slogans or factually wrong.
+- id: m03-079
+  module: 3
+  lesson: '03.5'
+  subject: attorney-general
+  difficulty: 1
+  question: What did the High Court decide on 14 December 2025 about the Attorney General?
+  options:
+    - It voided the new procedure and her dismissal, 7–0.
+    - It upheld her dismissal by a majority of four votes to three.
+    - It held that cabinet decisions are not subject to judicial review.
+    - It ordered the cabinet to hold new elections for the post.
+  correct: 0
+  explanation: >-
+    A seven-justice panel, opinion by President Amit, held the procedure was adopted without a sound
+    basis and voided the dismissal; she remained in office.
+- id: m03-080
+  module: 3
+  lesson: '03.5'
+  subject: attorney-general
+  difficulty: 2
+  question: What is the legal status of the July 2026 law on the Attorney General's powers?
+  options:
+    - A Basic Law amendment that took effect immediately on publication.
+    - A government resolution adopted by the cabinet, not a Knesset law.
+    - A bill that failed to pass its third reading before the dissolution.
+    - An ordinary law, in force from 2027, under challenge.
+  correct: 3
+  explanation: >-
+    It passed 65–51 as an ordinary law, takes effect on 1.1.2027, and petitions were filed by MQG,
+    ACRI and others. Check its status before relying on this.
+- id: m03-081
+  module: 3
+  lesson: '03.5'
+  subject: ripeness
+  difficulty: 2
+  question: >-
+    Why did the state argue in June 2026 that the court should wait before deciding on Amendment No.
+    4?
+  options:
+    - Because the petitioners had not paid the required court fee on time.
+    - Because the law does not yet apply and a new Knesset could change it.
+    - Because Basic Laws may be reviewed only ten years after they are passed.
+    - Because the Bar Association had withdrawn its petition before the hearing.
+  correct: 1
+  explanation: >-
+    That is a ripeness argument. President Amit asked what difference it makes which Knesset is in
+    office if the law is problematic; the AG's representative also rejected it.
+- id: m03-082
+  module: 3
+  lesson: '03.5'
+  subject: status-check
+  difficulty: 1
+  question: >-
+    Where can you check, for free, whether the Supreme Court has ruled on the Judicial Selection
+    petitions?
+  options:
+    - Nevo's case-law pages, which list all new judgments first.
+    - The Knesset's legislation database, which records court rulings.
+    - The free Supreme Court judgment search, and the news.
+    - The Bar Association's members-only site, after registering.
+  correct: 2
+  explanation: >-
+    supremedecisions.court.gov.il is free; news reports give the date and vote. Nevo case-law pages
+    are paid, and the Knesset database tracks bills, not rulings.
+- id: m03-083
+  module: 3
+  lesson: '03.5'
+  subject: neutral-writing
+  difficulty: 2
+  question: Which phrase keeps a briefing on the 2025 amendment neutral in your own voice?
+  options:
+    - '"Amendment No. 4 to Basic Law: The Judiciary".'
+    - '"The regime-change law that ends the courts".'
+    - '"The long-awaited judicial reform of the people".'
+    - '"The dictatorship law of the current coalition".'
+  correct: 0
+  explanation: >-
+    Name the law by its title. Each side's label may be quoted and attributed, but not used in your
+    own voice.
+- id: m03-084
+  module: 3
+  lesson: '03.5'
+  subject: neutral-writing
+  difficulty: 3
+  question: >-
+    A draft says: "The Court ruled in June 2026 that the law endangers judicial independence, as
+    Justice Stein said." What is wrong?
+  options:
+    - Justice Stein is not a member of the Supreme Court.
+    - The hearing was in 2025, not 2026.
+    - Nothing; a justice's statement is a ruling of the Court.
+    - It reports a justice's question at a hearing as a ruling.
+  correct: 3
+  explanation: >-
+    On 21 June 2026 the justices heard the petitions and asked questions. No ruling had been found
+    by 12 October 2026. Separate hearings from judgments.
+- id: m03-085
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 2
+  question: >-
+    What reason did the Knesset give in July 2026 for lowering the Supreme Court selection threshold
+    from seven votes to five?
+  options:
+    - It speeds up appointments during wartime and other emergencies.
+    - It ends the justices' effective veto over their colleagues.
+    - It was required by an express Supreme Court ruling in 2024.
+    - It brings Israel in line with a recommendation of the UN.
+  correct: 1
+  explanation: >-
+    The Knesset's supplementary brief said the change ends the justices' effective veto. Petitioners
+    reply that it gives each political bloc a veto and risks paralysis.
+- id: m03-086
+  module: 3
+  lesson: '03.5'
+  subject: review-of-basic-laws
+  difficulty: 1
+  question: >-
+    In HCJ 5658/23 (1 January 2024), how many of the 15 justices held that Basic Laws can be
+    reviewed in extreme cases, according to the official abstract?
+  options:
+    - '8.'
+    - '15.'
+    - '12.'
+    - '3.'
+  correct: 2
+  explanation: >-
+    Twelve of fifteen accepted review in extreme cases; eight voted to annul the reasonableness
+    amendment. Some news reports count 13 (lesson 04.3).
+- id: m03-087
+  module: 3
+  lesson: '03.5'
+  subject: judicial-selection
+  difficulty: 3
+  question: >-
+    A petition-watcher asks: if the Court has not ruled by the time the 26th Knesset begins its
+    term, what happens to Amendment No. 4?
+  options:
+    - It lapses automatically and must be passed again.
+    - It takes effect, subject to any later ruling.
+    - It is frozen until a referendum is held.
+    - It applies only to Supreme Court appointments.
+  correct: 1
+  explanation: >-
+    The text says it applies from the start of the 26th Knesset's term. A later ruling could still
+    change that; check the status at the time.
+- id: m03-088
+  module: 3
+  lesson: '03.5'
+  subject: neutral-writing
+  difficulty: 2
+  question: Which source should you use to describe who sits on the new Judicial Selection Committee?
+  options:
+    - An opposition party's campaign leaflet.
+    - A coalition minister's social-media post.
+    - A friend's summary in a WhatsApp group.
+    - 'The Hebrew text of Basic Law: The Judiciary s. 4.'
+  correct: 3
+  explanation: >-
+    Describe a law from its own text. Political statements are useful as attributed positions, not
+    as descriptions of what the law says.
 - id: m04-001
   module: 4
   lesson: '04.1'

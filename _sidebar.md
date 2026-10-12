@@ -23,6 +23,13 @@
   - [11 · Writing a Formal Letter to an Authority](lessons/module-02/lesson-05.md)
   - [12 · Affidavits](lessons/module-02/lesson-06.md)
   - [Module 2 quiz](assessments/module-02-quiz.md)
+- **Module 3 — Constitutional Law and Basic Laws (about 11 hours)**
+  - [13 · A Constitution Built from Basic Laws](lessons/module-03/lesson-01.md)
+  - [14 · Basic Law: Human Dignity and Liberty and the Limitation Clause](lessons/module-03/lesson-02.md)
+  - [15 · Proportionality Step by Step](lessons/module-03/lesson-03.md)
+  - [16 · Rights the Courts Derived: Equality, Expression, Religion, Protest](lessons/module-03/lesson-04.md)
+  - [17 · Judicial Review and the 2023–2026 Constitutional Dispute](lessons/module-03/lesson-05.md)
+  - [Module 3 quiz](assessments/module-03-quiz.md)
 
 - Stage 2 — Public Law Toolbox
 - **Module 4 — Administrative Law Principles (about 11 hours)**

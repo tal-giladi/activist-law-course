@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A law bars everyone with any criminal record from working as a school bus driver, to protect
+    children. Most records are for minor traffic or tax offences. Which test is the law most
+    exposed on?
+  options:
+    - >-
+      Proper purpose, because protecting children is not a legitimate aim for a law on drivers.
+    - >-
+      Least harmful means, because a bar limited to relevant offences would protect children almost as well.
+    - >-
+      Express authorisation, because the bar is written in a law rather than in a regulation.
+    - >-
+      None of the tests, because occupational licensing is outside the Basic Laws.
+  correct: 1
+  explanation: >-
+    The purpose is proper and the bar is rationally connected, but it is over-inclusive. A narrower
+    bar for relevant offences, or individual review, achieves the purpose nearly as well with less harm.
+- id: q2
+  question: >-
+    You argue that a blanket 24-hour ban on a type of protest is disproportionate. Your proposed
+    alternative is "an awareness campaign asking protesters to keep the noise down". What is the
+    weakness?
+  options:
+    - >-
+      The alternative is too specific; courts prefer general claims of excessiveness.
+    - >-
+      Alternatives are relevant only in the narrow-sense test, not in the necessity test.
+    - >-
+      A campaign is a legal measure, so it cannot be compared with a statute.
+    - >-
+      It does not achieve the purpose almost as well, so it is not a real less harmful alternative.
+  correct: 3
+  explanation: >-
+    The least-harmful-means test asks for a measure that achieves the purpose to about the same
+    degree. Quiet hours or a volume limit qualify; a voluntary appeal probably does not.
+- id: q3
+  question: >-
+    In Academic Center of Law and Business (2009), the Court struck down the private prison law.
+    At which stage, and on what reasoning?
+  options:
+    - >-
+      Narrow sense: the extra harm to liberty and dignity outweighed the extra benefit of saving money.
+    - >-
+      Proper purpose: saving state money can never justify any law that affects prisoners.
+    - >-
+      Rational connection: the state could not show that private prisons save any money at all.
+    - >-
+      Express authorisation: the prisons law did not expressly allow private operators.
+  correct: 0
+  explanation: >-
+    The majority (8–1) held that handing the power to imprison to a profit-making company caused
+    additional harm disproportionately greater than the additional public benefit.
+- id: q4
+  question: >-
+    A measure is temporary, narrow, based on solid data, and the only alternatives achieve much
+    less. You still oppose it on policy grounds. What is the honest constitutional assessment?
+  options:
+    - >-
+      It fails proportionality because any infringement of a right is disproportionate.
+    - >-
+      It fails rational connection because you disagree with the policy behind it.
+    - >-
+      It is probably within the margin of proportionality; use the political process instead.
+    - >-
+      It cannot be assessed until the Knesset passes a Basic Law on legislation.
+  correct: 2
+  explanation: >-
+    Courts leave the legislature a margin and intervene only outside it. A well-supported, narrow,
+    temporary measure usually passes; disagreement belongs in the Knesset and public debate.

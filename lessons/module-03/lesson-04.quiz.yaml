@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A regional council refuses a licence for a march by settlers protesting a planned evacuation,
+    saying "a similar march last year ended in scuffles". It has no other information. Under Levi
+    (1984), what is the strongest response?
+  options:
+    - >-
+      Past events alone are not enough; the police must first consider protecting the march.
+    - >-
+      Settlers' marches are political, so they are protected only inside settlements.
+    - >-
+      The council may refuse, because any risk of scuffles justifies a refusal.
+    - >-
+      Ask the council to charge the organisers for extra police so the march can go ahead.
+  correct: 0
+  explanation: >-
+    Levi held that conjecture and apprehension do not justify a ban; physical protection comes
+    first and a ban is the last resort. Majority Camp (2006) bars charging demonstrators for security.
+- id: q2
+  question: >-
+    A municipal sports club funded by the city refuses to let a qualified woman coach the boys'
+    team "because it has never been done". Which ruling is the closest precedent?
+  options:
+    - >-
+      Horev, because the refusal reflects the religious feelings of some residents.
+    - >-
+      Kol Ha'am, because hiring decisions are a form of expression.
+    - >-
+      Shakdiel: tradition alone cannot justify excluding a woman.
+    - >-
+      Hasson, because the Nation-State Law regulates public employment.
+  correct: 2
+  explanation: >-
+    In Shakdiel the exclusion of a woman from a religious council, based on a long tradition, was
+    held to be discrimination on an irrelevant ground. Miller applies the same idea to cost arguments.
+- id: q3
+  question: >-
+    A bus company on a route used mainly by Haredi passengers posts signs: "Women board at the rear
+    and sit at the back." What is the legal position under Ragen?
+  options:
+    - >-
+      Lawful, because the company is respecting the religious feelings of most passengers.
+    - >-
+      Lawful if the Ministry of Transport approved the signs in advance.
+    - >-
+      Unlawful only if a passenger files a police complaint about harassment.
+    - >-
+      Unlawful: the operator may not tell women where to sit.
+  correct: 3
+  explanation: >-
+    Ragen held that coerced or dictated separation is unlawful. Passengers may choose to separate
+    themselves voluntarily, without pressure on others; signs that tell women where to sit are coercion.
+- id: q4
+  question: >-
+    An activist writes that "after the Nation-State Law, equality is no longer a protected right in
+    Israel". What did HCJ 5555/18 (Hasson) hold?
+  options:
+    - >-
+      The Court struck down the Nation-State Law because it omits equality.
+    - >-
+      The majority held the right to equality remains protected by case law; Karra J. dissented.
+    - >-
+      The Court held that equality is now protected only for citizens who serve in the army.
+    - >-
+      The Court declined to hear the case because Basic Laws can never be reviewed.
+  correct: 1
+  explanation: >-
+    The 11-justice panel rejected the petitions 10–1. The majority held the law does not negate the
+    Jewish and democratic character of the state and that equality remains a case-law right.

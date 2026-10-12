@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    A bill would let lists already in the Knesset get campaign funding a year before new lists do.
+    It passed its first reading 40 to 30. What is the strongest constitutional point to raise now?
+  options:
+    - >-
+      The bill limits freedom of occupation, so it needs a Basic Law passed by 61 MKs.
+    - >-
+      Any bill on elections must first be approved in a referendum under the 2014 Basic Law.
+    - >-
+      It may change the entrenched "equal" elections rule, which needs 61 MKs in every reading.
+    - >-
+      Elections are not justiciable, so the only route is to lobby the Central Elections Committee.
+  correct: 2
+  explanation: >-
+    Basic Law: The Knesset s. 4 requires equal elections and may be changed only by a majority of all
+    MKs; s. 46 applies that majority to every reading. Bergman (1969) held unequal funding of lists
+    breaches it.
+- id: q2
+  question: >-
+    A blogger writes that "the Knesset can amend Basic Law: Human Dignity and Liberty only with 61
+    votes". You check the text. What do you find?
+  options:
+    - >-
+      Correct: s. 8 sets a 61-vote requirement for any change to the law.
+    - >-
+      Wrong: the law has no entrenchment clause, unlike Basic Law: Freedom of Occupation s. 7.
+    - >-
+      Correct: every Basic Law is entrenched by the Harari decision of 1950.
+    - >-
+      Wrong: it can be changed only by 80 MKs, as in Basic Law: The Knesset s. 45.
+  correct: 1
+  explanation: >-
+    Human Dignity and Liberty has a limitation clause (s. 8) and a protection against emergency
+    regulations (s. 12), but no special-majority clause. Freedom of Occupation s. 7 does have one.
+- id: q3
+  question: >-
+    In a debate, you want to state accurately why Mizrahi Bank held that Basic Laws outrank ordinary
+    laws. Which statement is correct?
+  options:
+    - >-
+      Barak P. saw the Knesset as also a constituent authority; other judges used other routes and
+      Cheshin J. rejected it.
+    - >-
+      All nine judges agreed that the Knesset is a constituent authority, so the reasoning is
+      settled and no judge took a different view.
+    - >-
+      The Court relied on the Harari decision, which it read as making every chapter supreme from
+      the day the Knesset adopted it.
+    - >-
+      The Court relied on an entrenchment clause in Basic Law: Human Dignity and Liberty requiring
+      a special majority for later laws.
+  correct: 0
+  explanation: >-
+    The result had broad support, but the reasons differed: Barak's constituent-authority theory,
+    Shamgar's unlimited-sovereignty theory, and Cheshin's rejection of constituent power.
+- id: q4
+  question: >-
+    Which description best fits the difference between Bergman (1969) and Mizrahi Bank (1995)?
+  options:
+    - >-
+      Bergman voided a law for breaching a right; Mizrahi Bank only enforced a voting majority.
+    - >-
+      Both cases enforced only entrenchment clauses; neither reviewed the content of a law.
+    - >-
+      Bergman was about a regulation, while Mizrahi Bank was about a Basic Law amendment.
+    - >-
+      Bergman enforced a special-majority rule; Mizrahi Bank allowed review of a law's content.
+  correct: 3
+  explanation: >-
+    In Bergman the Knesset could cure the defect with 61 votes. Mizrahi Bank recognised review of
+    whether a law's content meets a limitation clause, whatever the majority behind it.

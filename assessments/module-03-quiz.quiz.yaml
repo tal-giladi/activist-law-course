@@ -1,0 +1,171 @@
+- id: q1
+  question: >-
+    A minister's regulation, made under a general power "to regulate the tourism industry", bars
+    anyone without a 300-hour course from working as a tour guide. A guide asks which argument to
+    lead with.
+  options:
+    - >-
+      The course is too long, so the regulation fails the narrow-sense test.
+    - >-
+      The regulation limits freedom of occupation without express authorisation in a law.
+    - >-
+      Tourism is a security matter, so s. 9 of Human Dignity and Liberty applies.
+    - >-
+      Tour guiding is expression, so the near-certainty test of Kol Ha'am applies.
+  correct: 1
+  explanation: >-
+    A limit on freedom of occupation must be in a law or under express authorisation in one (s. 4).
+    A general power to regulate an industry is the first weak point to test.
+- id: q2
+  question: >-
+    A bill would let only parties already in the Knesset use public halls for election rallies.
+    It passed its second reading 50 to 40. What is the constitutional problem?
+  options:
+    - >-
+      It changes the entrenched "equal" elections clause without a majority of all MKs.
+    - >-
+      It must be approved in a referendum under Basic Law: Referendum.
+    - >-
+      It violates the override clause in Basic Law: Freedom of Occupation.
+    - >-
+      Election laws must be made as Basic Laws, so an ordinary bill is void.
+  correct: 0
+  explanation: >-
+    Basic Law: The Knesset s. 4 requires equal elections and may be changed only by 61 MKs, in every
+    reading (s. 46). Bergman (1969) treated unequal treatment of lists as such a change.
+- id: q3
+  question: >-
+    A disability group challenges a 1985 law that limits where people with certain conditions may
+    live. They want to argue under Human Dignity and Liberty. What should they expect?
+  options:
+    - >-
+      The law is void, because every law that limits dignity must meet s. 8.
+    - >-
+      The law is valid only if it was re-enacted with an override clause after 1992.
+    - >-
+      Section 10 protects the law, so they should argue for a narrow reading in its spirit.
+    - >-
+      The Basic Law does not apply to housing, so they must use Freedom of Occupation.
+  correct: 2
+  explanation: >-
+    Section 10 preserves the validity of law existing before the Basic Law. The Basic Law still
+    guides interpretation, so a narrow, rights-friendly reading is the realistic route.
+- id: q4
+  question: >-
+    A law forces all small shops in an area to close at 18:00 to reduce crime. Police data show the
+    crime happens after 23:00 near three bars. Which test is the law most exposed on?
+  options:
+    - >-
+      Proper purpose, because reducing crime is not a legitimate aim of a law on shops.
+    - >-
+      Express authorisation, because the closing time is set in a law, not a regulation.
+    - >-
+      None, because laws about opening hours are within the Knesset's unlimited margin.
+    - >-
+      Rational connection and least harmful means, because it is over-inclusive and misses the problem.
+  correct: 3
+  explanation: >-
+    The data show a weak link between early closing and the late-night crime, and a narrower
+    measure aimed at the bars would serve the purpose with far less harm to occupation.
+- id: q5
+  question: >-
+    A city refuses to fund a cultural event of an Arab community association while funding similar
+    events of other groups, with no stated criteria. Which line of rulings fits best?
+  options:
+    - >-
+      Horev and Ragen, because the dispute is about religious feelings and coercion.
+    - >-
+      Equality as part of dignity: Shakdiel and Ka'adan on irrelevant distinctions.
+    - >-
+      Levi and Majority Camp, because the funding decision is about demonstrations.
+    - >-
+      Bergman, because equality in funding is an entrenched election principle.
+  correct: 1
+  explanation: >-
+    Treating alike groups differently on an irrelevant ground is discrimination. Ka'adan applied
+    that to state resources allocated by nationality; Shakdiel to an exclusion based on tradition.
+- id: q6
+  question: >-
+    Police refuse a licence for a march supporting the government outside a court building, citing
+    "fear of confrontation with counter-protesters". They have not planned any separation of the
+    two groups. What is the strongest argument?
+  options:
+    - >-
+      Marches near courts are always banned, so the organisers should choose another site.
+    - >-
+      The organisers should offer to pay for extra police so the march can go ahead.
+    - >-
+      Under Levi, police must first try physical measures; a ban is a last resort, not a first step.
+    - >-
+      The near-certainty test applies only to newspapers, so the police decision cannot be reviewed.
+  correct: 2
+  explanation: >-
+    Levi requires the police to try to protect a lawful demonstration before banning it. Majority
+    Camp bars charging organisers for security. The same rules protect every political side.
+- id: q7
+  question: >-
+    A minister says: "The Supreme Court has no power to strike down a Basic Law." You want to state
+    the Court's own position accurately. Which is correct?
+  options:
+    - >-
+      In HCJ 5658/23, 12 of 15 justices held Basic Laws can be reviewed in extreme cases.
+    - >-
+      The Court has never addressed the question and has said it will not do so.
+    - >-
+      All 15 justices agreed in 2024 that Basic Laws can be reviewed whenever rights are limited.
+    - >-
+      The Court held in Mizrahi Bank (1995) that Basic Laws are reviewable on reasonableness.
+  correct: 0
+  explanation: >-
+    The official abstract of HCJ 5658/23 records 12 of 15 justices accepting review in extreme
+    cases; Sohlberg and Mintz JJ. found no legal source for it. Attribute both views.
+- id: q8
+  question: >-
+    Which description of Amendment No. 4 to Basic Law: The Judiciary (March 2025) is accurate?
+  options:
+    - >-
+      It abolishes the committee and lets the Knesset plenum elect all judges by majority.
+    - >-
+      It removes the three justices from the committee and adds three ministers.
+    - >-
+      It took effect immediately and was annulled by the Court in December 2025.
+    - >-
+      It swaps the Bar's two seats for public representatives chosen by MKs.
+  correct: 3
+  explanation: >-
+    The three justices and two ministers stay; the MK seats split coalition/opposition; the Bar seats
+    become public representatives. It applies from the 26th Knesset; no ruling was found by 12.10.2026.
+- id: q9
+  question: >-
+    You are drafting a neutral community note on the Judicial Selection law. Which sentence keeps
+    the note neutral and accurate?
+  options:
+    - >-
+      "The regime overhaul law will destroy the independence of the courts."
+    - >-
+      "The Knesset says it ends a veto; petitioners say it politicises judging."
+    - >-
+      "The long-needed reform finally lets the people choose their judges."
+    - >-
+      "The Court has already decided the law is unconstitutional, as President Amit said."
+  correct: 1
+  explanation: >-
+    It states each side's claim and attributes it. The other options use one side's label in the
+    author's own voice, or treat a hearing remark as a ruling.
+- id: q10
+  question: >-
+    The Court finds that a law on military detention goes further than the service requires, but
+    the army needs time to adjust. Based on Tzemach, what remedy is realistic?
+  options:
+    - >-
+      The Court rewrites the law itself with a new detention period.
+    - >-
+      The Court leaves the law in force indefinitely and sends a recommendation to the Knesset.
+    - >-
+      The Court declares the provision void but suspends the declaration for a set period.
+    - >-
+      The Court orders the release of every soldier ever detained under the provision.
+  correct: 2
+  explanation: >-
+    In Tzemach the Court declared the 96-hour provision void and suspended the declaration for six
+    months so the Knesset could legislate. Suspended invalidity is a common remedy.

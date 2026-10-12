@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A flyer says the 2025 amendment "lets the government alone appoint Supreme Court justices". You
+    read s. 4(e) of Basic Law: The Judiciary. What does it actually require?
+  options:
+    - >-
+      Seven of nine members, as before, including at least two of the three justices.
+    - >-
+      Five members, including one from the coalition side and one from the opposition side.
+    - >-
+      A majority of the ministers and coalition MKs, with no role for the opposition.
+    - >-
+      Five members, including all three justices, who keep their veto over any candidate.
+  correct: 1
+  explanation: >-
+    Under s. 4(e), from the 26th Knesset a Supreme Court pick needs five votes including one member
+    listed in s. 4(d)(2) (coalition side) and one in s. 4(d)(3) (opposition side).
+- id: q2
+  question: >-
+    A news site reports that at the June 2026 hearing President Amit warned the law would
+    politicise the Court. A friend posts: "The High Court has struck down the judges law." What is
+    the accurate correction?
+  options:
+    - >-
+      None needed; a warning by the President at a hearing is a binding ruling.
+    - >-
+      The Court cannot rule at all, because Basic Laws are immune from review.
+    - >-
+      Hearing remarks are not a ruling; check whether a judgment exists.
+    - >-
+      The case was transferred to the Knesset, which alone can decide on Basic Laws.
+  correct: 2
+  explanation: >-
+    Questions and warnings from the bench are not a decision. As of 12 October 2026 no ruling on
+    Amendment No. 4 was found; always check the current status before writing.
+- id: q3
+  question: >-
+    In the Judicial Selection case, the state argued the petitions were premature because the law
+    applies only from the next Knesset. What kind of argument is this?
+  options:
+    - >-
+      Ripeness: the case is not yet ready for decision, so the Court should wait.
+    - >-
+      Standing: the petitioners have no personal interest in judicial appointments.
+    - >-
+      Proportionality: the law is the least harmful way to reform the committee.
+    - >-
+      Express authorisation: the Knesset lacked power to pass a Basic Law.
+  correct: 0
+  explanation: >-
+    The timing argument is about ripeness (בשלות). The Attorney General's representative replied
+    that the delayed start does not remove the constitutional problem.
+- id: q4
+  question: >-
+    You are writing a neutral briefing on the Attorney General dispute. Which sentence is accurate
+    and properly attributed?
+  options:
+    - >-
+      "The Court illegally blocked the government from firing the Attorney General."
+    - >-
+      "The government lawfully dismissed the Attorney General, but the Court refused to accept it."
+    - >-
+      "The Knesset passed a Basic Law in 2026 that abolished the Attorney General's office."
+    - >-
+      "In December 2025 the Court, 7–0, voided the dismissal; Levin and Karhi urged rejection."
+  correct: 3
+  explanation: >-
+    The 14.12.2025 ruling was unanimous and voided the new procedure and the dismissal; ministers
+    Levin and Karhi called on the government not to accept it. The 2026 law is an ordinary law.

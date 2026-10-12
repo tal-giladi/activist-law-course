@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A municipality's new procedure lets inspectors search the bags of everyone entering a public
+    park. The Municipalities Ordinance gives a general power to keep public order. Which argument
+    should come first?
+  options:
+    - >-
+      The searches are disproportionate, because a sign asking visitors to behave would be enough.
+    - >-
+      Privacy (s. 7) may be limited only by a law or under express authorisation, which is missing.
+    - >-
+      The procedure is invalid because the Ordinance predates 1992 and s. 10 protects only laws.
+    - >-
+      The searches harm freedom of occupation, because park vendors will lose customers.
+  correct: 1
+  explanation: >-
+    Searches limit privacy under s. 7(c). A limit set below the level of a statute needs express
+    authorisation in a law; a general public-order power is the weak point to test first.
+- id: q2
+  question: >-
+    A group petitions against a cut in a welfare benefit, arguing it violates dignity. Their
+    petition describes the hardship in general terms only. Based on the Commitment to Peace and
+    Social Justice ruling, what is the main risk?
+  options:
+    - >-
+      The Court will hold that dignity never includes any material conditions of life.
+    - >-
+      The Court will refuse to hear it because benefits are set in the annual budget law.
+    - >-
+      The Court will dismiss it for lack of a factual basis showing an actual infringement.
+    - >-
+      The Court will transfer it to the Labour Court, which hears all benefit disputes.
+  correct: 2
+  explanation: >-
+    The Court accepted that dignity covers a minimum for dignified existence, but dismissed the
+    petitions because the petitioners had not shown with data that the cuts infringed it.
+- id: q3
+  question: >-
+    A law restricting entry to a profession passed by 64 MKs and states that it is valid
+    "notwithstanding" Basic Law: Freedom of Occupation. It fails the limitation clause. What follows?
+  options:
+    - >-
+      It is void at once, because no law may override a Basic Law in any circumstances.
+    - >-
+      It is valid permanently, because a majority of all MKs approved it.
+    - >-
+      It is valid only if approved again by referendum under the 2014 Basic Law.
+    - >-
+      It is valid, but lapses after four years unless an earlier date is set.
+  correct: 3
+  explanation: >-
+    Freedom of Occupation s. 8 lets such a law stand despite s. 4 if it passed by a majority of all
+    MKs and says so expressly, but for four years at most. Human Dignity and Liberty has no such
+    clause.
+- id: q4
+  question: >-
+    A law lets a military officer hold a soldier for several days before a judge sees him. Which
+    standard does the Basic Law apply?
+  options:
+    - >-
+      Section 9: only by law, and no more than the nature and character of the service require.
+    - >-
+      None, because soldiers waive their rights under the Basic Law when they enlist.
+    - >-
+      Section 12, because military matters are governed by emergency regulations.
+    - >-
+      The ordinary s. 8 test, with no attention to the nature of military service.
+  correct: 0
+  explanation: >-
+    Section 9 adapts the limitation clause to the security forces. In Tzemach the Court held a
+    96-hour military arrest went beyond what the service required.

@@ -13,7 +13,9 @@ const list = (dir, re) => (fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) =
 
 // Templates: move drafts that are not yet published.
 const tIn = "curriculum/inbox/templates";
-for (const f of list(tIn, /\.md$/)) {
+// Optional args: template file names to move (others stay in the inbox, e.g. while an agent still writes them).
+const only = process.argv.slice(2);
+for (const f of list(tIn, /\.md$/).filter((f) => !only.length || only.includes(f))) {
   if (!fs.existsSync(path.join("templates", f))) fs.renameSync(path.join(tIn, f), path.join("templates", f));
   else console.log(`template exists, left in inbox: ${f}`);
 }

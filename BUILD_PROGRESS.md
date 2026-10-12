@@ -15,13 +15,14 @@ Goal: build the course described in `curriculum/plan.md` under `tals-academy/doc
 - [x] Module 02 (6 lessons, 84 bank questions)
 - [x] Module 04 (5 lessons, 85 bank)
 - [x] Module 05 (7 lessons, 95 bank)
-- [ ] Module 03 (writing)
+- [x] Module 03 (5 lessons, 88 bank)
 - [ ] Modules 06–20 (order in plan §12)
 - [ ] Phase C: QA, check-course 0 problems, TODO_FOR_TAL
 
 ## Now working
-- Agents: module 03 writer, module 06 writer.
+- Agents: module 06 writer, module 07 writer.
 
 ## Decisions
 - 2026-10-12 Mixed EN/HE language (plan §3). External free platforms assigned, not duplicated (plan §4).
 - 2026-10-12 Knesset legislation DB old URLs 404; new pattern main.knesset.gov.il/apps/legislation/main/laws/<id> (fix in sources-israel.md when used).
+- 2026-10-13 Lesson 03.5 (and 04.3) describe the constitutional dispute as of 12.10.2026, before the 27.10.2026 election and pending the Judicial Selection amendment ruling: update after the election / ruling.

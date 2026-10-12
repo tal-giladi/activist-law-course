@@ -14,6 +14,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Issue map (מפת סוגיה)](issue-map.md)
 - [Complaint to the Public Complaints Commissioner (תלונה לנציב תלונות הציבור)](ombudsman-complaint.md)
 - [Pre-Petition Letter (מכתב התראה לפני הגשת עתירה)](pre-petition-letter.md)
+- [Proportionality analysis (ניתוח מידתיות)](proportionality-analysis.md)
 - [Research Memo (מזכר מחקר משפטי)](research-memo.md)
 - [Ruling brief (תקציר פסק דין)](ruling-brief.md)
 - [Statute reading sheet (דף קריאת חוק)](statute-reading-sheet.md)
