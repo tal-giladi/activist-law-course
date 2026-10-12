@@ -7,7 +7,7 @@
 - [Templates](/templates/README.md)
 
 - Stage 1 — Foundations
-- **Module 1 — How Israeli Law Works**
+- **Module 1 — How Israeli Law Works (about 10 hours)**
   - [01 · What This Course Can and Cannot Make You](/lessons/module-01/lesson-01.md)
   - [02 · Where Israeli Law Comes From](/lessons/module-01/lesson-02.md)
   - [03 · The Hierarchy of Norms](/lessons/module-01/lesson-03.md)
@@ -15,7 +15,7 @@
   - [05 · Reading a Statute](/lessons/module-01/lesson-05.md)
   - [06 · Reading a Ruling](/lessons/module-01/lesson-06.md)
   - [Module 1 quiz](/assessments/module-01-quiz.md)
-- **Module 2 — Legal Research and Writing**
+- **Module 2 — Legal Research and Writing (about 12 hours)**
   - [07 · Finding the Current Text of a Law](/lessons/module-02/lesson-01.md)
   - [08 · Finding Rulings for Free](/lessons/module-02/lesson-02.md)
   - [09 · Secondary Sources](/lessons/module-02/lesson-03.md)

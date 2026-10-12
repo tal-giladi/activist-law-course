@@ -146,6 +146,8 @@ Format: the quiz format plus four fields.
 
 ## Final report (under 200 words)
 
+Include the module total time estimate (plan §16): lessons minutes + practice_minutes + project time + 30 min quizzes, rounded to hours.
+
 Your final report must cover:
 
 - the files you wrote;

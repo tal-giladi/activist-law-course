@@ -511,3 +511,26 @@ The tool itself is not built yet. Its purpose is to give the learner daily pract
 `curriculum/build-spec.md` has the details.
 
 **Master file.** After each module, the main session merges the module files into `curriculum/question-bank/master.yaml`. The checker validates every bank file.
+
+## 16. Module time estimate (Tal, 2026-10-12)
+
+Every module title in `_sidebar.md` ends with a rough total time, for example `- **Module 1 — How Israeli Law Works (about 10 hours)**`.
+
+The total is the sum of:
+
+- the lessons' `minutes` and `practice_minutes`;
+- the project time stated in the project brief;
+- about 30 minutes for the quizzes.
+
+Round it to the nearest hour. The module writer states the total in its final report, and the main session adds it to the sidebar.
+
+## 17. University equivalent per module (Tal, 2026-10-12)
+
+`curriculum/university-equivalent/module-NN.md` holds one file per module. Each file covers:
+
+- **University courses.** Which Israeli LL.B. course or courses the module corresponds to, with the year and whether the course is mandatory or an elective.
+- **Covered.** Which topics of that course the module covers.
+- **Left out.** Which topics it leaves out.
+- **To complete it.** What a learner would add to reach the full university course: topics, core readings, free sources where they exist, and rough hours.
+
+These files are planning and reference material and are not imported.
