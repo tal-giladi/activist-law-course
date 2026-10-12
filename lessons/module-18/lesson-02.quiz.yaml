@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Three founders file to register an amuta without attaching bylaws of their own. The Registrar
+    registers it. Which bylaws govern the amuta?
+  options:
+    - >-
+      None until the first general assembly adopts bylaws.
+    - >-
+      The model bylaws in the First Schedule to the Amutot Law.
+    - >-
+      The bylaws of the most similar amuta in the Registrar's records.
+    - >-
+      Bylaws the Registrar drafts for it within 90 days of registration.
+  correct: 1
+  explanation: >-
+    Section 10: if the founders file no bylaws, the model bylaws (תקנון מצוי) in the First Schedule
+    are the amuta's bylaws.
+- id: q2
+  question: >-
+    A group plans to found an amuta with exactly two people, who will both sit on the committee. They
+    want to keep the model bylaws. What is missing?
+  options:
+    - >-
+      Nothing; two founders are enough for every purpose under the law.
+    - >-
+      A lawyer's opinion, which the Registrar requires from two-person amutot.
+    - >-
+      A third person for the audit committee, or an accountant appointed instead.
+    - >-
+      A minimum membership of seven, set by the model bylaws.
+  correct: 2
+  explanation: >-
+    Every amuta needs an audit committee (s. 19), and nobody may sit on both the committee and the
+    audit committee (s. 32). The general assembly may instead appoint an accountant or an approved
+    body (s. 19(ב)).
+- id: q3
+  question: >-
+    A new amuta prints flyers with the logo and the short name "קול השכונה". Its registered name is
+    "קול השכונה למען דיור הוגן". What does the law require?
+  options:
+    - >-
+      The full registered name, without abbreviation, ending with "(ע״ר)".
+    - >-
+      Nothing for flyers; the name rule applies only to contracts.
+    - >-
+      Only the registration number, which identifies the amuta.
+    - >-
+      The short name, provided it was registered as a trade name.
+  correct: 0
+  explanation: >-
+    Section 8א: every document, sign or publication from the amuta shows its full registered name,
+    without abbreviations, ending with "עמותה", "עמותה רשומה" or "(ע״ר)".
+- id: q4
+  question: >-
+    Founders of a new environmental amuta list "מתן ייעוץ משפטי לתושבים בענייני תכנון" among its
+    objectives. None of them is a lawyer. What should they do?
+  options:
+    - >-
+      Keep it; an amuta may advise anyone because it is a non-profit.
+    - >-
+      Keep it, but charge only a symbolic membership fee for advice.
+    - >-
+      Keep it, provided each piece of advice is given by a different volunteer.
+    - >-
+      Reword it as general information, unless lawyers will advise.
+  correct: 3
+  explanation: >-
+    Individual legal advice to others is reserved to lawyers when given as an occupation or for
+    payment (Bar Association Law s. 20(4)); a fee, even a membership fee, makes things worse.
+    Objectives should describe what the amuta can lawfully do.

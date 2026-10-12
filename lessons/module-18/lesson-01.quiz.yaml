@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    A neighbourhood group has no money, meets monthly, and plans a six-month campaign of joint letters
+    and FOI requests. One member says they must register an amuta "to be taken seriously". What fits
+    best?
+  options:
+    - >-
+      Register now, because only an amuta may send letters to an authority.
+    - >-
+      Stay informal with a written group agreement; each member files in their own name.
+    - >-
+      Register now, because FOI requests from individuals are not answered.
+    - >-
+      Ask a lawyer to sign all the letters so that they carry legal weight.
+  correct: 1
+  explanation: >-
+    With no money, no contracts and a short horizon, the five tests point to staying informal.
+    Individuals may write to authorities and file FOI requests; a group agreement settles who decides
+    and who speaks.
+- id: q2
+  question: >-
+    The treasurer of an unregistered protest group signs a contract to rent a hall for an event "on
+    behalf of the group". The event is cancelled and the hall demands payment. Who is bound?
+  options:
+    - >-
+      The group itself, as an association recognised by its activity.
+    - >-
+      No one, because an unregistered group cannot be party to a contract.
+    - >-
+      The treasurer personally, since the group is not a legal person.
+    - >-
+      The Registrar of Amutot, who must register any group that signs contracts.
+  correct: 2
+  explanation: >-
+    Only a registered amuta is a legal person (Amutot Law s. 8). In an informal group, the person who
+    signs is personally bound; a group agreement can say how members share the cost.
+- id: q3
+  question: >-
+    An amuta's committee wants to pay the founders a yearly "dividend" out of a surplus from a
+    successful fundraising campaign. What does the Amutot Law say?
+  options:
+    - >-
+      It is allowed if the general assembly approves it by a majority.
+    - >-
+      It is allowed only for founders, not for ordinary members.
+    - >-
+      It is allowed if the amuta has a valid proper-management certificate.
+    - >-
+      It is a prohibited distribution, even when paid to founders.
+  correct: 3
+  explanation: >-
+    Section 34ג(א) bars an amuta from distributing profits to members, directly or indirectly,
+    including to the founder. Members who receive such a distribution must return it.
+- id: q4
+  question: >-
+    A group of parents has money in a member's account, wants a grant open only to amutot, and
+    expects years of work, but only two people are willing to take on any formal role. What is the
+    best next step?
+  options:
+    - >-
+      Recruit more members, or ask an existing amuta to host the project.
+    - >-
+      Register at once with the two founders, since the law allows two founders.
+    - >-
+      Apply for the grant as an informal group and register only if it is approved.
+    - >-
+      Move the money into a second private account to separate it from personal funds.
+  correct: 0
+  explanation: >-
+    Two founders are the legal minimum (s. 1), but an amuta needs a committee and a separate audit
+    body and ongoing reports. Without capacity, a new amuta soon becomes inactive; hosting by an
+    existing amuta, written down in an agreement, is a common alternative.

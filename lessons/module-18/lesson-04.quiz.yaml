@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A volunteer with no legal licence writes one appeal letter to a court for a stranger, once, and
+    accepts a ₪150 "gift" afterwards. She argues it was not "an occupation". Is she outside s. 20?
+  options:
+    - >-
+      Yes, because a single act can never be an occupation.
+    - >-
+      Yes, because a gift given after the act is not consideration.
+    - >-
+      No, because consideration alone is enough, even for a single act.
+    - >-
+      No, because any letter to a court is reserved, even for yourself.
+  correct: 2
+  explanation: >-
+    Section 20 has two independent triggers: "דרך עיסוק" or "בתמורה אף שלא דרך עיסוק". Payment, even
+    for one act, meets the second. Acting for yourself is never covered.
+- id: q2
+  question: >-
+    A residents' forum wants to open a free weekly desk where volunteers, none of them lawyers, tell
+    each tenant whether their eviction notice is valid and what to answer. What is the main problem?
+  options:
+    - >-
+      None, since the service is free and therefore outside s. 20.
+    - >-
+      A regular desk is "an occupation" giving individual advice.
+    - >-
+      Only the Registrar of Amutot may approve free legal services.
+    - >-
+      The desk must first register as a public-benefit company.
+  correct: 1
+  explanation: >-
+    "דרך עיסוק" does not need payment: an organised weekly service is an occupation. Telling a person
+    whether their notice is valid and what to answer applies the law to their facts — individual legal
+    advice under s. 20(4).
+- id: q3
+  question: >-
+    According to the Medical Rights Centre case (ע״א 4223/12), which of these is generally allowed for
+    a non-lawyer helping a person with a National Insurance claim?
+  options:
+    - >-
+      Deciding which benefit the person should claim and on what grounds.
+    - >-
+      Representing the person before the medical appeals committee.
+    - >-
+      Writing the legal arguments in the free-text part of the appeal.
+    - >-
+      Technical help filling in fixed factual fields of the official form.
+  correct: 3
+  explanation: >-
+    The Court allowed technical help with fixed fields where the person needs it, and publishing
+    neutral information. Choosing the claim is legal advice, the medical committees are quasi-judicial
+    (s. 20(1)), and legal framing in free text crosses the line.
+- id: q4
+  question: >-
+    Your sister is sued in small claims. You are not a lawyer, you have never represented anyone, and
+    you will take no payment. How may you represent her?
+  options:
+    - >-
+      With the court's approval and a power of attorney she files.
+    - >-
+      Never; small claims representation is reserved to lawyers only.
+    - >-
+      Freely, without approval, because she is a close relative.
+    - >-
+      Only if you register as a representative with the Courts Administration.
+  correct: 0
+  explanation: >-
+    Courts Law s. 63(ב), saved by Bar Association Law s. 21(3): a non-lawyer may represent a party with
+    the court's approval and a filed power of attorney, unless representing regularly, in the course
+    of business, or for payment.
+- id: q5
+  question: >-
+    An amuta wants to run a legal-aid service for its community, with lawyers giving advice and
+    representation for free, while members pay a yearly membership fee. Under the 2009 Bar ethics
+    decision, what must change?
+  options:
+    - >-
+      Nothing, because a membership fee is not payment for a case.
+    - >-
+      Only the name: it must not use the word "legal".
+    - >-
+      No consideration may be tied to the service, including membership fees.
+    - >-
+      The lawyers must be paid by clients so the service is not "free".
+  correct: 2
+  explanation: >-
+    The 2009 decision requires a free legal service to be run like a law office by lawyers, with no
+    consideration of any kind — not success fees, costs, membership fees or referral payments — and
+    loyalty to each client.

@@ -1,0 +1,188 @@
+- id: q1
+  question: >-
+    A group of volunteers from a settlement runs an emergency-response team. Members have bought
+    equipment with their own money, a regional council offers a grant only to registered bodies, and
+    the team expects to operate for years with six committed members. What should they do?
+  options:
+    - >-
+      Stay informal and let the coordinator receive the grant into his own account.
+    - >-
+      Ask the council to pay the grant to the coordinator as a personal donation.
+    - >-
+      Wait until they have 50 members, the minimum number for an amuta.
+    - >-
+      Register an amuta, with a group agreement covering the money until then.
+  correct: 3
+  explanation: >-
+    Money, contracts, a long horizon, a funder that requires a registered body and enough people to
+    comply all point to an amuta. Two adult founders are the legal minimum (Amutot Law s. 1); a group
+    agreement protects the money meanwhile.
+- id: q2
+  question: >-
+    Founders of an amuta for Arab women's employment in the Galilee want committee meetings by video
+    and a committee of five elected for two years. Otherwise the model bylaws suit them. What is the
+    most sensible approach?
+  options:
+    - >-
+      File own bylaws that change only those points and keep the rest of the model.
+    - >-
+      File no bylaws; the Registrar adds video meetings on request after registration.
+    - >-
+      Copy the bylaws of a large national amuta to be safe.
+    - >-
+      Ask a volunteer from another group to draft full bylaws for a small fee.
+  correct: 0
+  explanation: >-
+    Own bylaws are allowed (s. 10) and must respect the s. 12 list; anything they leave out is filled
+    by the model bylaws. Paying a non-lawyer to draft legal documents for you is what s. 20(3) reserves
+    to lawyers.
+- id: q3
+  question: >-
+    On 15 October, the treasurer of a religious-culture amuta finds that neither the 2026 annual fee
+    nor last year's financial report has been dealt with. What is the most urgent step?
+  options:
+    - >-
+      Wait for the general assembly in the spring to approve both.
+    - >-
+      Pay the fee and file the report now; both are over 90 days late.
+    - >-
+      Apply for a proper-management certificate, which cures late filing.
+    - >-
+      Send the report to GuideStar, which forwards it to the Registrar.
+  correct: 1
+  explanation: >-
+    More than 90 days after the deadline for the fee or the financial report, an amuta is treated as
+    having stopped operating and may be struck off (s. 59). The certificate depends on complete
+    filing; it does not cure it.
+- id: q4
+  question: >-
+    A human-rights amuta with turnover of ₪2 million received 60% of its income last year from
+    foreign governments and the EU. It will testify at a Knesset committee next week. What must its
+    representative do?
+  options:
+    - >-
+      Nothing; the disclosure duties apply only to written publications.
+    - >-
+      Present the amuta's quarterly reports to the committee as evidence.
+    - >-
+      Tell the chair before the discussion that it is mainly so funded.
+    - >-
+      Ask the Registrar for permission to speak in the Knesset.
+  correct: 2
+  explanation: >-
+    Disclosure Law s. 5א(ד): a representative of a body mainly funded by foreign state entities who
+    takes an active part in a Knesset committee session tells the chair so before the discussion, and
+    answers if an MK asks.
+- id: q5
+  question: >-
+    A right-wing legal-support network for arrested protesters asks members for ₪30 a month. In
+    return, its non-lawyer volunteers tell detainees' families what the detainee should say in
+    interrogation. What is the problem?
+  options:
+    - >-
+      The monthly payment is a membership fee, so the advice is lawful.
+    - >-
+      Advice on interrogation is general information, not legal advice.
+    - >-
+      Only the amount is a problem; under ₪50 is not consideration.
+    - >-
+      Individual legal advice for consideration and as an occupation.
+  correct: 3
+  explanation: >-
+    Both s. 20 triggers are present — a regular service and payment (membership fees count as
+    consideration, as the 2009 Bar decision says) — and telling a person what to say in their case is
+    individual legal advice (s. 20(4)). Refer to the Public Defender or volunteer lawyers.
+- id: q6
+  question: >-
+    A disability-rights volunteer publishes a free online guide to National Insurance forms and runs a
+    weekly session where she fills in fixed personal details on the forms for people who cannot read
+    Hebrew. A family asks her to argue their appeal before the medical committee. What fits the
+    Medical Rights Centre ruling?
+  options:
+    - >-
+      Keep the guide and the technical help; refer the appeal to a lawyer.
+    - >-
+      Stop everything, since any help with forms is reserved to lawyers.
+    - >-
+      Represent the family, since the committee is a medical body.
+    - >-
+      Represent the family if they sign a power of attorney.
+  correct: 0
+  explanation: >-
+    Neutral information and technical help with fixed fields for people who need it were allowed;
+    the medical committees are quasi-judicial, so representing someone before them is reserved
+    (s. 20(1)). A power of attorney does not change that.
+- id: q7
+  question: >-
+    A tenants' committee member, not a lawyer, is asked by her neighbour to represent him, unpaid, in
+    a small claim against the building contractor. She has never represented anyone before. What
+    allows this?
+  options:
+    - >-
+      Nothing; representation of another person in court is always reserved.
+    - >-
+      A letter from the tenants' committee authorising her to act.
+    - >-
+      The court's approval and a power of attorney filed with the court.
+    - >-
+      Registration of the tenants' committee as an amuta first.
+  correct: 2
+  explanation: >-
+    Courts Law s. 63(ב) lets a non-lawyer represent a small-claims party with the court's approval and
+    a filed power of attorney, if not done regularly, in business or for payment; Bar Association Law
+    s. 21(3) saves such rules.
+- id: q8
+  question: >-
+    A residents' amuta against a planned landfill is sued for defamation by the developer in the
+    Magistrates' Court. The chair, an experienced activist, wants to defend the amuta himself. What is
+    the best advice from this module?
+  options:
+    - >-
+      Defend it himself; an amuta may always appear through its chair.
+    - >-
+      Move the case to small claims, where amutot need no lawyer.
+    - >-
+      Let each committee member defend the amuta in turn.
+    - >-
+      Plan for a lawyer; no 2018 rule lets an officer act for it.
+  correct: 3
+  explanation: >-
+    Regulation 170 lets a party act personally or through a lawyer, but the 2018 Regulations dropped
+    the old rule that let a corporation's manager act for it. With costs at stake, use the help ladder:
+    an anti-SLAPP clinic, a public-interest organisation or a private lawyer.
+- id: q9
+  question: >-
+    A Haredi parents' group has drafted its own pre-petition letter about school transport. Its budget
+    covers about two hours of a lawyer's time. How should it use them?
+  options:
+    - >-
+      A written limited-scope review of the letter, with a brief and chronology.
+    - >-
+      A meeting with no documents, so the lawyer hears the story fresh.
+    - >-
+      A full power of attorney, and let the lawyer decide what to do.
+    - >-
+      Spend the money on a non-lawyer consultant who charges less.
+  correct: 0
+  explanation: >-
+    A limited-scope engagement with a one-page brief and dated chronology makes two hours enough for a
+    useful review, while the group files in its own name. A paid non-lawyer reviewing legal documents
+    raises s. 20 problems.
+- id: q10
+  question: >-
+    A new coexistence amuta is offered ₪25,000 by a donor who wants a tax-credit receipt, and ₪40,000
+    by a foreign embassy's grant programme. It has no s. 46 approval. Which response is correct?
+  options:
+    - >-
+      Issue the tax receipt now and report the embassy grant only next June.
+    - >-
+      Refuse both, because new amutot may not accept large donations.
+    - >-
+      No tax receipt yet; report the embassy grant within a week after the quarter.
+    - >-
+      Issue the tax receipt once the proper-management certificate arrives.
+  correct: 2
+  explanation: >-
+    A s. 46 receipt needs the Tax Authority's approval, which a new amuta does not have. An embassy is
+    part of a foreign state, so the grant needs a quarterly report within a week after the quarter
+    ends (Disclosure Law s. 2), plus the annual-report rules.

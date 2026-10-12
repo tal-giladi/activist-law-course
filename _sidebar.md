@@ -135,3 +135,12 @@
   - [89 · Preserving and Archiving Evidence](lessons/module-17/lesson-04.md)
   - [90 · Digital Security for Activists](lessons/module-17/lesson-05.md)
   - [Module 17 quiz](assessments/module-17-quiz.md)
+
+- Stage 4 — Practical Stage
+- **Module 18 — Organising and Working Within the Law (about 14 hours)**
+  - [91 · Acting as a Group: Informal Group or Amuta](lessons/module-18/lesson-01.md)
+  - [92 · Registering an Amuta Yourself](lessons/module-18/lesson-02.md)
+  - [93 · Running an Amuta: Proper Management, Donations and Reporting](lessons/module-18/lesson-03.md)
+  - [94 · What Non-Lawyers May and May Not Do for Others](lessons/module-18/lesson-04.md)
+  - [95 · Using Lawyers Smartly: Clinics, Pro Bono and Legal Aid](lessons/module-18/lesson-05.md)
+  - [Module 18 quiz](assessments/module-18-quiz.md)

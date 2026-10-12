@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    It is 20 September. An amuta held its general assembly in May but forgot to file last year's
+    financial report, which was due on 30 June. What risk is the amuta about to face?
+  options:
+    - >-
+      None until the Registrar sends a formal warning letter.
+    - >-
+      Being treated as having stopped operating, and possibly struck off.
+    - >-
+      Automatic loss of its name, which another amuta may then register.
+    - >-
+      A criminal investigation of every member of the general assembly.
+  correct: 1
+  explanation: >-
+    Under s. 59(א)(2) an amuta that has not filed its financial report within 90 days of the deadline
+    is treated as having stopped operating, and the Registrar may strike it off. File at once.
+- id: q2
+  question: >-
+    A small amuta receives a single ₪8,000 grant from a European government's development agency in
+    May. Its turnover is ₪150,000. Which duty applies?
+  options:
+    - >-
+      None, because the grant is below ₪20,000 and turnover is below ₪300,000.
+    - >-
+      A note in the annual report only, filed by 30 June next year.
+    - >-
+      A quarterly report within a week after the end of June.
+    - >-
+      A label on all its publications for the next year.
+  correct: 2
+  explanation: >-
+    Disclosure Law s. 2 requires a quarterly report for any donation from a foreign state entity,
+    within a week after the quarter ends; s. 2 sets no minimum. The ₪300,000 and ₪20,000 thresholds
+    belong to the annual-report duty (Amutot Law s. 36א), and labelling applies only to amutot funded
+    mainly by such donations (s. 5א).
+- id: q3
+  question: >-
+    A donor offers ₪10,000 to a six-month-old amuta if it gives a receipt "for the tax credit". The
+    amuta has no s. 46 approval. What is the right answer?
+  options:
+    - >-
+      No tax credit is available yet; it can give an ordinary receipt.
+    - >-
+      Any registered amuta's receipt gives a 35% tax credit.
+    - >-
+      The receipt is valid if the amuta applies for approval within a year.
+    - >-
+      The donor can claim the credit if the amuta has a proper-management certificate.
+  correct: 0
+  explanation: >-
+    The s. 46 credit applies only to donations to a public institution approved under s. 46. A new
+    amuta must not promise it; registration or a proper-management certificate alone is not enough.
+- id: q4
+  question: >-
+    In October 2026 a board member says the amuta must prepare for the 80% tax on foreign-state
+    donations "that the Knesset is passing". The bill passed only a preliminary reading. What is its
+    status?
+  options:
+    - >-
+      It is in force, because a preliminary reading makes a bill binding.
+    - >-
+      It will automatically continue in the next Knesset at the same stage.
+    - >-
+      It becomes law once the new Knesset is sworn in, unless repealed.
+    - >-
+      It lapses with the outgoing Knesset, since it never passed a first reading.
+  correct: 3
+  explanation: >-
+    A bill that has not passed its first reading lapses when the Knesset ends; continuity is possible
+    only for bills that passed a first reading (lesson 12.1). It could be tabled again from the start.
+- id: q5
+  question: >-
+    An amuta's annual report shows that 70% of its income last year came from foreign state entities.
+    It is about to send a letter to the Ministry of Education. What must the letter include?
+  options:
+    - >-
+      Nothing; the duty applies only to Knesset committee appearances.
+    - >-
+      A list of every private donor who gave more than ₪20,000.
+    - >-
+      A prominent statement that it is mainly funded by foreign state entities.
+    - >-
+      A copy of its latest quarterly report attached to the letter.
+  correct: 2
+  explanation: >-
+    Under Disclosure Law s. 5א(ב)(2), an amuta mainly funded by foreign state entities must state this
+    prominently in letters to public servants and elected officials, as well as in its public
+    advertising and distributed reports.

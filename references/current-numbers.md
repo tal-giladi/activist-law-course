@@ -8,7 +8,7 @@ The numbers change on fixed dates:
 |---|---|
 | FOI fees | 1 October |
 | Court fees and the small-claims ceiling | 1 January |
-| Amuta fees | April |
+| Amuta fees | 1 January (the reduced annual fee applies if paid by 31 March) |
 
 | Item | Amount | Source (checked 2026-10-12) |
 |---|---|---|
@@ -50,7 +50,9 @@ The numbers change on fixed dates:
 | Legal Aid asset test | ₪41,307. A gov.il page shows ₪39,948; check before relying on it. | Kol Zchut, 2026 |
 | Planning objection period | 2 months from publication of the deposit, extendable to 3 | Planning and Building Law, s. 102 |
 | Appeal (ערר) against a local committee's plan approval | 15 days | Kol Zchut |
-| Amuta annual fee 2026 | ₪176 for new or small amutot. Otherwise ₪1,338 if paid by 31 March, ₪1,777 after. | gov.il, annual fee service |
+| Amuta registration fee 2026 | ₪893, plus a Reshumot publication charge shown at payment | Amutot (Fees) Regulations, schedule item 1(a) |
+| Amuta annual fee 2026 | ₪176 in the first two years, or if turnover is ₪300,000 or less. Otherwise ₪1,338 if paid by 31 March, ₪1,777 after. | Amutot (Fees) Regulations |
+| Amuta financial and verbal reports | due 30 June of the following year | Amutot Law, ss. 36(d), 37A |
 
 ## Criminal procedure
 

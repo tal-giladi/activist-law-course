@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You have drafted your own administrative petition and want a lawyer to check it before you file it
+    in your own name, without paying for full representation. What is the best arrangement?
+  options:
+    - >-
+      Give the lawyer a power of attorney for the whole case.
+    - >-
+      Ask an activist friend to check it, since petitions are public anyway.
+    - >-
+      A written limited-scope engagement for a review with a fee cap.
+    - >-
+      Send the draft to the court registry and ask the clerk to comment.
+  correct: 2
+  explanation: >-
+    A limited-scope engagement, agreed in writing, gets expert review while you keep filing in your
+    own name. A friend's review is not privileged, and court staff do not give legal advice.
+- id: q2
+  question: >-
+    Halfway through a civil case you lose confidence in your lawyer and want to continue alone. What
+    do the Civil Procedure Regulations 2018 say?
+  options:
+    - >-
+      You may end the mandate by notice to the court and the other parties.
+    - >-
+      You need the court's permission to stop being represented.
+    - >-
+      You must wait until the lawyer agrees in writing to withdraw.
+    - >-
+      Once represented, you must stay represented until judgment.
+  correct: 0
+  explanation: >-
+    Regulation 172: a party may cancel the lawyer's power of attorney by notice to the court and all
+    other parties; it is the lawyer who needs the court's permission to stop representing.
+- id: q3
+  question: >-
+    A tenant was refused state Legal Aid because her income is slightly above the limit. She cannot
+    afford a lawyer for an eviction claim. Which route should your group suggest next?
+  options:
+    - >-
+      The Public Defender, which takes civil cases refused by Legal Aid.
+    - >-
+      The Bar's pro bono programme "שכר מצווה" or a housing clinic.
+    - >-
+      A group volunteer who will write her defence for her.
+    - >-
+      Nothing more; a Legal Aid refusal ends the search for free help.
+  correct: 1
+  explanation: >-
+    "שכר מצווה" serves low-income people who are not eligible for Legal Aid, and university clinics
+    take housing cases. The Public Defender handles criminal cases, and drafting her defence would be a
+    reserved act for a non-lawyer (lesson 18.4).
+- id: q4
+  question: >-
+    A protest group's members discuss their case strategy with the group's lawyer on a call, and one
+    member then posts a summary of the lawyer's advice in a public Telegram channel. What is the risk?
+  options:
+    - >-
+      None, because lawyer–client privilege can never be lost.
+    - >-
+      The lawyer commits an offence under s. 96 of the Bar Association Law.
+    - >-
+      The post is automatically inadmissible as evidence in any court.
+    - >-
+      Privilege may be treated as waived, and the other side learns the strategy.
+  correct: 3
+  explanation: >-
+    Section 90 protects lawyer–client communications unless the client waives the privilege. Publishing
+    the advice can be treated as a waiver and hands the strategy to the other side. Agree in advance who
+    receives legal advice.

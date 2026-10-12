@@ -1,0 +1,1920 @@
+# Module 18 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m18-001
+  module: 18
+  lesson: "18.1"
+  subject: amuta-legal-person
+  difficulty: 1
+  question: >-
+    From what moment is an amuta a legal person able to sign contracts and sue?
+  options:
+    - >-
+      From the founders' first meeting, if minutes were kept.
+    - >-
+      From the first general assembly that elects a committee.
+    - >-
+      From the registration date shown on its certificate.
+    - >-
+      From the day it opens a bank account in its own name.
+  correct: 2
+  explanation: >-
+    Amutot Law s. 8: from the day stated in the certificate of registration as the registration date,
+    the amuta is a corporation able to hold any right, duty and legal act.
+- id: m18-002
+  module: 18
+  lesson: "18.1"
+  subject: amuta-legal-person
+  difficulty: 1
+  question: >-
+    What is the minimum number of founders the Amutot Law requires?
+  options:
+    - >-
+      Two adults.
+    - >-
+      Three adults, one for each organ.
+    - >-
+      Seven adults, as for a co-operative.
+    - >-
+      One adult and one corporation.
+  correct: 0
+  explanation: >-
+    Section 1: two or more adults may found an amuta. In practice three people are needed to fill the
+    committee and a separate audit committee (lesson 18.2).
+- id: m18-003
+  module: 18
+  lesson: "18.1"
+  subject: prohibited-distribution
+  difficulty: 2
+  question: >-
+    An amuta's committee decides that members who recruited many donors will receive 5% of the
+    donations as a "thank-you". Which rule does this test?
+  options:
+    - >-
+      The duty to publish donor names on the amuta's website.
+    - >-
+      The ban on distributing profits to members, directly or indirectly.
+    - >-
+      The duty to hold a general assembly at least once a year.
+    - >-
+      The rule that membership is personal and not transferable.
+  correct: 1
+  explanation: >-
+    Section 34ג bars any direct or indirect distribution of profits to members, including founders;
+    members who receive one must return it unless they did not and could not know. Small reasonable
+    gifts and benefits as ordinary beneficiaries are excepted.
+- id: m18-004
+  module: 18
+  lesson: "18.1"
+  subject: prohibited-distribution
+  difficulty: 2
+  question: >-
+    A youth amuta gives a member, as one of the children it serves, a place on its subsidised summer
+    camp like every other child. Is this a prohibited distribution?
+  options:
+    - >-
+      Yes, because any benefit to a member is prohibited.
+    - >-
+      Yes, unless the general assembly approves it in advance.
+    - >-
+      No, but only if the member pays full price.
+    - >-
+      No; benefits as one of the public it serves are excepted.
+  correct: 3
+  explanation: >-
+    Section 34ג(ג) excludes a benefit a member receives as one of the public entitled to the amuta's
+    services under its objectives, and small reasonable gifts.
+- id: m18-005
+  module: 18
+  lesson: "18.1"
+  subject: group-vs-amuta
+  difficulty: 2
+  question: >-
+    A group of students organises one demonstration and a petition signed online. They have no money
+    and do not expect to continue after the semester. Which form fits?
+  options:
+    - >-
+      An informal group, with each organiser acting in their own name.
+    - >-
+      A public-benefit company, because the petition is public.
+    - >-
+      An amuta, because only an amuta may hold a demonstration.
+    - >-
+      An Ottoman association, which needs no registration.
+  correct: 0
+  explanation: >-
+    With no money, contracts or long horizon, the five tests point to an informal group. A protest
+    licence, where needed, is requested by individuals; no legal form is required.
+- id: m18-006
+  module: 18
+  lesson: "18.1"
+  subject: group-vs-amuta
+  difficulty: 1
+  question: >-
+    Which of these can an informal, unregistered group NOT do in its own name?
+  options:
+    - >-
+      Publish a joint statement signed by its members.
+    - >-
+      Send a joint letter to the municipality.
+    - >-
+      Open a bank account in the group's name.
+    - >-
+      Hold a public meeting about its cause.
+  correct: 2
+  explanation: >-
+    An unregistered group is not a legal person, so it cannot hold an account, sign contracts or sue in
+    its own name; members can still publish, write jointly and meet.
+- id: m18-007
+  module: 18
+  lesson: "18.1"
+  subject: group-vs-amuta
+  difficulty: 3
+  question: >-
+    A campaign has a large donor ready to give, a three-year plan and a grant requirement, but its
+    four volunteers say they cannot handle reports and meetings. What alternative does lesson 18.1
+    suggest?
+  options:
+    - >-
+      Register anyway; the Registrar exempts small amutot from reports.
+    - >-
+      Take the money privately and register later if the campaign grows.
+    - >-
+      Split the donation among the volunteers to avoid formalities.
+    - >-
+      Ask an existing amuta with similar goals to host the project in writing.
+  correct: 3
+  explanation: >-
+    When the money tests say "yes" but capacity says "no", hosting by an existing amuta under a written
+    agreement avoids creating a body that will soon fail to file. No general exemption from reports
+    exists.
+- id: m18-008
+  module: 18
+  lesson: "18.1"
+  subject: amuta-registration-limits
+  difficulty: 2
+  question: >-
+    On what ground may the Registrar refuse to register an amuta because of its objectives?
+  options:
+    - >-
+      One that negates Israel's existence or democratic character.
+    - >-
+      An objective that criticises the government's policy.
+    - >-
+      An objective that duplicates the work of another amuta.
+    - >-
+      An objective that involves petitions to the courts.
+  correct: 0
+  explanation: >-
+    Section 3 bars registration if an objective negates the existence of the State of Israel or its
+    democratic character, or if the amuta would likely be a cover for unlawful activity. Criticism and
+    litigation are lawful purposes.
+- id: m18-009
+  module: 18
+  lesson: "18.1"
+  subject: group-agreement
+  difficulty: 1
+  question: >-
+    What does a written group agreement do for an unregistered group?
+  options:
+    - >-
+      It turns the group into a legal person once all members sign.
+    - >-
+      It records the members' rules on decisions, money and spokespeople.
+    - >-
+      It exempts members from liability for contracts they sign.
+    - >-
+      It allows the group to issue tax receipts to donors.
+  correct: 1
+  explanation: >-
+    The agreement does not create a legal person or shield signers; it is evidence of what members
+    agreed on purpose, decisions, money, spokespeople and ending, and a first draft of future bylaws.
+- id: m18-010
+  module: 18
+  lesson: "18.1"
+  subject: group-agreement
+  difficulty: 2
+  question: >-
+    Spot the weak clause in this draft group agreement: "The treasurer will keep the group's money and
+    spend it as needed for the campaign."
+  options:
+    - >-
+      It should name the bank, which the law requires for groups.
+    - >-
+      It should state the treasurer's ID number for the Registrar.
+    - >-
+      It sets no approval rule for spending and no reporting to members.
+    - >-
+      It should forbid the group from receiving any money at all.
+  correct: 2
+  explanation: >-
+    Money is the most common source of disputes. A good clause names the holder, keeps the money
+    separate, requires approval above a set amount and a regular balance to members, and bans paying
+    members any profit.
+- id: m18-011
+  module: 18
+  lesson: "18.1"
+  subject: group-agreement
+  difficulty: 2
+  question: >-
+    An informal group's draft agreement says: "Any member may sign contracts in the group's name." Why
+    is this risky?
+  options:
+    - >-
+      Because the group, not the member, would be liable for unpaid bills.
+    - >-
+      Because any signer is personally bound, and others may disagree later.
+    - >-
+      Because contracts signed by informal groups are void by law.
+    - >-
+      Because only the chair may sign for an informal group.
+  correct: 1
+  explanation: >-
+    An unregistered group is not a legal person, so whoever signs is personally bound. The agreement
+    should limit who may commit the group and require a decision first.
+- id: m18-012
+  module: 18
+  lesson: "18.1"
+  subject: forms-comparison
+  difficulty: 1
+  question: >-
+    Which legal form is typically chosen by larger or institutional public-benefit bodies, registered
+    with the Companies Registrar rather than the Registrar of Amutot?
+  options:
+    - >-
+      An Ottoman association (אגודה עותמאנית).
+    - >-
+      A co-operative society (אגודה שיתופית).
+    - >-
+      A public-benefit company (חל״צ).
+    - >-
+      A limited partnership (שותפות מוגבלת).
+  correct: 2
+  explanation: >-
+    A public-benefit company is a company under the Companies Law that operates for public purposes;
+    most activist groups register as amutot instead.
+- id: m18-013
+  module: 18
+  lesson: "18.1"
+  subject: amuta-legal-person
+  difficulty: 2
+  question: >-
+    An amuta's bylaws say members must attend two activities a year. A member argues the rule cannot
+    bind him because he never signed it. What does the law say?
+  options:
+    - >-
+      Bylaws bind only members who sign them individually.
+    - >-
+      Bylaws are internal guidelines without legal force.
+    - >-
+      Bylaws bind members only after court approval.
+    - >-
+      Bylaws act as a contract between the amuta and its members.
+  correct: 3
+  explanation: >-
+    Section 9: the bylaws have the force of a contract between the amuta and its members and among the
+    members themselves.
+- id: m18-014
+  module: 18
+  lesson: "18.1"
+  subject: group-vs-amuta
+  difficulty: 3
+  question: >-
+    Members of an informal neighbourhood group each have a personal dispute with the same landlord.
+    One member, the group's "expert", offers to write and file all their claims weekly. What is the
+    safest pattern?
+  options:
+    - >-
+      Each member files their own claim; the group shares information and templates.
+    - >-
+      The expert files all claims in his name as the group's representative.
+    - >-
+      The group registers an amuta so the expert may file for members.
+    - >-
+      The expert files the claims if members reimburse only his expenses.
+  correct: 0
+  explanation: >-
+    Filing claims for others regularly or for any consideration touches s. 20 of the Bar Association
+    Law; registering an amuta does not change that. Each member acting in their own name, with shared
+    information, is the safe pattern.
+- id: m18-015
+  module: 18
+  lesson: "18.1"
+  subject: forms-comparison
+  difficulty: 2
+  question: >-
+    A donor asks an informal group for a receipt entitling her to the s. 46 donation credit. What is
+    the correct answer?
+  options:
+    - >-
+      The group can issue it if the treasurer signs it.
+    - >-
+      The group can issue it once it has a written group agreement.
+    - >-
+      The donor can claim the credit with any receipt over the minimum.
+    - >-
+      Not possible; only an approved public institution can give one.
+  correct: 3
+  explanation: >-
+    The s. 46 credit applies to donations to an institution approved by the Tax Authority; an informal
+    group cannot be approved, and a new amuta must first qualify (lesson 18.3).
+- id: m18-016
+  module: 18
+  lesson: "18.1"
+  subject: group-vs-amuta
+  difficulty: 3
+  question: >-
+    A group registered an amuta two years ago but nobody has filed reports or paid fees since. It now
+    wants to start fresh with a new amuta under a similar name. What is the problem?
+  options:
+    - >-
+      None; a new amuta replaces the old one automatically.
+    - >-
+      The old amuta's debts remain, and the name may be blocked.
+    - >-
+      Only the founders of the old amuta may register a new one.
+    - >-
+      A group may register only one amuta in its lifetime.
+  correct: 1
+  explanation: >-
+    The old amuta still exists until struck off or dissolved, with unpaid fees; names confusingly
+    similar to a registered body, or one struck off in the last two years, cannot be registered
+    (s. 4(ב)). Dissolve or revive the old one first.
+- id: m18-017
+  module: 18
+  lesson: "18.2"
+  subject: amuta-name
+  difficulty: 1
+  question: >-
+    Which ending must an amuta's full name carry on its publications?
+  options:
+    - >-
+      "בע״מ" (limited company)
+    - >-
+      "(ע״ר)", "עמותה" or "עמותה רשומה"
+    - >-
+      "(חל״צ)" (public-benefit company)
+    - >-
+      "מלכ״ר" (non-profit for VAT)
+  correct: 1
+  explanation: >-
+    Section 8א requires the full registered name, without abbreviations, ending with "עמותה", "עמותה
+    רשומה" or "(ע״ר)", on every document, sign and publication.
+- id: m18-018
+  module: 18
+  lesson: "18.2"
+  subject: amuta-name
+  difficulty: 2
+  question: >-
+    Founders want to call their amuta "המשרד הממשלתי לזכויות הדייר". What is the likely outcome?
+  options:
+    - >-
+      Registration, since names are the founders' choice.
+    - >-
+      Registration, if the founders add "(ע״ר)" at the end.
+    - >-
+      Refusal, because the name may mislead the public.
+    - >-
+      Refusal, because names may not mention rights.
+  correct: 2
+  explanation: >-
+    Section 4(א) bars a name that may mislead or harm public order; a name suggesting a government
+    ministry misleads.
+- id: m18-019
+  module: 18
+  lesson: "18.2"
+  subject: amuta-name
+  difficulty: 2
+  question: >-
+    Your chosen name is almost identical to an amuta struck off fourteen months ago. Can you register
+    it?
+  options:
+    - >-
+      Yes, because the other amuta no longer exists.
+    - >-
+      Yes, if you notify the old founders by registered mail.
+    - >-
+      No; such names are blocked for two years after striking off.
+    - >-
+      No; a struck-off amuta's name is blocked forever.
+  correct: 2
+  explanation: >-
+    Section 4(ב)(2) bars a name identical or confusingly similar to a body whose registration was
+    cancelled less than two years ago.
+- id: m18-020
+  module: 18
+  lesson: "18.2"
+  subject: registration-process
+  difficulty: 1
+  question: >-
+    How is an application to register a new amuta normally filed?
+  options:
+    - >-
+      Online, by the founders, to the Registrar of Amutot.
+    - >-
+      On paper at the nearest Magistrates' Court.
+    - >-
+      Through the local authority where the amuta will work.
+    - >-
+      Only by a lawyer, through the Bar's online system.
+  correct: 0
+  explanation: >-
+    Section 2(א): the founders file online with the Registrar. Paper filing is allowed only where the
+    Registrar finds circumstances that justify it (s. 2(ג)); no lawyer is required.
+- id: m18-021
+  module: 18
+  lesson: "18.2"
+  subject: registration-process
+  difficulty: 2
+  question: >-
+    One founder has no national online identification and does not want to get it. How can her
+    identity be verified for the application?
+  options:
+    - >-
+      By a police officer's stamp on a copy of her ID card.
+    - >-
+      By the other founders declaring that they know her.
+    - >-
+      It cannot; every founder must use online identification.
+    - >-
+      By a lawyer, as an alternative to online verification.
+  correct: 3
+  explanation: >-
+    Section 2(א): founders' identities are verified online as the Registrar sets, or by a lawyer.
+- id: m18-022
+  module: 18
+  lesson: "18.2"
+  subject: registration-process
+  difficulty: 2
+  question: >-
+    Which details must the application to register an amuta include, according to s. 2(א)?
+  options:
+    - >-
+      The name, objectives, Israeli and digital addresses, and founders' details.
+    - >-
+      The name, a business plan for three years, and a bank's approval.
+    - >-
+      The objectives, a list of planned donors, and a lawyer's opinion.
+    - >-
+      The name, the founders' tax files, and a local authority's consent.
+  correct: 0
+  explanation: >-
+    The application states the name, objectives, Israeli address, digital address, and each founder's
+    name, address and ID number, with a declaration signed by all founders.
+- id: m18-023
+  module: 18
+  lesson: "18.2"
+  subject: registration-process
+  difficulty: 3
+  question: >-
+    After filing, two of five founders want to change an objective before the amuta is registered.
+    What does s. 2(ב) require?
+  options:
+    - >-
+      The consent of all five founders, signed before a lawyer.
+    - >-
+      A founders' majority, after 14 days' notice to all.
+    - >-
+      A fresh application and a second registration fee.
+    - >-
+      Nothing; changes are made after registration only.
+  correct: 1
+  explanation: >-
+    Before registration, the Registrar accepts a change signed by a majority of the original founders,
+    if notice of the decision was sent to all founders by registered mail at least 14 days before.
+- id: m18-024
+  module: 18
+  lesson: "18.2"
+  subject: registration-process
+  difficulty: 2
+  question: >-
+    When may the Registrar refuse a complete application to register an amuta?
+  options:
+    - >-
+      Whenever he thinks the amuta is unnecessary.
+    - >-
+      If a similar amuta already works in the same town.
+    - >-
+      Only on the grounds in ss. 1, 3 and 4.
+    - >-
+      If the founders have not yet raised any money.
+  correct: 2
+  explanation: >-
+    Section 5: the Registrar registers the amuta unless he is barred by s. 1 (founders, lawful
+    non-profit purpose), s. 3 (objectives) or s. 4(א)–(ב) (name).
+- id: m18-025
+  module: 18
+  lesson: "18.2"
+  subject: bylaws
+  difficulty: 1
+  question: >-
+    Where are the model bylaws (תקנון מצוי) of an amuta found?
+  options:
+    - >-
+      In regulations issued by the Registrar each year.
+    - >-
+      In the First Schedule to the Amutot Law.
+    - >-
+      On the Bar Association's website.
+    - >-
+      In the Companies Law, Fourth Schedule.
+  correct: 1
+  explanation: >-
+    Section 10 refers to the model bylaws in the First Schedule to the Amutot Law; they apply if the
+    founders file no bylaws of their own.
+- id: m18-026
+  module: 18
+  lesson: "18.2"
+  subject: bylaws
+  difficulty: 2
+  question: >-
+    An amuta's own bylaws say nothing about how a member may resign. Which rule applies?
+  options:
+    - >-
+      The model bylaws: written notice 30 days ahead.
+    - >-
+      Members may never resign unless the bylaws allow it.
+    - >-
+      The Registrar decides each resignation separately.
+    - >-
+      Resignation requires a general assembly vote.
+  correct: 0
+  explanation: >-
+    Section 12(ב): matters the own bylaws leave out are governed by the model bylaws. Item 3(א)(2)
+    there: resignation by written notice to the committee thirty days in advance.
+- id: m18-027
+  module: 18
+  lesson: "18.2"
+  subject: bylaws
+  difficulty: 3
+  question: >-
+    Draft own bylaws say: "A member may be expelled by the chair at any time without explanation." What
+    is wrong with this clause?
+  options:
+    - >-
+      Nothing; expulsion rules are entirely up to the bylaws.
+    - >-
+      Only the Registrar may expel members of an amuta.
+    - >-
+      Expulsion needs grounds in the bylaws and a hearing.
+    - >-
+      Members may be expelled only by a court order.
+  correct: 2
+  explanation: >-
+    Section 16(2): a member is expelled only on grounds set out in the bylaws and after a proper
+    opportunity to be heard. The model bylaws add a warning and time to correct for most grounds.
+- id: m18-028
+  module: 18
+  lesson: "18.2"
+  subject: bylaws
+  difficulty: 2
+  question: >-
+    Under the model bylaws, what notice must be given to members before a general assembly?
+  options:
+    - >-
+      48 hours, by text message to each member.
+    - >-
+      At least ten days, with time, place and agenda.
+    - >-
+      Thirty days, by registered mail to each member.
+    - >-
+      No notice is required if the committee agrees.
+  correct: 1
+  explanation: >-
+    Item 6 of the model bylaws: a general assembly is convened by notice to each member at least ten
+    days in advance, stating the day, time, place and agenda.
+- id: m18-029
+  module: 18
+  lesson: "18.2"
+  subject: bylaws
+  difficulty: 2
+  question: >-
+    Under the model bylaws, a general assembly opens with fewer than a quarter of the members present.
+    What happens?
+  options:
+    - >-
+      The decisions are valid if the chair approves them.
+    - >-
+      The Registrar must convene a new assembly.
+    - >-
+      It is postponed a week; then those present decide.
+    - >-
+      The amuta is treated as having stopped operating.
+  correct: 2
+  explanation: >-
+    Item 8: without a quorum of a quarter within an hour, the assembly is postponed by a week to the
+    same time and place, and those present may then decide whatever their number.
+- id: m18-030
+  module: 18
+  lesson: "18.2"
+  subject: founders-roles
+  difficulty: 1
+  question: >-
+    Who serves as the amuta's committee until the first committee is elected?
+  options:
+    - >-
+      The Registrar's appointee.
+    - >-
+      The founders.
+    - >-
+      The first ten members to join.
+    - >-
+      The amuta's accountant.
+  correct: 1
+  explanation: >-
+    Section 26(א): until the first committee is elected, the founders serve as the committee.
+- id: m18-031
+  module: 18
+  lesson: "18.2"
+  subject: founders-roles
+  difficulty: 2
+  question: >-
+    The founders want their paid bookkeeper, who is also a member, to sit on the audit committee. What
+    does s. 33 say?
+  options:
+    - >-
+      Allowed, if the bookkeeper's fee is below a set amount.
+    - >-
+      Allowed, if the general assembly approves it.
+    - >-
+      Allowed only in the amuta's first two years.
+    - >-
+      Not allowed: a person paid for other services may not serve.
+  correct: 3
+  explanation: >-
+    Section 33(א)(2): someone who provides paid services to the amuta, other than as a committee or
+    audit committee member, may not serve on either body.
+- id: m18-032
+  module: 18
+  lesson: "18.2"
+  subject: founders-roles
+  difficulty: 1
+  question: >-
+    From what age may a person be a member of an amuta?
+  options:
+    - >-
+      16
+    - >-
+      17
+    - >-
+      18
+    - >-
+      21
+  correct: 1
+  explanation: >-
+    Section 15(א): every person aged 17 or more, and any corporation, may be a member. Committee and
+    audit committee members may not be minors (s. 33).
+- id: m18-033
+  module: 18
+  lesson: "18.2"
+  subject: after-registration
+  difficulty: 2
+  question: >-
+    A month after registration, the amuta elects a new committee member. By when must it notify the
+    Registrar?
+  options:
+    - >-
+      Within two weeks of the decision.
+    - >-
+      With the annual financial report.
+    - >-
+      Within 90 days.
+    - >-
+      There is no duty to notify.
+  correct: 0
+  explanation: >-
+    Section 38(א)(1) and (ב)(1): notices of committee or audit committee elections, address changes and
+    similar changes are filed online within two weeks of the decision or event.
+- id: m18-034
+  module: 18
+  lesson: "18.2"
+  subject: after-registration
+  difficulty: 2
+  question: >-
+    Which registers must a new amuta keep from the start?
+  options:
+    - >-
+      A register of donors and a register of volunteers.
+    - >-
+      A register of members and a register of committee members.
+    - >-
+      A register of meetings with public officials only.
+    - >-
+      No registers until its turnover passes the audit threshold.
+  correct: 1
+  explanation: >-
+    Sections 18 and 29: a register of members (name, address, ID, dates) and a register of committee
+    members. Members may inspect them (s. 39(א)).
+- id: m18-035
+  module: 18
+  lesson: "18.2"
+  subject: objectives
+  difficulty: 3
+  question: >-
+    Three years after registration, an amuta for coastal conservation wants to add "promoting public
+    transport in the Negev" as an objective. Its assets include donations given for beach clean-ups.
+    What does s. 11 require?
+  options:
+    - >-
+      A committee decision filed with the Registrar within two weeks.
+    - >-
+      Nothing; objectives may be added freely by the committee.
+    - >-
+      A new amuta, because objectives can never be changed.
+    - >-
+      An assembly decision after an asset report, then approval.
+  correct: 3
+  explanation: >-
+    A change of objectives is decided by the general assembly after the committee presents the assets
+    and commitments made for the existing objectives; a close objective needs the Registrar's
+    registration, an unrelated one the court's approval (s. 11(ב)–(ג)).
+- id: m18-036
+  module: 18
+  lesson: "18.2"
+  subject: objectives
+  difficulty: 2
+  question: >-
+    Which draft objective is most likely to cause problems for a new amuta run by non-lawyers?
+  options:
+    - >-
+      "להנגיש לציבור מידע כללי על זכויות בתחום הדיור"
+    - >-
+      "לקיים פעילות קהילתית ותרבותית בשכונה"
+    - >-
+      "לתת ייעוץ משפטי אישי לדיירים בסכסוכים"
+    - >-
+      "לפעול מול הרשויות לקידום מדיניות דיור הוגנת"
+  correct: 2
+  explanation: >-
+    Personal legal advice to others, given as an organised activity, is reserved to lawyers (Bar
+    Association Law s. 20(4)). General information, community work and advocacy are lawful objectives.
+- id: m18-037
+  module: 18
+  lesson: "18.3"
+  subject: compliance-calendar
+  difficulty: 1
+  question: >-
+    By what date must an amuta file its annual financial report with the Registrar?
+  options:
+    - >-
+      31 March of the following year.
+    - >-
+      30 June of the following year.
+    - >-
+      31 December of the same year.
+    - >-
+      Within 90 days of the general assembly.
+  correct: 1
+  explanation: >-
+    Section 36(ד): by 30 June of the year after the report period, signed by two committee members;
+    the Registrar may extend.
+- id: m18-038
+  module: 18
+  lesson: "18.3"
+  subject: compliance-calendar
+  difficulty: 2
+  question: >-
+    The committee gives the financial report to the audit committee three days before the general
+    assembly. What rule has it broken?
+  options:
+    - >-
+      It must reach the audit committee at least two weeks before.
+    - >-
+      The report must first be approved by the Registrar.
+    - >-
+      The report must be published on the website a month before.
+    - >-
+      The report must be sent to every member by registered mail.
+  correct: 0
+  explanation: >-
+    Section 36(א): the financial report is given to the audit committee at least two weeks before the
+    general assembly (or earlier if the bylaws say so), and then brought to the assembly for approval.
+- id: m18-039
+  module: 18
+  lesson: "18.3"
+  subject: compliance-calendar
+  difficulty: 2
+  question: >-
+    How many committee members must sign the financial report filed with the Registrar?
+  options:
+    - >-
+      One, the chair.
+    - >-
+      All committee members.
+    - >-
+      Two committee members.
+    - >-
+      The audit committee only.
+  correct: 2
+  explanation: >-
+    Section 36(ד) and s. 38(א): documents and the financial report are filed signed by two committee
+    members.
+- id: m18-040
+  module: 18
+  lesson: "18.3"
+  subject: compliance-calendar
+  difficulty: 2
+  question: >-
+    Besides the financial report, which annual report must every amuta file with it?
+  options:
+    - >-
+      A report of all meetings with public officials.
+    - >-
+      A list of every member's address and ID.
+    - >-
+      A verbal report on its activity.
+    - >-
+      A tax return for each committee member.
+  correct: 2
+  explanation: >-
+    Section 37א: the committee prepares a yearly verbal report (דוח מילולי), filed together with the
+    financial report.
+- id: m18-041
+  module: 18
+  lesson: "18.3"
+  subject: compliance-calendar
+  difficulty: 3
+  question: >-
+    A businessman files a lawsuit against an amuta and its chair over a campaign poster. What reporting
+    duty does the amuta now have toward the Registrar?
+  options:
+    - >-
+      None until judgment is given.
+    - >-
+      Report it in next year's verbal report only.
+    - >-
+      Notify the Registrar within two weeks of the claim.
+    - >-
+      Ask the Registrar's permission to defend the claim.
+  correct: 2
+  explanation: >-
+    Section 38(א)(4) and (ב)(1): notice of a claim against the amuta, or against a committee member in
+    that capacity, with the parties, court, cause and case number, is filed within two weeks.
+- id: m18-042
+  module: 18
+  lesson: "18.3"
+  subject: striking-off
+  difficulty: 2
+  question: >-
+    Which of these, after 90 days, leads to an amuta being treated as having stopped operating?
+  options:
+    - >-
+      Not holding a committee meeting for three months.
+    - >-
+      Not paying the annual fee after the deadline.
+    - >-
+      Not publishing its objectives on social media.
+    - >-
+      Not admitting new members during the year.
+  correct: 1
+  explanation: >-
+    Section 59(א): failing to pay a fee, failing to file the financial report, or failing to obey a
+    court decision under the law, within 90 days, makes the amuta one that "stopped operating"; the
+    Registrar may strike it off.
+- id: m18-043
+  module: 18
+  lesson: "18.3"
+  subject: annual-fee
+  difficulty: 2
+  question: >-
+    In which of these cases does an amuta pay the much lower discounted annual fee?
+  options:
+    - >-
+      When it has fewer than ten registered members.
+    - >-
+      When it has a proper-management certificate.
+    - >-
+      When its objectives are educational or religious.
+    - >-
+      In its first two years, or if turnover ≤ ₪300,000.
+  correct: 3
+  explanation: >-
+    The Fees Regulations Schedule item 2(ד): the discounted fee applies in the first two years after
+    the year of incorporation, or when the turnover reported in the last verbal report did not exceed
+    ₪300,000.
+- id: m18-044
+  module: 18
+  lesson: "18.3"
+  subject: annual-fee
+  difficulty: 1
+  question: >-
+    When do the amounts of the amuta fees change under the Fees Regulations?
+  options:
+    - >-
+      Every 1 January, by the price index.
+    - >-
+      Every 1 April, by Knesset decision.
+    - >-
+      Every five years, by the Minister.
+    - >-
+      Only when the Registrar announces a change.
+  correct: 0
+  explanation: >-
+    Regulation 3(א): the amounts change on 1 January each year according to the consumer price index;
+    the early-payment discount runs to the end of March.
+- id: m18-045
+  module: 18
+  lesson: "18.3"
+  subject: proper-management
+  difficulty: 2
+  question: >-
+    A new amuta wants to use the FOI fee exemption for amutot. What does it need?
+  options:
+    - >-
+      A letter from a Knesset member supporting its work.
+    - >-
+      A valid proper-management certificate.
+    - >-
+      Approval as a public institution under s. 46.
+    - >-
+      At least 100 registered members.
+  correct: 1
+  explanation: >-
+    Lesson 05.2: the FOI fee exemption applies to a registered amuta or public-benefit company with a
+    proper-management certificate, acting for a public purpose.
+- id: m18-046
+  module: 18
+  lesson: "18.3"
+  subject: proper-management
+  difficulty: 3
+  question: >-
+    An amuta held its assembly but filed its financial report without the minutes approving it. In
+    July it asks for a proper-management certificate. What is the likely result?
+  options:
+    - >-
+      The certificate is issued, because the report was filed on time.
+    - >-
+      No certificate until the filing is complete.
+    - >-
+      The certificate is issued with a note about the minutes.
+    - >-
+      The amuta is struck off at once for incomplete filing.
+  correct: 1
+  explanation: >-
+    Section 38(א)(3) requires the assembly's minutes approving the report, the audit committee's
+    recommendation and any accountant's opinion. The Registrar issues the certificate only after full
+    filing.
+- id: m18-047
+  module: 18
+  lesson: "18.3"
+  subject: foreign-state-disclosure
+  difficulty: 1
+  question: >-
+    Which of these is a "foreign state entity" under the Amutot Law s. 36א?
+  options:
+    - >-
+      A private family foundation in New York.
+    - >-
+      A British citizen donating from London.
+    - >-
+      An agency of the European Union.
+    - >-
+      An Israeli company with foreign shareholders.
+  correct: 2
+  explanation: >-
+    The definition covers foreign states, unions of states and their organs, foreign local
+    authorities, the Palestinian Authority, and corporations they set up or control. Private
+    individuals and private foundations are not included.
+- id: m18-048
+  module: 18
+  lesson: "18.3"
+  subject: foreign-state-disclosure
+  difficulty: 2
+  question: >-
+    An amuta receives a donation from a foreign government in August. By when must it file the
+    quarterly report?
+  options:
+    - >-
+      Within a week after the end of September.
+    - >-
+      By 30 June next year, with the financial report.
+    - >-
+      Within 30 days of receiving the money.
+    - >-
+      Before spending any of the money.
+  correct: 0
+  explanation: >-
+    Disclosure Law s. 2: within a week after the end of the quarter in which the donation was received,
+    in the online form, with the donor, amount, purpose and conditions.
+- id: m18-049
+  module: 18
+  lesson: "18.3"
+  subject: foreign-state-disclosure
+  difficulty: 3
+  question: >-
+    An amuta's grant comes from a foundation that is wholly owned by a European government, though it
+    calls itself "independent". The amuta did not ask about the source. What does the law expect?
+  options:
+    - >-
+      Nothing, because the foundation describes itself as independent.
+    - >-
+      Reporting only if the foundation itself says it is a state entity.
+    - >-
+      Reporting only if the amount exceeds ₪300,000.
+    - >-
+      Checking the source, and reporting if it should have known.
+  correct: 3
+  explanation: >-
+    Disclosure Law s. 6 and Amutot Law s. 36א(ב)(3): the amuta must do everything it can to find out
+    whether a donation is from a foreign state entity; a corporation controlled by a foreign state is
+    one, and the duty applies if the amuta knew or should have known.
+- id: m18-050
+  module: 18
+  lesson: "18.3"
+  subject: foreign-state-disclosure
+  difficulty: 2
+  question: >-
+    When does an amuta have to label its billboards and letters to officials as "mainly funded by
+    foreign state entities"?
+  options:
+    - >-
+      Whenever it received any foreign-state donation that year.
+    - >-
+      When such donations were its main funding last reported year.
+    - >-
+      When foreign donations of any kind exceed ₪20,000.
+    - >-
+      Only when the Registrar orders it after an inquiry.
+  correct: 1
+  explanation: >-
+    Disclosure Law s. 5א, added in 2016, applies to an amuta whose main sources of funding in the last
+    year for which it had to file a financial report were donations from foreign state entities.
+- id: m18-051
+  module: 18
+  lesson: "18.3"
+  subject: foreign-state-disclosure
+  difficulty: 2
+  question: >-
+    What kind of offence is failing to file a quarterly foreign-state report?
+  options:
+    - >-
+      A strict-liability offence punished by a fine.
+    - >-
+      A fraud offence punished by three years' prison.
+    - >-
+      A civil wrong with no criminal penalty.
+    - >-
+      A disciplinary breach for the Bar Association.
+  correct: 0
+  explanation: >-
+    Amutot Law s. 64א(א)(8): failing to file quarterly reports under the Disclosure Law is an offence of
+    strict liability, with a fine under Penal Law s. 61(a)(2), for the amuta and the person responsible.
+- id: m18-052
+  module: 18
+  lesson: "18.3"
+  subject: s46-tax-credit
+  difficulty: 1
+  question: >-
+    What credit does an individual get for a donation to an approved public institution under s. 46?
+  options:
+    - >-
+      A deduction of the full donation from taxable income.
+    - >-
+      A tax credit of 35% of the donation, within limits.
+    - >-
+      A refund of VAT paid on the donation.
+    - >-
+      A credit of 50% for donations above ₪1,000.
+  correct: 1
+  explanation: >-
+    Section 46(א): an individual receives a tax credit of 35% of the donation above an indexed minimum,
+    up to a ceiling of 30% of taxable income or an indexed amount, whichever is lower.
+- id: m18-053
+  module: 18
+  lesson: "18.3"
+  subject: s46-tax-credit
+  difficulty: 2
+  question: >-
+    An approved amuta stops filing its annual reports for two years in a row. What may happen to its
+    s. 46 approval?
+  options:
+    - >-
+      Nothing; approval is permanent once given.
+    - >-
+      It is suspended only for donations above ₪10,000.
+    - >-
+      It passes automatically to a similar amuta.
+    - >-
+      The Minister of Finance may cancel it.
+  correct: 3
+  explanation: >-
+    Section 46(א1): if an approved institution did not file two consecutive annual reports, or does not
+    keep proper books, the Minister of Finance may cancel the approval; renewal needs the Finance
+    Committee's approval (s. 46(א2)).
+- id: m18-054
+  module: 18
+  lesson: "18.3"
+  subject: legislation-status
+  difficulty: 3
+  question: >-
+    A government bill to give the Registrar power to impose financial sanctions on amutot was tabled
+    for a first reading in December 2025 but had not passed it when the 25th Knesset dissolved. What is
+    its status after the elections?
+  options:
+    - >-
+      It continues automatically in the 26th Knesset.
+    - >-
+      It becomes law after 90 days unless the Knesset objects.
+    - >-
+      It lapses; the government would have to table it again.
+    - >-
+      It is binding as a government regulation meanwhile.
+  correct: 2
+  explanation: >-
+    Continuity is possible only for bills that passed a first reading (lesson 12.1). A bill tabled but
+    not yet passed at first reading lapses with the Knesset.
+- id: m18-055
+  module: 18
+  lesson: "18.3"
+  subject: member-rights
+  difficulty: 2
+  question: >-
+    A member asks to see the minutes of last year's general assembly and the financial reports
+    presented there. The chair refuses. What does the law say?
+  options:
+    - >-
+      Members may inspect them at any reasonable time.
+    - >-
+      Only committee members may see the minutes.
+    - >-
+      The member must file an FOI request with the amuta.
+    - >-
+      The member must ask the Registrar for a copy for a fee.
+  correct: 0
+  explanation: >-
+    Section 39(א): the registers, the minutes of general assemblies and the financial reports presented
+    there are open to every member at any reasonable time. Refusing is a strict-liability offence
+    (s. 64א(א)(6)).
+- id: m18-056
+  module: 18
+  lesson: "18.3"
+  subject: member-rights
+  difficulty: 3
+  question: >-
+    A tenth of an amuta's members demand an extraordinary general assembly in writing. Three weeks pass
+    and the committee does nothing. What can the members do?
+  options:
+    - >-
+      Nothing; only the committee may convene an assembly.
+    - >-
+      Petition the High Court for an order against the chair.
+    - >-
+      Convene it themselves, within three months of the demand.
+    - >-
+      Ask the audit committee to dissolve the amuta.
+  correct: 2
+  explanation: >-
+    Section 20(ב)–(ב1): the committee must convene an assembly on the written demand of a tenth of the
+    members; if it does not within 21 days, the demanders may convene it themselves within three
+    months, at the amuta's expense.
+- id: m18-057
+  module: 18
+  lesson: "18.4"
+  subject: s20-triggers
+  difficulty: 1
+  question: >-
+    What are the two triggers that bring an act under Bar Association Law s. 20?
+  options:
+    - >-
+      Acting in court, or acting before a ministry.
+    - >-
+      Acting as an occupation, or for consideration.
+    - >-
+      Acting without a licence, or acting in writing.
+    - >-
+      Acting for a company, or acting for a minor.
+  correct: 1
+  explanation: >-
+    Section 20: the reserved acts may not be done "דרך עיסוק, או בתמורה אף שלא דרך עיסוק" except by a
+    lawyer — as an occupation, or for consideration even when not an occupation.
+- id: m18-058
+  module: 18
+  lesson: "18.4"
+  subject: s20-triggers
+  difficulty: 2
+  question: >-
+    A retired engineer helps his neighbour, once and for free, write a letter demanding repairs from
+    the building contractor. Which description is closest to the text of s. 20?
+  options:
+    - >-
+      Reserved, because any letter about a contract is a legal document.
+    - >-
+      Reserved, because the neighbour could have hired a lawyer.
+    - >-
+      Textually outside s. 20: no occupation and no consideration.
+    - >-
+      Allowed only if the engineer signs the letter himself.
+  correct: 2
+  explanation: >-
+    Drafting a legal document for another is a reserved act, but only when done as an occupation or for
+    consideration. A single unpaid favour is outside the words of s. 20 — a narrow gap, not a service
+    model.
+- id: m18-059
+  module: 18
+  lesson: "18.4"
+  subject: s20-triggers
+  difficulty: 3
+  question: >-
+    An activist does not charge for helping people write appeals, but asks each to "consider a
+    donation to our amuta" afterwards. Most do. How does this look under s. 20?
+  options:
+    - >-
+      Fine, because the money goes to the amuta, not to her.
+    - >-
+      Fine, because donations are voluntary by definition.
+    - >-
+      A problem only if the donations exceed the minimum wage.
+    - >-
+      Likely consideration, and regular help may also be an occupation.
+  correct: 3
+  explanation: >-
+    Consideration need not be paid to the helper personally or be called a fee; donations tied to the
+    help can be consideration, and the 2009 Bar decision rejects any payment, even indirect. Regular
+    help is "an occupation" anyway.
+- id: m18-060
+  module: 18
+  lesson: "18.4"
+  subject: reserved-acts
+  difficulty: 1
+  question: >-
+    Which of these is NOT one of the four kinds of act reserved by s. 20?
+  options:
+    - >-
+      Representing another person before a court.
+    - >-
+      Drafting a document of a legal character for another.
+    - >-
+      Giving legal advice and legal opinions.
+    - >-
+      Explaining in a public lecture what a law says.
+  correct: 3
+  explanation: >-
+    The reserved acts are representation before courts and quasi-judicial bodies, representation before
+    listed authorities, drafting legal documents for another, and legal advice. A public lecture on the
+    law is general information.
+- id: m18-061
+  module: 18
+  lesson: "18.4"
+  subject: reserved-acts
+  difficulty: 2
+  question: >-
+    Before which of these bodies is representing another person listed in s. 20(2)?
+  options:
+    - >-
+      The Execution Office (הוצאה לפועל).
+    - >-
+      A municipality's FOI officer.
+    - >-
+      A Knesset committee.
+    - >-
+      The Public Complaints Commissioner.
+  correct: 0
+  explanation: >-
+    Section 20(2) lists the Execution Office, the Land Registry, the condominium registrar, the
+    registrars of companies, partnerships, co-operatives, patents, designs and trademarks, and certain
+    tax authorities.
+- id: m18-062
+  module: 18
+  lesson: "18.4"
+  subject: reserved-acts
+  difficulty: 3
+  question: >-
+    A volunteer regularly writes complaints to the Public Complaints Commissioner for elderly people in
+    his town, in his own words, for free. The Commissioner is not in s. 20(2). Is he safe?
+  options:
+    - >-
+      Yes, because the Commissioner is not a court or a listed authority.
+    - >-
+      Yes, because complaints are not legal documents.
+    - >-
+      Not necessarily: drafting for others may still fall under s. 20(3).
+    - >-
+      No, because only lawyers may complain to the Commissioner.
+  correct: 2
+  explanation: >-
+    Items (1)–(2) concern representation before courts and listed authorities, but item (3), drafting
+    documents of a legal character for another person, does not depend on the forum. Done regularly,
+    it can be "an occupation". Anyone may complain in their own name.
+- id: m18-063
+  module: 18
+  lesson: "18.4"
+  subject: s21-savings
+  difficulty: 1
+  question: >-
+    Which representation does s. 21 expressly leave outside s. 20?
+  options:
+    - >-
+      Representation before the Supreme Court in civil appeals.
+    - >-
+      Representation before religious and military courts.
+    - >-
+      Representation before the Execution Office.
+    - >-
+      Representation before the Land Registry.
+  correct: 1
+  explanation: >-
+    Section 21(2): s. 20 does not affect representation before religious and military courts. Other
+    items save the Attorney General's powers, bodies whose own law regulates representation, patent
+    agents, accountants and more.
+- id: m18-064
+  module: 18
+  lesson: "18.4"
+  subject: s21-savings
+  difficulty: 2
+  question: >-
+    A public-interest lawyer asks a planning activist to write an expert legal-planning opinion for a
+    petition the lawyer is filing. Does s. 20 stop the activist?
+  options:
+    - >-
+      Yes, because legal opinions are reserved to lawyers.
+    - >-
+      Yes, unless the activist is a licensed planner.
+    - >-
+      No, but only if the opinion is unsigned.
+    - >-
+      No; s. 21(7) saves opinions requested by a lawyer.
+  correct: 3
+  explanation: >-
+    Section 21(7) saves a legal opinion given by a person asked to do so by a lawyer or a state
+    authority. Activists can contribute expertise to a case through the lawyer.
+- id: m18-065
+  module: 18
+  lesson: "18.4"
+  subject: small-claims-representation
+  difficulty: 2
+  question: >-
+    Which person may NOT represent a party in small claims under Courts Law s. 63(ב), even with the
+    court's approval?
+  options:
+    - >-
+      A friend who does it once, unpaid.
+    - >-
+      A relative with a filed power of attorney.
+    - >-
+      A consumer-claims business that charges a fee.
+    - >-
+      A neighbour who has never represented anyone.
+  correct: 2
+  explanation: >-
+    Section 63(ב) bars representation by someone who represents regularly, in the ordinary course of
+    business, or for payment. The others may be approved by the court.
+- id: m18-066
+  module: 18
+  lesson: "18.4"
+  subject: small-claims-representation
+  difficulty: 2
+  question: >-
+    When may a lawyer represent a party in the small claims court?
+  options:
+    - >-
+      Always, exactly as in any other civil court.
+    - >-
+      Only with the court's permission, for special reasons.
+    - >-
+      Only for a defendant that is a company.
+    - >-
+      Never, since small claims ban lawyers completely.
+  correct: 1
+  explanation: >-
+    Courts Law s. 63(א): representation by a lawyer in small claims is allowed only with the court's
+    permission and for special reasons recorded by the court.
+- id: m18-067
+  module: 18
+  lesson: "18.4"
+  subject: medical-rights-case
+  difficulty: 1
+  question: >-
+    What kind of body was the appellant in the Medical Rights Centre case, ע״א 4223/12?
+  options:
+    - >-
+      A for-profit company paid by clients to claim benefits.
+    - >-
+      A university legal clinic run by law students.
+    - >-
+      A registered amuta of volunteer doctors.
+    - >-
+      A government unit of the National Insurance Institute.
+  correct: 0
+  explanation: >-
+    The appellant, המרכז למימוש זכויות רפואיות בע״מ, was a company that helped clients, for payment,
+    claim rights from the National Insurance Institute and insurers; the Bar sued it for unlicensed
+    practice.
+- id: m18-068
+  module: 18
+  lesson: "18.4"
+  subject: medical-rights-case
+  difficulty: 2
+  question: >-
+    Under the line drawn in ע״א 4223/12, which act is legal advice reserved to lawyers?
+  options:
+    - >-
+      Publishing the text of the National Insurance Law online.
+    - >-
+      Posting the official claim forms on a website.
+    - >-
+      Choosing which benefit the person should claim.
+    - >-
+      Typing a person's name and address into the form.
+  correct: 2
+  explanation: >-
+    The Court treated choosing and classifying a person's claim — deciding which rights they have — as
+    legal advice requiring real judgment. Publishing neutral material and technical help were allowed.
+- id: m18-069
+  module: 18
+  lesson: "18.4"
+  subject: medical-rights-case
+  difficulty: 3
+  question: >-
+    A volunteer helps people with National Insurance forms and adds a paragraph in each appeal arguing
+    that the committee "breached the rules of fair procedure". What does ע״א 4223/12 suggest?
+  options:
+    - >-
+      Fine, because the paragraph is short and general.
+    - >-
+      Fine, because the volunteer is not paid for it.
+    - >-
+      Fine, as long as the person signs the appeal.
+    - >-
+      Legal argument for another crosses the line.
+  correct: 3
+  explanation: >-
+    The Court allowed only technical help in fixed fields; legal framing in free text and legal
+    arguments such as fair procedure are reserved. An organised volunteer service may be an occupation
+    even without payment.
+- id: m18-070
+  module: 18
+  lesson: "18.4"
+  subject: bar-ethics-2009
+  difficulty: 1
+  question: >-
+    What is the legal status of the Bar's 2009 ethics decision on amutot and legal clinics?
+  options:
+    - >-
+      A Bar position binding on lawyers, not a ruling.
+    - >-
+      A Supreme Court ruling binding on all amutot.
+    - >-
+      A regulation issued by the Minister of Justice.
+    - >-
+      An amendment to the Amutot Law passed in 2009.
+  correct: 0
+  explanation: >-
+    The National Ethics Committee's decision was adopted by the Bar's Central Committee and published in
+    Ethics Bulletin 29. It binds lawyers as professional ethics; it is not legislation or case law.
+- id: m18-071
+  module: 18
+  lesson: "18.4"
+  subject: bar-ethics-2009
+  difficulty: 2
+  question: >-
+    Under the 2009 Bar decision, who may manage a non-profit body that represents clients for free?
+  options:
+    - >-
+      Any committee member elected by the general assembly.
+    - >-
+      Lawyers only, with students and interns under close supervision.
+    - >-
+      Social workers, if a lawyer signs the court documents.
+    - >-
+      The funder's representative, to keep the cause on track.
+  correct: 1
+  explanation: >-
+    The decision requires such a body to be organised like a law office: managed and staffed by
+    lawyers, with students and interns acting only under close supervision.
+- id: m18-072
+  module: 18
+  lesson: "18.4"
+  subject: bar-ethics-2009
+  difficulty: 3
+  question: >-
+    A funder of an amuta's legal-aid unit tells the unit's lawyer to drop a client whose case now
+    embarrasses the funder. What does the 2009 decision say?
+  options:
+    - >-
+      The funder sets policy, so the lawyer must drop the client.
+    - >-
+      The lawyer must consult the Registrar of Amutot.
+    - >-
+      The amuta's general assembly decides by majority.
+    - >-
+      Each case follows professional judgment and client loyalty.
+  correct: 3
+  explanation: >-
+    The decision lets the funder help set the policy on which cases to take, but each case is run only
+    on professional judgment and loyalty to that client. A similar instruction at a university clinic
+    was withdrawn after the Bar's intervention.
+- id: m18-073
+  module: 18
+  lesson: "18.4"
+  subject: information-vs-advice
+  difficulty: 2
+  question: >-
+    Which reply on a group's Facebook page stays on the information side of the line?
+  options:
+    - >-
+      "In your case the fine is unlawful; appeal by Sunday and you will win."
+    - >-
+      "Send me your documents and I will write the appeal for you."
+    - >-
+      "Here is how fine appeals work, the deadline rule and the form."
+    - >-
+      "Don't appeal; in your situation it is better to pay."
+  correct: 2
+  explanation: >-
+    Explaining the procedure, the rule and where the form is, without applying it to the person's facts,
+    is general information. Predicting their outcome, telling them what to do or writing it for them is
+    advice or drafting for another.
+- id: m18-074
+  module: 18
+  lesson: "18.4"
+  subject: information-vs-advice
+  difficulty: 2
+  question: >-
+    A volunteer gives individual advice but opens every conversation with "this is not legal advice".
+    What is the effect of the disclaimer?
+  options:
+    - >-
+      It turns the conversation into general information.
+    - >-
+      It protects the volunteer if the advice is free.
+    - >-
+      It shifts responsibility to the person asking.
+    - >-
+      None; what counts is what the volunteer actually does.
+  correct: 3
+  explanation: >-
+    A label does not change the act. If the volunteer applies the law to a person's facts and tells them
+    what to do, regularly or for consideration, it is advice under s. 20(4).
+- id: m18-075
+  module: 18
+  lesson: "18.4"
+  subject: offences
+  difficulty: 1
+  question: >-
+    What is the penalty for a non-lawyer who does an act reserved to lawyers, under s. 96?
+  options:
+    - >-
+      A fine at the level of Penal Law s. 61(a)(2).
+    - >-
+      Up to three years' imprisonment.
+    - >-
+      Only a civil claim by the Bar Association.
+    - >-
+      Suspension of the person's driving licence.
+  correct: 0
+  explanation: >-
+    Section 96: a non-lawyer who does a reserved act is liable to a fine under Penal Law s. 61(a)(2).
+    Impersonating a lawyer is a separate offence with up to a year in prison (s. 97).
+- id: m18-076
+  module: 18
+  lesson: "18.4"
+  subject: offences
+  difficulty: 2
+  question: >-
+    An activist signs letters to tenants' landlords as "היועץ המשפטי של ועד הדיירים", although he is not
+    a lawyer. Which risk is most direct?
+  options:
+    - >-
+      Breach of the Amutot Law rules on the amuta's name.
+    - >-
+      Coming close to impersonating a lawyer.
+    - >-
+      Breach of the Disclosure Law's labelling duties.
+    - >-
+      None, because "legal adviser" is not a protected title.
+  correct: 1
+  explanation: >-
+    A title that suggests he is a lawyer misleads tenants and landlords and comes close to s. 97
+    (impersonating a lawyer). Use titles like "coordinator" or "information volunteer".
+- id: m18-077
+  module: 18
+  lesson: "18.4"
+  subject: group-own-acts
+  difficulty: 2
+  question: >-
+    An amuta's coordinator, not a lawyer, drafts and files the amuta's own objection to a planning
+    scheme, signed by two authorised committee members. How does s. 20 apply?
+  options:
+    - >-
+      It is the amuta acting for itself through its organs.
+    - >-
+      It is reserved, because an objection is a legal document.
+    - >-
+      It is allowed only if the coordinator is unpaid.
+    - >-
+      It requires the Registrar's approval in advance.
+  correct: 0
+  explanation: >-
+    As we read the law, a group acting in its own name through its authorised people is not acting for
+    "another person". The course teaches exactly this self-representation. Helping members with their
+    personal cases is different.
+- id: m18-078
+  module: 18
+  lesson: "18.4"
+  subject: group-own-acts
+  difficulty: 3
+  question: >-
+    Fifty residents want to oppose the same plan. Which approach best avoids s. 20 problems while
+    keeping the pressure?
+  options:
+    - >-
+      One activist writes fifty personalised objections and signs for each resident.
+    - >-
+      The amuta files its own objection, and residents each sign their own copy.
+    - >-
+      One activist files a single objection in all fifty names without their signatures.
+    - >-
+      Residents pay a small fee so the activist can file for them professionally.
+  correct: 1
+  explanation: >-
+    The group acting in its own name, plus each resident signing their own objection written together
+    at a meeting, keeps everyone acting for themselves. Writing or signing for others, or for a fee,
+    triggers s. 20.
+- id: m18-079
+  module: 18
+  lesson: "18.5"
+  subject: help-ladder
+  difficulty: 1
+  question: >-
+    A detainee's mother calls your group at night: her son is about to be interrogated. Which help do
+    you point her to first?
+  options:
+    - >-
+      The Bar's pro bono programme "שכר מצווה".
+    - >-
+      A university legal clinic's intake form.
+    - >-
+      The Public Defender or a criminal lawyer, now.
+    - >-
+      State Legal Aid, after an income test.
+  correct: 2
+  explanation: >-
+    Criminal exposure calls for the Public Defender or a criminal lawyer immediately (lesson 07.3).
+    Legal Aid, pro bono and most clinics deal with civil matters and take time.
+- id: m18-080
+  module: 18
+  lesson: "18.5"
+  subject: help-ladder
+  difficulty: 2
+  question: >-
+    Who is the Bar's "שכר מצווה" programme mainly for?
+  options:
+    - >-
+      Low-income people refused Legal Aid, in civil matters.
+    - >-
+      Amutot that need a lawyer for their own lawsuits.
+    - >-
+      Defendants in criminal cases who cannot pay a lawyer.
+    - >-
+      Anyone who wants a second opinion on a lawyer's bill.
+  correct: 0
+  explanation: >-
+    According to Kol Zchut, "שכר מצווה" gives free volunteer legal help in civil matters to low-income
+    people who were not found eligible for state Legal Aid, subject to the programme's criteria.
+- id: m18-081
+  module: 18
+  lesson: "18.5"
+  subject: help-ladder
+  difficulty: 2
+  question: >-
+    A group wants a university clinic to take its members' disability-benefit cases. What should it
+    check first?
+  options:
+    - >-
+      Whether the clinic charges a lower fee than private lawyers.
+    - >-
+      Which subjects the clinic handles and whether it has capacity.
+    - >-
+      Whether the group's members are law students.
+    - >-
+      Whether the clinic is registered as an amuta.
+  correct: 1
+  explanation: >-
+    Each clinic works in specific fields and takes a limited number of cases; check the clinic's page
+    and intake rules. Clinics are free to their clients.
+- id: m18-082
+  module: 18
+  lesson: "18.5"
+  subject: help-ladder
+  difficulty: 3
+  question: >-
+    An activist group is sued for defamation by a large company over a report it published. Its
+    members are not eligible for Legal Aid. Which next step fits the help ladder best?
+  options:
+    - >-
+      Ignore the suit; companies rarely continue against activists.
+    - >-
+      Ask a member who studied some law to defend the group.
+    - >-
+      Approach an anti-SLAPP clinic or a public-interest organisation.
+    - >-
+      Ask the Public Defender, which handles defamation suits.
+  correct: 2
+  explanation: >-
+    A defamation suit with costs at stake calls for legal help. Anti-SLAPP clinics and public-interest
+    organisations are free routes (lesson 08.3); the Public Defender handles criminal cases, and a
+    non-lawyer defending others is a reserved act.
+- id: m18-083
+  module: 18
+  lesson: "18.5"
+  subject: lawyer-brief
+  difficulty: 1
+  question: >-
+    What should be at the top of a one-page brief for a lawyer?
+  options:
+    - >-
+      Your question in one sentence, and your goal.
+    - >-
+      A full copy of every e-mail exchanged in the case.
+    - >-
+      Your opinion of the other side's motives.
+    - >-
+      A list of lawyers who refused the case.
+  correct: 0
+  explanation: >-
+    A brief starts with who you are, the question in one sentence and the goal, followed by a dated
+    chronology, what you already did, deadlines and numbered documents.
+- id: m18-084
+  module: 18
+  lesson: "18.5"
+  subject: lawyer-brief
+  difficulty: 2
+  question: >-
+    Spot the weakness in this chronology line: "At some point last year the council changed its policy
+    and we complained."
+  options:
+    - >-
+      It should be written in English for the lawyer.
+    - >-
+      It lacks dates and a reference to the documents.
+    - >-
+      It should not mention the complaint at all.
+    - >-
+      It should be moved to the end of the brief.
+  correct: 1
+  explanation: >-
+    Each chronology entry needs a date and a document number, so the lawyer can check deadlines and
+    evidence quickly.
+- id: m18-085
+  module: 18
+  lesson: "18.5"
+  subject: engagement
+  difficulty: 2
+  question: >-
+    Which item is most important to include in a limited-scope engagement e-mail?
+  options:
+    - >-
+      The lawyer's university and year of graduation.
+    - >-
+      A promise that the case will be won.
+    - >-
+      Exactly what the lawyer will and will not do.
+    - >-
+      The other side's lawyer's fee arrangement.
+  correct: 2
+  explanation: >-
+    A written scope — what is included and what is not — prevents surprise bills and gaps nobody
+    covers, together with fee, costs risk, decisions, reporting and ending.
+- id: m18-086
+  module: 18
+  lesson: "18.5"
+  subject: engagement
+  difficulty: 2
+  question: >-
+    Your lawyer quotes a fee well above the Bar's recommended minimum tariff. Is that allowed?
+  options:
+    - >-
+      No; lawyers must charge exactly the tariff.
+    - >-
+      No; fees above the tariff need the court's approval.
+    - >-
+      Yes, only for cases in the Supreme Court.
+    - >-
+      Yes; the tariff is a non-binding recommendation.
+  correct: 3
+  explanation: >-
+    Bar Association Law s. 81: the recommended minimum tariff is a recommendation that does not bind
+    lawyers. Fees are agreed between you and the lawyer; compare and agree in writing.
+- id: m18-087
+  module: 18
+  lesson: "18.5"
+  subject: engagement
+  difficulty: 3
+  question: >-
+    A group hires a lawyer to petition against a municipal decision. Who should decide whether to
+    accept the municipality's settlement offer?
+  options:
+    - >-
+      The client, advised by the lawyer, by its procedure.
+    - >-
+      The lawyer alone, because she holds the power of attorney.
+    - >-
+      The court, which must approve every settlement in petitions.
+    - >-
+      Whichever group member speaks to the lawyer first.
+  correct: 0
+  explanation: >-
+    The lawyer advises; the client decides on filing, settling and appealing. A group should decide in
+    advance who instructs the lawyer and how decisions are made.
+- id: m18-088
+  module: 18
+  lesson: "18.5"
+  subject: privilege
+  difficulty: 2
+  question: >-
+    Which conversation is protected by lawyer–client privilege under s. 90?
+  options:
+    - >-
+      A talk with an activist friend who knows a lot of law.
+    - >-
+      Your messages to your lawyer about your case.
+    - >-
+      A public post asking followers for legal tips.
+    - >-
+      A conversation with the other side's lawyer.
+  correct: 1
+  explanation: >-
+    Section 90 protects what passes between a client and a lawyer in connection with the professional
+    service, unless the client waives it. Conversations with non-lawyers or in public are not
+    privileged.
+- id: m18-089
+  module: 18
+  lesson: "18.5"
+  subject: ending-representation
+  difficulty: 2
+  question: >-
+    Your lawyer wants to stop representing you two weeks before a hearing. What do the 2018
+    Regulations say?
+  options:
+    - >-
+      The lawyer may stop at any time by sending you an e-mail.
+    - >-
+      The lawyer may stop only after the hearing.
+    - >-
+      The lawyer needs the court's permission to stop.
+    - >-
+      The lawyer must find a replacement before stopping.
+  correct: 2
+  explanation: >-
+    Regulation 172: a client may end the mandate by notice; a lawyer may stop representing only with the
+    court's permission.
+- id: m18-090
+  module: 18
+  lesson: "18.5"
+  subject: ending-representation
+  difficulty: 1
+  question: >-
+    Under reg. 170 of the Civil Procedure Regulations 2018, how may a party act in court?
+  options:
+    - >-
+      Only through a lawyer in the Magistrates' Court.
+    - >-
+      Personally or through a lawyer appointed for it.
+    - >-
+      Personally only, unless the court appoints a lawyer.
+    - >-
+      Through any adult with a power of attorney.
+  correct: 1
+  explanation: >-
+    Regulation 170: any act required of or allowed to a party may be done by the party personally or
+    through a lawyer duly appointed, unless a law says otherwise.
+- id: m18-091
+  module: 18
+  lesson: "18.5"
+  subject: group-lawyer
+  difficulty: 3
+  question: >-
+    The lawyer an amuta hired for its petition offers to "quickly advise" members about their personal
+    tenancy disputes during group meetings. What is the main concern?
+  options:
+    - >-
+      Lawyers may not speak at amuta meetings.
+    - >-
+      The amuta would be practising law without a licence.
+    - >-
+      Advice is free, so it cannot be privileged.
+    - >-
+      Unclear clients and possible conflicts of interest.
+  correct: 3
+  explanation: >-
+    The lawyer's client is the amuta. Advising members on personal matters "on the side" blurs who the
+    client is and can create conflicts; members should get their own advice under a clear engagement.
+- id: m18-092
+  module: 18
+  lesson: "18.5"
+  subject: group-lawyer
+  difficulty: 2
+  question: >-
+    You are unhappy with how a lawyer behaved toward you as a client and want to complain. Where does
+    a complaint about a lawyer's conduct go?
+  options:
+    - >-
+      To the Registrar of Amutot.
+    - >-
+      To the Bar's district ethics committee.
+    - >-
+      To the Public Complaints Commissioner.
+    - >-
+      To the Courts Administration's call centre.
+  correct: 1
+  explanation: >-
+    Complaints about lawyers' professional conduct are handled by the Bar Association's district ethics
+    committees. Raise the problem with the lawyer first.

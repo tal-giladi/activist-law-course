@@ -1,0 +1,41 @@
+# Glossary inbox — Module 18
+
+- **התארגנות / קבוצה לא רשומה** (hitargenut / kvutza lo rshuma) — Informal, unregistered group; not a legal person.
+- **הסכם התארגנות** (heskem hitargenut) — Written group agreement of an unregistered group.
+- **עמותה (ע״ר)** (amuta) — Registered non-profit association under the Amutot Law, 1980.
+- **תאגיד** (ta'agid) — Legal person (body corporate).
+- **חברה לתועלת הציבור (חל״צ)** (chevra le-to'elet ha-tzibur) — Public-benefit company under the Companies Law.
+- **אגודה עותמאנית** (aguda otma'anit) — Ottoman association; pre-1980 form, not used for new groups.
+- **רשם העמותות** (rasham ha-amutot) — Registrar of Amutot, in the Israeli Corporations Authority (Ministry of Justice).
+- **מייסדים** (meyasdim) — Founders of an amuta; at least two adults.
+- **מטרות העמותה** (matrot ha-amuta) — The amuta's registered objectives.
+- **תקנון** (takanon) — Bylaws of an amuta; binding like a contract (s. 9).
+- **תקנון מצוי** (takanon matzui) — Model bylaws in the First Schedule to the Amutot Law; apply if no own bylaws are filed.
+- **ועד** (va'ad) — The amuta's committee (board).
+- **ועדת ביקורת** (va'adat bikoret) — Audit committee; nobody may sit on it and on the committee.
+- **אסיפה כללית** (asefa klalit) — General assembly of members; at least once a year.
+- **מען דיגיטלי** (ma'an digitali) — Digital address registered for official notices.
+- **תעודת רישום** (te'udat rishum) — Certificate of registration; conclusive proof of founding.
+- **פנקס חברים** (pinkas chaverim) — Register of members.
+- **חלוקה אסורה** (chaluka asura) — Prohibited distribution of profits to members (s. 34ג).
+- **דוח כספי** (doch kaspi) — Annual financial report, filed by 30 June.
+- **דוח מילולי** (doch miluli) — Annual verbal (activity) report, filed with the financial report.
+- **אגרה שנתית** (agra shnatit) — Annual fee to the Registrar.
+- **אישור ניהול תקין** (ishur nihul takin) — Proper-management certificate issued by the Registrar.
+- **עמותה שחדלה לפעול** (amuta she-chadla lif'ol) — Amuta treated as having stopped operating (s. 59); may be struck off.
+- **ישות מדינית זרה** (yeshut medinit zara) — Foreign state entity: a foreign state, union of states, their organs, the Palestinian Authority, or bodies they control.
+- **דוח רבעוני** (doch riv'oni) — Quarterly report on donations from foreign state entities.
+- **מוסד ציבורי (סעיף 46)** (mosad tziburi) — Public institution approved for the donation tax credit.
+- **זיכוי ממס בשל תרומה** (zikui mi-mas) — Tax credit for a donation (35% for individuals, Income Tax Ordinance s. 46).
+- **ייחוד פעולות המקצוע** (yichud pe'ulot ha-miktzo'a) — Acts reserved to lawyers (Bar Association Law s. 20).
+- **גוף מעין שיפוטי** (guf me'ein shiputi) — Quasi-judicial body, such as a medical appeals committee.
+- **מסמך בעל אופי משפטי** (mismach ba'al ofi mishpati) — Document of a legal character.
+- **חיווי דעת משפטי** (chivui da'at mishpati) — Legal opinion.
+- **מידע משפטי כללי** (meida mishpati klali) — General legal information, as opposed to individual advice.
+- **התחזות לעורך דין** (hitchazut le-orech din) — Impersonating a lawyer (s. 97).
+- **הסכם שכר טרחה** (heskem schar tircha) — Written fee agreement with a lawyer.
+- **ייעוץ חד־פעמי** (yi'utz chad-pe'ami) — One-off, limited-scope consultation.
+- **חיסיון עורך דין–לקוח** (chisayon orech din–lako'ach) — Lawyer–client privilege (s. 90).
+- **קליניקה משפטית** (klinika mishpatit) — University legal clinic.
+- **שכר מצווה** (schar mitzva) — Bar Association pro bono programme.
+- **ועדת האתיקה** (va'adat ha-etika) — The Bar's ethics committee; handles complaints about lawyers.
