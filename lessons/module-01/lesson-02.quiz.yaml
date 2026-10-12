@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A municipal official tells you that the rule you rely on "is only a British פקודה, not a real
+    Knesset law". How do you answer?
+  options:
+    - >-
+      He is right; ordinances lapsed in 1980 when the Foundations of Law Act was passed.
+    - >-
+      Under the Interpretation Law, "חוק" includes an ordinance, so it binds like any statute.
+    - >-
+      He is right unless the Knesset re-approves each ordinance every few years.
+    - >-
+      Ordinances bind only the police and the army, not municipal authorities.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 3 defines "חוק" as a Knesset law or an ordinance. Mandate law stayed in
+    force under s. 11 of the Law and Administration Ordinance, and the 1980 Act repealed only
+    Article 46, the link to English common law.
+- id: q2
+  question: >-
+    A court faces a question no statute answers. Under s. 1 of the Foundations of Law Act, what
+    must it check before turning to the principles of Jewish law and Israel's heritage?
+  options:
+    - >-
+      English common law, then the views of legal scholars.
+    - >-
+      The Attorney General's guidelines, then the minister's policy.
+    - >-
+      Ottoman law, then Mandate law, then religious law.
+    - >-
+      Legislation, binding precedent, and then analogy.
+  correct: 3
+  explanation: >-
+    Section 1 sends the court to the principles only after it found no answer "בדבר חקיקה, בהלכה
+    פסוקה או בדרך של היקש". The pull of English law was cut when Article 46 was repealed.
+- id: q3
+  question: >-
+    You find "פקודת המשטרה [נוסח חדש], התשל״א–1971". Which version do you quote in a letter to
+    the police?
+  options:
+    - >-
+      The Hebrew new version, which is the binding text under the Interpretation Law.
+    - >-
+      The original English Mandate text, because the ordinance was first enacted in English.
+    - >-
+      Either version, since both are equally binding and say the same thing.
+    - >-
+      Neither; you must quote the Basic Law that replaced the ordinance in 1992.
+  correct: 0
+  explanation: >-
+    Interpretation Law s. 24 says that where a Mandate law was given a new version, the new version
+    is binding. Always quote the current Hebrew text.
+- id: q4
+  question: >-
+    A District Court judge disagrees with a recent Supreme Court ruling on the exact point in your
+    case. What does Basic Law: The Judiciary say about it?
+  options:
+    - >-
+      The judge may follow her own view if she explains her reasons in writing.
+    - >-
+      The ruling only guides her, the same as a ruling of another District Court.
+    - >-
+      The Supreme Court ruling binds her; only the Supreme Court may depart from it.
+    - >-
+      The ruling binds her only if it was given by a panel of five or more justices.
+  correct: 2
+  explanation: >-
+    Section 20(b): a Supreme Court ruling binds every court except the Supreme Court. Rulings of
+    other courts only guide the courts below them (s. 20(a)).

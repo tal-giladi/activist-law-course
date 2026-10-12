@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A municipality received your written request by registered mail on 10 January. Counting under
+    the Interpretation Law, when is the 45th day for its answer?
+  options:
+    - >-
+      23 February, because the day of receipt counts as day 1.
+    - >-
+      24 February, because the day of receipt is not counted.
+    - >-
+      10 March, because 45 days means a month and a half.
+    - >-
+      25 February, because Saturdays are skipped when counting.
+  correct: 1
+  explanation: >-
+    The starting day is not counted (s. 10(א)): 11 January is day 1, so day 45 is 24 February. Rest
+    days count unless the period ends on one (s. 10(ג)).
+- id: q2
+  question: >-
+    You asked the Ministry of Interior in writing for a decision. Three months later you have had no
+    reply at all. What is the legal position?
+  options:
+    - >-
+      Nothing has happened legally until the ministry answers, so you must keep waiting.
+    - >-
+      The ministry's silence is treated as approval of your request.
+    - >-
+      Silence counts as a refusal without reasons, which you can challenge.
+    - >-
+      You must restart by sending the same request again to the minister.
+  correct: 2
+  explanation: >-
+    Section 6(ב) of the Decisions and Reasons Law treats silence after three months as a refusal
+    without reasons. Silence is never approval.
+- id: q3
+  question: >-
+    You want a regional council to fix a dangerous road shoulder. Which way of sending your letter
+    best protects you if you later need to show the council received it?
+  options:
+    - >-
+      Registered mail with proof of delivery, with a copy by email to the official.
+    - >-
+      A phone call to the council's call centre, noting the call reference number.
+    - >-
+      A post on the council's Facebook page, tagging the mayor.
+    - >-
+      An email to the council's general information address only.
+  correct: 0
+  explanation: >-
+    The deadline runs from receipt, so you need proof of receipt. Registered mail with a signed
+    delivery card is the strongest; email to the right official adds speed.
+- id: q4
+  question: >-
+    Your letter reached an official who replies that the matter belongs to another ministry, and
+    gives that ministry's name and address. What does this mean for your deadline?
+  options:
+    - >-
+      The 45 days ran out when the first official failed to decide, so you can petition now.
+    - >-
+      The first official must still decide within the original 45 days.
+    - >-
+      There is no deadline any more, because the request went to the wrong body.
+    - >-
+      The 45 days start again from when the competent official receives the request.
+  correct: 3
+  explanation: >-
+    Under s. 2ב an official without the power passes the request on and tells you; the period then
+    runs from the competent official's receipt (s. 2ב(ב)).
+- id: q5
+  question: >-
+    A neighbour offers to pay you ₪300 to write and send a formal letter to the council about her
+    building permit, in her name. What should you do?
+  options:
+    - >-
+      Accept, since a letter to a council is not a court proceeding.
+    - >-
+      Decline payment; help her write it herself, or refer her to a clinic.
+    - >-
+      Accept, but send the letter in your own name instead of in hers.
+    - >-
+      Accept, as long as you add a line saying it is not legal advice.
+  correct: 1
+  explanation: >-
+    Drafting legal documents for another person for payment is reserved to lawyers (Bar Association
+    Law s. 20). You may share general knowledge, but she must act in her own name.

@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Dana finishes this course and a friend asks her to argue his case for him in the
+    Magistrates' Court next week, for a small fee. What is the right answer?
+  options:
+    - >-
+      She may, because finishing the course certifies her to represent people in court.
+    - >-
+      She may, as long as the fee is lower than what a lawyer would charge.
+    - >-
+      She may not; representing another person for payment is reserved to lawyers.
+    - >-
+      She may, if she files a power of attorney (ייפוי כוח) signed by the friend.
+  correct: 2
+  explanation: >-
+    Bar Association Law s. 20(1) reserves representing another person before a court to lawyers
+    when done as an occupation or for payment. The course is not a licence, and a power of attorney
+    does not turn a non-lawyer into a lawyer.
+- id: q2
+  question: >-
+    Which of these activities is closest to "general legal information" rather than an act
+    reserved to lawyers?
+  options:
+    - >-
+      A public workshop explaining what the Freedom of Information Law says about deadlines.
+    - >-
+      Writing a personalised objection for a neighbour and filing it under her name.
+    - >-
+      Telling a tenant exactly which claims to raise in his own eviction case.
+    - >-
+      Negotiating a settlement agreement on behalf of a friend who is being sued.
+  correct: 0
+  explanation: >-
+    Explaining what a law says, in general, is information. Drafting for another person (s. 20(3)),
+    individual advice (s. 20(4)) and negotiating toward a legal document for someone (s. 20(3)) are
+    the reserved acts.
+- id: q3
+  question: >-
+    Section 20 of the Bar Association Law applies to the reserved acts when they are done in which way?
+  options:
+    - >-
+      Only when done inside a court building, in front of a judge.
+    - >-
+      Only when the person who was helped later loses the case.
+    - >-
+      Only when the helper also falsely claims to be a lawyer.
+    - >-
+      As an occupation, or for payment even if done only once.
+  correct: 3
+  explanation: >-
+    The opening words are "דרך עיסוק, או בתמורה אף שלא דרך עיסוק". Claiming to be a lawyer is a
+    separate, more serious offence under s. 97 (impersonation).
+- id: q4
+  question: >-
+    Your protest group wants to help 40 members object to a plan. Which approach keeps everyone
+    acting in their own name?
+  options:
+    - >-
+      You write 40 tailored objections and collect ₪20 from each member to cover your time.
+    - >-
+      You share a blank template and an explainer; each member fills in and signs their own.
+    - >-
+      You sign all 40 objections yourself, since you understand the plan best.
+    - >-
+      You ask members to send you their ID numbers so you can file for them online.
+  correct: 1
+  explanation: >-
+    A blank template for use in each person's own name, plus general explanation, keeps each member
+    the author and filer of their own objection. Drafting for payment, signing for others or filing
+    in their name moves into reserved acts.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your draft letter describes the problem in detail and ends "we demand that you act according to
+    the law". What is the most important thing missing?
+  options:
+    - >-
+      A more emotional opening that shows how much the problem hurts people.
+    - >-
+      A list of every law that could possibly apply to the situation.
+    - >-
+      The quoted rule, the facts matched to its elements and a specific request.
+    - >-
+      A copy of the letter sent to the media at the same time.
+  correct: 2
+  explanation: >-
+    Without the rule, the element-by-element application and a concrete request, the authority can
+    refuse with a standard reply. Listing every possible law dilutes the argument.
+- id: q2
+  question: >-
+    Your element table for s. 2 of the Decisions and Reasons Law has a fact for every element except
+    "written request": you made the request by phone. What should you do?
+  options:
+    - >-
+      Make the request now in writing, with proof of delivery.
+    - >-
+      Argue that a phone call counts, since the official knew about the request.
+    - >-
+      Leave the element out of the table and hope the authority does not notice.
+    - >-
+      Ask a friend to sign an affidavit that the phone call took place.
+  correct: 0
+  explanation: >-
+    Section 2(א) applies to a request made in writing. The fix is to make a written request now; the
+    clock starts when the authority receives it.
+- id: q3
+  question: >-
+    The authority will probably answer that your matter "needs further examination". Where do you
+    deal with this in your IRAC argument?
+  options:
+    - >-
+      In the issue, by rephrasing the question so the objection disappears.
+    - >-
+      In the application, with an "even if" paragraph answering the exception.
+    - >-
+      Nowhere; raising their argument for them weakens your letter.
+    - >-
+      In a separate letter sent after they raise it.
+  correct: 1
+  explanation: >-
+    Answering the likely counter-argument inside the application shows you know the exception (s.
+    2(ב)(3)) and its condition (notice within 45 days under s. 2(ג)), and closes the easy way out.
+- id: q4
+  question: >-
+    The authority refused your request without giving reasons, and you later appeal. What does s.
+    6(א) of the Decisions and Reasons Law give you?
+  options:
+    - >-
+      An automatic win, because a refusal without reasons is void.
+    - >-
+      A right to compensation for the delay.
+    - >-
+      A right to a hearing before the minister.
+    - >-
+      The authority must prove its decision was lawful.
+  correct: 3
+  explanation: >-
+    Section 6(א) says the decision is not void just because reasons are missing, but the burden of
+    proving it was lawful moves to the authority in an appeal or court proceeding.

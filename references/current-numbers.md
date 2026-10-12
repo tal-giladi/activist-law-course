@@ -23,6 +23,10 @@ The numbers change on fixed dates:
 | Administrative appeal fee | ₪1,654 | Kovetz Takanot 12149 (25.12.2025) |
 | Administrative petition deadline | 45 days from the decision; the court may extend | Administrative Courts (Procedure) Regulations, reg. 3 |
 | Small claims ceiling | ₪39,900 | Courts Law s. 60, from 1.1.2026 |
+| Magistrates' Court civil ceiling | ₪2,500,000 on the day the claim is filed (land claims excluded) | Courts Law s. 51(a)(2) |
+| Fine for practising law without a licence (Bar Association Law s. 96) | up to ₪29,200 (Penal Law s. 61(a)(2); updated by regulation, check before relying on it) | Penal Law s. 61(a)(2) |
+| Notary certifying an affidavit | ₪200 plus VAT (fixed by regulation) | Notaries (Fees) Regulations, 2026 |
+| Lawyer drafting and certifying an affidavit | ₪512 recommended minimum (Bar Association tariff, not binding; no fixed fee for certifying a ready affidavit) | Israel Bar Association recommended minimum tariff |
 | Small claims fee | 1% of the claim, minimum ₪50 | Kol Zchut, January 2026 |
 | Legal Aid income test | ₪9,225 gross a month for 1–3 people, plus ₪826 per extra person | Kol Zchut, 2026 |
 | Legal Aid asset test | ₪41,307. A gov.il page shows ₪39,948; check before relying on it. | Kol Zchut, 2026 |

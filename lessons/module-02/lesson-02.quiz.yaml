@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A ministry's letter to you cites "עע״מ 1234/19". What does the number tell you?
+  options:
+    - >-
+      It is a district-court administrative petition, case 1234, filed in 2019.
+    - >-
+      It is a Supreme Court appeal in an administrative matter, case 1234, filed in 2019.
+    - >-
+      It is a High Court of Justice petition, case 1234, decided in 2019.
+    - >-
+      It is a civil appeal, case 19, filed in the year 1234 of the Hebrew calendar.
+  correct: 1
+  explanation: >-
+    עע״מ is an appeal to the Supreme Court in an administrative matter; the serial number comes
+    first and the last two digits are the year it was filed.
+- id: q2
+  question: >-
+    You found a 2016 HCJ judgment that fits your case perfectly. What is the most important check
+    before you quote it in a letter?
+  options:
+    - >-
+      Confirm that an English translation exists on Versa.
+    - >-
+      Confirm that the judgment was printed in the official law reports (פ״ד).
+    - >-
+      Search the case number for a further hearing and for later rulings that cite it.
+    - >-
+      Confirm that all three judges are still serving on the Supreme Court.
+  correct: 2
+  explanation: >-
+    A further hearing (דנג״ץ) or later rulings may have reversed or narrowed it. Translation,
+    publication in the reports and the judges' current posts do not affect whether it is good law.
+- id: q3
+  question: >-
+    Your search turns up a Magistrates' Court ruling in your favour and a Supreme Court ruling that
+    points the other way on the same legal question. How do you treat them?
+  options:
+    - >-
+      The Supreme Court ruling binds the lower court, so you must address it.
+    - >-
+      The newer ruling wins, whichever court gave it.
+    - >-
+      Both carry equal weight, so you cite only the one that helps you.
+    - >-
+      The Magistrates' Court ruling wins because it is closer to the facts of daily life.
+  correct: 0
+  explanation: >-
+    Basic Law: The Judiciary s. 20(ב) makes Supreme Court rulings binding on every lower court.
+    Ignoring an opposing binding ruling damages your credibility; you must distinguish it or accept it.
+- id: q4
+  question: >-
+    A ruling you want to share on social media involves a minor and was heard behind closed doors.
+    What is the safe way to use it?
+  options:
+    - >-
+      Post the full ruling, since anything on the judiciary's website is public.
+    - >-
+      Post it with the minor's first name only.
+    - >-
+      Post it after waiting a year, when publication bans expire.
+    - >-
+      Quote the legal rule it set and leave out any identifying details.
+  correct: 3
+  explanation: >-
+    Courts Law s. 70 restricts publication about closed-door hearings and minors. Quoting the legal
+    rule without identifying details gives you the value of the ruling without the risk.

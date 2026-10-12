@@ -1,0 +1,1596 @@
+- id: m02-001
+  module: 2
+  lesson: "02.1"
+  subject: official-gazette
+  difficulty: 1
+  question: >-
+    Where is the official, binding text of a new Israeli law first published?
+  options:
+    - >-
+      In Reshumot, the official gazette (Sefer HaHukim series).
+    - >-
+      On the Knesset's YouTube channel after the final vote.
+    - >-
+      In the Supreme Court's annual law reports.
+    - >-
+      On Hebrew Wikisource, which the Knesset updates directly.
+  correct: 0
+  explanation: >-
+    Laws are published in Reshumot; Sefer HaHukim is the series for Knesset laws. Wikisource and other sites are copies.
+- id: m02-002
+  module: 2
+  lesson: "02.1"
+  subject: official-gazette
+  difficulty: 1
+  question: >-
+    A citation reads 'ק״ת תשפ״ו, 508'. What kind of document is it?
+  options:
+    - >-
+      A Knesset law in Sefer HaHukim.
+    - >-
+      A Supreme Court judgment in the law reports.
+    - >-
+      Regulations or a notice in Kovetz HaTakanot.
+    - >-
+      A bill published for first reading.
+  correct: 2
+  explanation: >-
+    ק״ת stands for קובץ התקנות, the gazette series for regulations and notices such as yearly fee updates.
+- id: m02-003
+  module: 2
+  lesson: "02.1"
+  subject: consolidated-text
+  difficulty: 1
+  question: >-
+    Why does the Courts Law carry '[נוסח משולב]' in its title?
+  options:
+    - >-
+      It was translated from an English Mandate ordinance and re-issued in Hebrew.
+    - >-
+      It is a temporary provision with an end date.
+    - >-
+      It applies only together with another law.
+    - >-
+      It was re-enacted with all its amendments merged into one text.
+  correct: 3
+  explanation: >-
+    A consolidated version merges the law's amendments into one text (Law and Administration Ordinance s. 16(ד)).
+- id: m02-004
+  module: 2
+  lesson: "02.1"
+  subject: current-text
+  difficulty: 2
+  question: >-
+    You are checking a law on Wikisource. Which part of the page tells you most quickly how up to date the copy claims to be?
+  options:
+    - >-
+      The last entry in the box of Reshumot publications at the top.
+    - >-
+      The date the law was first enacted, which appears in its full title.
+    - >-
+      The number of sections in the law.
+    - >-
+      The talk page where volunteers discuss edits.
+  correct: 0
+  explanation: >-
+    The top box lists the original law and each amendment with year and page; the newest entry shows the latest amendment the copy includes.
+- id: m02-005
+  module: 2
+  lesson: "02.1"
+  subject: current-text
+  difficulty: 2
+  question: >-
+    The newest amendment shown on Wikisource and on the Knesset database page is the same 2021 amendment. What does that tell you?
+  options:
+    - >-
+      The law cannot be amended again before 2031.
+    - >-
+      The Wikisource copy is very likely current, pending any brand-new amendment.
+    - >-
+      You must still pay for a commercial database to confirm the text is current.
+    - >-
+      The law has been repealed and replaced.
+  correct: 1
+  explanation: >-
+    Matching amendment lists in both sources is the main currency check; for a key filing you may also open the gazette PDF.
+- id: m02-006
+  module: 2
+  lesson: "02.1"
+  subject: indirect-amendment
+  difficulty: 3
+  question: >-
+    A deadline in the law you rely on was changed by a section buried in a budget 'arrangements' law. Where are you most likely to catch this?
+  options:
+    - >-
+      In the law's own title, which changes after every amendment.
+    - >-
+      In the English translation on a university website.
+    - >-
+      In the Knesset database's full amendment list for your law.
+    - >-
+      In the explanatory notes of the original bill from decades ago.
+  correct: 2
+  explanation: >-
+    Indirect amendments (תיקון עקיף) are made by other laws. The Knesset database lists them on the amended law's page.
+- id: m02-007
+  module: 2
+  lesson: "02.1"
+  subject: commencement
+  difficulty: 2
+  question: >-
+    A law was published in Reshumot on 5 March and says nothing about when it starts. From when does it apply?
+  options:
+    - >-
+      From 5 March, the day of publication.
+    - >-
+      From 1 January of the next year.
+    - >-
+      From 30 days after publication.
+    - >-
+      From the day the Knesset passed it in third reading.
+  correct: 0
+  explanation: >-
+    Unless the law sets another date, legislation takes effect on publication in Reshumot (Law and Administration Ordinance s. 10(א)).
+- id: m02-008
+  module: 2
+  lesson: "02.1"
+  subject: commencement
+  difficulty: 1
+  question: >-
+    At what time of day does a provision come into force on its commencement day?
+  options:
+    - >-
+      At 08:00, when government offices open.
+    - >-
+      At noon, Israel time.
+    - >-
+      At midnight at the end of that day.
+    - >-
+      At 00:01 at the start of that day.
+  correct: 3
+  explanation: >-
+    Interpretation Law s. 21: a provision takes effect at 00.01 on its commencement day.
+- id: m02-009
+  module: 2
+  lesson: "02.1"
+  subject: temporary-provision
+  difficulty: 2
+  question: >-
+    The section you need is marked 'הוראת שעה' with an end date that passed last month. What should you check?
+  options:
+    - >-
+      Whether it was extended, and what text applies now that it ended.
+    - >-
+      Nothing; temporary provisions stay in force until repealed.
+    - >-
+      Whether the Supreme Court approved the provision.
+    - >-
+      Whether an English translation of the provision exists.
+  correct: 0
+  explanation: >-
+    A temporary provision ends on its date unless extended. Check the amendment list for an extension and read the permanent text that now applies.
+- id: m02-010
+  module: 2
+  lesson: "02.1"
+  subject: binding-version
+  difficulty: 2
+  question: >-
+    An old Mandate ordinance exists in an English original and a Hebrew 'נוסח חדש'. Which text binds?
+  options:
+    - >-
+      The English original, because it came first.
+    - >-
+      The Hebrew new version.
+    - >-
+      Whichever text favours the citizen.
+    - >-
+      Both equally, so a court must reconcile them.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 24: where a new version was set under s. 16 of the Law and Administration Ordinance, the new version binds.
+- id: m02-011
+  module: 2
+  lesson: "02.1"
+  subject: regulations
+  difficulty: 2
+  question: >-
+    You need the fee in a set of regulations that are updated every year. The Wikisource page notes 'מעודכנים לשנת 2025' and it is now late 2026. What do you do?
+  options:
+    - >-
+      Use the amounts shown, since regulations rarely change.
+    - >-
+      Add 3% to each amount as an estimate of the yearly inflation update.
+    - >-
+      Find the newer update notice in the gazette or on Current Numbers.
+    - >-
+      Ask on a social-media group what the fee is now.
+  correct: 2
+  explanation: >-
+    The note shows the copy is a year behind. The yearly update is published as a notice in Kovetz HaTakanot; the course's Current Numbers page tracks it.
+- id: m02-012
+  module: 2
+  lesson: "02.1"
+  subject: law-card
+  difficulty: 1
+  question: >-
+    Which of these belongs on a law card but is most often forgotten?
+  options:
+    - >-
+      The colour of the gazette's cover.
+    - >-
+      The name of the minister who proposed the bill.
+    - >-
+      The number of Knesset members who voted for it.
+    - >-
+      The Hebrew year in the law's full title.
+  correct: 3
+  explanation: >-
+    The full title includes the Hebrew year (for example התשי״ט–1958); it identifies the law precisely, since titles can repeat.
+- id: m02-013
+  module: 2
+  lesson: "02.1"
+  subject: free-sources
+  difficulty: 1
+  question: >-
+    Which of these is a free source for consolidated statute texts?
+  options:
+    - >-
+      Nevo's statute pages under law_html.
+    - >-
+      Nevo's case-law pages under psika_html.
+    - >-
+      Takdin's full database.
+    - >-
+      A paid law-firm newsletter.
+  correct: 0
+  explanation: >-
+    Nevo's statute pages are free; its case-law pages and full search are paid, as are Takdin and similar databases.
+- id: m02-014
+  module: 2
+  lesson: "02.1"
+  subject: current-text
+  difficulty: 3
+  question: >-
+    Wikisource shows a newer amendment than the Knesset database page, which seems not to list it. What is the sensible conclusion?
+  options:
+    - >-
+      Wikisource invented the amendment, so ignore it.
+    - >-
+      Open the gazette PDF the Wikisource box links to and confirm it.
+    - >-
+      The Knesset page is official, so the amendment does not exist.
+    - >-
+      Use whichever version supports your argument.
+  correct: 1
+  explanation: >-
+    When copies disagree, the gazette decides. Wikisource links each amendment to its scanned gazette PDF.
+- id: m02-015
+  module: 2
+  lesson: "02.2"
+  subject: case-numbers
+  difficulty: 1
+  question: >-
+    What does 'בג״ץ' in a case number mean?
+  options:
+    - >-
+      An appeal from a district court in a civil case.
+    - >-
+      A petition to the High Court of Justice.
+    - >-
+      A further hearing before an expanded panel.
+    - >-
+      A petition to an administrative court.
+  correct: 1
+  explanation: >-
+    בג״ץ is the Supreme Court sitting as the High Court of Justice, hearing petitions against public authorities.
+- id: m02-016
+  module: 2
+  lesson: "02.2"
+  subject: case-numbers
+  difficulty: 2
+  question: >-
+    A municipal decision cites 'עת״מ 35192-09-24'. What can you tell from the number?
+  options:
+    - >-
+      It is a Supreme Court appeal from 2009.
+    - >-
+      It is a High Court of Justice petition, number 35192, filed in 2024.
+    - >-
+      It is a district administrative petition opened in September 2024.
+    - >-
+      It is a criminal case from 1924.
+  correct: 2
+  explanation: >-
+    עת״מ is an administrative petition in a district court; the Net HaMishpat format is serial-month-year.
+- id: m02-017
+  module: 2
+  lesson: "02.2"
+  subject: case-numbers
+  difficulty: 2
+  question: >-
+    You see 'דנג״ץ' followed by a number. What kind of proceeding is it?
+  options:
+    - >-
+      A further hearing of an HCJ ruling before a larger panel.
+    - >-
+      A petition filed by a government body.
+    - >-
+      An appeal to the president for a pardon.
+    - >-
+      A district court's review of a local authority's bylaw on appeal.
+  correct: 0
+  explanation: >-
+    דנג״ץ is a further hearing (דיון נוסף) of a High Court of Justice ruling, under Courts Law s. 30.
+- id: m02-018
+  module: 2
+  lesson: "02.2"
+  subject: judgment-search
+  difficulty: 1
+  question: >-
+    From which year does the Supreme Court's free judgments search hold the court's judgments and decisions?
+  options:
+    - >-
+      From 1948, the founding of the state.
+    - >-
+      From 1980, the Foundations of Law Act.
+    - >-
+      Only from 2020 onward.
+    - >-
+      From 1997 onward.
+  correct: 3
+  explanation: >-
+    The site states it holds Supreme Court judgments and decisions from 1997, plus judgments printed in the reports from 2006.
+- id: m02-019
+  module: 2
+  lesson: "02.2"
+  subject: judgment-search
+  difficulty: 2
+  question: >-
+    You want every HCJ ruling in which a particular NGO was a party. Which search field fits best?
+  options:
+    - >-
+      The parties, judges and counsel field (שופטים, צדדים ובאי כח).
+    - >-
+      The document date field only.
+    - >-
+      The page-count sort option.
+    - >-
+      The previous-instance field (ערכאה קודמת), filled in with the NGO's name.
+  correct: 0
+  explanation: >-
+    Searching by party name finds the cases where that NGO appeared; then filter by proceeding type.
+- id: m02-020
+  module: 2
+  lesson: "02.2"
+  subject: judgment-search
+  difficulty: 2
+  question: >-
+    Your free-text search for an issue returns 400 results, most of them interim decisions. What is the most efficient next step?
+  options:
+    - >-
+      Read all 400 from oldest to newest.
+    - >-
+      Filter to judgments and relevant proceedings, newest first.
+    - >-
+      Give up and search a paid database.
+    - >-
+      Open the five longest documents, since they are the most important.
+  correct: 1
+  explanation: >-
+    Filtering to final judgments and relevant proceedings, sorted by date, cuts the list to what matters.
+- id: m02-021
+  module: 2
+  lesson: "02.2"
+  subject: precedent
+  difficulty: 1
+  question: >-
+    Which courts are bound by a rule set by the Supreme Court?
+  options:
+    - >-
+      Only the court that heard the case.
+    - >-
+      Only district courts.
+    - >-
+      Every court except the Supreme Court itself.
+    - >-
+      No court at all; rulings are only persuasive.
+  correct: 2
+  explanation: >-
+    Basic Law: The Judiciary s. 20(ב): a Supreme Court rule binds every court except the Supreme Court.
+- id: m02-022
+  module: 2
+  lesson: "02.2"
+  subject: precedent
+  difficulty: 2
+  question: >-
+    A district court ruled in your favour on a legal question. How should you present it to a different district court?
+  options:
+    - >-
+      As binding, since all district courts are equal.
+    - >-
+      As binding only if the ruling is newer than five years.
+    - >-
+      It cannot be mentioned at all.
+    - >-
+      As persuasive support, not binding authority.
+  correct: 3
+  explanation: >-
+    A lower-court ruling guides only courts below it (s. 20(א)); another district court may disagree.
+- id: m02-023
+  module: 2
+  lesson: "02.2"
+  subject: holding-vs-obiter
+  difficulty: 3
+  question: >-
+    A judge remarks in passing that 'perhaps a different result would follow if the authority had given reasons'. The case was decided on another ground. How strong is this remark?
+  options:
+    - >-
+      It is obiter: worth mentioning, but not a binding rule.
+    - >-
+      It is the binding holding, because a Supreme Court judge wrote it.
+    - >-
+      It overrules earlier rulings on the same point.
+    - >-
+      It binds the authority but not the courts.
+  correct: 0
+  explanation: >-
+    A remark that does not decide the case is obiter (אמרת אגב). It can support an argument but binds no one.
+- id: m02-024
+  module: 2
+  lesson: "02.2"
+  subject: good-law-check
+  difficulty: 2
+  question: >-
+    Besides searching for a further hearing, what is the best free way to find out how later courts treated a ruling?
+  options:
+    - >-
+      Email the judges who wrote it.
+    - >-
+      Search its case number as free text in the judgments search.
+    - >-
+      Look up the ruling's page count.
+    - >-
+      Check whether the ruling was reported in the national newspapers.
+  correct: 1
+  explanation: >-
+    Later rulings that cite it appear in a free-text search of its number; read the newest to see whether they follow or narrow it.
+- id: m02-025
+  module: 2
+  lesson: "02.2"
+  subject: good-law-check
+  difficulty: 3
+  question: >-
+    A 2012 ruling interpreted section 9 of a law. In 2020 section 9 was rewritten. What does that mean for the ruling?
+  options:
+    - >-
+      Nothing; rulings stay binding regardless of later legislation.
+    - >-
+      It is automatically void, even if the wording barely changed.
+    - >-
+      Check whether the new wording changes the point it decided.
+    - >-
+      It becomes binding only on the Supreme Court.
+  correct: 2
+  explanation: >-
+    A ruling interprets a text. If the text changed, compare the old and new wording before relying on the ruling.
+- id: m02-026
+  module: 2
+  lesson: "02.2"
+  subject: versa
+  difficulty: 1
+  question: >-
+    What is Versa useful for?
+  options:
+    - >-
+      Filing petitions online.
+    - >-
+      Paying court fees.
+    - >-
+      Searching District Court decisions by party name and date.
+    - >-
+      Reading English translations of landmark rulings.
+  correct: 3
+  explanation: >-
+    Versa (Cardozo School of Law) translates key Supreme Court opinions; you quote the Hebrew original in filings.
+- id: m02-027
+  module: 2
+  lesson: "02.2"
+  subject: publication-bans
+  difficulty: 2
+  question: >-
+    You want to post a photo you took inside a courtroom during a hearing about your protest. What does the Courts Law require?
+  options:
+    - >-
+      The court's permission to photograph and publish.
+    - >-
+      Nothing, provided that the hearing was open to the public.
+    - >-
+      Only the consent of the other party.
+    - >-
+      Only blurring the judge's face.
+  correct: 0
+  explanation: >-
+    Courts Law s. 70(ב)(1): no photography in a courtroom, or publication of such a photo, without the court's permission.
+- id: m02-028
+  module: 2
+  lesson: "02.2"
+  subject: publication-bans
+  difficulty: 3
+  question: >-
+    A suspect in your case was questioned yesterday and has not been charged or brought before a judge. Can you publish their name on your campaign page?
+  options:
+    - >-
+      Yes, because a police investigation is always a matter of public interest.
+    - >-
+      Not yet; s. 70(ד1) bars it for a time unless an exception applies.
+    - >-
+      Yes, if you add the word 'allegedly'.
+    - >-
+      Only after the police publish a press release.
+  correct: 1
+  explanation: >-
+    Courts Law s. 70(ד1) bars publishing an uncharged suspect's name for 48 hours or until the first hearing, subject to listed exceptions.
+- id: m02-029
+  module: 2
+  lesson: "02.3"
+  subject: primary-secondary
+  difficulty: 1
+  question: >-
+    Which of these is a primary legal source?
+  options:
+    - >-
+      A Kol Zchut page on tenants' rights.
+    - >-
+      A law journal article criticising a ruling.
+    - >-
+      A regulation published in Kovetz HaTakanot.
+    - >-
+      A think-tank report on housing policy.
+  correct: 2
+  explanation: >-
+    Laws, regulations and rulings are primary. Guides, articles and reports about them are secondary.
+- id: m02-030
+  module: 2
+  lesson: "02.3"
+  subject: primary-secondary
+  difficulty: 1
+  question: >-
+    According to the Foundations of Law Act, where does a court turn first for an answer to a legal question?
+  options:
+    - >-
+      Law journal articles by leading professors.
+    - >-
+      Kol Zchut and similar public guides.
+    - >-
+      Foreign courts' rulings.
+    - >-
+      Legislation, binding case law and analogy.
+  correct: 3
+  explanation: >-
+    Section 1 lists legislation, binding precedent and analogy, then the principles of Jewish heritage. Secondary sources are not on the list.
+- id: m02-031
+  module: 2
+  lesson: "02.3"
+  subject: kol-zchut
+  difficulty: 1
+  question: >-
+    On a Kol Zchut page, where do you usually find the laws and regulations the page is based on?
+  options:
+    - >-
+      In the 'מקורות משפטיים ורשמיים' section near the bottom.
+    - >-
+      In the page's title and in its opening summary paragraph.
+    - >-
+      In the comments from readers.
+    - >-
+      In the donation box.
+  correct: 0
+  explanation: >-
+    Kol Zchut pages end with a list of legal and official sources, linking to the primary texts.
+- id: m02-032
+  module: 2
+  lesson: "02.3"
+  subject: kol-zchut
+  difficulty: 2
+  question: >-
+    A Kol Zchut page you rely on was last updated three years ago. What is the risk you most need to manage?
+  options:
+    - >-
+      The page may be deleted before you finish reading.
+    - >-
+      Numbers and procedures may have changed since.
+    - >-
+      Older pages may not be quoted in letters.
+    - >-
+      The page may only exist in Hebrew.
+  correct: 1
+  explanation: >-
+    Check the 'עודכן לאחרונה' date; verify any number, deadline or procedure against the current primary source.
+- id: m02-033
+  module: 2
+  lesson: "02.3"
+  subject: knesset-research
+  difficulty: 1
+  question: >-
+    Who are Knesset Research and Information Center papers written for?
+  options:
+    - >-
+      Members of Knesset and Knesset committees.
+    - >-
+      Judges deciding pending cases.
+    - >-
+      Lawyers preparing for the bar exam.
+    - >-
+      Government ministries' legal departments.
+  correct: 0
+  explanation: >-
+    The center serves MKs and committees with research, data and comparative studies, independent of the ministries.
+- id: m02-034
+  module: 2
+  lesson: "02.3"
+  subject: knesset-research
+  difficulty: 2
+  question: >-
+    A Knesset Research paper from 2019 says a certain ministry is responsible for your issue. How do you use this today?
+  options:
+    - >-
+      Quote it as the legal basis in your letter.
+    - >-
+      Ignore it, since it is more than five years old.
+    - >-
+      Use it only if an MK sends it to you.
+    - >-
+      Check the current law to confirm who is responsible.
+  correct: 3
+  explanation: >-
+    Research papers are dated; responsibilities can move. Use the paper to find the law, then verify the law as it stands.
+- id: m02-035
+  module: 2
+  lesson: "02.3"
+  subject: verification
+  difficulty: 2
+  question: >-
+    Which statement from a secondary source must you always verify before using it in a letter?
+  options:
+    - >-
+      A description of the history of the law.
+    - >-
+      A summary of a debate between scholars.
+    - >-
+      A deadline or fee that applies to your request.
+    - >-
+      A comparison with laws in other countries.
+  correct: 2
+  explanation: >-
+    Numbers and deadlines change and carry real consequences; always check them against the primary source and Current Numbers.
+- id: m02-036
+  module: 2
+  lesson: "02.3"
+  subject: verification
+  difficulty: 3
+  question: >-
+    A respected law-journal article states that a ruling 'established' a right you need. You open the ruling and the point is only a remark in passing. What do you do?
+  options:
+    - >-
+      Quote the article, since the author is an expert.
+    - >-
+      Treat it as obiter and look for a later ruling that adopted it.
+    - >-
+      Drop the issue entirely.
+    - >-
+      Quote the remark as the holding, since the article supports you.
+  correct: 1
+  explanation: >-
+    Secondary sources can overstate. Treat the remark as obiter and search for later rulings that made it a holding.
+- id: m02-037
+  module: 2
+  lesson: "02.3"
+  subject: viewpoints
+  difficulty: 2
+  question: >-
+    Your issue involves a contested public debate. Which source mix gives you the most reliable picture?
+  options:
+    - >-
+      Two opposing organisations' papers plus a Knesset Research paper.
+    - >-
+      Three detailed papers from the organisation whose view you support.
+    - >-
+      Only social-media posts by people affected.
+    - >-
+      Only the government's press releases.
+  correct: 0
+  explanation: >-
+    Opposing papers reveal the counter-arguments; a Knesset Research paper adds neutral background. Then verify against primary sources.
+- id: m02-038
+  module: 2
+  lesson: "02.3"
+  subject: think-tanks
+  difficulty: 2
+  question: >-
+    An NGO's position paper proposes a legal change and describes current law. How should you treat its description of current law?
+  options:
+    - >-
+      As binding, since NGOs are expert in their field.
+    - >-
+      As irrelevant, since position papers are always wrong.
+    - >-
+      As accurate only if the NGO is registered as an amuta.
+    - >-
+      As a lead to check, since the paper argues one side.
+  correct: 3
+  explanation: >-
+    Position papers are written to persuade. Their description of the law may be accurate, but check it against the primary sources.
+- id: m02-039
+  module: 2
+  lesson: "02.3"
+  subject: citation
+  difficulty: 2
+  question: >-
+    In a letter, how may you properly use data from a Knesset Research paper?
+  options:
+    - >-
+      As the legal basis for the authority's duty.
+    - >-
+      As background data, attributed to its source.
+    - >-
+      As a binding instruction to the ministry.
+    - >-
+      Only if you attach the whole paper.
+  correct: 1
+  explanation: >-
+    Research data can support the facts, attributed to the Knesset Research and Information Center. The legal basis must be a law or ruling.
+- id: m02-040
+  module: 2
+  lesson: "02.3"
+  subject: source-map
+  difficulty: 1
+  question: >-
+    What makes a source map useful months later?
+  options:
+    - >-
+      A date on every source showing when it was checked.
+    - >-
+      Colour-coding by the author's political view.
+    - >-
+      Listing sources alphabetically by title.
+    - >-
+      Including only sources that support you.
+  correct: 0
+  explanation: >-
+    Dates tell you which sources need re-checking; the course dates every check for that reason.
+- id: m02-041
+  module: 2
+  lesson: "02.3"
+  subject: ag-guidelines
+  difficulty: 3
+  question: >-
+    A secondary source mentions an Attorney General guideline on your issue. Why is it worth finding and reading?
+  options:
+    - >-
+      It binds the courts in exactly the same way as a Knesset statute.
+    - >-
+      It replaces the need to read the law.
+    - >-
+      Officials are expected to follow it, so it shapes decisions.
+    - >-
+      It can only be read by government lawyers.
+  correct: 2
+  explanation: >-
+    Attorney General guidelines bind inside government. They are not statutes, but officials are expected to follow them.
+- id: m02-042
+  module: 2
+  lesson: "02.4"
+  subject: irac
+  difficulty: 1
+  question: >-
+    In IRAC, what does the 'A' stand for?
+  options:
+    - >-
+      Application: matching the facts to each element.
+    - >-
+      Appeal: the next court you would go to.
+    - >-
+      Authority: the body you are writing to.
+    - >-
+      Argument: the emotional case for your cause.
+  correct: 0
+  explanation: >-
+    Issue, Rule, Application, Conclusion. The application is the longest part.
+- id: m02-043
+  module: 2
+  lesson: "02.4"
+  subject: irac
+  difficulty: 2
+  question: >-
+    Which is the best-formed issue statement for an argument?
+  options:
+    - >-
+      The municipality treats our neighbourhood badly.
+    - >-
+      Is the council's refusal to explain its decision lawful?
+    - >-
+      Many laws apply to this situation, including several Basic Laws.
+    - >-
+      We want a playground and the council should build one.
+  correct: 1
+  explanation: >-
+    An issue is a single question the reader can answer. Complaints and wishes belong in the facts and conclusion.
+- id: m02-044
+  module: 2
+  lesson: "02.4"
+  subject: irac
+  difficulty: 2
+  question: >-
+    In a letter to an official, why do Israeli practitioners usually put the facts before the law?
+  options:
+    - >-
+      Because the law may only be quoted at the end.
+    - >-
+      Because officials are not allowed to read the law first.
+    - >-
+      Because the reader needs the facts for the law to make sense.
+    - >-
+      Because facts outrank law in administrative matters.
+  correct: 2
+  explanation: >-
+    Facts first gives the reader the context; the quoted rule then lands on a situation they already understand.
+- id: m02-045
+  module: 2
+  lesson: "02.4"
+  subject: elements
+  difficulty: 2
+  question: >-
+    Section 2(א) of the Decisions and Reasons Law applies when a public servant is asked in writing to use a legal power. Which situation does NOT meet the elements?
+  options:
+    - >-
+      A letter to a municipal engineer asking to approve a sign.
+    - >-
+      An email to a ministry official asking for a licence.
+    - >-
+      A registered letter asking a regional council for a permit.
+    - >-
+      A request made aloud to the mayor at a public meeting.
+  correct: 3
+  explanation: >-
+    The section requires a written request. A conversation, however public, does not start the 45 days.
+- id: m02-046
+  module: 2
+  lesson: "02.4"
+  subject: elements
+  difficulty: 2
+  question: >-
+    Your element table shows a fact for 'written request' but nothing in the 'proof' column. What is the best fix?
+  options:
+    - >-
+      List the copy of the letter and the delivery confirmation.
+    - >-
+      Delete the element, since everyone knows a request was sent.
+    - >-
+      Write 'the authority knows' in the proof column.
+    - >-
+      Replace the fact with a stronger adjective.
+  correct: 0
+  explanation: >-
+    Each fact needs proof the authority or court can see. A copy and a delivery receipt prove the written request.
+- id: m02-047
+  module: 2
+  lesson: "02.4"
+  subject: elements
+  difficulty: 3
+  question: >-
+    Your rule has four elements. You can prove three, and the fourth is doubtful. What is the soundest strategy?
+  options:
+    - >-
+      Argue the three strong elements and stay silent on the fourth.
+    - >-
+      Address the fourth openly: get proof, or add an alternative rule.
+    - >-
+      Claim all four are proven to sound confident.
+    - >-
+      Wait until the authority raises the fourth element itself.
+  correct: 1
+  explanation: >-
+    The authority will find the weak element. Address it directly, gather proof, or add an alternative argument that does not need it.
+- id: m02-048
+  module: 2
+  lesson: "02.4"
+  subject: counter-argument
+  difficulty: 2
+  question: >-
+    What is the main purpose of an 'even if' (גם אם) paragraph?
+  options:
+    - >-
+      To apologise in advance for possible mistakes.
+    - >-
+      To list unrelated complaints against the authority.
+    - >-
+      To show you win even if their best point is right.
+    - >-
+      To repeat your conclusion in stronger words.
+  correct: 2
+  explanation: >-
+    An alternative argument shows you win even if the authority's point is accepted, closing its easy way out.
+- id: m02-049
+  module: 2
+  lesson: "02.4"
+  subject: counter-argument
+  difficulty: 3
+  question: >-
+    A council will probably answer that it has no budget for your request. How do you prepare for this in your argument?
+  options:
+    - >-
+      Ignore it, since budget is never relevant in administrative law.
+    - >-
+      Promise to raise the money yourselves.
+    - >-
+      Criticise the council's budget priorities at length.
+    - >-
+      Show the duty is mandatory, or that a cheaper step meets it.
+  correct: 3
+  explanation: >-
+    Anticipate the likely answer: show that the law requires action, or that a lower-cost step satisfies the duty.
+- id: m02-050
+  module: 2
+  lesson: "02.4"
+  subject: conclusion
+  difficulty: 1
+  question: >-
+    Which conclusion is easiest for an authority to act on?
+  options:
+    - >-
+      Install a speed bump on HaZait Street by 1 March.
+    - >-
+      Please treat our residents fairly and equally.
+    - >-
+      We expect you to do the right thing for everyone.
+    - >-
+      Act according to all the laws that apply here.
+  correct: 0
+  explanation: >-
+    A specific act with a date gives the authority something to approve, and makes a refusal or silence clear.
+- id: m02-051
+  module: 2
+  lesson: "02.4"
+  subject: authorities
+  difficulty: 2
+  question: >-
+    How should you cite a ruling in your argument so a reader can check it quickly?
+  options:
+    - >-
+      By the headline of the newspaper story that reported it.
+    - >-
+      By case number, parties and the relevant paragraph.
+    - >-
+      By the name of the judge alone.
+    - >-
+      By the year only.
+  correct: 1
+  explanation: >-
+    Case number, parties and paragraph let the reader go straight to the holding in the free judgments search.
+- id: m02-052
+  module: 2
+  lesson: "02.4"
+  subject: decisions-and-reasons
+  difficulty: 1
+  question: >-
+    Under s. 2א of the Decisions and Reasons Law, what must a public servant do when refusing a written request?
+  options:
+    - >-
+      Offer a meeting with the minister.
+    - >-
+      Pay the requester's costs.
+    - >-
+      Give the reasons in writing.
+    - >-
+      Publish the refusal on its website.
+  correct: 2
+  explanation: >-
+    Section 2א requires written reasons for a refusal; s. 3 lists narrow exceptions.
+- id: m02-053
+  module: 2
+  lesson: "02.4"
+  subject: decisions-and-reasons
+  difficulty: 2
+  question: >-
+    Which of these is a listed exception that allows a public servant not to give reasons for a refusal?
+  options:
+    - >-
+      The requester did not pay the processing fee.
+    - >-
+      The official is too busy.
+    - >-
+      The request was written in Arabic.
+    - >-
+      Giving reasons would harm state security.
+  correct: 3
+  explanation: >-
+    Section 3(2) covers state security or foreign relations. Being busy, language or fees are not exceptions.
+- id: m02-054
+  module: 2
+  lesson: "02.4"
+  subject: decisions-and-reasons
+  difficulty: 3
+  question: >-
+    An authority refused without reasons, citing one of the s. 3 exceptions. What does s. 4 let you do?
+  options:
+    - >-
+      Appeal (ערר) to the responsible minister within 30 days.
+    - >-
+      Nothing; an exception ends the matter.
+    - >-
+      Go directly to the Supreme Court without any letter.
+    - >-
+      Demand compensation from the official personally.
+  correct: 0
+  explanation: >-
+    Section 4: the official must tell you which exception applies, and you may appeal to the responsible minister within 30 days of the notice.
+- id: m02-055
+  module: 2
+  lesson: "02.4"
+  subject: style
+  difficulty: 1
+  question: >-
+    Which sentence belongs in a legal argument?
+  options:
+    - >-
+      This scandalous decision shocks every decent person.
+    - >-
+      The decision was made on 3 May without a hearing.
+    - >-
+      Everyone knows the council hates our neighbourhood.
+    - >-
+      This is the worst decision in the city's history.
+  correct: 1
+  explanation: >-
+    Facts with proof persuade; adjectives and accusations invite a defensive reply.
+- id: m02-056
+  module: 2
+  lesson: "02.5"
+  subject: addressee
+  difficulty: 1
+  question: >-
+    To whom should a formal request to use a legal power usually be addressed?
+  options:
+    - >-
+      The official who holds the power, copying the legal adviser.
+    - >-
+      The authority's general information inbox.
+    - >-
+      The newspaper that covers the authority.
+    - >-
+      The most senior elected politician you can find at that authority.
+  correct: 0
+  explanation: >-
+    Write to the post the law names; the legal adviser's copy helps the request get proper legal attention.
+- id: m02-057
+  module: 2
+  lesson: "02.5"
+  subject: addressee
+  difficulty: 2
+  question: >-
+    The law gives a power to 'the district planning officer', but you only know the ministry's general address. What do you do first?
+  options:
+    - >-
+      Send it to the general address, without naming any official.
+    - >-
+      Find the post holder's name and address, and write to them.
+    - >-
+      Send it to the Prime Minister's office.
+    - >-
+      Phone the ministry instead of writing.
+  correct: 1
+  explanation: >-
+    A letter to the named post holder starts the deadline sooner and is harder to lose.
+- id: m02-058
+  module: 2
+  lesson: "02.5"
+  subject: letter-structure
+  difficulty: 1
+  question: >-
+    What is the 'הנדון' line in a Hebrew formal letter?
+  options:
+    - >-
+      The closing greeting before the signature.
+    - >-
+      The list of attachments.
+    - >-
+      The one-line subject of the letter.
+    - >-
+      The copy list at the bottom.
+  correct: 2
+  explanation: >-
+    הנדון is the subject line; it should say in one line what you want.
+- id: m02-059
+  module: 2
+  lesson: "02.5"
+  subject: letter-structure
+  difficulty: 1
+  question: >-
+    What does 'בלי לפגוע בזכויות' at the top of a letter signal?
+  options:
+    - >-
+      That the letter is confidential.
+    - >-
+      That the writer is a lawyer.
+    - >-
+      That the letter is the final demand before going to court.
+    - >-
+      That the writer keeps all other rights and claims.
+  correct: 3
+  explanation: >-
+    It means 'without prejudice to rights': nothing in the letter waives other claims.
+- id: m02-060
+  module: 2
+  lesson: "02.5"
+  subject: letter-structure
+  difficulty: 2
+  question: >-
+    Your letter mentions 'the attached photos' but the attachments are not numbered or listed. Why does this matter?
+  options:
+    - >-
+      Later, nobody can tell which photo the letter relied on.
+    - >-
+      Photos may not be attached to letters to authorities.
+    - >-
+      Unnumbered attachments make the whole letter void.
+    - >-
+      The authority must return unnumbered attachments.
+  correct: 0
+  explanation: >-
+    Numbered, listed attachments (נספחים) become clear exhibits in any later complaint or petition.
+- id: m02-061
+  module: 2
+  lesson: "02.5"
+  subject: proof-of-receipt
+  difficulty: 2
+  question: >-
+    Which is the strongest proof that a council received your letter on a specific date?
+  options:
+    - >-
+      A note in your diary that you posted it.
+    - >-
+      A signed registered-mail delivery confirmation.
+    - >-
+      A friend who saw you post it.
+    - >-
+      A screenshot of the draft in your word processor.
+  correct: 1
+  explanation: >-
+    The deadline runs from receipt; a signed delivery card shows the authority received it and when.
+- id: m02-062
+  module: 2
+  lesson: "02.5"
+  subject: proof-of-receipt
+  difficulty: 2
+  question: >-
+    You hand-deliver a letter to a ministry office. What should you ask for?
+  options:
+    - >-
+      A receipt for parking.
+    - >-
+      The clerk's personal phone number.
+    - >-
+      A copy stamped with the date received.
+    - >-
+      A meeting with the minister on the spot.
+  correct: 2
+  explanation: >-
+    A stamped 'נתקבל' copy with the date is proof of receipt.
+- id: m02-063
+  module: 2
+  lesson: "02.5"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    A request was received on 20 May. Using the Interpretation Law, on what date do three months end?
+  options:
+    - >-
+      19 August.
+    - >-
+      18 August.
+    - >-
+      21 August.
+    - >-
+      20 August.
+  correct: 3
+  explanation: >-
+    A period in months ends on the same-numbered day of the last month (s. 10(ב)), so three months from 20 May end on 20 August.
+- id: m02-064
+  module: 2
+  lesson: "02.5"
+  subject: deadlines
+  difficulty: 3
+  question: >-
+    The 45th day for an answer falls on a Saturday. What does the Interpretation Law say?
+  options:
+    - >-
+      A period ending on a rest day runs to the next day.
+    - >-
+      The deadline moves back to the Thursday before.
+    - >-
+      Saturdays never count in any period at all.
+    - >-
+      The authority gets an extra week to answer.
+  correct: 0
+  explanation: >-
+    Section 10(ג): rest days count, unless they are the last days of the period; then the period ends on the next working day.
+- id: m02-065
+  module: 2
+  lesson: "02.5"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    When does s. 2 of the Decisions and Reasons Law NOT give the authority 45 days?
+  options:
+    - >-
+      When the requester is a company.
+    - >-
+      When another law sets a different deadline.
+    - >-
+      When the request is longer than two pages.
+    - >-
+      When the request is sent by email.
+  correct: 1
+  explanation: >-
+    Section 2(ב)(2): if another law sets another deadline, that deadline applies.
+- id: m02-066
+  module: 2
+  lesson: "02.5"
+  subject: deemed-refusal
+  difficulty: 2
+  question: >-
+    Why does it matter that silence for three months counts as a refusal under s. 6(ב)?
+  options:
+    - >-
+      It gives you a decision you can challenge.
+    - >-
+      It means the authority must pay you compensation.
+    - >-
+      It means your request is automatically approved.
+    - >-
+      It cancels your right to apply again.
+  correct: 0
+  explanation: >-
+    A deemed refusal lets you move to the next step (complaint, appeal or petition) instead of waiting indefinitely.
+- id: m02-067
+  module: 2
+  lesson: "02.5"
+  subject: choosing-the-tool
+  difficulty: 2
+  question: >-
+    You want copies of the council's internal reports about a dangerous junction. Which tool fits best?
+  options:
+    - >-
+      A general letter asking the council to act.
+    - >-
+      An affidavit describing the junction.
+    - >-
+      A Freedom of Information request.
+    - >-
+      A small claims suit.
+  correct: 2
+  explanation: >-
+    Information held by a public authority is requested under the Freedom of Information Law (lesson 05.2).
+- id: m02-068
+  module: 2
+  lesson: "02.5"
+  subject: tone
+  difficulty: 1
+  question: >-
+    What tone works best in a first letter to an authority?
+  options:
+    - >-
+      Angry, to show how serious you are.
+    - >-
+      Informal and chatty, to build rapport.
+    - >-
+      Threatening, naming the court you will go to.
+    - >-
+      Polite, factual and short.
+  correct: 3
+  explanation: >-
+    Officials respond best to letters that make it easy to say yes. Save firmer language for the follow-up demand.
+- id: m02-069
+  module: 2
+  lesson: "02.5"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the main mistake: 'To the municipality. We ask you to deal with the noise. Please reply. Thanks, residents.' (sent by email to info@)
+  options:
+    - >-
+      It is far too short to be taken seriously by any official.
+    - >-
+      No addressee, facts, law, specific request or signatory.
+    - >-
+      It should have been written in English.
+    - >-
+      It thanks the municipality, which weakens it.
+  correct: 1
+  explanation: >-
+    The letter lacks every element that starts a deadline and makes a refusal challengeable: the right official, facts, law, a specific request and a named writer.
+- id: m02-070
+  module: 2
+  lesson: "02.5"
+  subject: acting-for-others
+  difficulty: 3
+  question: >-
+    Your residents' committee wants to send a letter in the committee's name. You are a member and will write it, unpaid. Is this within the limits the course teaches?
+  options:
+    - >-
+      Yes; helping your own group act in its own name is fine.
+    - >-
+      No; only a lawyer may write any letter for a group.
+    - >-
+      Yes, but only if you sign it as 'legal adviser'.
+    - >-
+      No; committees may not write to authorities.
+  correct: 0
+  explanation: >-
+    Bar Association Law s. 20 targets acting for others as an occupation or for payment. A member writing for their own group, in its name, is fine.
+- id: m02-071
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-basics
+  difficulty: 1
+  question: >-
+    What makes a written statement an affidavit under the Evidence Ordinance?
+  options:
+    - >-
+      It is printed on official paper.
+    - >-
+      It is longer than one page.
+    - >-
+      An authorised person gave the warning and certified it.
+    - >-
+      It was drafted, printed and stamped by a licensed lawyer.
+  correct: 2
+  explanation: >-
+    Section 15: the warning to tell the truth and of the penalties, given and certified by an authorised person.
+- id: m02-072
+  module: 2
+  lesson: "02.6"
+  subject: certification
+  difficulty: 1
+  question: >-
+    Which of these may certify an affidavit under s. 15(ב) of the Evidence Ordinance?
+  options:
+    - >-
+      A police investigator.
+    - >-
+      A school principal.
+    - >-
+      A certified public accountant.
+    - >-
+      The head of a local authority.
+  correct: 3
+  explanation: >-
+    Section 15(ב)(5) lists the head of a local authority, alongside judges, religious-court judges, lawyers and others.
+- id: m02-073
+  module: 2
+  lesson: "02.6"
+  subject: certification
+  difficulty: 2
+  question: >-
+    Can a lawyer certify your affidavit by video call?
+  options:
+    - >-
+      Yes, if Bar conditions such as digital ID and a recording are met.
+    - >-
+      No, never; you must always meet in person.
+    - >-
+      Yes, by any video-calling app you like, without any other conditions.
+    - >-
+      Only if the lawyer is also a notary.
+  correct: 0
+  explanation: >-
+    Bar ethics decisions, made permanent in 2021, allow video certification under strict conditions (Kol Zchut summarises them).
+- id: m02-074
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-cost
+  difficulty: 2
+  question: >-
+    Which statement about the cost of certifying an affidavit in 2026 is accurate?
+  options:
+    - >-
+      All lawyers must charge exactly ₪512 for every affidavit.
+    - >-
+      Notary fees are regulated; lawyers' fees are not, so ask.
+    - >-
+      Certification is always free for activists.
+    - >-
+      Only notaries may charge for certification.
+  correct: 1
+  explanation: >-
+    Notary fees are regulated (about ₪200 plus VAT for the first declarant); the Bar's ₪512 is only a recommended minimum for drafting and certifying.
+- id: m02-075
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-cost
+  difficulty: 2
+  question: >-
+    You need an affidavit certified only for an Israeli administrative court. Why is a notary usually unnecessary?
+  options:
+    - >-
+      Notaries may not certify affidavits for Israeli courts.
+    - >-
+      Notaries charge less than lawyers, which courts dislike.
+    - >-
+      Any lawyer may certify it; notaries mainly serve use abroad.
+    - >-
+      Courts require a judge to certify every affidavit.
+  correct: 2
+  explanation: >-
+    A lawyer's certification is enough for Israeli courts; notarial services matter mostly for documents used abroad.
+- id: m02-076
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-form
+  difficulty: 1
+  question: >-
+    In civil courts, how must an affidavit be written according to reg. 178(א)?
+  options:
+    - >-
+      In the third person, as one long paragraph.
+    - >-
+      In English, followed by a short Hebrew summary.
+    - >-
+      As questions and answers.
+    - >-
+      In the first person, in numbered paragraphs.
+  correct: 3
+  explanation: >-
+    Regulation 178(א): first person, divided into paragraphs, with facts the declarant can testify to from personal knowledge.
+- id: m02-077
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-form
+  difficulty: 2
+  question: >-
+    What personal details does the Evidence Ordinance's Second Schedule require in an affidavit?
+  options:
+    - >-
+      Full name, occupation and address.
+    - >-
+      Full name, bank account and phone number.
+    - >-
+      Full name and political affiliation.
+    - >-
+      Only an ID number.
+  correct: 0
+  explanation: >-
+    Item 2 of the Second Schedule: the declarant's full name, occupation and address.
+- id: m02-078
+  module: 2
+  lesson: "02.6"
+  subject: affidavit-form
+  difficulty: 2
+  question: >-
+    In an affidavit supporting a civil pleading you want to state something you believe but did not see. What does reg. 178(א) require?
+  options:
+    - >-
+      Nothing extra; any belief may be stated.
+    - >-
+      You must state the source of your belief.
+    - >-
+      You must get a second declarant to confirm it.
+    - >-
+      You must write it in a separate document.
+  correct: 1
+  explanation: >-
+    Beliefs are allowed in an affidavit attached to a pleading only if you state the source of the belief or knowledge.
+- id: m02-079
+  module: 2
+  lesson: "02.6"
+  subject: corrections
+  difficulty: 2
+  question: >-
+    You spot a typo while sitting with the lawyer, before signing. What is the correct procedure?
+  options:
+    - >-
+      Sign first and fix it later at home.
+    - >-
+      Ignore it; typos never matter.
+    - >-
+      Correct it before signing; the certifier initials it.
+    - >-
+      Start a new affidavit at a different lawyer's office.
+  correct: 2
+  explanation: >-
+    The Second Schedule (item 4) requires corrections made before swearing to be initialled by the certifier in the margin.
+- id: m02-080
+  module: 2
+  lesson: "02.6"
+  subject: false-affidavit
+  difficulty: 1
+  question: >-
+    What is the maximum penalty for knowingly making a false affidavit under the Penal Law?
+  options:
+    - >-
+      A warning letter only.
+    - >-
+      A fine of ₪500.
+    - >-
+      One month's community service.
+    - >-
+      Three years' imprisonment.
+  correct: 3
+  explanation: >-
+    Penal Law s. 239 provides three years' imprisonment for knowingly giving a false affidavit.
+- id: m02-081
+  module: 2
+  lesson: "02.6"
+  subject: cross-examination
+  difficulty: 2
+  question: >-
+    The other side asks to cross-examine you on your affidavit, and you do not come to court. What may happen?
+  options:
+    - >-
+      The court may refuse to treat it as evidence.
+    - >-
+      Nothing; affidavits stand on their own.
+    - >-
+      The court must postpone the hearing indefinitely.
+    - >-
+      Your affidavit automatically becomes stronger.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 17(א): the court may disqualify the affidavit if the declarant does not appear for examination.
+- id: m02-082
+  module: 2
+  lesson: "02.6"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the main problem in this affidavit paragraph: '5. The council acted with obvious malice and broke every rule of fair procedure.'
+  options:
+    - >-
+      It should be written in the third person.
+    - >-
+      It states opinions and conclusions, not facts.
+    - >-
+      It is too short for an affidavit paragraph.
+    - >-
+      It names the council instead of an official.
+  correct: 1
+  explanation: >-
+    An affidavit proves facts. Opinions and legal conclusions belong in the petition; here they weaken credibility and invite cross-examination.
+- id: m02-083
+  module: 2
+  lesson: "02.6"
+  subject: group-evidence
+  difficulty: 3
+  question: >-
+    Five members of your group witnessed the same event. What is the best way to present their evidence?
+  options:
+    - >-
+      One affidavit signed by all five, written by one member.
+    - >-
+      One affidavit by the chair summarising what others said.
+    - >-
+      Each witness gives a separate affidavit in their own words.
+    - >-
+      A joint letter from the group, without any affidavits.
+  correct: 2
+  explanation: >-
+    Each witness's personal knowledge goes in their own affidavit; a summary of others' accounts is hearsay.
+- id: m02-084
+  module: 2
+  lesson: "02.6"
+  subject: acting-for-others
+  difficulty: 3
+  question: >-
+    An elderly neighbour asks you to write her affidavit for a court case, and offers to pay. What do you do?
+  options:
+    - >-
+      Write it and accept the payment, since she will be the one signing it.
+    - >-
+      Write it in your own name as her representative.
+    - >-
+      Write it for free but sign it as her witness.
+    - >-
+      Decline payment; explain the structure or refer her to a clinic.
+  correct: 3
+  explanation: >-
+    Drafting legal documents for another person for payment is reserved to lawyers (Bar Association Law s. 20). Explaining general structure is fine.

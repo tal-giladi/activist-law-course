@@ -1,0 +1,1597 @@
+# Module 1 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m01-001
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 1
+  question: >-
+    Which of these is NOT one of the acts Bar Association Law s. 20 reserves to lawyers?
+  options:
+    - >-
+      Filing your own petition, in your own name.
+    - >-
+      Representing another person before a court.
+    - >-
+      Drafting a legal document for another person.
+    - >-
+      Giving legal opinions as a regular service.
+  correct: 0
+  explanation: >-
+    Section 20 reserves acts done for another person, as an occupation or for payment. Acting for yourself is outside it.
+- id: m01-002
+  module: 1
+  lesson: "01.1"
+  subject: self-representation
+  difficulty: 1
+  question: >-
+    Can a person with no lawyer file a petition to the High Court of Justice in their own name?
+  options:
+    - >-
+      No; the High Court accepts only petitions signed by a lawyer.
+    - >-
+      Only if the person holds a law degree from an Israeli university.
+    - >-
+      Yes; self-representation is allowed there, as in most forums.
+    - >-
+      Only after the Bar Association approves the petition in writing.
+  correct: 2
+  explanation: >-
+    Israeli law lets people represent themselves. Module 5 (lesson 05.7) teaches self-represented High Court petitions.
+- id: m01-003
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 2
+  question: >-
+    What penalty does s. 96 set for a non-lawyer who does an act reserved to lawyers?
+  options:
+    - >-
+      A fine at the level set in Penal Law s. 61(a)(2).
+    - >-
+      Automatic imprisonment for one year, with no fine.
+    - >-
+      Only a warning letter from the Bar Association.
+    - >-
+      None, unless the client files a police complaint.
+  correct: 0
+  explanation: >-
+    Section 96 sets a fine "כאמור בסעיף 61(א)(2) לחוק העונשין". Prison appears in s. 97, which covers impersonating a lawyer.
+- id: m01-004
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 2
+  question: >-
+    Once, without payment, you help a friend understand a form that she then fills in and signs herself. How does this sit under s. 20, on the course's reading?
+  options:
+    - >-
+      Outside its words: not an occupation, not paid, and she acts herself.
+    - >-
+      Reserved, because any help with a legal form counts as representation.
+    - >-
+      Allowed only if you are related to her by blood or by marriage.
+    - >-
+      An offence only if the form is filed in a court, not a ministry.
+  correct: 0
+  explanation: >-
+    The reservation applies to acts done as an occupation or for payment, for another person. A one-off unpaid explanation, with her doing the act, is outside the text.
+- id: m01-005
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 3
+  question: >-
+    An amuta's volunteers plan a free, organised weekly service writing appeals for members of the public. What is the main legal risk?
+  options:
+    - >-
+      None, because s. 20 covers only paid work and never free services.
+    - >-
+      Only a tax risk, because free services are taxed as donations.
+    - >-
+      Only that volunteers must register as interpreters with the court.
+    - >-
+      Regular drafting for others may count as an occupation, even unpaid.
+  correct: 3
+  explanation: >-
+    Section 20 covers acts done "דרך עיסוק" as well as for payment. Organised, repeated drafting for others can be an occupation; Module 18 covers NGOs.
+- id: m01-006
+  module: 1
+  lesson: "01.1"
+  subject: safety-and-help
+  difficulty: 2
+  question: >-
+    Which situation most clearly calls for the Public Defender, a lawyer or Legal Aid rather than acting alone?
+  options:
+    - >-
+      Filing a Freedom of Information request to a ministry.
+    - >-
+      Asking a council in writing for its meeting minutes.
+    - >-
+      Being called to a police interrogation as a suspect.
+    - >-
+      Reading a ruling on Versa to prepare a blog post.
+  correct: 2
+  explanation: >-
+    Criminal matters carry the highest risk, and choices made in an interrogation are hard to undo. Module 7 covers your rights.
+- id: m01-007
+  module: 1
+  lesson: "01.1"
+  subject: course-limits
+  difficulty: 1
+  question: >-
+    Which statement matches the course's standard wording about what it is not?
+  options:
+    - >-
+      It is a short law degree recognised for the bar exam after a practicum.
+    - >-
+      It licenses graduates to represent others in small claims and tribunals.
+    - >-
+      It is not a law degree, not a licence to practise, and not legal advice.
+    - >-
+      It is legal advice for activists, reviewed by the Israel Bar Association.
+  correct: 2
+  explanation: >-
+    The course teaches you to act for yourself. It does not lead to the bar exam and does not license you to act for others.
+- id: m01-008
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 2
+  question: >-
+    Which of these does Bar Association Law s. 21 keep outside the s. 20 reservation?
+  options:
+    - >-
+      Representation before religious and military courts.
+    - >-
+      Representation before the High Court by any NGO.
+    - >-
+      Legal advice given by accountants to any client.
+    - >-
+      Representation before the Execution Office by relatives.
+  correct: 0
+  explanation: >-
+    Section 21(2) leaves out "ייצוג לפני בתי דין דתיים ולפני בתי דין צבאיים". The Execution Office is on the s. 20(2) list.
+- id: m01-009
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 3
+  question: >-
+    A leaflet says: "Bring your papers — we'll write your appeal and represent you at the committee, ₪50 a case." What is the problem?
+  options:
+    - >-
+      It offers drafting and representation for others, for payment.
+    - >-
+      It should limit the service to residents of the city only.
+    - >-
+      It must print each volunteer's ID number on the leaflet.
+    - >-
+      None, since committees are not courts and s. 20 does not apply.
+  correct: 0
+  explanation: >-
+    Section 20(1) covers quasi-judicial bodies too, and s. 20(3) covers drafting for others. Charging per case makes it "בתמורה".
+- id: m01-010
+  module: 1
+  lesson: "01.1"
+  subject: self-representation
+  difficulty: 2
+  question: >-
+    Twenty residents write one objection together at a meeting, and each signs and files their own copy. Who is acting?
+  options:
+    - >-
+      The person who typed the text, as their representative.
+    - >-
+      Each resident, in their own name.
+    - >-
+      The meeting's chair, acting as the residents' lawyer.
+    - >-
+      Nobody, because joint texts cannot be filed by individuals.
+  correct: 1
+  explanation: >-
+    Each resident is the author and filer of their own objection, which is self-representation.
+- id: m01-011
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 1
+  question: >-
+    What does "בתמורה" mean in s. 20 of the Bar Association Law?
+  options:
+    - >-
+      As a regular occupation or business.
+    - >-
+      For payment or other consideration.
+    - >-
+      Before a court or a tribunal.
+    - >-
+      In writing, signed by both sides.
+  correct: 1
+  explanation: >-
+    "דרך עיסוק" means as an occupation; "בתמורה" means for payment. Either one is enough.
+- id: m01-012
+  module: 1
+  lesson: "01.1"
+  subject: unauthorised-practice
+  difficulty: 3
+  question: >-
+    A friend asks: "Just tell me if I should sign the settlement the city offered me." What is the safe response?
+  options:
+    - >-
+      Tell him to sign, because a settlement always beats going to court.
+    - >-
+      Tell him not to sign, because cities never offer fair settlement terms.
+    - >-
+      Explain how such deals work in general, and refer him to a clinic.
+    - >-
+      Draft a counter-offer for him and send it to the city in his name.
+  correct: 2
+  explanation: >-
+    Telling him what to do in his case is individual advice, and drafting for him is a reserved act. General information plus a referral keeps you on the safe side.
+- id: m01-013
+  module: 1
+  lesson: "01.1"
+  subject: safety-and-help
+  difficulty: 3
+  question: >-
+    You are suing the council in your own name. The council's lawyer asks the court to order costs against you if you lose. What does the lesson advise?
+  options:
+    - >-
+      Ignore it, because self-represented people never pay costs.
+    - >-
+      Ask the judge to appoint the council's lawyer to advise you.
+    - >-
+      Withdraw at once, since you may not act alone against a lawyer.
+    - >-
+      Take the risk seriously and consider advice from a clinic or Legal Aid.
+  correct: 3
+  explanation: >-
+    Costs orders are a real risk of acting alone. Self-representation is allowed, but the stakes may justify getting help.
+- id: m01-014
+  module: 1
+  lesson: "01.1"
+  subject: safety-and-help
+  difficulty: 1
+  question: >-
+    Which of these is a free source of legal help listed in the course?
+  options:
+    - >-
+      University legal clinics.
+    - >-
+      Paid case-law databases.
+    - >-
+      The Knesset's legal adviser.
+    - >-
+      The Bar's disciplinary court.
+  correct: 0
+  explanation: >-
+    Where to Get Help lists Legal Aid, the Public Defender, university clinics and NGOs.
+- id: m01-015
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 1
+  question: >-
+    Under the Law and Administration Ordinance, s. 11, law in force on which date stayed in force?
+  options:
+    - >-
+      29 November 1947.
+    - >-
+      1 November 1914.
+    - >-
+      23 July 1980.
+    - >-
+      14 May 1948.
+  correct: 3
+  explanation: >-
+    Section 11 kept the law that existed on ה׳ באייר תש״ח (14 May 1948), except where it conflicted with the new state's law.
+- id: m01-016
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 1
+  question: >-
+    Which word in a law's title usually shows it began as a Mandate ordinance?
+  options:
+    - >-
+      פקודה
+    - >-
+      חוק־יסוד
+    - >-
+      תקנות
+    - >-
+      הוראת שעה
+  correct: 0
+  explanation: >-
+    Mandate laws are ordinances (פקודות). Many were later re-issued as "[נוסח חדש]".
+- id: m01-017
+  module: 1
+  lesson: "01.2"
+  subject: gap-filling
+  difficulty: 2
+  question: >-
+    What did the Foundations of Law Act, 1980 repeal?
+  options:
+    - >-
+      Article 46 and its link to English law.
+    - >-
+      All Mandate ordinances still in force.
+    - >-
+      The Ottoman land law in all its parts.
+    - >-
+      The binding force of Supreme Court rulings.
+  correct: 0
+  explanation: >-
+    Section 2(a) repealed Article 46 of the Palestine Order in Council; s. 2(b) keeps law absorbed before 1980.
+- id: m01-018
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 2
+  question: >-
+    Under the Interpretation Law, which of these is included in "דין" (law)?
+  options:
+    - >-
+      Ottoman laws, as far as they are in force in the state.
+    - >-
+      Only Knesset laws passed after 14 May 1948.
+    - >-
+      Foreign laws chosen by the parties to a dispute.
+    - >-
+      Only Basic Laws and the regulations made under them.
+  correct: 0
+  explanation: >-
+    The definition of "דין" includes enactments, religious laws as in force, and British and Ottoman law "כפי תקפם במדינה".
+- id: m01-019
+  module: 1
+  lesson: "01.2"
+  subject: gap-filling
+  difficulty: 2
+  question: >-
+    A judge finds no statute, no precedent and no analogy for a new question. Under s. 1 of the Foundations of Law Act, what guides her?
+  options:
+    - >-
+      The common law and equity of England, as they stood in 1948.
+    - >-
+      Her own view of fairness, explained in her written reasons.
+    - >-
+      The principles of freedom, justice, equity and peace in s. 1.
+    - >-
+      The legal position of the Attorney General, as stated in guidelines.
+  correct: 2
+  explanation: >-
+    Section 1 points to the principles of freedom, justice, equity and peace of Jewish law and Israel's heritage, and only after the earlier steps.
+- id: m01-020
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 2
+  question: >-
+    Marriage and divorce of Jews in Israel are decided under which layer of law?
+  options:
+    - >-
+      Ottoman civil law, through the old Mejelle code.
+    - >-
+      Religious law, applied by statute in the rabbinical courts.
+    - >-
+      English common law, absorbed in the Mandate period.
+    - >-
+      A Knesset civil-marriage code passed in the 1950s.
+  correct: 1
+  explanation: >-
+    Religious law applies in personal status matters because statutes say so; the rabbinical courts hear marriage and divorce of Jews.
+- id: m01-021
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 3
+  question: >-
+    An official says a 1936 Mandate ordinance "was cancelled automatically when the Basic Laws were passed". How do you check?
+  options:
+    - >-
+      Check the current text for an express repeal or a new version.
+    - >-
+      Accept it, since every Basic Law cancels all earlier law automatically.
+    - >-
+      Ask the official which judge cancelled the ordinance in 1948.
+    - >-
+      Read only the English text, since the ordinance was enacted in English.
+  correct: 0
+  explanation: >-
+    Mandate law stays in force until it is repealed or replaced. Basic Law: Human Dignity and Liberty s. 10 even protects earlier law expressly.
+- id: m01-022
+  module: 1
+  lesson: "01.2"
+  subject: precedent
+  difficulty: 1
+  question: >-
+    Which provision makes Supreme Court holdings binding on lower courts?
+  options:
+    - >-
+      Basic Law: Human Dignity and Liberty, s. 8.
+    - >-
+      Foundations of Law Act, s. 2.
+    - >-
+      Courts Law, s. 60.
+    - >-
+      Basic Law: The Judiciary, s. 20.
+  correct: 3
+  explanation: >-
+    Section 20(b): a Supreme Court holding binds every court except the Supreme Court.
+- id: m01-023
+  module: 1
+  lesson: "01.2"
+  subject: precedent
+  difficulty: 2
+  question: >-
+    Is the Supreme Court bound by its own earlier holdings?
+  options:
+    - >-
+      No; s. 20(b) binds every court except the Supreme Court.
+    - >-
+      Yes, always; only the Knesset can change a holding.
+    - >-
+      Yes, unless the President of Israel pardons the parties.
+    - >-
+      No, and lower courts are also free to ignore them.
+  correct: 0
+  explanation: >-
+    The Supreme Court may depart from its own precedent, though it rarely does so lightly; all other courts are bound.
+- id: m01-024
+  module: 1
+  lesson: "01.2"
+  subject: gap-filling
+  difficulty: 2
+  question: >-
+    No rule covers situation X, but a law covers a very similar situation Y. Which step of s. 1 does a court use?
+  options:
+    - >-
+      Principles of Jewish law, which always come first.
+    - >-
+      Analogy (היקש), before turning to principles.
+    - >-
+      English common law, as the closest legal system.
+    - >-
+      The minister's discretion, since the law is silent.
+  correct: 1
+  explanation: >-
+    The order is legislation, precedent, analogy, and only then the principles in s. 1.
+- id: m01-025
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 1
+  question: >-
+    What does "[נוסח חדש]" after an ordinance's title indicate?
+  options:
+    - >-
+      An official Hebrew re-enactment, which is the binding text.
+    - >-
+      A draft that the Knesset has not yet approved.
+    - >-
+      A translation for information only, with no legal force.
+    - >-
+      A version that applies only in some districts of the country.
+  correct: 0
+  explanation: >-
+    Interpretation Law s. 24: where a Mandate law was given a new version, the new version binds.
+- id: m01-026
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 3
+  question: >-
+    A land dispute turns on a classification from the Ottoman period. A friend says Ottoman law is irrelevant today. What is the best answer?
+  options:
+    - >-
+      He is right; Ottoman law was entirely cancelled in May 1948.
+    - >-
+      Ottoman law overrides Knesset law in every land-related matter.
+    - >-
+      Ottoman rules still matter where they were kept in force, mainly land.
+    - >-
+      Only courts in Turkey may apply Ottoman law in the present day.
+  correct: 2
+  explanation: >-
+    Law in force in 1948 continued unless repealed, and the Interpretation Law counts Ottoman laws "כפי תקפם במדינה". Their main remaining weight is in land law.
+- id: m01-027
+  module: 1
+  lesson: "01.2"
+  subject: legal-layers
+  difficulty: 2
+  question: >-
+    A title reads "חוק חופש המידע, התשנ״ח–1998". What does it tell you?
+  options:
+    - >-
+      A Knesset law passed in 1998 (Hebrew year תשנ״ח).
+    - >-
+      A Mandate ordinance re-issued in Hebrew in 1998.
+    - >-
+      A regulation made by a minister in the year 1998.
+    - >-
+      A Basic Law that has limited rights since 1998.
+  correct: 0
+  explanation: >-
+    "חוק" with a year is a Knesset statute. Ordinances say "פקודה" and regulations say "תקנות".
+- id: m01-028
+  module: 1
+  lesson: "01.2"
+  subject: gap-filling
+  difficulty: 3
+  question: >-
+    You are drafting an argument for a council meeting. Which order follows the logic of the Foundations of Law Act?
+  options:
+    - >-
+      Principles first, then the statute, then supportive rulings.
+    - >-
+      Statute, binding rulings, similar cases, then principles.
+    - >-
+      Rulings first, since they are newer than most statutes.
+    - >-
+      Foreign law first, then the statute, then local practice.
+  correct: 1
+  explanation: >-
+    Courts look for an answer in legislation, precedent and analogy before principles. Arguing in the same order makes your case easy to follow.
+- id: m01-029
+  module: 1
+  lesson: "01.3"
+  subject: hierarchy-of-norms
+  difficulty: 1
+  question: >-
+    Which list is in descending order of legal force?
+  options:
+    - >-
+      Law, Basic Law, procedure, regulation.
+    - >-
+      Regulation, law, Basic Law, procedure.
+    - >-
+      Basic Law, law, regulation, internal procedure.
+    - >-
+      Procedure, regulation, law, Basic Law.
+  correct: 2
+  explanation: >-
+    Basic Laws sit on top, then laws, then regulations made under laws, then administrative instructions and procedures.
+- id: m01-030
+  module: 1
+  lesson: "01.3"
+  subject: secondary-legislation
+  difficulty: 1
+  question: >-
+    Under the Interpretation Law, a "תקנה" (regulation) is:
+  options:
+    - >-
+      Any written decision by any public official.
+    - >-
+      A legislative rule made under the power of a law.
+    - >-
+      A Knesset law passed by a special majority.
+    - >-
+      A guideline issued by the Attorney General.
+  correct: 1
+  explanation: >-
+    "תקנה – הוראה שניתנה מכוח חוק והיא בת־פעל תחיקתי".
+- id: m01-031
+  module: 1
+  lesson: "01.3"
+  subject: secondary-legislation
+  difficulty: 2
+  question: >-
+    Where do you usually find the source of a regulation's power?
+  options:
+    - >-
+      In the last line, next to the date of publication.
+    - >-
+      In its opening formula, "בתוקף סמכותי לפי סעיף …".
+    - >-
+      In the minister's press release on the regulation.
+    - >-
+      In the Basic Law that the regulation interprets.
+  correct: 1
+  explanation: >-
+    Regulations open by naming the section of the law that authorises them. That is where the source check starts.
+- id: m01-032
+  module: 1
+  lesson: "01.3"
+  subject: secondary-legislation
+  difficulty: 3
+  question: >-
+    A city by-law fines an act that the enabling law does not let the council regulate. Which argument fits?
+  options:
+    - >-
+      The by-law exceeds its source and is invalid on that point.
+    - >-
+      It is valid because councils can regulate any local matter.
+    - >-
+      It binds until the Knesset passes a law against it.
+    - >-
+      It is valid if most residents voted for the council.
+  correct: 0
+  explanation: >-
+    A by-law is secondary legislation: valid only within the power the law gave. Going beyond it is a defect you can raise.
+- id: m01-033
+  module: 1
+  lesson: "01.3"
+  subject: limitation-clause
+  difficulty: 2
+  question: >-
+    Under s. 8 of Basic Law: Human Dignity and Liberty, which norm can lawfully infringe a protected right?
+  options:
+    - >-
+      Any regulation that a minister considers necessary.
+    - >-
+      Any internal procedure published on the ministry's website.
+    - >-
+      A municipal decision approved by the mayor and council.
+    - >-
+      A law meeting s. 8, or a rule expressly authorised by one.
+  correct: 3
+  explanation: >-
+    Section 8 requires a law, or action under express authorisation in a law, fitting the state's values, for a proper purpose and no more than necessary.
+- id: m01-034
+  module: 1
+  lesson: "01.3"
+  subject: limitation-clause
+  difficulty: 1
+  question: >-
+    According to s. 11 of Basic Law: Human Dignity and Liberty, who must respect its rights?
+  options:
+    - >-
+      Only the Knesset and its committees.
+    - >-
+      Every government authority.
+    - >-
+      Only the courts, when hearing cases.
+    - >-
+      Only private employers and businesses.
+  correct: 1
+  explanation: >-
+    "כל רשות מרשויות השלטון חייבת לכבד את הזכויות שלפי חוק־יסוד זה".
+- id: m01-035
+  module: 1
+  lesson: "01.3"
+  subject: guidelines-and-procedures
+  difficulty: 3
+  question: >-
+    A ministry departs from a published AG guideline in your case without explanation. What is the best first move?
+  options:
+    - >-
+      Write asking it to explain the departure, citing the guideline.
+    - >-
+      Petition the High Court at once, without writing to the ministry.
+    - >-
+      File a criminal complaint against the minister personally.
+    - >-
+      Ignore the guideline, since guidelines never matter legally.
+  correct: 0
+  explanation: >-
+    Guidelines and published procedures are tools: an authority should explain why it departs from them. Writing first also exhausts remedies.
+- id: m01-036
+  module: 1
+  lesson: "01.3"
+  subject: hierarchy-of-norms
+  difficulty: 2
+  question: >-
+    How should a neutral course present the 1995 Mizrahi Bank ruling on judicial review?
+  options:
+    - >-
+      As a mistake that the Knesset formally reversed in 2023.
+    - >-
+      As a binding holding whose scope is debated, citing both sides.
+    - >-
+      As a minority opinion that never had any binding force.
+    - >-
+      As settled law that nobody seriously disputes any more.
+  correct: 1
+  explanation: >-
+    Mizrahi Bank is binding precedent, but its scope is a live public debate. The course attributes both positions.
+- id: m01-037
+  module: 1
+  lesson: "01.3"
+  subject: hierarchy-of-norms
+  difficulty: 2
+  question: >-
+    What did 12 of the 15 justices hold in HCJ 5658/23?
+  options:
+    - >-
+      The Court may never review Basic Laws at all.
+    - >-
+      Basic Laws must be passed by 80 Knesset members.
+    - >-
+      Regulations override Basic Laws in emergencies.
+    - >-
+      The Court may review Basic Laws in extreme cases.
+  correct: 3
+  explanation: >-
+    12 of 15 held that review of Basic Laws is possible in extreme cases; 8 of 15 voided the reasonableness amendment.
+- id: m01-038
+  module: 1
+  lesson: "01.3"
+  subject: guidelines-and-procedures
+  difficulty: 1
+  question: >-
+    What is a "נוהל"?
+  options:
+    - >-
+      A Basic Law on how the government must work.
+    - >-
+      An internal procedure of a ministry or authority.
+    - >-
+      A report published by a Knesset committee.
+    - >-
+      A ruling given by a planning appeals committee.
+  correct: 1
+  explanation: >-
+    Procedures guide officials; they cannot create powers that no law gives.
+- id: m01-039
+  module: 1
+  lesson: "01.3"
+  subject: limitation-clause
+  difficulty: 3
+  question: >-
+    A 1985 law hurts your cause. You plan to argue it is void under Basic Law: Human Dignity and Liberty (1992). What should you consider?
+  options:
+    - >-
+      Nothing special; any law that limits a protected right is void.
+    - >-
+      Ask the Knesset's legal adviser to declare the law void for you.
+    - >-
+      Argue that laws from the 1980s expire automatically after 30 years.
+    - >-
+      Section 10 keeps earlier law valid; argue for interpretation instead.
+  correct: 3
+  explanation: >-
+    Section 10 preserves law that existed before the Basic Law. You can still ask that the old law be read in the Basic Law's spirit.
+- id: m01-040
+  module: 1
+  lesson: "01.3"
+  subject: secondary-legislation
+  difficulty: 2
+  question: >-
+    Under the Interpretation Law, "חיקוק" (enactment) means:
+  options:
+    - >-
+      Any ruling of the Supreme Court.
+    - >-
+      A law or a regulation.
+    - >-
+      A Basic Law and nothing else.
+    - >-
+      A permit or licence.
+  correct: 1
+  explanation: >-
+    "חיקוק – חוק או תקנה". Permits are administrative instructions, and rulings are not enactments.
+- id: m01-041
+  module: 1
+  lesson: "01.3"
+  subject: hierarchy-of-norms
+  difficulty: 3
+  question: >-
+    A draft letter says: "Under the ministry's FAQ page, you must refuse the permit." Spot the problem.
+  options:
+    - >-
+      FAQ pages override laws, so the letter is correct as written.
+    - >-
+      An FAQ is not a norm; cite the law or regulation behind it.
+    - >-
+      The letter should quote the minister's latest speech instead.
+    - >-
+      Letters to authorities may not mention government websites.
+  correct: 1
+  explanation: >-
+    Only enactments, published guidelines and rulings carry legal weight. Find the norm the FAQ is based on and cite that.
+- id: m01-042
+  module: 1
+  lesson: "01.3"
+  subject: secondary-legislation
+  difficulty: 1
+  question: >-
+    Who makes municipal by-laws (חוקי עזר)?
+  options:
+    - >-
+      The Knesset Interior Committee, by majority vote.
+    - >-
+      The District Court that covers the city.
+    - >-
+      The local council, under a power in a law.
+    - >-
+      The Attorney General's office, on request.
+  correct: 2
+  explanation: >-
+    By-laws are made by local councils under powers given by law (in cities, mainly the Municipalities Ordinance).
+- id: m01-043
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 1
+  question: >-
+    Which court sits as the High Court of Justice?
+  options:
+    - >-
+      The District Court in Jerusalem.
+    - >-
+      The Administrative Affairs Court.
+    - >-
+      The National Labour Court.
+    - >-
+      The Supreme Court.
+  correct: 3
+  explanation: >-
+    Basic Law: The Judiciary s. 15(c): "בית המשפט העליון ישב גם כבית משפט גבוה לצדק".
+- id: m01-044
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 1
+  question: >-
+    Which court decides administrative petitions on subjects listed in the first schedule?
+  options:
+    - >-
+      The Magistrates' Court sitting as a local affairs court.
+    - >-
+      The Supreme Court sitting as a court of civil appeals.
+    - >-
+      The District Court sitting on administrative matters.
+    - >-
+      The appeals committee of the district planning board.
+  correct: 2
+  explanation: >-
+    Courts Law s. 40(1א) and Administrative Courts Law s. 5: the District Court sits as the Administrative Affairs Court.
+- id: m01-045
+  module: 1
+  lesson: "01.4"
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    A resident is fined under a municipal by-law for an unlicensed protest stand and wants to contest it. Which court hears it?
+  options:
+    - >-
+      The High Court of Justice.
+    - >-
+      The Local Affairs Court.
+    - >-
+      The Regional Labour Court.
+    - >-
+      The small claims court.
+  correct: 1
+  explanation: >-
+    Courts Law s. 55: the Local Affairs Court hears offences under municipal ordinances and by-laws.
+- id: m01-046
+  module: 1
+  lesson: "01.4"
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    An individual claims ₪3,000 from a shop that refused to serve her. Which forum is designed for this?
+  options:
+    - >-
+      The small claims court.
+    - >-
+      The District Court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The Administrative Affairs Court.
+  correct: 0
+  explanation: >-
+    Small claims courts hear individuals' money claims up to a ceiling (see current numbers), with simple procedure.
+- id: m01-047
+  module: 1
+  lesson: "01.4"
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    Why does the High Court of Justice decline a petition that belongs to the Administrative Affairs Court?
+  options:
+    - >-
+      It hears only criminal matters, never administrative ones.
+    - >-
+      It never hears petitions brought by private individuals.
+    - >-
+      It hears only cases in which the Knesset is a party.
+    - >-
+      It hears only matters not within another court's jurisdiction.
+  correct: 3
+  explanation: >-
+    Section 15(c) gives it matters "אשר אינם בסמכותו של בית משפט או של בית דין אחר".
+- id: m01-048
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 2
+  question: >-
+    Which kind of court decides the divorce of a Muslim couple in Israel?
+  options:
+    - >-
+      The High Court of Justice, sitting as the first instance.
+    - >-
+      A Sharia court, a religious court with jurisdiction set by law.
+    - >-
+      The Regional Labour Court, as a dispute about support.
+    - >-
+      The Local Affairs Court of the couple's municipality.
+  correct: 1
+  explanation: >-
+    Religious courts hold judicial power as set by law (Basic Law: The Judiciary s. 1(b)); personal status matters go to them.
+- id: m01-049
+  module: 1
+  lesson: "01.4"
+  subject: appeals
+  difficulty: 2
+  question: >-
+    You lost an administrative petition in the Administrative Affairs Court. Where does the appeal go?
+  options:
+    - >-
+      To the Magistrates' Court in the same district.
+    - >-
+      To the High Court of Justice, as a fresh petition.
+    - >-
+      To the same court, before a different judge.
+    - >-
+      To the Supreme Court, as an administrative appeal (עע״ם).
+  correct: 3
+  explanation: >-
+    Judgments of the District Court, including as Administrative Affairs Court, are appealed to the Supreme Court.
+- id: m01-050
+  module: 1
+  lesson: "01.4"
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    An NGO considers a High Court petition while a planning appeals committee could still hear the same issue. What risk matters most?
+  options:
+    - >-
+      The High Court may fine NGOs that petition too often.
+    - >-
+      The committee can transfer the case to the Labour Court.
+    - >-
+      The petition may fail for skipping the committee first.
+    - >-
+      Filing in both places is an offence under s. 96.
+  correct: 2
+  explanation: >-
+    Courts expect you to use the forum the law sets and to exhaust remedies first. A special tribunal comes before the High Court.
+- id: m01-051
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 1
+  question: >-
+    Which court hears most criminal cases at first instance?
+  options:
+    - >-
+      The Supreme Court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The Magistrates' Court.
+    - >-
+      The Regional Labour Court.
+  correct: 2
+  explanation: >-
+    Courts Law s. 51(a)(1): offences punishable by up to seven years' prison go to the Magistrates' Court.
+- id: m01-052
+  module: 1
+  lesson: "01.4"
+  subject: appeals
+  difficulty: 2
+  question: >-
+    What is "רשות ערעור"?
+  options:
+    - >-
+      Leave to appeal, needed when no appeal as of right exists.
+    - >-
+      An automatic right of appeal from every decision.
+    - >-
+      A further hearing of a case before a larger panel.
+    - >-
+      An order nisi that the court gives to an authority.
+  correct: 0
+  explanation: >-
+    First-instance judgments are appealable as of right (s. 17). Other decisions, or a second appeal, usually need leave.
+- id: m01-053
+  module: 1
+  lesson: "01.4"
+  subject: appeals
+  difficulty: 2
+  question: >-
+    What is a "דיון נוסף"?
+  options:
+    - >-
+      A retrial of a criminal case after new evidence is found.
+    - >-
+      An appeal from the Magistrates' Court to the District Court.
+    - >-
+      A further hearing in the Supreme Court, before five or more justices.
+    - >-
+      A hearing on a bill in the Knesset Constitution Committee.
+  correct: 2
+  explanation: >-
+    Basic Law: The Judiciary s. 18: a matter decided by three justices may get a further hearing before five or more.
+- id: m01-054
+  module: 1
+  lesson: "01.4"
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    Before choosing a court for a challenge to an authority's decision, which question does the lesson say to ask?
+  options:
+    - >-
+      Whether the official who signed it has served for more than a year.
+    - >-
+      Whether its subject is in the Administrative Courts Law's first schedule.
+    - >-
+      Whether the decision was reported in the national media.
+    - >-
+      Whether the authority has lost a petition in the past.
+  correct: 1
+  explanation: >-
+    If the subject is listed, start in the Administrative Affairs Court; if not, and it is a state body, the High Court of Justice.
+- id: m01-055
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 1
+  question: >-
+    The labour courts have exclusive (ייחודית) jurisdiction over employee–employer disputes. What does that mean?
+  options:
+    - >-
+      They hear them only if both sides agree to it.
+    - >-
+      Any court may hear them; labour courts are just faster.
+    - >-
+      Only the labour courts may hear those disputes.
+    - >-
+      They hear those disputes only on appeal.
+  correct: 2
+  explanation: >-
+    Labour Court Law s. 24 gives regional labour courts exclusive jurisdiction; other courts cannot hear those claims.
+- id: m01-056
+  module: 1
+  lesson: "01.4"
+  subject: courts-map
+  difficulty: 1
+  question: >-
+    A civil money claim is above the Magistrates' Court ceiling. Which court hears it?
+  options:
+    - >-
+      The small claims court.
+    - >-
+      The Local Affairs Court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The District Court.
+  correct: 3
+  explanation: >-
+    Courts Law s. 40(1): the District Court hears civil matters not within the Magistrates' Court's jurisdiction.
+- id: m01-057
+  module: 1
+  lesson: "01.5"
+  subject: statute-structure
+  difficulty: 1
+  question: >-
+    In "סעיף 63(ב)(3)", what is "(ב)"?
+  options:
+    - >-
+      A paragraph.
+    - >-
+      A chapter.
+    - >-
+      A subsection.
+    - >-
+      A schedule.
+  correct: 2
+  explanation: >-
+    Section 63, subsection (ב), paragraph (3).
+- id: m01-058
+  module: 1
+  lesson: "01.5"
+  subject: legal-hebrew
+  difficulty: 1
+  question: >-
+    In a definition, what does "לרבות" do?
+  options:
+    - >-
+      It cuts out an exception from the term.
+    - >-
+      It limits the term to the listed items only.
+    - >-
+      It makes the term subject to another section.
+    - >-
+      It widens the term: the list is not closed.
+  correct: 3
+  explanation: >-
+    "לרבות" means including. "למעט" is the word that cuts out exceptions.
+- id: m01-059
+  module: 1
+  lesson: "01.5"
+  subject: legal-hebrew
+  difficulty: 2
+  question: >-
+    Section 6 opens "על אף האמור בסעיף 5". What does it mean?
+  options:
+    - >-
+      Section 6 applies only after section 5 has been applied.
+    - >-
+      Section 5 overrides section 6 where the two conflict.
+    - >-
+      Section 6 overrides section 5 where the two conflict.
+    - >-
+      Both sections are void because they contradict each other.
+  correct: 2
+  explanation: >-
+    "על אף" (notwithstanding) means this section wins over the one it names.
+- id: m01-060
+  module: 1
+  lesson: "01.5"
+  subject: legal-hebrew
+  difficulty: 2
+  question: >-
+    A section says it applies "בכפוף לסעיף 12". What does that mean?
+  options:
+    - >-
+      This section wins over section 12.
+    - >-
+      Section 12 has since been repealed.
+    - >-
+      Section 12 is only a definition section.
+    - >-
+      Section 12 wins where the two conflict.
+  correct: 3
+  explanation: >-
+    "בכפוף ל…" (subject to) means the other section prevails.
+- id: m01-061
+  module: 1
+  lesson: "01.5"
+  subject: legal-hebrew
+  difficulty: 2
+  question: >-
+    Three conditions in a section are joined by "או". What follows?
+  options:
+    - >-
+      All three must be met together.
+    - >-
+      Only the first condition counts.
+    - >-
+      They apply only inside a court.
+    - >-
+      Meeting any one of them is enough.
+  correct: 3
+  explanation: >-
+    "או" (or) makes alternatives; "ו" (and) makes cumulative conditions. Small words, big consequences.
+- id: m01-062
+  module: 1
+  lesson: "01.5"
+  subject: statute-structure
+  difficulty: 1
+  question: >-
+    Where in a law do you usually find its definitions?
+  options:
+    - >-
+      In the last schedule, after the signatures.
+    - >-
+      In the minutes of the Knesset debate on the law.
+    - >-
+      In an early section, often s. 1 or 2, headed הגדרות.
+    - >-
+      Only in the regulations made under the law.
+  correct: 2
+  explanation: >-
+    Most laws define their terms near the start. The Interpretation Law's definitions also apply unless the law says otherwise.
+- id: m01-063
+  module: 1
+  lesson: "01.5"
+  subject: statute-structure
+  difficulty: 2
+  question: >-
+    A section says the authority acts "בעניין המנוי בתוספת". Where do you look?
+  options:
+    - >-
+      In the Basic Law that the section relates to.
+    - >-
+      On the website of the responsible minister.
+    - >-
+      In the definitions of the Interpretation Law.
+    - >-
+      In the schedule at the end of the law.
+  correct: 3
+  explanation: >-
+    A תוספת (schedule) is a list at the end of the law that sections refer to, like the first schedule of the Administrative Courts Law.
+- id: m01-064
+  module: 1
+  lesson: "01.5"
+  subject: deadlines
+  difficulty: 3
+  question: >-
+    An objection period is two months from publication on 15 March. Under Interpretation Law s. 10(b), when does it end?
+  options:
+    - >-
+      On 14 May, the day before the same date.
+    - >-
+      On 16 May, the day after the same date.
+    - >-
+      On 14 May, after exactly 60 calendar days.
+    - >-
+      On 15 May.
+  correct: 3
+  explanation: >-
+    Section 10(b): a period in months ends in the last month on the day with the same number as the event day. Months are not counted as 30-day blocks.
+- id: m01-065
+  module: 1
+  lesson: "01.5"
+  subject: deadlines
+  difficulty: 3
+  question: >-
+    A 14-day period ends on a Saturday. What does Interpretation Law s. 10(c) say?
+  options:
+    - >-
+      The period ends on the Friday before the Saturday.
+    - >-
+      Saturdays never count, so add one day for each Saturday.
+    - >-
+      The period is cancelled and must be started again.
+    - >-
+      The Saturday does not count, so the period runs to the next day.
+  correct: 3
+  explanation: >-
+    Rest days inside a period count, "זולת אם הם הימים האחרונים שבתקופה" — unless they are the last days.
+- id: m01-066
+  module: 1
+  lesson: "01.5"
+  subject: legal-hebrew
+  difficulty: 2
+  question: >-
+    What does "דינו – מאסר שנה" at the end of a section signal?
+  options:
+    - >-
+      A criminal penalty for breaking the section.
+    - >-
+      A definition of a term used in the law.
+    - >-
+      A deadline the authority must meet.
+    - >-
+      A fee payable to the court registry.
+  correct: 0
+  explanation: >-
+    "דינו" introduces a penalty. Bar Association Law s. 96 uses the same form for the fine for unauthorised practice.
+- id: m01-067
+  module: 1
+  lesson: "01.5"
+  subject: statute-structure
+  difficulty: 2
+  question: >-
+    On Wikisource, a section shows "תיקון: תשפ״ד". What should you do?
+  options:
+    - >-
+      Ignore it; amendments apply only to new cases.
+    - >-
+      Assume the whole section has been repealed.
+    - >-
+      Make sure you read the text as amended that year.
+    - >-
+      Cite the original text, which still binds.
+  correct: 2
+  explanation: >-
+    The note means the section changed in that year. Read the current text and, for recent changes, check the Knesset database.
+- id: m01-068
+  module: 1
+  lesson: "01.5"
+  subject: citation
+  difficulty: 3
+  question: >-
+    A draft letter says: "Under the law, you must grant my request." What is its main weakness?
+  options:
+    - >-
+      It is too polite; letters must threaten court.
+    - >-
+      It cites no section, so nobody can check the duty.
+    - >-
+      It should be written in English for officials.
+    - >-
+      It should quote a news article as support.
+  correct: 1
+  explanation: >-
+    Cite the smallest unit and the full title. A claimed duty without a section is easy to dismiss.
+- id: m01-069
+  module: 1
+  lesson: "01.5"
+  subject: statute-structure
+  difficulty: 2
+  question: >-
+    A law says "השר רשאי להתקין תקנות בכל הנוגע לביצועו". What does it tell you?
+  options:
+    - >-
+      Regulations may exist under this law; look for them.
+    - >-
+      The minister must issue regulations within 30 days.
+    - >-
+      The law has no effect until regulations are made.
+    - >-
+      Regulations under it override the law itself.
+  correct: 0
+  explanation: >-
+    A regulations power tells you where to look for the next rung of the hierarchy. "רשאי" means the minister may, not must.
+- id: m01-070
+  module: 1
+  lesson: "01.5"
+  subject: citation
+  difficulty: 1
+  question: >-
+    In a full Hebrew citation of a provision, what follows the section number?
+  options:
+    - >-
+      The page number on Wikisource.
+    - >-
+      The name of the responsible minister.
+    - >-
+      The law's full title with its year.
+    - >-
+      The number of the Knesset session.
+  correct: 2
+  explanation: >-
+    For example: "סעיף 20(3) לחוק לשכת עורכי הדין, התשכ״א–1961".
+- id: m01-071
+  module: 1
+  lesson: "01.6"
+  subject: case-numbers
+  difficulty: 1
+  question: >-
+    What does the prefix "בג״ץ" in a case number mean?
+  options:
+    - >-
+      A civil appeal to the Supreme Court.
+    - >-
+      A High Court of Justice petition.
+    - >-
+      A criminal appeal to the Supreme Court.
+    - >-
+      A claim in the small claims court.
+  correct: 1
+  explanation: >-
+    בג״ץ stands for בית משפט גבוה לצדק: the Supreme Court hearing petitions against authorities.
+- id: m01-072
+  module: 1
+  lesson: "01.6"
+  subject: case-numbers
+  difficulty: 1
+  question: >-
+    What does the prefix "ע״פ" indicate?
+  options:
+    - >-
+      A civil claim.
+    - >-
+      An administrative petition.
+    - >-
+      A further hearing.
+    - >-
+      A criminal appeal.
+  correct: 3
+  explanation: >-
+    ע״פ is ערעור פלילי. A civil appeal is ע״א, an administrative petition עת״מ, a further hearing דנ״א or דנג״ץ.
+- id: m01-073
+  module: 1
+  lesson: "01.6"
+  subject: case-numbers
+  difficulty: 2
+  question: >-
+    What does the number "5658/23" tell you?
+  options:
+    - >-
+      Decided on 5 June 2023 at 8 o'clock.
+    - >-
+      Case number 5658, opened in 2023.
+    - >-
+      Volume 5658, page 23 of the official reports.
+    - >-
+      The 23rd hearing in case number 5658.
+  correct: 1
+  explanation: >-
+    Supreme Court case numbers are a running number and the year the case was opened.
+- id: m01-074
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 2
+  question: >-
+    A ruling ends "העתירה נדחית. העותרים יישאו בהוצאות המשיבים". What happened?
+  options:
+    - >-
+      Petition granted; respondents pay the petitioners' costs.
+    - >-
+      Petition dismissed; petitioners pay the respondents' costs.
+    - >-
+      Petition postponed; costs to be decided at a later date.
+    - >-
+      Petition dismissed; each side bears its own costs.
+  correct: 1
+  explanation: >-
+    נדחית means dismissed; יישאו בהוצאות means they bear the costs. Costs are a real risk of losing.
+- id: m01-075
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 2
+  question: >-
+    Which question best identifies a ruling's holding?
+  options:
+    - >-
+      Which paragraph is quoted most often in the media?
+    - >-
+      Which justice wrote the longest opinion in the case?
+    - >-
+      What rule did the court need to decide this case?
+    - >-
+      What did the losing side argue in its summary?
+  correct: 2
+  explanation: >-
+    The holding is the rule necessary to decide the case. Famous or long passages may be remarks in passing.
+- id: m01-076
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 1
+  question: >-
+    In a panel judgment, what does "אני מסכים" signal?
+  options:
+    - >-
+      A justice joining another's opinion.
+    - >-
+      A justice writing a dissent.
+    - >-
+      The parties reaching a settlement.
+    - >-
+      The case being sent back down.
+  correct: 0
+  explanation: >-
+    Short concurrences show who joined which opinion, which tells you where the majority is.
+- id: m01-077
+  module: 1
+  lesson: "01.6"
+  subject: finding-rulings
+  difficulty: 2
+  question: >-
+    Where can you read a free English translation of a landmark Israeli Supreme Court opinion?
+  options:
+    - >-
+      Nevo's case-law pages, which are open to all.
+    - >-
+      Takdin, the commercial legal database.
+    - >-
+      The Knesset's national legislation database.
+    - >-
+      Versa, the Cardozo Israeli Supreme Court Project.
+  correct: 3
+  explanation: >-
+    Versa is free. Nevo case-law pages and Takdin are paid, and the Knesset database holds legislation, not rulings.
+- id: m01-078
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 3
+  question: >-
+    Before quoting a 2019 Supreme Court holding in your petition, what check does the lesson recommend?
+  options:
+    - >-
+      Check that the judges who wrote it are still serving.
+    - >-
+      Check that the parties agreed to the ruling's publication.
+    - >-
+      Search for a later further hearing or ruling that changed it.
+    - >-
+      Check that the holding was reported in English as well.
+  correct: 2
+  explanation: >-
+    A holding can be reversed in a further hearing (דנג״ץ, דנ״א) or overtaken by a later ruling or law.
+- id: m01-079
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 2
+  question: >-
+    What is the difference between "החלטה" and "פסק דין"?
+  options:
+    - >-
+      A decision is interim or procedural; a judgment ends the case.
+    - >-
+      They are two names for exactly the same court document.
+    - >-
+      A decision is a ruling given only by the Supreme Court.
+    - >-
+      A judgment is the final ruling given only in criminal cases.
+  correct: 0
+  explanation: >-
+    Courts give many decisions along the way (on deadlines, requests, interim orders) and one judgment at the end.
+- id: m01-080
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 3
+  question: >-
+    A news headline says "Court lets protest go ahead". Your protest differs in place and size. What is the next step?
+  options:
+    - >-
+      Quote the headline in your letter as the court's holding.
+    - >-
+      Assume all protests of any kind are now allowed.
+    - >-
+      Ignore it, since news reports cannot be checked.
+    - >-
+      Read the ruling's holding and conditions before relying on it.
+  correct: 3
+  explanation: >-
+    Headlines drop the conditions. Only the holding, read in the ruling itself, tells you whether it covers your case.
+- id: m01-081
+  module: 1
+  lesson: "01.6"
+  subject: case-numbers
+  difficulty: 2
+  question: >-
+    In a Magistrates' Court, what is "ת״א 1234-05-25"?
+  options:
+    - >-
+      A Tel Aviv appeal from the year 2025.
+    - >-
+      An administrative appeal from May 2005.
+    - >-
+      A criminal case, number 1234 of 2025.
+    - >-
+      A civil claim opened in May 2025.
+  correct: 3
+  explanation: >-
+    ת״א is תביעה אזרחית (a civil claim), not Tel Aviv. Lower courts number cases as number–month–year.
+- id: m01-082
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 2
+  question: >-
+    In a 5–4 Supreme Court ruling, whose opinion states the law that binds lower courts?
+  options:
+    - >-
+      The President's opinion, on whichever side it falls.
+    - >-
+      The majority's, even if a minority opinion is longer.
+    - >-
+      The longest opinion, since it gives the most reasons.
+    - >-
+      The minority's, if it cites more earlier precedents.
+  correct: 1
+  explanation: >-
+    Only the majority's holding is "הלכה" under Basic Law: The Judiciary s. 20.
+- id: m01-083
+  module: 1
+  lesson: "01.6"
+  subject: finding-rulings
+  difficulty: 1
+  question: >-
+    Roughly which years does the free Supreme Court search cover well?
+  options:
+    - >-
+      From 1948 onward, completely.
+    - >-
+      Only rulings from 2020 onward.
+    - >-
+      From about 1997 onward.
+    - >-
+      Only rulings translated into English.
+  correct: 2
+  explanation: >-
+    Older landmark rulings need Versa, Wikipedia summaries or a law library. Lesson 02.2 teaches the search.
+- id: m01-084
+  module: 1
+  lesson: "01.6"
+  subject: holdings-and-opinions
+  difficulty: 3
+  question: >-
+    During your petition, the High Court issues a "צו על תנאי". What does it mean for you?
+  options:
+    - >-
+      You have won the case, and the proceedings are now over.
+    - >-
+      The respondent must explain why your order should not be given.
+    - >-
+      Your petition was dismissed without any hearing at all.
+    - >-
+      You must pay a deposit before the hearing can take place.
+  correct: 1
+  explanation: >-
+    An order nisi shifts the burden to the respondent to justify itself. It is a good sign, but not yet a win.

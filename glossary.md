@@ -1,3 +1,103 @@
 # Glossary
 
 The Hebrew legal terms used in the course, each given in Hebrew, then a transliteration, then its English meaning. Terms are added module by module.
+
+## Terms
+
+- **אבחנה** (avchana) — Distinguishing: showing a ruling does not apply to your facts.
+- **איסור פרסום** (isur pirsum) — Publication ban (gag order).
+- **אישור מסירה** (ishur mesira) — Proof of delivery.
+- **אמרת אגב** (imrat agav) — obiter dictum: a remark in passing, not binding.
+- **אסמכתה** (asmachta) — Authority: the source cited for a rule.
+- **בג״ץ** (bagatz) — High Court of Justice.
+- **בית דין לעבודה** (beit din la-avoda) — Labour Court.
+- **בית המשפט המחוזי** (beit ha-mishpat ha-mechozi) — District Court.
+- **בית משפט השלום** (beit mishpat ha-shalom) — Magistrates' Court.
+- **בית משפט לעניינים מינהליים** (beit mishpat le-inyanim minhaliyim) — Administrative Affairs Court.
+- **בלי לפגוע בזכויות** (bli lifgo'a bezchuyot) — "Without prejudice to rights".
+- **בתמורה** (bitmura) — for payment or other consideration; the other trigger of s. 20.
+- **דיון נוסף** (diyun nosaf) — further hearing in the Supreme Court before a larger panel.
+- **דין** (din) — law in the broad sense defined by the Interpretation Law.
+- **דינו** (dino) — "his penalty is"; introduces a criminal penalty.
+- **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority / minority opinion.
+- **דרך עיסוק** (derech isuk) — as an occupation; one trigger of the Bar Association Law s. 20 reservation.
+- **הגדרות** (hagdarot) — definitions section.
+- **הוצאות** (hotza'ot) — costs a party is ordered to pay.
+- **הוראת מינהל** (hora'at minhal) — administrative instruction (permit, notice, appointment) given in writing under a law.
+- **הוראת שעה** (hora'at sha'a) — Temporary provision with an end date.
+- **החלטה** (hachlata) — Decision: a ruling on an interim matter.
+- **היקש** (hekesh) — analogy.
+- **הלכה** (halacha) — Binding legal rule set by a court (precedent).
+- **הלכה פסוקה / הלכה** (halacha psuka / halacha) — binding precedent; the holding of a case.
+- **הנדון** (hanadon) — "Re:", the subject line of a letter.
+- **הנחיות היועמ״ש** (hanchayot ha-yoamash) — Attorney General guidelines.
+- **הנחיות היועץ המשפטי לממשלה** (hanchayot hayoetz hamishpati lamemshala) — Attorney General guidelines, binding inside government.
+- **הסגת גבול המקצוע** (hasagat gvul ha-miktzoa) — unauthorised practice of law (Bar Association Law s. 96).
+- **הסמכה** (hasmacha) — authorisation: the section that gives a power.
+- **העתק** (he'etek) — Copy (cc).
+- **הרכב** (herkev) — panel of judges.
+- **ובלבד ש…** (u-vilvad she…) — provided that.
+- **ועדת ערר** (va'adat arar) — appeals committee (a tribunal).
+- **חוק** (chok) — law (statute) of the Knesset; under the Interpretation Law it also includes an ordinance.
+- **חוק עזר** (chok ezer) — municipal by-law.
+- **חוק־יסוד** (chok yesod) — Basic Law.
+- **חיקוק** (chikuk) — enactment: a law or a regulation.
+- **חקירה נגדית** (chakira negdit) — Cross-examination.
+- **טענה חלופית** (ta'ana chalufit) — Alternative argument ("even if…").
+- **ידיעה אישית** (yedi'a ishit) — Personal knowledge.
+- **ייעוץ משפטי** (yi'utz mishpati) — legal advice.
+- **ייפוי כוח** (yipui ko'ach) — power of attorney: written authority to act for someone.
+- **ייצוג** (yitzug) — representation: acting or arguing in another person's name.
+- **ייצוג עצמי** (yitzug atzmi) — self-representation: acting in your own name.
+- **יישום** (yisum) — Application: matching facts to each element of a rule.
+- **יסודות** (yesodot) — Elements: the conditions a rule requires.
+- **כתב עת משפטי** (ktav et mishpati) — Law journal or law review.
+- **לאקונה** (lacuna) — a gap that no law or precedent answers.
+- **לרבות / למעט** (lerabot / lema'et) — including / except.
+- **מאגר החקיקה הלאומי** (ma'agar hachakika haleumi) — The Knesset's National Legislation Database.
+- **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
+- **מיטב ידיעתי ואמונתי** (meitav yedi'ati ve'emunati) — "To the best of my knowledge and belief".
+- **מכתב דרישה** (michtav drisha) — Demand letter with a deadline and a stated next step.
+- **מספר הליך** (mispar halich) — Case number, for example בג״ץ 5658/23.
+- **מערער / תובע / נתבע** (me'arer / tove'a / nitba) — appellant / plaintiff / defendant.
+- **מצהיר** (matzhir) — Declarant: the person making an affidavit.
+- **מקור משני** (makor mishni) — Secondary source: commentary, guides, research about the law.
+- **מקור ראשוני** (makor rishoni) — Primary source: a law, regulation or ruling.
+- **מרכז המחקר והמידע של הכנסת (ממ״מ)** (merkaz hamechkar vehameida shel haknesset) — The Knesset Research and Information Center.
+- **משביע / מאמת** (mashbi'a / me'amet) — The person who warns the declarant and certifies the affidavit.
+- **משפט עברי** (mishpat ivri) — Jewish law as a source of legal principles.
+- **נוהל** (nohal) — internal procedure of a ministry or authority.
+- **נוטריון** (notaryon) — Notary: a senior lawyer with a special licence and regulated fees.
+- **נוסח חדש** (nusach chadash) — new version: an official Hebrew re-enactment of a Mandate ordinance; the binding text.
+- **נוסח משולב** (nusach meshulav) — Consolidated version: a law re-enacted with all its amendments merged.
+- **נטל ההוכחה** (netel hahochacha) — Burden of proof.
+- **נייר עמדה** (neyar emda) — Position paper (advocacy, written for one side).
+- **נספח** (nispach) — Attachment / exhibit.
+- **סימוכין** (simuchin) — Reference numbers of earlier letters.
+- **סמכות עניינית** (samchut inyanit) — subject-matter jurisdiction.
+- **סעיף / סעיף קטן** (se'if / se'if katan) — section / subsection.
+- **ספר החוקים** (Sefer HaHukim) — The gazette series for Knesset laws (cited ס״ח).
+- **ספרות משפטית** (sifrut mishpatit) — Legal literature (books and articles).
+- **עורך דין** (orech din) — lawyer (advocate) licensed by the Israel Bar Association.
+- **עותר / משיב** (oter / meshiv) — petitioner / respondent.
+- **על אף / בכפוף ל…** (al af / bechafuf le…) — notwithstanding / subject to.
+- **ערכאה** (ercha'a) — instance: the level of a court.
+- **ערכאה קודמת** (ercaa kodemet) — The lower court whose decision is under appeal.
+- **ערעור / רשות ערעור** (ir'ur / reshut ir'ur) — appeal / leave to appeal.
+- **פ״ד** (piskei din) — The official law reports of the Supreme Court.
+- **פנייה** (pniya) — Request or letter to an authority.
+- **פסק דין** (psak din) — Judgment: the final decision in a case.
+- **פסק דין / החלטה** (psak din / hachlata) — judgment / decision (interim or procedural).
+- **פסקה / פסקת משנה** (piska / piskat mishne) — paragraph / sub-paragraph.
+- **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause in a Basic Law.
+- **פקודה** (pkuda) — ordinance: a law from the British Mandate period or the first months of the state.
+- **צו על תנאי / צו מוחלט** (tzav al tnai / tzav muchlat) — order nisi / order made absolute.
+- **קובץ התקנות** (Kovetz HaTakanot) — The gazette series for regulations and notices (cited ק״ת).
+- **רשאי / חייב** (rashai / chayav) — may (power) / must (duty).
+- **רשומות** (Reshumot) — The official gazette where laws and regulations are published.
+- **שאלה משפטית / סוגיה** (she'ela mishpatit / sugya) — Legal issue: the question the reader must decide.
+- **תוספת** (tosefet) — schedule at the end of a law.
+- **תחילה** (tchila) — Commencement: the date a provision takes effect.
+- **תיקון עקיף** (tikun akif) — Indirect amendment: a change made by a different law.
+- **תצהיר** (tatzhir) — Affidavit: a written statement made after a warning to tell the truth.
+- **תקנות** (takanot) — regulations made by a minister under a power in a law.

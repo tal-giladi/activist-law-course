@@ -1,0 +1,179 @@
+- id: q1
+  question: >-
+    A tenants' group asks Rivka, who has done this course, to run a paid weekly clinic where she
+    reviews each tenant's eviction papers and writes their replies. What should she do?
+  options:
+    - >-
+      Run it, because the course certificate shows she is qualified for this work.
+    - >-
+      Run it for free instead, since s. 20 applies only to payment, never to regular activity.
+    - >-
+      Decline that model, and instead teach general sessions and refer cases to Legal Aid or a clinic.
+    - >-
+      Run it, as long as each tenant signs a form saying it is not legal advice.
+  correct: 2
+  explanation: >-
+    Drafting documents and advising others "דרך עיסוק" or "בתמורה" is reserved under Bar
+    Association Law s. 20(3)–(4). Doing it regularly can be an occupation even when free, and a
+    disclaimer does not change the nature of the act.
+- id: q2
+  question: >-
+    A ministry tells you that its refusal is based on a 2019 internal procedure. The law it acts
+    under says the minister "חייב" to grant the permit when three conditions are met, and you meet
+    them. What is your strongest point?
+  options:
+    - >-
+      The law creates a duty, and a procedure cannot add conditions the law does not set.
+    - >-
+      The procedure is invalid because it was issued after the Basic Laws of 1992.
+    - >-
+      The procedure binds the ministry, so you should ask the Knesset to change it.
+    - >-
+      Procedures are valid only if a court approved them before they were used.
+  correct: 0
+  explanation: >-
+    "חייב" creates a duty, and a procedure sits below the law in the hierarchy. A rule below the law
+    cannot narrow a duty the law imposes; the date of the procedure is irrelevant.
+- id: q3
+  question: >-
+    Residents want to challenge a local planning committee's decision approving a building permit
+    next to a nature reserve. Which question decides where they start?
+  options:
+    - >-
+      Whether the High Court of Justice has heard a similar case in the past five years.
+    - >-
+      Whether a special tribunal or the Administrative Courts Law schedule covers it.
+    - >-
+      Whether any of the committee's members is a qualified lawyer.
+    - >-
+      Whether the residents can show they will lose money because of the permit.
+  correct: 1
+  explanation: >-
+    Planning and building matters are listed in the first schedule, and planning law sets appeals
+    committees. A special forum comes before the High Court, which hears only what no other court
+    or tribunal hears.
+- id: q4
+  question: >-
+    An activist reads in the news that a District Court in another city ruled in favour of a
+    protester in a case like hers. A Supreme Court ruling from 2015 goes the other way. Her case is
+    in the Magistrates' Court. What should she expect?
+  options:
+    - >-
+      The District Court ruling wins because it is newer than the Supreme Court ruling.
+    - >-
+      The Magistrates' Court may choose freely, since only its own rulings bind it.
+    - >-
+      Both rulings bind equally, so the judge must split the difference.
+    - >-
+      The Supreme Court holding binds the Magistrates' Court; the District ruling only guides.
+  correct: 3
+  explanation: >-
+    Basic Law: The Judiciary s. 20(b): Supreme Court holdings bind every court except the Supreme
+    Court. A District Court holding only guides courts below it (s. 20(a)), and not over a binding
+    Supreme Court holding.
+- id: q5
+  question: >-
+    An FOI request was received on Tuesday 1 September, and the answer period is 30 days. On which
+    day does the period end, if no rest day falls at its end?
+  options:
+    - >-
+      Monday 30 September, because the first day is counted.
+    - >-
+      Thursday 1 October, because the first day is not counted.
+    - >-
+      Thursday 1 October, because Saturdays inside the period are skipped.
+    - >-
+      Friday 2 October, because the authority gets one extra working day.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 10(a): the day of the event is not counted, so day 1 is 2 September and
+    day 30 is 1 October. Rest days inside the period count (s. 10(c)). (September has 30 days.)
+- id: q6
+  question: >-
+    A neighbour asks you to represent her, unpaid and as a one-off, in her small claims case. You do
+    not do this regularly. What does the law allow?
+  options:
+    - >-
+      Nothing; only a lawyer may ever represent another person in any court.
+    - >-
+      Representation as of right, without asking the court, since you are unpaid.
+    - >-
+      Representation with the court's approval and a power of attorney filed with it.
+    - >-
+      Representation only if you are a relative and present a family ID document.
+  correct: 2
+  explanation: >-
+    Courts Law s. 63(b) lets a person represent a party in small claims with the court's approval
+    and a filed power of attorney, unless the representative does it regularly, in the course of
+    business or for payment.
+- id: q7
+  question: >-
+    A by-law (חוק עזר) bans putting up protest signs in the whole city. You want to argue it is
+    unlawful. Where do you look first?
+  options:
+    - >-
+      The enabling section in the law under which the council made the by-law.
+    - >-
+      The city's website FAQ about signs, which explains the council's policy.
+    - >-
+      The English common law on public nuisance, which Israel absorbed in 1948.
+    - >-
+      A minority opinion of the Supreme Court that criticised sign bans.
+  correct: 0
+  explanation: >-
+    A by-law is secondary legislation: it is valid only within the power the law gave the council.
+    The source check comes first; rights arguments come next. English law no longer fills gaps
+    automatically after 1980.
+- id: q8
+  question: >-
+    A right-leaning group and a left-leaning group both cite *Kol Ha'am* in two different protest
+    disputes. What is each of them entitled to rely on as binding?
+  options:
+    - >-
+      Each group may rely on whichever paragraph best supports its own cause.
+    - >-
+      Only the group whose politics match the 1953 newspapers may rely on it.
+    - >-
+      Neither, because rulings from before the Basic Laws no longer bind.
+    - >-
+      Both may rely on its holding: the near-certainty test for limiting expression.
+  correct: 3
+  explanation: >-
+    A holding binds regardless of who invokes it. Selected paragraphs that are remarks in passing do
+    not bind, and Basic Law: Human Dignity and Liberty s. 10 does not cancel earlier case law.
+- id: q9
+  question: >-
+    You need the current text of a Mandate ordinance that was re-issued as "[נוסח חדש]" in the
+    1970s. Which text do you quote in your objection?
+  options:
+    - >-
+      The original 1930s English text, because it is the source of the rule.
+    - >-
+      The Hebrew new version, checked for later amendments.
+    - >-
+      A news article that summarises the ordinance in plain language.
+    - >-
+      The ordinance's Wikipedia article, because it is updated often.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 24: where a new version was given, the new version is binding. Check the
+    amendment notes so that you quote the text in force today.
+- id: q10
+  question: >-
+    A dispute about the right to dismiss a municipal employee for a social-media post reaches you.
+    The employee wants to petition the High Court of Justice "because it is about free speech".
+    What is the most likely correct forum?
+  options:
+    - >-
+      The High Court of Justice, because every free-speech case goes there.
+    - >-
+      The small claims court, because the remedy sought is reinstatement.
+    - >-
+      The Regional Labour Court, which hears employee–employer disputes exclusively.
+    - >-
+      The Local Affairs Court, because the employer is a municipality.
+  correct: 2
+  explanation: >-
+    Labour Court Law s. 24 gives regional labour courts exclusive jurisdiction over employee–employer
+    disputes, including public employers. The free-speech argument is raised there; the High Court
+    hears only what no other court hears.

@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    A law says the local committee "רשאית" to hold a public hearing on a plan. Residents demand a
+    hearing as of right. What is the best reading?
+  options:
+    - >-
+      The committee must hold a hearing whenever residents ask, because "רשאית" creates a duty.
+    - >-
+      The committee may never hold a hearing unless a regulation expressly says so.
+    - >-
+      The committee has discretion, but it must use that discretion lawfully.
+    - >-
+      The word has no legal effect, so the residents should simply ignore it.
+  correct: 2
+  explanation: >-
+    "רשאי" gives a power, not a duty. The residents' argument is about how the committee used its
+    discretion (relevant considerations, reasonableness), which Module 4 teaches.
+- id: q2
+  question: >-
+    Your amuta wants to sue a supplier in the small claims court. Which word in Courts Law s. 60(a)
+    should stop you?
+  options:
+    - >-
+      "יחיד", because only an individual may file there.
+    - >-
+      "אזרחית", because a claim by an amuta is always criminal.
+    - >-
+      "סכום", because an amuta cannot claim any money at all.
+    - >-
+      "מצרך", because the court hears only claims about goods.
+  correct: 0
+  explanation: >-
+    Section 60(a) opens "בית משפט לתביעות קטנות ידון בתביעה אזרחית שהגיש יחיד". An amuta is a
+    corporation, not an individual, so it files in the regular courts.
+- id: q3
+  question: >-
+    An authority receives your request on Sunday 4 January, and the law gives it 30 days to answer.
+    Under Interpretation Law s. 10, what is day 1 of the period?
+  options:
+    - >-
+      Sunday 4 January, the day the request was received.
+    - >-
+      Monday 5 January, the day after the request was received.
+    - >-
+      The first working day after the authority opens the file.
+    - >-
+      The day the authority sends you an acknowledgement.
+  correct: 1
+  explanation: >-
+    Section 10(a): when a period runs in days from a certain day, that day is not counted. Day 1 is
+    the next day, and rest days inside the period count.
+- id: q4
+  question: >-
+    Which citation of a provision is in the standard Hebrew form?
+  options:
+    - >-
+      "לפי החוק של עורכי הדין, איפשהו בסעיף 20"
+    - >-
+      "חוק לשכת עורכי הדין, עמוד 3, שורה 12"
+    - >-
+      "סעיף 20 לחוק, כפי שמופיע בוויקיטקסט"
+    - >-
+      "סעיף 20(3) לחוק לשכת עורכי הדין, התשכ״א–1961"
+  correct: 3
+  explanation: >-
+    Cite the smallest unit (section, subsection, paragraph), then the full title with the year.
+    Page numbers and website names are not citations of the law.
+- id: q5
+  question: >-
+    A section gives a power "ובלבד שניתנה לנוגע בדבר הזדמנות לטעון את טענותיו". The authority used
+    the power without hearing you. What follows?
+  options:
+    - >-
+      Nothing, because conditions after "ובלבד ש" are only recommendations.
+    - >-
+      The authority must now pay you compensation set in the law.
+    - >-
+      The condition was not met, so the decision is open to challenge.
+    - >-
+      You must first ask the Knesset to interpret the section.
+  correct: 2
+  explanation: >-
+    "ובלבד ש" (provided that) sets a condition on the power. Using the power without meeting the
+    condition is a strong ground to ask the authority to reconsider, and later to challenge it.

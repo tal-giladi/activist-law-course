@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    You find a ruling cited as "עת״מ 35192-09-24". What does the number tell you?
+  options:
+    - >-
+      A High Court petition, number 35192, decided in September 2024.
+    - >-
+      An administrative petition in a District Court, opened in September 2024.
+    - >-
+      A criminal appeal in the Supreme Court, from the year 2009.
+    - >-
+      A small claim in the Magistrates' Court, filed in 2024.
+  correct: 1
+  explanation: >-
+    עת״מ is an administrative petition (עתירה מינהלית), heard by a District Court as the
+    Administrative Affairs Court. Lower courts number cases as number–month–year.
+- id: q2
+  question: >-
+    In a 3–2 Supreme Court ruling, the dissenting justice wrote a powerful passage supporting your
+    position. How do you use it in a letter to an authority?
+  options:
+    - >-
+      Quote it as "the Supreme Court held", since it appears in a Supreme Court judgment.
+    - >-
+      Do not mention it at all, because minority opinions are legally void.
+    - >-
+      Quote it as binding on the authority, since the margin was only one vote.
+    - >-
+      Quote it as a minority opinion, as support next to the binding majority holding.
+  correct: 3
+  explanation: >-
+    Only the majority's holding binds under s. 20. A minority opinion may persuade, so it can be
+    quoted, but it must be labelled honestly.
+- id: q3
+  question: >-
+    In Kol Ha'am (HCJ 73/53), which of these is the holding rather than a remark in passing?
+  options:
+    - >-
+      The Minister may suspend a newspaper only on a near certainty of danger to the public peace.
+    - >-
+      Freedom of expression is valuable because it helps a democracy discover the truth.
+    - >-
+      The Declaration of Independence expresses the vision of the people and its credo.
+    - >-
+      English and American cases on free speech are interesting comparative material.
+  correct: 0
+  explanation: >-
+    The court had to interpret "likely to endanger the public peace" to decide whether the
+    suspensions were lawful; the near-certainty test is the rule that decided the case. The
+    reflections on democracy are famous but supporting.
+- id: q4
+  question: >-
+    A ruling ends with "הצו על תנאי נעשה מוחלט". What happened to the petition?
+  options:
+    - >-
+      It was dismissed, and the petitioner must pay the costs.
+    - >-
+      It was sent back to a lower court for a new hearing.
+    - >-
+      It was granted, and the earlier order now binds the respondent.
+    - >-
+      It was postponed until the respondent files another response.
+  correct: 2
+  explanation: >-
+    A צו על תנאי asks the respondent to show cause why an order should not be given. Making it
+    absolute (מוחלט) means the petitioner won and the order now binds.

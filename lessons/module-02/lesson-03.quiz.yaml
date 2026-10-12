@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A Kol Zchut page says you are entitled to a reply within 45 days and links to a law. You are
+    writing to a ministry. What is the right way to use this?
+  options:
+    - >-
+      Cite the Kol Zchut page, since it is a well-known and reliable public guide.
+    - >-
+      Open the linked law, check the section is current, and cite the law itself.
+    - >-
+      Cite both the page and the law, giving them equal weight in the letter.
+    - >-
+      Leave out the deadline, since a guide cannot create a legal duty.
+  correct: 1
+  explanation: >-
+    Kol Zchut is a good map but not law. You follow its "מקורות משפטיים ורשמיים" link, verify the
+    section is current and cite the law.
+- id: q2
+  question: >-
+    You need neutral background data on how many complaints a ministry received about your issue in
+    recent years. Which free source fits best?
+  options:
+    - >-
+      A position paper by an NGO campaigning on the issue.
+    - >-
+      A recent Supreme Court ruling on the same issue.
+    - >-
+      A Knesset Research and Information Center paper.
+    - >-
+      A Kol Zchut page explaining the rights involved in the issue.
+  correct: 2
+  explanation: >-
+    Knesset Research papers are written for MKs, are non-partisan and often collect official data.
+    An NGO paper may be accurate but is written to support a position.
+- id: q3
+  question: >-
+    A think-tank paper cites "section 14" of a law as giving you a right. On Wikisource, section 14
+    deals with something else. What is the most likely explanation and next step?
+  options:
+    - >-
+      Wikisource is wrong; rely on the think-tank paper because experts wrote it.
+    - >-
+      The right does not exist; drop the argument.
+    - >-
+      Ask the think tank to confirm before doing anything else.
+    - >-
+      The law was probably renumbered; check its amendment list.
+  correct: 3
+  explanation: >-
+    Secondary sources age. Amendments renumber sections; check the amendment history (lesson 02.1)
+    and find where the provision lives today.
+- id: q4
+  question: >-
+    Your issue is politically contested. You found one excellent NGO paper that supports your view.
+    What should you add to your source map?
+  options:
+    - >-
+      A source from a different viewpoint, to learn the counter-arguments.
+    - >-
+      Nothing more, since one detailed paper is enough for a letter.
+    - >-
+      A second paper from the same NGO to confirm what the first one says.
+    - >-
+      An article from a law journal, which is always neutral.
+  correct: 0
+  explanation: >-
+    Reading the other side tells you what the authority or the court will hear against you. Law
+    journal articles can also take positions.

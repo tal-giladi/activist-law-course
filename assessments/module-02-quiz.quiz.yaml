@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    A local association prints a leaflet quoting a fee regulation copied from a 2023 blog post. The
+    regulation's Wikisource page has the note "כל הסכומים מעודכנים לשנת 2026". What should the
+    association do before printing?
+  options:
+    - >-
+      Print the blog's figure, since a published blog is a recognised secondary source.
+    - >-
+      Replace the figure with the current one from the regulation and date the leaflet.
+    - >-
+      Remove all figures, since fees cannot be quoted to the public.
+    - >-
+      Print the blog's figure with a note that it may have risen with inflation.
+  correct: 1
+  explanation: >-
+    Amounts in many regulations are updated every year. The current consolidated text (checked
+    against the gazette when it matters) gives the figure; dating the leaflet tells readers when it
+    was checked.
+- id: q2
+  question: >-
+    You are preparing a letter on Monday. The law you rely on was amended last month, but the
+    amendment's commencement section says it applies from 1 January next year. Your issue arose last
+    week. Which text do you quote?
+  options:
+    - >-
+      The amended text, because the Knesset has already passed it.
+    - >-
+      Both texts side by side, without saying which applies.
+    - >-
+      The text in force today, noting the amendment that starts on 1 January.
+    - >-
+      Neither, because the law is in transition and cannot be relied on.
+  correct: 2
+  explanation: >-
+    A provision takes effect on its commencement date. Today's text governs your issue; mentioning the
+    coming change shows you checked.
+- id: q3
+  question: >-
+    A ministry rejects your request and cites "בג״ץ 4321/12" as settled law. What is the most useful
+    first step in checking whether this holds up?
+  options:
+    - >-
+      Search the number for a further hearing and later citing rulings.
+    - >-
+      Look for an English translation of the case on Versa.
+    - >-
+      Accept the ministry's description, since ministries have legal advisers.
+    - >-
+      Search Nevo's case-law pages, which are the official source for rulings.
+  correct: 0
+  explanation: >-
+    A further hearing (דנג״ץ) or later rulings may have changed the rule, and the ministry's summary
+    may be selective. The judiciary's free search lets you read both the ruling and what came after.
+- id: q4
+  question: >-
+    An activist group's draft petition relies on a Kol Zchut page and an NGO report for the legal
+    rule, with no law or ruling cited. What is the main risk?
+  options:
+    - >-
+      The petition will be too short for the court to accept.
+    - >-
+      The NGO may object to being quoted without permission.
+    - >-
+      Kol Zchut pages may never be quoted in court documents.
+    - >-
+      Secondary sources are background, not legal authority.
+  correct: 3
+  explanation: >-
+    Secondary sources orient you but are not law. The petition must rest on the statute and the
+    rulings those sources point to, verified as current.
+- id: q5
+  question: >-
+    Your argument says the council had to answer within 45 days. The council replies that it needed
+    "further examination", but it never told you this before. How strong is your position?
+  options:
+    - >-
+      Weak, because "further examination" is a recognised exception that ends the duty.
+    - >-
+      Strong, because the exception needed written notice within 45 days.
+    - >-
+      Strong, because no exceptions to the 45-day rule exist.
+    - >-
+      Irrelevant, because the 45-day rule applies only to ministries, not councils.
+  correct: 1
+  explanation: >-
+    Section 2(ב)(3) allows further examination, but s. 2(ג) requires written notice of the reason
+    within 45 days. The law also covers local authority employees (s. 1).
+- id: q6
+  question: >-
+    Rina emailed a request to the "contact us" address of a large ministry. Four months later there
+    is no reply, and the ministry says it has no record of her email. What would have best prevented
+    this?
+  options:
+    - >-
+      Sending the request to the minister personally on social media.
+    - >-
+      Writing a longer, more detailed request so it would be noticed.
+    - >-
+      Writing to the empowered official, with proof of receipt.
+    - >-
+      Phoning the ministry every week to remind them.
+  correct: 2
+  explanation: >-
+    The 45-day clock and the three-month deemed refusal both depend on proving the right official
+    received the request. A general inbox and no proof of receipt leave her with nothing to show.
+- id: q7
+  question: >-
+    A disability-rights campaigner's letter ends: "We demand that you finally take responsibility and
+    act." What change would most improve the letter?
+  options:
+    - >-
+      Ask for one specific act, such as a ramp, with an answer date.
+    - >-
+      Add the names of senior officials who are to blame for the delay.
+    - >-
+      Add a warning that the campaign will go to the media within 24 hours.
+    - >-
+      Add three more paragraphs describing the hardship in detail.
+  correct: 0
+  explanation: >-
+    A specific, timed request is easy to say yes to and makes a refusal or silence clear and
+    challengeable. Blame and threats make officials defensive.
+- id: q8
+  question: >-
+    Three residents saw municipal workers cut down protected trees. One of them, Avi, is writing the
+    affidavit for the group's petition. How should the evidence be organised?
+  options:
+    - >-
+      Avi writes one affidavit describing what all three saw, and all three sign it.
+    - >-
+      Avi writes what the other two told him, marked "to the best of my knowledge".
+    - >-
+      Avi writes his own affidavit, and each of the others writes and signs their own.
+    - >-
+      No affidavits are needed if the group attaches photos to the petition.
+  correct: 2
+  explanation: >-
+    An affidavit contains what the declarant knows personally. Each witness gives their own; photos
+    also need an affidavit saying who took them, when and where.
+- id: q9
+  question: >-
+    Maya signed her affidavit at home, scanned it, and emailed it to a lawyer friend who added his
+    stamp and signature. Is it valid?
+  options:
+    - >-
+      Yes, because a licensed lawyer stamped it.
+    - >-
+      Yes, as long as the lawyer keeps the email as proof.
+    - >-
+      Yes, because affidavits can now be certified remotely in any form.
+    - >-
+      No, because she was not warned in the certifier's presence.
+  correct: 3
+  explanation: >-
+    The warning must be given and certified by the certifier (Evidence Ordinance s. 15). Remote
+    certification is allowed only by a recorded video call under strict conditions, not by stamping a
+    scan.
+- id: q10
+  question: >-
+    An experienced activist offers to research, draft and send formal letters and affidavits for
+    residents of her town for a small fee per document. What is the legal problem?
+  options:
+    - >-
+      None, as long as each document says it is not legal advice.
+    - >-
+      Drafting documents for others for payment is reserved to lawyers.
+    - >-
+      None, as long as she signs the documents in her own name.
+    - >-
+      Only affidavits are a problem; letters to authorities may be drafted for a fee.
+  correct: 1
+  explanation: >-
+    Bar Association Law s. 20 reserves drafting legal documents for others, as an occupation or for
+    payment, to lawyers. She can teach residents to write their own and share general information.

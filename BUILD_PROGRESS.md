@@ -11,11 +11,14 @@ Goal: build the course described in `curriculum/plan.md` under `tals-academy/doc
 - [x] Research: sources-israel.md
 - [x] Research: sources-international.md
 - [x] Phase A for modules 1–2 (README, sidebar, references, build-spec, checker). Repeat sidebar/reference updates per module.
-- [ ] Modules 01–20 (order in plan §12)
+- [x] Module 01 (6 lessons, 84 bank questions)
+- [x] Module 02 (6 lessons, 84 bank questions)
+- [ ] Modules 03–20 (order in plan §12) — WAIT for Tal to review modules 1–2 online first
 - [ ] Phase C: QA, check-course 0 problems, TODO_FOR_TAL
 
 ## Now working
-- Agents: module 01 writer, module 02 writer. After them: STOP and wait for Tal to review online.
+- Nothing running. Waiting for Tal to review modules 1–2 online.
 
 ## Decisions
 - 2026-10-12 Mixed EN/HE language (plan §3). External free platforms assigned, not duplicated (plan §4).
+- 2026-10-12 Knesset legislation DB old URLs 404; new pattern main.knesset.gov.il/apps/legislation/main/laws/<id> (fix in sources-israel.md when used).

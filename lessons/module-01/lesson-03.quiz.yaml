@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A ministry regulation sets a stricter condition for a benefit than the law that authorised it
+    allows. Which rule wins?
+  options:
+    - >-
+      The regulation, because it is newer and more detailed than the law.
+    - >-
+      The regulation, because ministers are experts in their own field.
+    - >-
+      Neither; the conflict must first be decided by the Knesset committee.
+    - >-
+      The law, because a regulation is valid only within the power the law gives.
+  correct: 3
+  explanation: >-
+    A regulation is "הוראה שניתנה מכוח חוק". It cannot go beyond or contradict the enabling law,
+    so the law wins and the regulation is open to challenge.
+- id: q2
+  question: >-
+    A local authority refuses your request, citing "our internal procedure (נוהל)". What is the
+    most useful first question in your reply?
+  options:
+    - >-
+      Whether the Supreme Court approved the procedure before it was used.
+    - >-
+      Under which section of which law the procedure was issued.
+    - >-
+      Whether the clerk who signed the refusal is a qualified lawyer.
+    - >-
+      Whether the procedure is older or newer than the Basic Laws of 1992.
+  correct: 1
+  explanation: >-
+    A procedure cannot create powers; it must rest on a power in a law or regulation. Asking for the
+    source and the published text is the source check from this lesson.
+- id: q3
+  question: >-
+    A group wants to challenge a 1965 law under Basic Law: Human Dignity and Liberty. Which section
+    of the Basic Law makes this hard?
+  options:
+    - >-
+      Section 1, because the rights rest on the Declaration of Independence.
+    - >-
+      Section 11, because only the government must respect the rights.
+    - >-
+      Section 10, which preserves the validity of law that existed before the Basic Law.
+    - >-
+      Section 8, because it applies only to regulations, never to laws.
+  correct: 2
+  explanation: >-
+    Section 10 says the Basic Law does not affect the validity of earlier law. Courts can still
+    interpret older laws in the spirit of the Basic Law.
+- id: q4
+  question: >-
+    Under the limitation clause (s. 8), which of these is NOT one of the conditions for a law that
+    infringes a protected right?
+  options:
+    - >-
+      It must be passed by at least 61 Knesset members.
+    - >-
+      The law must fit the values of the State of Israel.
+    - >-
+      The law must be intended for a proper, legitimate purpose.
+    - >-
+      The infringement must be no greater than necessary.
+  correct: 0
+  explanation: >-
+    Section 8 requires a law (or express authorisation in a law) that fits the state's values, has a
+    proper purpose and goes no further than necessary. It sets no special majority.

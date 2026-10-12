@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You need an affidavit for an administrative petition. Which of these people can give you the
+    warning and certify it under the Evidence Ordinance?
+  options:
+    - >-
+      Your local police station's duty officer.
+    - >-
+      The secretary of your amuta, who knows the facts well.
+    - >-
+      Any lawyer licensed in Israel.
+    - >-
+      A certified accountant who has known you for years.
+  correct: 2
+  explanation: >-
+    Section 15(ב) lists judges, religious-court judges, certain State Attorney lawyers, any lawyer,
+    the head of a local authority and persons the Minister of Justice authorised. Police officers,
+    accountants and friends are not on the list.
+- id: q2
+  question: >-
+    Your draft affidavit includes: "the municipal inspector told my neighbour that the order came
+    from the mayor". You did not hear this yourself. What should you do?
+  options:
+    - >-
+      Ask the neighbour to give her own affidavit, and remove it from yours as a fact.
+    - >-
+      Keep it, since affidavits may include anything relevant to the case.
+    - >-
+      Keep it but move it to the last paragraph, where it carries less weight.
+    - >-
+      Rephrase it as "I am certain that the order came from the mayor".
+  correct: 0
+  explanation: >-
+    An affidavit contains facts the declarant knows personally (reg. 178(א)). The neighbour who heard
+    the remark can state it in her own affidavit.
+- id: q3
+  question: >-
+    After the lawyer certified your affidavit, you notice a wrong date in paragraph 4. What is the
+    correct fix?
+  options:
+    - >-
+      Correct it by hand and initial the change yourself.
+    - >-
+      Leave it and explain the error at the hearing if anyone asks.
+    - >-
+      Correct the file on your computer and print the page again.
+    - >-
+      Write a corrected affidavit and have it certified again.
+  correct: 3
+  explanation: >-
+    An affidavit changed after certification is invalid. Corrections are initialled by the certifier
+    only before signing; afterwards you make a new affidavit.
+- id: q4
+  question: >-
+    You wrote your own affidavit and need it certified for an Israeli court. Which option is usually
+    the cheapest lawful choice?
+  options:
+    - >-
+      A notary, because notary fees are fixed by regulation and therefore lowest.
+    - >-
+      A lawyer certifying the affidavit you wrote, after you ask the price.
+    - >-
+      Signing at home and sending a scan to a lawyer for a stamp.
+    - >-
+      Asking a court clerk at the counter to stamp it.
+  correct: 1
+  explanation: >-
+    Any lawyer may certify, and certifying a ready affidavit usually costs less than drafting one.
+    Notaries charge a regulated fee aimed at documents for abroad; signing at home is invalid.

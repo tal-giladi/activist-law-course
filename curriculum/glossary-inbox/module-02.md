@@ -1,0 +1,50 @@
+# Glossary inbox — Module 2
+
+- **רשומות** (Reshumot) — The official gazette where laws and regulations are published.
+- **ספר החוקים** (Sefer HaHukim) — The gazette series for Knesset laws (cited ס״ח).
+- **קובץ התקנות** (Kovetz HaTakanot) — The gazette series for regulations and notices (cited ק״ת).
+- **נוסח משולב** (nusach meshulav) — Consolidated version: a law re-enacted with all its amendments merged.
+- **נוסח חדש** (nusach chadash) — New version: a Mandate-era law re-enacted in Hebrew.
+- **תיקון עקיף** (tikun akif) — Indirect amendment: a change made by a different law.
+- **הוראת שעה** (hora'at sha'a) — Temporary provision with an end date.
+- **תחילה** (tchila) — Commencement: the date a provision takes effect.
+- **מאגר החקיקה הלאומי** (ma'agar hachakika haleumi) — The Knesset's National Legislation Database.
+- **פסק דין** (psak din) — Judgment: the final decision in a case.
+- **החלטה** (hachlata) — Decision: a ruling on an interim matter.
+- **הלכה** (halacha) — Binding legal rule set by a court (precedent).
+- **אמרת אגב** (imrat agav) — Obiter dictum: a remark that is not part of the binding rule.
+- **מספר הליך** (mispar halich) — Case number, for example בג״ץ 5658/23.
+- **דיון נוסף** (diyun nosaf) — Further hearing of a Supreme Court ruling before a larger panel.
+- **ערכאה קודמת** (ercaa kodemet) — The lower court whose decision is under appeal.
+- **איסור פרסום** (isur pirsum) — Publication ban (gag order).
+- **פ״ד** (piskei din) — The official law reports of the Supreme Court.
+- **מקור ראשוני** (makor rishoni) — Primary source: a law, regulation or ruling.
+- **מקור משני** (makor mishni) — Secondary source: commentary, guides, research about the law.
+- **ספרות משפטית** (sifrut mishpatit) — Legal literature (books and articles).
+- **כתב עת משפטי** (ktav et mishpati) — Law journal or law review.
+- **מרכז המחקר והמידע של הכנסת (ממ״מ)** (merkaz hamechkar vehameida shel haknesset) — The Knesset Research and Information Center.
+- **נייר עמדה** (neyar emda) — Position paper (advocacy, written for one side).
+- **הנחיות היועץ המשפטי לממשלה** (hanchayot hayoetz hamishpati lamemshala) — Attorney General guidelines, binding inside government.
+- **שאלה משפטית / סוגיה** (she'ela mishpatit / sugya) — Legal issue: the question the reader must decide.
+- **יסודות** (yesodot) — Elements: the conditions a rule requires.
+- **יישום** (yisum) — Application: matching facts to each element of a rule.
+- **אסמכתה** (asmachta) — Authority: the source cited for a rule.
+- **אבחנה** (avchana) — Distinguishing: showing a ruling does not apply to your facts.
+- **טענה חלופית** (ta'ana chalufit) — Alternative argument ("even if…").
+- **נטל ההוכחה** (netel hahochacha) — Burden of proof.
+- **פנייה** (pniya) — Request or letter to an authority.
+- **מכתב דרישה** (michtav drisha) — Demand letter with a deadline and a stated next step.
+- **הנדון** (hanadon) — "Re:", the subject line of a letter.
+- **סימוכין** (simuchin) — Reference numbers of earlier letters.
+- **בלי לפגוע בזכויות** (bli lifgo'a bezchuyot) — "Without prejudice to rights".
+- **נספח** (nispach) — Attachment / exhibit.
+- **העתק** (he'etek) — Copy (cc).
+- **אישור מסירה** (ishur mesira) — Proof of delivery.
+- **תצהיר** (tatzhir) — Affidavit: a written statement made after a warning to tell the truth.
+- **מצהיר** (matzhir) — Declarant: the person making an affidavit.
+- **משביע / מאמת** (mashbi'a / me'amet) — The person who warns the declarant and certifies the affidavit.
+- **מודעת השבעה / אישור** (moda'at hashba'a / ishur) — The certification paragraph at the end of an affidavit.
+- **ידיעה אישית** (yedi'a ishit) — Personal knowledge.
+- **מיטב ידיעתי ואמונתי** (meitav yedi'ati ve'emunati) — "To the best of my knowledge and belief".
+- **חקירה נגדית** (chakira negdit) — Cross-examination.
+- **נוטריון** (notaryon) — Notary: a senior lawyer with a special licence and regulated fees.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You find a law on Wikisource. Its top box lists amendments up to 2019. The Knesset National
+    Legislation Database page for the same law lists an amendment from 2024. What do you do before
+    quoting the section?
+  options:
+    - >-
+      Quote the Wikisource text, since a volunteer copy is presumed current until someone edits it.
+    - >-
+      Quote the English translation instead, because translations are updated more often.
+    - >-
+      Open the 2024 amendment in the gazette and check whether it changed your section.
+    - >-
+      Wait for Wikisource to be updated, since only a consolidated text may be quoted.
+  correct: 2
+  explanation: >-
+    A newer amendment in the Knesset database means the Wikisource copy is behind. The gazette PDF
+    of the amendment is the official text, so you read it and apply any change to your section.
+- id: q2
+  question: >-
+    A section of a law on Wikisource shows two wordings. The second is marked "(החל מיום 29.7.2027)".
+    Today is October 2026. Which wording do you cite in a letter you send this week?
+  options:
+    - >-
+      The first wording, because the second does not take effect until July 2027.
+    - >-
+      The second wording, because the Knesset has already approved it.
+    - >-
+      Both, letting the authority choose which one applies.
+    - >-
+      Neither, because a section under amendment cannot be relied on.
+  correct: 0
+  explanation: >-
+    A provision takes effect on its commencement date. Until 29.7.2027 the first wording is the law;
+    you may mention the coming change, but you argue from the text in force today.
+- id: q3
+  question: >-
+    You are writing to a ministry and you found an excellent English translation of the relevant law
+    on a university website. What should you quote?
+  options:
+    - >-
+      The English translation, adding the link so the official can check it.
+    - >-
+      The Hebrew text, because the Interpretation Law makes it the binding version.
+    - >-
+      Your own Hebrew back-translation of the English text, so it reads naturally.
+    - >-
+      The English translation, because ministries must accept any accurate translation.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 24 makes the Hebrew text binding. Translations help you understand a law
+    but you quote the exact Hebrew wording.
+- id: q4
+  question: >-
+    Your law card shows the right section and the exact Hebrew quote. Which missing item makes it
+    hardest for someone else to trust the card a year from now?
+  options:
+    - >-
+      The English gist of the section.
+    - >-
+      The name of the website where you first read the law.
+    - >-
+      The number of sections in the whole law.
+    - >-
+      The date you checked that the text was current.
+  correct: 3
+  explanation: >-
+    Laws change. Without a "checked on" date nobody knows whether the quote was current when you
+    copied it, so they must redo the whole check.

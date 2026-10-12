@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A local council refuses your request for its contracts under the Freedom of Information Law,
+    and you have taken the FOI steps. Where does a petition usually go?
+  options:
+    - >-
+      The Administrative Affairs Court, because FOI decisions are in the first schedule.
+    - >-
+      The High Court of Justice, because every authority decision goes there first.
+    - >-
+      The Magistrates' Court, because the council is a local body.
+    - >-
+      The Local Affairs Court, because it hears all municipal matters.
+  correct: 0
+  explanation: >-
+    The first schedule of the Administrative Courts Law lists "חופש המידע". Listed subjects start in
+    the Administrative Affairs Court. The Local Affairs Court hears by-law and planning offences, not
+    petitions.
+- id: q2
+  question: >-
+    The cabinet adopts a resolution you believe is unlawful. Which forum hears a petition against it?
+  options:
+    - >-
+      The Administrative Affairs Court in Jerusalem, because the cabinet sits there.
+    - >-
+      The Magistrates' Court, after a criminal complaint against the ministers.
+    - >-
+      The High Court of Justice, because the subject is not given to another court.
+    - >-
+      A Knesset committee, because courts cannot review cabinet decisions.
+  correct: 2
+  explanation: >-
+    Under Basic Law: The Judiciary s. 15(c) and (d)(2), the High Court of Justice hears petitions
+    against state authorities in matters not within another court's jurisdiction. Government
+    decisions are not in the first schedule.
+- id: q3
+  question: >-
+    An activist is dismissed by her private employer two days after leading a protest. Where does
+    she sue for unlawful dismissal?
+  options:
+    - >-
+      The small claims court, because it is quick and cheap.
+    - >-
+      The High Court of Justice, because freedom of expression is a Basic Law right.
+    - >-
+      The District Court, because dismissal cases are always above the ceiling.
+    - >-
+      The Regional Labour Court, which has exclusive jurisdiction over such disputes.
+  correct: 3
+  explanation: >-
+    Labour Court Law s. 24 gives the regional labour courts exclusive jurisdiction over claims
+    between employee and employer. A private employer is not a body the High Court reviews.
+- id: q4
+  question: >-
+    You lost a civil case in the Magistrates' Court. What does Basic Law: The Judiciary s. 17 tell
+    you?
+  options:
+    - >-
+      You may appeal only with the Supreme Court's permission.
+    - >-
+      You may appeal as of right, here to the District Court.
+    - >-
+      You may not appeal; only criminal judgments can be appealed.
+    - >-
+      You may ask the same judge to rehear the case instead.
+  correct: 1
+  explanation: >-
+    Section 17: a first-instance judgment can be appealed as of right. Courts Law s. 40(3) gives
+    the District Court appeals from the Magistrates' Courts.
