@@ -1,6 +1,6 @@
 # Activist Law — course plan
 
-A free, practical online "nano degree" in law for activists. It covers about half an Israeli LL.B.: public law, human rights and international law, plus a practical stage. The goal is that a learner can act alone, without hiring a lawyer.
+A free, practical online course in law for activists ("Activist Law: A Free Practical Course"; never call it a degree). It covers about half an Israeli LL.B.: public law, human rights and international law, plus a practical stage. The goal is that a learner can act alone, without hiring a lawyer.
 
 Written 2026-10-12. Status: plan + research done. No lessons written yet.
 
@@ -492,7 +492,7 @@ See `curriculum/course-details.md`:
 
 ## 14. Open questions for Tal
 
-1. **Public or private repo while drafting?** It was created public, like the other courses.
-2. **Course title.** "Activist Law: A Free Practical Nano Degree" or "Do-It-Yourself Law for Activists"?
+1. Repo: public (Tal, 2026-10-12).
+2. Title: "Activist Law: A Free Practical Course" (Tal, 2026-10-12). Never "degree" or "nano degree".
 3. **Certificate wording.** The suggestion is in `course-details.md`.
 4. **Hebrew-only Academy translation later.** Prose is English. If Hebrew translation is switched on, the Hebrew quotes stay as they are.

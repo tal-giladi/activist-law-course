@@ -2,7 +2,7 @@
 
 | Field | Value |
 |---|---|
-| Title | Activist Law: A Free Practical Nano Degree (working title) |
+| Title | Activist Law: A Free Practical Course |
 | Suggested slug | `activist-law` |
 | GitHub repo | `tal-giladi/activist-law-course` (public) |
 | Price | Free (suggestion; Tal decides) |
