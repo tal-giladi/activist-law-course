@@ -1,0 +1,34 @@
+# Glossary inbox — Module 7
+
+- **פשע** (pesha) — Felony: an offence with a maximum penalty above three years' imprisonment (Penal Law s. 24).
+- **עוון** (avon) — Misdemeanour: maximum above three months and up to three years.
+- **חטא** (chet) — Contravention: maximum up to three months; not an arrestable offence.
+- **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence that is not a contravention (Arrests Law s. 23).
+- **עבירת קנס** (avirat knas) — Fine offence, dealt with by a fine notice instead of an indictment.
+- **התקהלות אסורה** (hitkahalut asura) — Unlawful assembly (Penal Law s. 151).
+- **התפרעות** (hitpar'ut) — Riot (Penal Law s. 152).
+- **הוראת התפזרות** (hora'at hitpazrut) — Dispersal order (Penal Law s. 153).
+- **הפרעה לשוטר** (hafra'a leshoter) — Obstructing a police officer (Penal Law s. 275).
+- **הפרת הוראה חוקית** (hafarat hora'a chukit) — Breach of a lawful order (Penal Law s. 287).
+- **מעצר בלא צו** (ma'atzar belo tzav) — Arrest without a warrant, by a police officer.
+- **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who decides on custody or release.
+- **עילת מעצר** (ilat ma'atzar) — Ground for arrest or remand (obstruction, danger, investigative acts).
+- **חקירה באזהרה** (chakira be'azhara) — Interrogation under warning, as a suspect.
+- **זכות השתיקה** (zchut hashtika) — Right to silence.
+- **היוועצות בעורך דין** (hiva'atzut be'orech din) — Consulting a lawyer before or during interrogation.
+- **סניגור ציבורי** (sanegor tziburi) — Public defender.
+- **מחוסר אמצעים** (mechusar emtza'im) — Without means: the economic test for a public defender.
+- **בקשה להארכת מעצר** (bakasha leha'arachat ma'atzar) — Police request to extend custody (remand).
+- **מעצר ימים** (ma'atzar yamim) — Remand for investigation before indictment.
+- **חלופת מעצר** (chalufat ma'atzar) — Alternative to custody: release on conditions.
+- **הרחקה** (harchaka) — Exclusion order from a place or area.
+- **ערבון / ערבות** (eravon / arvut) — Cash deposit / guarantee given for release.
+- **מפקח** (mefake'ach) — Supervisor who undertakes to watch a released person.
+- **עיון חוזר** (iyun chozer) — Review of a custody or bail decision by the same court.
+- **תיק סגור** (tik sagur) — Closed criminal file.
+- **עילת סגירה** (ilat sgira) — Closure ground of a criminal file.
+- **חוסר אשמה** (choser ashma) — Lack of guilt: the closure ground that removes the police record.
+- **המרשם הפלילי** (hamirsham hapli'li) — Criminal register: convictions and some court orders.
+- **המרשם המשטרתי** (hamirsham hamishtarti) — Police register: open and closed files, stayed cases, acquittals.
+- **ביטול רישום** (bitul rishum) — Cancellation of a police-register entry.
+- **התיישנות / מחיקה** (hitya'shnut / mechika) — Limitation / deletion periods of a criminal-register entry.

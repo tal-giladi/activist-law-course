@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A protester shouts loudly at passers-by in a mall and is accused only under Penal Law s. 194(א),
+    which carries up to three months. An officer says, "You are under arrest." What is the legal problem?
+  options:
+    - >-
+      None, because any offence committed in front of an officer allows arrest without a warrant.
+    - >-
+      A three-month offence is a חטא, which is not an arrestable offence under s. 23 of the Arrests Law.
+    - >-
+      Only a judge may arrest for offences under the Penal Law, never a police officer.
+    - >-
+      Section 194 offences may be dealt with only by a municipal inspector.
+  correct: 1
+  explanation: >-
+    Section 24 makes an offence of up to three months a חטא, and s. 23(א)(7) of the Arrests Law limits
+    arrest without a warrant to offences that are not a חטא. The officer may still detain to identify.
+- id: q2
+  question: >-
+    During an arrest at a demonstration, an activist pulls her arm away once and pushes the officer's
+    hand off. Which section is the main new risk created by that moment?
+  options:
+    - >-
+      Section 151, unlawful assembly, because she was part of a crowd.
+    - >-
+      Section 196, defacing property, because she touched police equipment.
+    - >-
+      Section 273 or s. 275, which carry statutory minimum penalties.
+    - >-
+      Section 194, noise in a public place, which is the usual add-on charge.
+  correct: 2
+  explanation: >-
+    Resisting an officer acting lawfully is examined under s. 275 (obstruction) and, if there is any
+    assault, s. 273. Both carry minimum penalties, so physical resistance escalates a file most.
+- id: q3
+  question: >-
+    Activists sit on a highway to draw attention to a political cause. A friend says they will surely
+    be charged under s. 332, punishable by 20 years. What is the best answer?
+  options:
+    - >-
+      It needs intent to harm or endanger a traveller, which a sit-in alone does not show.
+    - >-
+      Section 332 covers only railways and airports, never public highways.
+    - >-
+      Section 332 applies automatically to any blocking of traffic for more than a few minutes.
+    - >-
+      Section 332 was repealed, so road blocks fall only under s. 194 now.
+  correct: 0
+  explanation: >-
+    Section 332 opens with "בכוונה לפגוע בנוסע … או לסכן את בטיחותו". Without such intent, the same
+    conduct is usually examined under lighter sections such as 215 or 216. The decision is the prosecution's.
+- id: q4
+  question: >-
+    A suspect is accused of breaching a release condition that banned him from a town for 15 days.
+    Which offence is most likely to be cited?
+  options:
+    - >-
+      Section 288, insulting a public servant.
+    - >-
+      Section 152, riot.
+    - >-
+      Section 215, public nuisance.
+    - >-
+      Section 287, breach of a lawful order.
+  correct: 3
+  explanation: >-
+    Section 287(א) covers breaking an order properly given by a court or an authorised official, which
+    includes release conditions; breach can also lead to re-arrest (lesson 07.4).

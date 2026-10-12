@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    An officer at a protest asks for your ID and says, "Wait here, we are checking something." He has
+    not said you are under arrest. What is the best thing to say first?
+  options:
+    - >-
+      "I refuse to give any details until my lawyer arrives."
+    - >-
+      "Am I detained or arrested, and what is the suspicion?"
+    - >-
+      "You have no right to stop me without a judge's warrant."
+    - >-
+      "I will explain what happened so that we can clear this up now."
+  correct: 1
+  explanation: >-
+    The answer tells you which limits apply (detention, up to 3 hours, or arrest). Identity details must
+    be given; refusing them can itself justify arrest (s. 23(ב)). Explanations wait for a lawyer.
+- id: q2
+  question: >-
+    An activist is arrested on a Friday at 14:30. Shabbat begins at 17:45 and ends at 18:50 on Saturday.
+    There are no urgent investigative acts. By when must he be brought before a judge?
+  options:
+    - >-
+      By 14:30 on Saturday, exactly 24 hours after the arrest.
+    - >-
+      By Sunday 14:30, since Shabbat hours are not counted.
+    - >-
+      Before Shabbat begins at 17:45 on Friday, subject to s. 29(ג).
+    - >-
+      By 22:50 on Saturday, four hours after Shabbat ends.
+  correct: 2
+  explanation: >-
+    He was arrested more than 4 hours before Shabbat, and 24 hours would end on Shabbat, so s. 29(ב)
+    applies: before Shabbat begins. Only with special investigative needs approved by a senior officer
+    may it be within 4 hours after Shabbat (s. 29(ג)).
+- id: q3
+  question: >-
+    At the station an officer says, "Give me your phone code, it will help you." You were arrested
+    for obstruction at a demonstration. What does the law say?
+  options:
+    - >-
+      You must give the code, because a phone seized as evidence may always be searched.
+    - >-
+      The police may only ask for the code after a judge has extended your arrest.
+    - >-
+      Searching the phone's contents needs a judge's warrant, and you may refuse consent.
+    - >-
+      The police may search the phone only if you are charged with a felony.
+  correct: 2
+  explanation: >-
+    Under s. 23א of the Arrest and Search Ordinance, entering computer material is a search that needs a
+    judge's warrant saying so. Seizing the device (s. 32) is not permission to search it.
+- id: q4
+  question: >-
+    The officer in charge reviews an arrest and finds that none of the s. 23 conditions existed and there
+    is no ground for remand. What must happen?
+  options:
+    - >-
+      The person must be released on the spot.
+    - >-
+      The person must be held until a judge decides, within 24 hours.
+    - >-
+      The person may be held for questioning up to 48 hours.
+    - >-
+      The person must sign release conditions before leaving.
+  correct: 0
+  explanation: >-
+    Section 27(ב): if the s. 23 conditions did not exist and there is no s. 13 ground for remand, the
+    officer in charge releases the person at once.
+- id: q5
+  question: >-
+    A detainee's mother calls the station and is told nothing. The detainee had named her when asked.
+    Which right was most likely breached?
+  options:
+    - >-
+      The right to a public defender under s. 18 of the Public Defender Law.
+    - >-
+      The right to remain silent under the Testimony Ordinance.
+    - >-
+      The right to see a judge within 24 hours under s. 29.
+    - >-
+      The right to have a named close person told of the arrest (s. 33).
+  correct: 3
+  explanation: >-
+    Section 33(א) requires notice of the arrest and the place of detention, without delay, to a close
+    person the detainee names, unless the detainee asked not to notify.

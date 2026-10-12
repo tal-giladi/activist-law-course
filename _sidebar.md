@@ -55,3 +55,10 @@
   - [33 · Complaints About Police Conduct](lessons/module-06/lesson-04.md)
   - [34 · Social Media, Signs and the Limits of Incitement](lessons/module-06/lesson-05.md)
   - [Module 6 quiz](assessments/module-06-quiz.md)
+- **Module 7 — Criminal Law and Procedure for Activists (about 12 hours)**
+  - [35 · Offences Activists Are Most Often Charged With](lessons/module-07/lesson-01.md)
+  - [36 · Detention, Arrest and Your Rights](lessons/module-07/lesson-02.md)
+  - [37 · Interrogation: Silence, a Lawyer and the Public Defender](lessons/module-07/lesson-03.md)
+  - [38 · Remand Hearings and Release Conditions](lessons/module-07/lesson-04.md)
+  - [39 · After the Case: Closed Files, Criminal and Police Records](lessons/module-07/lesson-05.md)
+  - [Module 7 quiz](assessments/module-07-quiz.md)

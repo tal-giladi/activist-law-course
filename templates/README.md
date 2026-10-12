@@ -6,6 +6,8 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 - [Administrative Petition (עתירה מינהלית)](administrative-petition.md)
 - [Affidavit (תצהיר)](affidavit.md)
+- [Arrest Card (כרטיס זכויות במעצר)](arrest-card.md)
+- [Request to Change Closure Grounds (בקשה לשינוי עילת סגירה)](closure-grounds-request.md)
 - [Decision audit (בדיקת החלטה מינהלית)](decision-audit.md)
 - [Freedom of Information Request (בקשה לקבלת מידע)](foi-request.md)
 - [FOI Reminder and FOI Unit Complaint (תזכורת ותלונה ליחידה הממשלתית לחופש המידע)](foi-unit-complaint.md)
@@ -14,6 +16,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Issue map (מפת סוגיה)](issue-map.md)
 - [Complaint to the Public Complaints Commissioner (תלונה לנציב תלונות הציבור)](ombudsman-complaint.md)
 - [Complaint About Police Conduct (תלונה על התנהגות שוטר)](police-complaint.md)
+- [Your Police Record: Viewing, Correcting and Cancelling (עיון, תיקון וביטול רישום משטרתי)](police-records-request.md)
 - [Pre-Petition Letter (מכתב התראה לפני הגשת עתירה)](pre-petition-letter.md)
 - [Proportionality analysis (ניתוח מידתיות)](proportionality-analysis.md)
 - [Protest Legal Plan (תוכנית משפטית להפגנה)](protest-legal-plan.md)

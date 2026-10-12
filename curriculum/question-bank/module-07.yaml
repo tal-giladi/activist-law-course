@@ -1,0 +1,1749 @@
+# Module 7 question bank for daily practice (not imported). Format: build-spec.md, Question bank.
+- id: m07-001
+  module: 7
+  lesson: "07.1"
+  subject: offence-classes
+  difficulty: 1
+  question: >-
+    Under Penal Law s. 24, an offence with a maximum of three years' imprisonment is which class?
+  options:
+    - >-
+      A felony (פשע).
+    - >-
+      A contravention (חטא).
+    - >-
+      A misdemeanour (עוון).
+    - >-
+      A fine offence (עבירת קנס).
+  correct: 2
+  explanation: >-
+    A felony needs a penalty above three years; above three months and up to three years is a עוון.
+- id: m07-002
+  module: 7
+  lesson: "07.1"
+  subject: offence-classes
+  difficulty: 1
+  question: >-
+    What is an 'arrestable offence' (עבירה בת מעצר) under the Arrests Law?
+  options:
+    - >-
+      Any offence punishable by five years or more.
+    - >-
+      Only offences committed in an officer's presence.
+    - >-
+      Only felonies listed in the Arrests Law schedule.
+    - >-
+      Any offence that is not a contravention (חטא).
+  correct: 3
+  explanation: >-
+    Section 23(א)(7): 'עבירה בת מעצר' is every offence except a חטא.
+- id: m07-003
+  module: 7
+  lesson: "07.1"
+  subject: offence-classes
+  difficulty: 2
+  question: >-
+    An officer wants to arrest a protester only for insulting a passer-by in a public place (s. 194(ב), three months). What may he do instead?
+  options:
+    - >-
+      Arrest him, since insults always justify arrest.
+    - >-
+      Arrest him after a written warning.
+    - >-
+      Hold him overnight until a judge decides.
+    - >-
+      Detain the protester briefly to identify him.
+  correct: 3
+  explanation: >-
+    A three-month offence is a חטא and not arrestable without a warrant; detention to identify is still available (s. 67).
+- id: m07-004
+  module: 7
+  lesson: "07.1"
+  subject: offence-classes
+  difficulty: 2
+  question: >-
+    Why does the class of the offence matter after a file is closed?
+  options:
+    - >-
+      It decides whether the file can ever be reopened.
+    - >-
+      It decides whether the closure letter states the ground.
+    - >-
+      It changes the waiting period to cancel the police record.
+    - >-
+      It decides which court will hear an appeal.
+  correct: 2
+  explanation: >-
+    Cancellation on request is after 5 years for a misdemeanour and 7 for a felony (adults) under the 2009 criteria.
+- id: m07-005
+  module: 7
+  lesson: "07.1"
+  subject: protest-offences
+  difficulty: 1
+  question: >-
+    Which section defines unlawful assembly (התקהלות אסורה)?
+  options:
+    - >-
+      Section 83 of the Police Ordinance.
+    - >-
+      Section 151 of the Penal Law.
+    - >-
+      Section 194 of the Penal Law.
+    - >-
+      Section 23 of the Arrests Law.
+  correct: 1
+  explanation: >-
+    Penal Law s. 151 defines it; the Police Ordinance deals with licences (lesson 06.2).
+- id: m07-006
+  module: 7
+  lesson: "07.1"
+  subject: protest-offences
+  difficulty: 2
+  question: >-
+    A group of three friends holds a quiet vigil with candles outside a ministry, without a licence. Nobody fears a breach of the peace. Is it an unlawful assembly under s. 151?
+  options:
+    - >-
+      No; s. 151 needs conduct causing reasonable fear of a breach of peace.
+    - >-
+      Yes; three or more people without a licence are an unlawful assembly.
+    - >-
+      Yes; any gathering outside a government building is unlawful.
+    - >-
+      No; s. 151 applies only to gatherings of fifty people or more.
+  correct: 0
+  explanation: >-
+    Section 151 is about behaviour that gives bystanders reasonable fear of a breach of the peace, not about licences.
+- id: m07-007
+  module: 7
+  lesson: "07.1"
+  subject: protest-offences
+  difficulty: 2
+  question: >-
+    Which offence turns into a felony only after a dispersal order and a reasonable time to leave?
+  options:
+    - >-
+      Staying after a dispersal order (s. 155).
+    - >-
+      Riot that frightens the public (s. 152).
+    - >-
+      Public nuisance on a public way (s. 215).
+    - >-
+      Improper conduct in a public place (s. 216).
+  correct: 0
+  explanation: >-
+    Section 155 carries five years and depends on an order under s. 153 and a reasonable time.
+- id: m07-008
+  module: 7
+  lesson: "07.1"
+  subject: protest-offences
+  difficulty: 3
+  question: >-
+    A dispersal announcement is made by a junior constable, with a senior officer present and silent. Protesters stay. Which question will matter most for a s. 155 charge?
+  options:
+    - >-
+      Whether a person authorised under s. 153 gave the order.
+    - >-
+      Whether the protest had a licence from the district commander.
+    - >-
+      Whether the protesters were warned in writing.
+    - >-
+      Whether a judge approved the dispersal in advance.
+  correct: 0
+  explanation: >-
+    Section 153 lists who may order dispersal; the absence of a valid order is a defence question for the lawyer.
+- id: m07-009
+  module: 7
+  lesson: "07.1"
+  subject: offence-elements
+  difficulty: 1
+  question: >-
+    Which offence requires an intention to obstruct the officer?
+  options:
+    - >-
+      Assaulting an officer (s. 273).
+    - >-
+      Unlawful assembly (s. 151).
+    - >-
+      Obstructing an officer (s. 275).
+    - >-
+      Breach of a lawful order (s. 287).
+  correct: 2
+  explanation: >-
+    Section 275 opens 'העושה מעשה בכוונה להפריע לשוטר'.
+- id: m07-010
+  module: 7
+  lesson: "07.1"
+  subject: offence-elements
+  difficulty: 2
+  question: >-
+    For s. 287, what must the order have been?
+  options:
+    - >-
+      Given in writing and signed by a senior officer.
+    - >-
+      Given properly by a court or an authorised official.
+    - >-
+      Given at least one hour before the breach.
+    - >-
+      Approved in advance by the Attorney General.
+  correct: 1
+  explanation: >-
+    Section 287(א): 'הוראה שניתנה כשורה מאת בית משפט או מאת פקיד … מוסמך'.
+- id: m07-011
+  module: 7
+  lesson: "07.1"
+  subject: offence-elements
+  difficulty: 3
+  question: >-
+    Activists place a large banner across a road at night to stop cars, and a driver swerves. Compared with a daytime sit-in, why may s. 332 be more relevant here?
+  options:
+    - >-
+      Placing an object on the road may show intent to endanger.
+    - >-
+      Night-time protests are automatically treated as felonies.
+    - >-
+      Banners are always treated as weapons under the Penal Law.
+    - >-
+      Section 332 applies only once a driver is actually injured.
+  correct: 0
+  explanation: >-
+    Section 332(1) covers placing an object on a traffic route with intent to harm or endanger travellers; the facts may support such intent.
+- id: m07-012
+  module: 7
+  lesson: "07.1"
+  subject: police-offences
+  difficulty: 1
+  question: >-
+    Which offence carries a statutory minimum of one month?
+  options:
+    - >-
+      Insulting a public servant on duty (s. 288).
+    - >-
+      Public nuisance on a public road (s. 215).
+    - >-
+      Unlawful assembly of three or more (s. 151).
+    - >-
+      Assaulting a police officer (s. 273).
+  correct: 3
+  explanation: >-
+    Section 273: up to three years and not less than one month.
+- id: m07-013
+  module: 7
+  lesson: "07.1"
+  subject: police-offences
+  difficulty: 2
+  question: >-
+    An activist throws a plastic bottle at a police car to stop it leaving. Which section is most relevant?
+  options:
+    - >-
+      Defacing property (s. 196).
+    - >-
+      Improper conduct in a public place (s. 216).
+    - >-
+      Noise in a public place (s. 194).
+    - >-
+      Aggravated obstruction (s. 275א).
+  correct: 3
+  explanation: >-
+    Section 275א covers throwing a stone or object at an officer or police vehicle to obstruct; it is a felony.
+- id: m07-014
+  module: 7
+  lesson: "07.1"
+  subject: police-offences
+  difficulty: 3
+  question: >-
+    During an arrest a protester goes limp and is carried away. He did not push or pull. Which is the most accurate statement?
+  options:
+    - >-
+      Going limp is always an assault on an officer under s. 273.
+    - >-
+      Going limp makes the whole arrest unlawful from the start.
+    - >-
+      Going limp is a full defence to every protest offence.
+    - >-
+      It is not assault in itself, but obstruction may still be alleged.
+  correct: 3
+  explanation: >-
+    Assault needs force; obstruction needs an act with intent to obstruct. Whether passive conduct fits s. 275 is for the lawyer and the court.
+- id: m07-015
+  module: 7
+  lesson: "07.1"
+  subject: charge-map
+  difficulty: 2
+  question: >-
+    Which line belongs in a good personal charge map?
+  options:
+    - >-
+      Sitting on the road — legal, because protest is a basic right.
+    - >-
+      Road sit-in — s. 215/216, עוון; I leave if clearance is announced.
+    - >-
+      Sitting on the road — s. 332, twenty years, so I will not protest.
+    - >-
+      Sitting on the road — no section, police only fine people.
+  correct: 1
+  explanation: >-
+    A charge map names the likely section, its class and a concrete line of conduct.
+- id: m07-016
+  module: 7
+  lesson: "07.1"
+  subject: charge-map
+  difficulty: 2
+  question: >-
+    Which is the best reason to write a charge map before an action rather than after an arrest?
+  options:
+    - >-
+      It lets you negotiate the sections with the officer on the spot.
+    - >-
+      It must be shown to the police before a licensed protest.
+    - >-
+      Decisions are easier to keep under pressure when made in advance.
+    - >-
+      It is required by the Arrests Law for organisers.
+  correct: 2
+  explanation: >-
+    The charge map turns legal knowledge into simple rules you can follow when stressed.
+- id: m07-017
+  module: 7
+  lesson: "07.1"
+  subject: protest-offences
+  difficulty: 1
+  question: >-
+    Spraying a slogan on a company's wall without permission falls under which section?
+  options:
+    - >-
+      Riot, s. 152.
+    - >-
+      Public nuisance, s. 215.
+    - >-
+      Insulting a public servant, s. 288.
+    - >-
+      Defacing property, s. 196.
+  correct: 3
+  explanation: >-
+    Section 196 covers writing, drawing or sticking on another's real property unlawfully; it can also be a fine offence.
+- id: m07-018
+  module: 7
+  lesson: "07.1"
+  subject: offence-classes
+  difficulty: 3
+  question: >-
+    A protester is told: 'You were only fined for graffiti, so nothing is recorded.' What is accurate under the Criminal Information Law?
+  options:
+    - >-
+      Fine offences are not in the criminal register (s. 8(ג)).
+    - >-
+      Every fine is recorded in the criminal register for ten years.
+    - >-
+      A fine is recorded as a felony on the police register.
+    - >-
+      Fines are recorded only if they are paid late.
+  correct: 0
+  explanation: >-
+    Section 8(ג) excludes fine offences and administrative offences from the criminal register, except cases set by the minister.
+- id: m07-019
+  module: 7
+  lesson: "07.2"
+  subject: detention-vs-arrest
+  difficulty: 1
+  question: >-
+    What is the general maximum length of a short detention (עיכוב)?
+  options:
+    - >-
+      Twenty-four hours, like an arrest.
+    - >-
+      Three hours, plus three in some cases.
+    - >-
+      Six hours in every single case.
+    - >-
+      Forty-eight hours before seeing a judge.
+  correct: 1
+  explanation: >-
+    Section 73(ב): three hours, plus up to three more with recorded reasons when many people are involved.
+- id: m07-020
+  module: 7
+  lesson: "07.2"
+  subject: detention-vs-arrest
+  difficulty: 2
+  question: >-
+    An officer says, 'Come with me to the station to clarify things.' You ask and he says you are not under arrest. What is your status?
+  options:
+    - >-
+      Arrested without a warrant under s. 23.
+    - >-
+      Free to refuse with no consequence at all.
+    - >-
+      Held under a remand order from a judge.
+    - >-
+      Detained under s. 67(ב), within detention limits.
+  correct: 3
+  explanation: >-
+    Section 67(ב) allows requiring a person to accompany the officer; refusing a lawful detention can lead to arrest (s. 23(ב)).
+- id: m07-021
+  module: 7
+  lesson: "07.2"
+  subject: arrest-procedure
+  difficulty: 1
+  question: >-
+    What must the arresting officer do first under s. 24(א)?
+  options:
+    - >-
+      Read you a written list of all your rights first.
+    - >-
+      Identify himself, say you are arrested and explain why.
+    - >-
+      Call your lawyer before taking you to the station.
+    - >-
+      Search your phone for evidence of the offence.
+  correct: 1
+  explanation: >-
+    Section 24(א); these duties are a condition of a lawful arrest (s. 24(ג)).
+- id: m07-022
+  module: 7
+  lesson: "07.2"
+  subject: arrest-procedure
+  difficulty: 2
+  question: >-
+    Why does it matter that the duties in s. 24 are 'תנאי לחוקיות המעצר'?
+  options:
+    - >-
+      Breaking them makes the arrest unlawful, which a lawyer can raise.
+    - >-
+      Breaking them cancels the criminal file automatically.
+    - >-
+      Breaking them lets the suspect walk away at once.
+    - >-
+      Breaking them requires the officer to pay compensation on the spot.
+  correct: 0
+  explanation: >-
+    Section 24(ג) makes the duties a legality condition; the consequences are argued by the lawyer, not resolved by resisting.
+- id: m07-023
+  module: 7
+  lesson: "07.2"
+  subject: arrest-procedure
+  difficulty: 2
+  question: >-
+    Under s. 23(ג), when may an officer not arrest even for an arrestable offence?
+  options:
+    - >-
+      When the suspect is a student.
+    - >-
+      When the offence happened more than an hour ago.
+    - >-
+      When a detention is enough.
+    - >-
+      When the suspect has a lawyer.
+  correct: 2
+  explanation: >-
+    Section 23(ג): 'לא ייעצר אדם לפי סעיף זה אם ניתן להסתפק בעיכוב'.
+- id: m07-024
+  module: 7
+  lesson: "07.2"
+  subject: rights-at-station
+  difficulty: 1
+  question: >-
+    Who decides at the station whether an arrested person stays in custody or is released?
+  options:
+    - >-
+      The officer who made the arrest.
+    - >-
+      The duty public defender.
+    - >-
+      The officer in charge (הקצין הממונה).
+    - >-
+      The station's legal adviser on call.
+  correct: 2
+  explanation: >-
+    Sections 25–27: the officer in charge reviews the arrest and decides.
+- id: m07-025
+  module: 7
+  lesson: "07.2"
+  subject: rights-at-station
+  difficulty: 2
+  question: >-
+    Before the officer in charge decides to hold you, what must happen under s. 28?
+  options:
+    - >-
+      Your lawyer must arrive and approve the decision.
+    - >-
+      A judge must review the file by phone first.
+    - >-
+      You must sign a statement about the facts.
+    - >-
+      You are warned and given a chance to state your case.
+  correct: 3
+  explanation: >-
+    Section 28(א) requires a hearing after the warning; your lawyer, if present, may be heard (s. 28(ב)).
+- id: m07-026
+  module: 7
+  lesson: "07.2"
+  subject: rights-at-station
+  difficulty: 2
+  question: >-
+    An arrested person asks that nobody be told about the arrest. What does s. 33 say?
+  options:
+    - >-
+      No notice is given if the detainee asked for none.
+    - >-
+      The police must notify the employer anyway.
+    - >-
+      The police must notify the family in every case.
+    - >-
+      The police may notify only after a judge's order.
+  correct: 0
+  explanation: >-
+    Section 33(א) requires notice to a named close person, 'זולת אם ביקש העצור שלא למסור הודעה'.
+- id: m07-027
+  module: 7
+  lesson: "07.2"
+  subject: rights-at-station
+  difficulty: 3
+  question: >-
+    A detainee who speaks Tigrinya is told his rights in Hebrew only and signs the form. What is the strongest point for his lawyer?
+  options:
+    - >-
+      Rights must be explained in a language he understands (s. 32).
+    - >-
+      Rights forms are valid only if signed in front of a judge.
+    - >-
+      Foreign nationals cannot be arrested without consular approval.
+    - >-
+      Only English and Arabic translations are required by law.
+  correct: 0
+  explanation: >-
+    Section 32 requires explanation 'בלשון המובנת לו, ככל האפשר'; interrogation must also be in a language he understands (Interrogation Law s. 2).
+- id: m07-028
+  module: 7
+  lesson: "07.2"
+  subject: time-to-judge
+  difficulty: 1
+  question: >-
+    What is the general rule for bringing an arrested person before a judge?
+  options:
+    - >-
+      Within 48 hours in every case.
+    - >-
+      Within 72 hours if the offence is a felony.
+    - >-
+      Within one working day of the arrest.
+    - >-
+      As soon as possible, and within 24 hours.
+  correct: 3
+  explanation: >-
+    Section 29(א).
+- id: m07-029
+  module: 7
+  lesson: "07.2"
+  subject: time-to-judge
+  difficulty: 2
+  question: >-
+    What happens if an arrested person is not brought before a judge in time?
+  options:
+    - >-
+      The file is closed for lack of guilt.
+    - >-
+      He must be released (s. 31(ב)).
+    - >-
+      The police get 24 more hours automatically.
+    - >-
+      He may file a petition but stays in custody.
+  correct: 1
+  explanation: >-
+    Section 31(ב): 'לא הובא העצור בפני שופט … ישוחרר העצור'.
+- id: m07-030
+  module: 7
+  lesson: "07.2"
+  subject: time-to-judge
+  difficulty: 3
+  question: >-
+    An activist is arrested on Saturday at 10:00. Shabbat ends at 19:00. When must she be brought before a judge at the latest?
+  options:
+    - >-
+      By 23:00 on Saturday, four hours after Shabbat.
+    - >-
+      By Friday-style rules, before Shabbat began.
+    - >-
+      By Sunday 10:00, the later of the two limits.
+    - >-
+      By Monday morning, since Sunday hearings are rare.
+  correct: 2
+  explanation: >-
+    Section 29(ד): arrested during Shabbat, the later of 4 hours after it ends and 24 hours from the arrest.
+- id: m07-031
+  module: 7
+  lesson: "07.2"
+  subject: time-to-judge
+  difficulty: 2
+  question: >-
+    When may the police delay bringing a detainee before a judge up to 48 hours?
+  options:
+    - >-
+      For an urgent act that cannot wait for the hearing.
+    - >-
+      Whenever the station is very busy that night.
+    - >-
+      Whenever the offence is only a misdemeanour.
+    - >-
+      Whenever the detainee refuses to answer questions.
+  correct: 0
+  explanation: >-
+    Section 30 allows up to 48 hours from the arrest only for urgent acts that cannot be done after the hearing.
+- id: m07-032
+  module: 7
+  lesson: "07.2"
+  subject: phone-search
+  difficulty: 1
+  question: >-
+    What does the police need to search the contents of your phone without consent?
+  options:
+    - >-
+      The approval of the officer in charge.
+    - >-
+      A written request signed by two officers.
+    - >-
+      Only a reasonable suspicion of any offence.
+    - >-
+      A judge's warrant that expressly allows it.
+  correct: 3
+  explanation: >-
+    Arrest and Search Ordinance s. 23א(ב).
+- id: m07-033
+  module: 7
+  lesson: "07.2"
+  subject: phone-search
+  difficulty: 2
+  question: >-
+    The police seized your phone as evidence. Which statement is correct?
+  options:
+    - >-
+      Seizure always includes the right to unlock and search.
+    - >-
+      Seized phones must be returned within 24 hours.
+    - >-
+      Seizure is allowed only with your written consent.
+    - >-
+      Seizing it does not by itself allow searching its contents.
+  correct: 3
+  explanation: >-
+    Seizure and search are separate powers; searching computer material needs a warrant under s. 23א.
+- id: m07-034
+  module: 7
+  lesson: "07.2"
+  subject: support-person
+  difficulty: 2
+  question: >-
+    Who is the best choice for a support person on the day of an action?
+  options:
+    - >-
+      The protest's main speaker.
+    - >-
+      Someone who will film the police at the action.
+    - >-
+      The lawyer who represents the whole group.
+    - >-
+      A trusted adult who is not at the action.
+  correct: 3
+  explanation: >-
+    A support person must be reachable and free, and not at risk of arrest themselves.
+- id: m07-035
+  module: 7
+  lesson: "07.2"
+  subject: support-person
+  difficulty: 3
+  question: >-
+    Your support person learns you were arrested at 21:00. Which first step is most useful?
+  options:
+    - >-
+      Post your name and photo on social media to apply pressure.
+    - >-
+      Call your lawyer or the Public Defender, then the station.
+    - >-
+      Go to the station and demand your release from the duty officer.
+    - >-
+      Wait until the morning, when the courts open again.
+  correct: 1
+  explanation: >-
+    The lawyer needs to know early to consult before interrogation and to prepare for a hearing; publicity needs your consent.
+- id: m07-036
+  module: 7
+  lesson: "07.2"
+  subject: detention-vs-arrest
+  difficulty: 3
+  question: >-
+    An officer detains a protester for four hours with no extension and no explanation, then lets him go. Which statement is right?
+  options:
+    - >-
+      Detention has no limit if the protest was unlicensed.
+    - >-
+      Four hours is allowed for any detention at a protest.
+    - >-
+      Beyond three hours it needs an extension with recorded reasons.
+    - >-
+      Detention time limits apply only to minors and the elderly.
+  correct: 2
+  explanation: >-
+    Section 73(ב): three hours, plus three only by the officer in charge with recorded reasons when many are involved; a complaint route is lesson 06.4.
+- id: m07-037
+  module: 7
+  lesson: "07.3"
+  subject: warning-and-silence
+  difficulty: 1
+  question: >-
+    Which three things does the s. 28 warning say?
+  options:
+    - >-
+      No duty to answer anything; nothing will be recorded; a lawyer will come.
+    - >-
+      No duty to self-incriminate; words may be used; silence may strengthen evidence.
+    - >-
+      You must answer truthfully; lies are an offence; silence is an admission.
+    - >-
+      You may leave at any time; questions are optional; nothing is evidence.
+  correct: 1
+  explanation: >-
+    Section 28(א) of the Arrests Law sets out the warning.
+- id: m07-038
+  module: 7
+  lesson: "07.3"
+  subject: warning-and-silence
+  difficulty: 2
+  question: >-
+    Which law gives a witness questioned by police a duty to answer truthfully, except self-incriminating questions?
+  options:
+    - >-
+      The Public Defender Law, section 18 on eligibility.
+    - >-
+      The Penal Law, section 24 on classes of offences.
+    - >-
+      The Testimony Ordinance, s. 2(2).
+    - >-
+      The Criminal Information Law, section 4 on viewing.
+  correct: 2
+  explanation: >-
+    Testimony Ordinance s. 2(2).
+- id: m07-039
+  module: 7
+  lesson: "07.3"
+  subject: warning-and-silence
+  difficulty: 3
+  question: >-
+    A suspect stays completely silent and at trial, two years later, says he was elsewhere. What risk does this illustrate?
+  options:
+    - >-
+      Silence makes any later version of events inadmissible.
+    - >-
+      A late alibi is a separate offence of obstruction.
+    - >-
+      Silence at interrogation bars giving evidence at trial.
+    - >-
+      A version first given at trial may weigh less than an early one.
+  correct: 3
+  explanation: >-
+    The warning says silence may strengthen the evidence; the timing of a version is a reason to decide on silence with a lawyer.
+- id: m07-040
+  module: 7
+  lesson: "07.3"
+  subject: warning-and-silence
+  difficulty: 2
+  question: >-
+    Questioning starts as a 'witness statement'. Then the investigator asks what you did when the officer fell. What should you do?
+  options:
+    - >-
+      Ask whether you are now a suspect, and ask to consult a lawyer.
+    - >-
+      Keep answering, since witnesses must answer every question.
+    - >-
+      Leave the room at once without saying anything more.
+    - >-
+      Answer briefly and sign quickly so that it ends.
+  correct: 0
+  explanation: >-
+    A witness need not answer self-incriminating questions; once questions concern your acts, ask about your status and consult.
+- id: m07-041
+  module: 7
+  lesson: "07.3"
+  subject: lawyer-consultation
+  difficulty: 1
+  question: >-
+    How must the meeting with a lawyer be held under s. 34(ג)?
+  options:
+    - >-
+      In private and confidential, with only movements watched.
+    - >-
+      In the interrogation room with the investigator present.
+    - >-
+      By phone only, with the call recorded by the police.
+    - >-
+      Only after the suspect's statement has been signed.
+  correct: 0
+  explanation: >-
+    Section 34(ג).
+- id: m07-042
+  module: 7
+  lesson: "07.3"
+  subject: lawyer-consultation
+  difficulty: 2
+  question: >-
+    For an ordinary offence, what is the longest the police may prevent a meeting with a lawyer to save life or prevent a crime?
+  options:
+    - >-
+      48 hours from the arrest.
+    - >-
+      10 days from the arrest.
+    - >-
+      72 hours from the arrest.
+    - >-
+      Until the end of the investigation.
+  correct: 0
+  explanation: >-
+    Section 34(ו); security offences have their own longer rules under s. 35.
+- id: m07-043
+  module: 7
+  lesson: "07.3"
+  subject: lawyer-consultation
+  difficulty: 3
+  question: >-
+    An officer delays a lawyer meeting by an oral decision 'because of the investigation'. What is missing?
+  options:
+    - >-
+      The detainee's own written consent to the delay.
+    - >-
+      A reasoned written decision by an authorised officer.
+    - >-
+      The Attorney General's prior approval of the delay.
+    - >-
+      A judge's warrant authorising each separate delay.
+  correct: 1
+  explanation: >-
+    Delays under s. 34(ד)–(ו) need a reasoned written decision and are limited in time.
+- id: m07-044
+  module: 7
+  lesson: "07.3"
+  subject: lawyer-consultation
+  difficulty: 2
+  question: >-
+    A person who is only summoned to an interrogation, not arrested, wants legal advice. What is the realistic route?
+  options:
+    - >-
+      Ask the Public Defender's arrest department to send someone.
+    - >-
+      Arrange a private or an organisation's lawyer before the date.
+    - >-
+      Ask the investigator to appoint a defender for him.
+    - >-
+      Wait for the court to appoint a defender at trial.
+  correct: 1
+  explanation: >-
+    The Public Defender represents detainees and certain accused persons; a summoned suspect usually arranges a lawyer.
+- id: m07-045
+  module: 7
+  lesson: "07.3"
+  subject: public-defender
+  difficulty: 1
+  question: >-
+    Which detainee is entitled to a public defender without a means test?
+  options:
+    - >-
+      An arrested minor.
+    - >-
+      A first-time adult offender.
+    - >-
+      A student under 25.
+    - >-
+      Any detainee arrested at a licensed protest.
+  correct: 0
+  explanation: >-
+    The Public Defender lists arrested minors among those always eligible.
+- id: m07-046
+  module: 7
+  lesson: "07.3"
+  subject: public-defender
+  difficulty: 2
+  question: >-
+    Roughly what income limit does the means test use for a household of up to three people?
+  options:
+    - >-
+      Half of the national minimum wage.
+    - >-
+      Three times the average wage in the economy.
+    - >-
+      The same limit as civil Legal Aid uses.
+    - >-
+      About two-thirds of the average wage.
+  correct: 3
+  explanation: >-
+    The 1996 order sets income up to 67% of the average wage, plus 6% per extra person; current figures are in the Public Defender's yearly table.
+- id: m07-047
+  module: 7
+  lesson: "07.3"
+  subject: public-defender
+  difficulty: 2
+  question: >-
+    Which limit applies to indigent accused persons but not to indigent detainees?
+  options:
+    - >-
+      The detainee must be under 21.
+    - >-
+      The case must be in the District Court.
+    - >-
+      The offence must carry five years or more.
+    - >-
+      The defendant must have no previous record.
+  correct: 2
+  explanation: >-
+    The detainee regulations apply the indigence order 'למעט סעיף 3', the five-year condition.
+- id: m07-048
+  module: 7
+  lesson: "07.3"
+  subject: public-defender
+  difficulty: 3
+  question: >-
+    A detainee says he probably earns too much for a public defender, so he will not ask. What is the best advice?
+  options:
+    - >-
+      Do not ask; asking when ineligible is an offence.
+    - >-
+      Ask anyway; the first consultation is reportedly free.
+    - >-
+      Do not ask; the police will charge the cost to him.
+    - >-
+      Ask only after the remand hearing is over.
+  correct: 1
+  explanation: >-
+    ACRI reports the first consultation is not charged even if the detainee is later found ineligible; the Public Defender decides eligibility.
+- id: m07-049
+  module: 7
+  lesson: "07.3"
+  subject: public-defender
+  difficulty: 2
+  question: >-
+    No request for a public defender was passed on before the remand hearing. What can the detainee do at court?
+  options:
+    - >-
+      Represent himself, since it is too late to ask.
+    - >-
+      Ask the Public Defender's representative at the court.
+    - >-
+      Ask the police prosecutor to act on his behalf.
+    - >-
+      Ask the judge to postpone the hearing by a week.
+  correct: 1
+  explanation: >-
+    Public Defender Regulations reg. 1(ג).
+- id: m07-050
+  module: 7
+  lesson: "07.3"
+  subject: interrogation-conduct
+  difficulty: 1
+  question: >-
+    What should you tell the investigator at the start if you are exhausted or unwell?
+  options:
+    - >-
+      Nothing at all, so as not to look weak or guilty.
+    - >-
+      Only your lawyer, and never the investigator.
+    - >-
+      That you will answer quickly so you can go home.
+    - >-
+      That you are not fit to be questioned and need a doctor.
+  correct: 3
+  explanation: >-
+    The Public Defender advises telling the investigator if you are tired, upset or unwell; medical care is free.
+- id: m07-051
+  module: 7
+  lesson: "07.3"
+  subject: interrogation-conduct
+  difficulty: 2
+  question: >-
+    In which case must a suspect's interrogation at the station normally be video recorded?
+  options:
+    - >-
+      When the offence carries ten years or more.
+    - >-
+      Whenever the suspect asks for it to be recorded.
+    - >-
+      Only when the suspect is a minor.
+    - >-
+      Only in interrogations about security offences.
+  correct: 0
+  explanation: >-
+    Interrogation of Suspects Law s. 7 and the Schedule; security offences are excluded (s. 17).
+- id: m07-052
+  module: 7
+  lesson: "07.3"
+  subject: interrogation-conduct
+  difficulty: 3
+  question: >-
+    A fellow detainee in the cell asks, 'So what did you actually do out there?' What is the safest response?
+  options:
+    - >-
+      Tell him, since cellmates cannot testify.
+    - >-
+      Tell him only what you told the police.
+    - >-
+      Ask him first whether he is a police informer.
+    - >-
+      Say nothing about the event.
+  correct: 3
+  explanation: >-
+    Anything said may reach the police; the lesson's rule is no conversations about the event.
+- id: m07-053
+  module: 7
+  lesson: "07.3"
+  subject: statement-signing
+  difficulty: 1
+  question: >-
+    What may you do if the written statement contains a mistake?
+  options:
+    - >-
+      Nothing; statements cannot be changed once typed.
+    - >-
+      Ask for a correction; refuse to sign if it is not made.
+    - >-
+      Correct it later, but only at the trial itself.
+    - >-
+      Sign and send a correcting email afterwards.
+  correct: 1
+  explanation: >-
+    Testimony Ordinance s. 3: the statement is read to you; you may refuse to sign and the refusal is recorded.
+- id: m07-054
+  module: 7
+  lesson: "07.3"
+  subject: statement-signing
+  difficulty: 2
+  question: >-
+    Which sentence is the best way to record silence on legal advice?
+  options:
+    - >-
+      על פי ייעוץ משפטי, אני שומר/ת על זכות השתיקה.
+    - >-
+      אין לי מה להגיד לכם כי לא עשיתי שום דבר רע.
+    - >-
+      אני לא משתף/ת פעולה עם המשטרה בשום צורה.
+    - >-
+      אני אדבר רק אם תבטיחו שתשחררו אותי היום.
+  correct: 0
+  explanation: >-
+    A fixed, neutral sentence records the choice without adding facts or hostility.
+- id: m07-055
+  module: 7
+  lesson: "07.4"
+  subject: remand-grounds
+  difficulty: 1
+  question: >-
+    What must a judge find before remanding a suspect before indictment?
+  options:
+    - >-
+      A prima facie case strong enough to convict.
+    - >-
+      A confession or at least one eyewitness account.
+    - >-
+      Reasonable suspicion plus a ground for remand.
+    - >-
+      The Attorney General's approval of the request.
+  correct: 2
+  explanation: >-
+    Section 13(א).
+- id: m07-056
+  module: 7
+  lesson: "07.4"
+  subject: remand-grounds
+  difficulty: 2
+  question: >-
+    Which is not a ground for remand under s. 13?
+  options:
+    - >-
+      The suspect's political views.
+    - >-
+      Risk of obstructing the investigation.
+    - >-
+      Danger to a person or the public.
+    - >-
+      Investigative acts that need custody.
+  correct: 0
+  explanation: >-
+    Section 13 lists obstruction, danger and investigative acts; views are irrelevant.
+- id: m07-057
+  module: 7
+  lesson: "07.4"
+  subject: remand-grounds
+  difficulty: 2
+  question: >-
+    Under s. 13(ב), when must a judge not order custody?
+  options:
+    - >-
+      When the suspect has a steady job and a family.
+    - >-
+      When the suspect has no previous criminal record.
+    - >-
+      When conditions would achieve the purpose with less harm.
+    - >-
+      When the protest itself had a police licence.
+  correct: 2
+  explanation: >-
+    Section 13(ב) requires the less harmful alternative.
+- id: m07-058
+  module: 7
+  lesson: "07.4"
+  subject: remand-grounds
+  difficulty: 3
+  question: >-
+    The police ask for remand 'because the suspect will join tomorrow's protest'. Is this a ground?
+  options:
+    - >-
+      Yes; joining another protest is always a valid ground for remand.
+    - >-
+      No; a suspect's future conduct can never matter to the court.
+    - >-
+      Only if it shows a real risk of danger; protest itself is no ground.
+    - >-
+      Yes, if the suspect refused to answer questions in interrogation.
+  correct: 2
+  explanation: >-
+    Remand grounds are about obstruction, danger or investigative needs; courts can usually address risks with narrow conditions.
+- id: m07-059
+  module: 7
+  lesson: "07.4"
+  subject: remand-hearing
+  difficulty: 1
+  question: >-
+    Who may question the police officer at the remand hearing?
+  options:
+    - >-
+      Only the judge hearing the request.
+    - >-
+      The suspect or his lawyer, and the judge.
+    - >-
+      Only the police prosecutor in court.
+    - >-
+      Nobody; the request is decided on paper.
+  correct: 1
+  explanation: >-
+    Section 15(ד).
+- id: m07-060
+  module: 7
+  lesson: "07.4"
+  subject: remand-hearing
+  difficulty: 2
+  question: >-
+    What may a judge see that the suspect and lawyer may not?
+  options:
+    - >-
+      The suspect's full medical file from the prison.
+    - >-
+      The suspect's previous closed files only.
+    - >-
+      Nothing; everything must be disclosed to the defence.
+    - >-
+      Confidential material marked for the court only.
+  correct: 3
+  explanation: >-
+    Section 15(ג)–(ה) allows material for the judge's eyes only.
+- id: m07-061
+  module: 7
+  lesson: "07.4"
+  subject: remand-hearing
+  difficulty: 2
+  question: >-
+    What is the longest a single remand order before indictment may last, outside wartime emergency rules?
+  options:
+    - >-
+      5 days.
+    - >-
+      15 days.
+    - >-
+      30 days.
+    - >-
+      75 days.
+  correct: 1
+  explanation: >-
+    Section 17(א).
+- id: m07-062
+  module: 7
+  lesson: "07.4"
+  subject: remand-hearing
+  difficulty: 3
+  question: >-
+    A suspect has been in custody 30 days for one event. The police ask for more. What is needed?
+  options:
+    - >-
+      The Attorney General's approval of the request.
+    - >-
+      Only a fresh officer's declaration.
+    - >-
+      The suspect's consent.
+    - >-
+      A District Court judge instead of a magistrate.
+  correct: 0
+  explanation: >-
+    Section 17(ב).
+- id: m07-063
+  module: 7
+  lesson: "07.4"
+  subject: officer-conditions
+  difficulty: 1
+  question: >-
+    Can the officer in charge impose the s. 42 conditions without your consent?
+  options:
+    - >-
+      Yes, any condition he thinks right.
+    - >-
+      No; the listed conditions need your consent.
+    - >-
+      Yes, unless you have a lawyer present.
+    - >-
+      Only the reporting condition needs consent.
+  correct: 1
+  explanation: >-
+    Section 42(ב): 'בהסכמת החשוד'.
+- id: m07-064
+  module: 7
+  lesson: "07.4"
+  subject: officer-conditions
+  difficulty: 2
+  question: >-
+    What is the longest house arrest an officer may set?
+  options:
+    - >-
+      15 days.
+    - >-
+      5 days.
+    - >-
+      30 days.
+    - >-
+      3 months.
+  correct: 1
+  explanation: >-
+    Section 42(ב)(7).
+- id: m07-065
+  module: 7
+  lesson: "07.4"
+  subject: officer-conditions
+  difficulty: 2
+  question: >-
+    What happens if you do not agree to the officer's bail conditions?
+  options:
+    - >-
+      You stay arrested and go before a judge within 24 hours.
+    - >-
+      You are released at once without any conditions.
+    - >-
+      You commit an offence of breaching an order (s. 287).
+    - >-
+      The officer may hold you for up to 48 hours instead.
+  correct: 0
+  explanation: >-
+    Section 42(ד).
+- id: m07-066
+  module: 7
+  lesson: "07.4"
+  subject: officer-conditions
+  difficulty: 3
+  question: >-
+    An activist cannot pay a cash deposit the officer set. What may the officer do?
+  options:
+    - >-
+      Keep her in custody until she pays, without any judge.
+    - >-
+      Cancel the release and close the criminal file instead.
+    - >-
+      Release on another kind of guarantee, or give time to deposit.
+    - >-
+      Transfer the debt to her support person or family.
+  correct: 2
+  explanation: >-
+    Section 42(ה).
+- id: m07-067
+  module: 7
+  lesson: "07.4"
+  subject: court-conditions
+  difficulty: 1
+  question: >-
+    What principle limits court conditions under s. 46(א)?
+  options:
+    - >-
+      No more than needed to achieve the purpose.
+    - >-
+      They must last at least as long as the investigation.
+    - >-
+      They must match those set by the officer.
+    - >-
+      They must include a cash deposit.
+  correct: 0
+  explanation: >-
+    Section 46(א).
+- id: m07-068
+  module: 7
+  lesson: "07.4"
+  subject: court-conditions
+  difficulty: 2
+  question: >-
+    Which factor must a judge consider when setting a deposit?
+  options:
+    - >-
+      The person's political views and affiliation.
+    - >-
+      The person's means and ability to provide it.
+    - >-
+      The size and length of the protest he joined.
+    - >-
+      The cost of the police operation that day.
+  correct: 1
+  explanation: >-
+    Section 46(ב)(4).
+- id: m07-069
+  module: 7
+  lesson: "07.4"
+  subject: court-conditions
+  difficulty: 3
+  question: >-
+    Which proposal is most likely to persuade a court to narrow an exclusion?
+  options:
+    - >-
+      A general written promise never to protest again in the city.
+    - >-
+      A request to cancel all conditions as unconstitutional.
+    - >-
+      A narrow area, a short period, a work exception, a supervisor.
+    - >-
+      An offer to pay a large fine on the spot instead of conditions.
+  correct: 2
+  explanation: >-
+    Concrete, narrow alternatives with support show the purpose is met with less harm (ss. 13(ב), 46).
+- id: m07-070
+  module: 7
+  lesson: "07.4"
+  subject: challenge-routes
+  difficulty: 1
+  question: >-
+    Within how long can a court's custody or bail decision be appealed?
+  options:
+    - >-
+      14 days.
+    - >-
+      45 days.
+    - >-
+      7 days.
+    - >-
+      30 days.
+  correct: 3
+  explanation: >-
+    Section 53(ג).
+- id: m07-071
+  module: 7
+  lesson: "07.4"
+  subject: challenge-routes
+  difficulty: 2
+  question: >-
+    Which route fits a detainee who still cannot pay the deposit a week after the decision?
+  options:
+    - >-
+      A ערר to the Magistrates' Court within 14 days.
+    - >-
+      A petition to the High Court.
+    - >-
+      A request for review (עיון חוזר) at any time.
+    - >-
+      A complaint to the Ombudsman.
+  correct: 2
+  explanation: >-
+    Section 52(ב): a person held because he cannot provide bail may ask for review at any time.
+- id: m07-072
+  module: 7
+  lesson: "07.4"
+  subject: challenge-routes
+  difficulty: 2
+  question: >-
+    What may happen if a released suspect breaks a condition?
+  options:
+    - >-
+      Only a written warning the first time it happens.
+    - >-
+      Re-arrest, a forfeited deposit and a s. 287 suspicion.
+    - >-
+      Nothing at all, as long as the breach was short.
+    - >-
+      Automatic conviction for the original offence.
+  correct: 1
+  explanation: >-
+    Section 51 of the Arrests Law and Penal Law s. 287.
+- id: m07-073
+  module: 7
+  lesson: "07.5"
+  subject: closure-grounds
+  difficulty: 1
+  question: >-
+    Which closure ground removes a closed file from the police register?
+  options:
+    - >-
+      Lack of guilt (חוסר אשמה).
+    - >-
+      Insufficient evidence.
+    - >-
+      The circumstances do not suit prosecution.
+    - >-
+      Closure by a conditional arrangement.
+  correct: 0
+  explanation: >-
+    Criminal Procedure Law s. 62(ב)(4) and Criminal Information Law s. 27(א)(2)(ב).
+- id: m07-074
+  module: 7
+  lesson: "07.5"
+  subject: closure-grounds
+  difficulty: 2
+  question: >-
+    What replaced the old wording 'חוסר עניין לציבור' in the notice to suspects?
+  options:
+    - >-
+      The Seventh Schedule's 'circumstances as a whole' wording.
+    - >-
+      'Lack of guilt' for all minor offences from now on.
+    - >-
+      'Closure by a conditional arrangement' (s. 67א).
+    - >-
+      'Offender unknown' for all closed protest files.
+  correct: 0
+  explanation: >-
+    The Seventh Schedule sets the wording for this ground.
+- id: m07-075
+  module: 7
+  lesson: "07.5"
+  subject: closure-grounds
+  difficulty: 2
+  question: >-
+    Does the closure letter a suspect receives state the ground?
+  options:
+    - >-
+      Yes, always, in the first line of the letter.
+    - >-
+      Only when the offence is a felony.
+    - >-
+      No; it says how to find the ground out.
+    - >-
+      Only if the suspect was represented by a lawyer.
+  correct: 2
+  explanation: >-
+    Section 62(ב)(1); sex and violence offences are an exception (s. 62(ב)(2)).
+- id: m07-076
+  module: 7
+  lesson: "07.5"
+  subject: change-of-grounds
+  difficulty: 1
+  question: >-
+    To whom is a request to change closure grounds sent?
+  options:
+    - >-
+      The commander of the police station.
+    - >-
+      The prosecutor who closed the file.
+    - >-
+      The Public Complaints Commissioner.
+    - >-
+      The legal office of the President.
+  correct: 1
+  explanation: >-
+    Section 62(ב)(4).
+- id: m07-077
+  module: 7
+  lesson: "07.5"
+  subject: change-of-grounds
+  difficulty: 2
+  question: >-
+    Which argument fits a request to change the ground to lack of guilt?
+  options:
+    - >-
+      The cause you protested for was just and important.
+    - >-
+      The police had too few officers at the scene that day.
+    - >-
+      Evidence you did not do it, such as a time-stamped video.
+    - >-
+      The investigation took far too long to complete.
+  correct: 2
+  explanation: >-
+    Lack of guilt means you did not commit the offence; the request should show that.
+- id: m07-078
+  module: 7
+  lesson: "07.5"
+  subject: change-of-grounds
+  difficulty: 3
+  question: >-
+    Spot the mistake: 'I ask to change the ground to lack of guilt because the prosecution itself found the evidence insufficient.'
+  options:
+    - >-
+      It should have been addressed to the Magistrates' Court.
+    - >-
+      It restates the current ground instead of showing innocence.
+    - >-
+      It must be filed within 60 days of the closure letter.
+    - >-
+      It must be signed by a lawyer to be considered.
+  correct: 1
+  explanation: >-
+    Insufficient evidence is the ground you already have; you need facts showing you did not commit the offence.
+- id: m07-079
+  module: 7
+  lesson: "07.5"
+  subject: change-of-grounds
+  difficulty: 3
+  question: >-
+    Before writing the request, why might you ask to see the investigation material?
+  options:
+    - >-
+      To know what evidence exists and avoid contradicting it.
+    - >-
+      Because the law requires viewing before any request.
+    - >-
+      Because the request is invalid without a copy.
+    - >-
+      Because the file must be reopened before any change.
+  correct: 0
+  explanation: >-
+    Viewing is discretionary but strengthens the request; a lawyer should review if the file is sensitive.
+- id: m07-080
+  module: 7
+  lesson: "07.5"
+  subject: registers
+  difficulty: 1
+  question: >-
+    Which register holds convictions?
+  options:
+    - >-
+      The police register.
+    - >-
+      The Population Registry.
+    - >-
+      The court's public archive.
+    - >-
+      The criminal register.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 8.
+- id: m07-081
+  module: 7
+  lesson: "07.5"
+  subject: registers
+  difficulty: 2
+  question: >-
+    Where is a file closed for insufficient evidence recorded?
+  options:
+    - >-
+      On the criminal register for four years.
+    - >-
+      Nowhere, because there was no conviction.
+    - >-
+      Only in the investigating station's files.
+    - >-
+      On the police register, until cancelled.
+  correct: 3
+  explanation: >-
+    Section 27(א)(2).
+- id: m07-082
+  module: 7
+  lesson: "07.5"
+  subject: registers
+  difficulty: 2
+  question: >-
+    Which law governs criminal records today?
+  options:
+    - >-
+      The Criminal Register and Rehabilitation of Offenders Law, 1981.
+    - >-
+      The Criminal Information and Rehabilitation of Offenders Law, 2019.
+    - >-
+      The Protection of Privacy Law, 1981, and its regulations.
+    - >-
+      The Police Ordinance [New Version], 1971, chapter on records.
+  correct: 1
+  explanation: >-
+    The 2019 Law, in force since 12.7.2022, repealed the 1981 Law (ss. 56, 58).
+- id: m07-083
+  module: 7
+  lesson: "07.5"
+  subject: registers
+  difficulty: 3
+  question: >-
+    A probation order was made without a conviction. Is it on the criminal register?
+  options:
+    - >-
+      No; only convictions are ever recorded there.
+    - >-
+      Only on the police register, not the criminal one.
+    - >-
+      Yes; such orders are recorded (s. 8(א)(2)).
+    - >-
+      Only if the person later breaches the order.
+  correct: 2
+  explanation: >-
+    Section 8(א)(2) includes probation, community-service and undertaking orders made without conviction.
+- id: m07-084
+  module: 7
+  lesson: "07.5"
+  subject: cancellation
+  difficulty: 1
+  question: >-
+    How long must an adult wait to ask to cancel a closed felony file?
+  options:
+    - >-
+      5 years from the event.
+    - >-
+      3 years from closure.
+    - >-
+      7 years from the event.
+    - >-
+      10 years from closure.
+  correct: 2
+  explanation: >-
+    2009 criteria regulations and the police's page.
+- id: m07-085
+  module: 7
+  lesson: "07.5"
+  subject: cancellation
+  difficulty: 2
+  question: >-
+    From when are the cancellation periods counted?
+  options:
+    - >-
+      From the date the file was closed.
+    - >-
+      From the date of the event investigated.
+    - >-
+      From the date the request is filed.
+    - >-
+      From the suspect's 18th birthday.
+  correct: 1
+  explanation: >-
+    The 'determining date' is the event (reg. 1).
+- id: m07-086
+  module: 7
+  lesson: "07.5"
+  subject: cancellation
+  difficulty: 2
+  question: >-
+    Which is a condition the police check before cancelling a record?
+  options:
+    - >-
+      That you have paid a cancellation fee.
+    - >-
+      That the original complainant agrees.
+    - >-
+      That there are no open files against you.
+    - >-
+      That a lawyer signed the request.
+  correct: 2
+  explanation: >-
+    The police page lists no open files and no unexpired criminal-register entries among the conditions.
+- id: m07-087
+  module: 7
+  lesson: "07.5"
+  subject: cancellation
+  difficulty: 3
+  question: >-
+    A minor's misdemeanour file was closed. When is the earliest request, and when the automatic cancellation?
+  options:
+    - >-
+      Request after 5 years; automatic after 7 years.
+    - >-
+      Request after 1 year; automatic after 3 years.
+    - >-
+      Request after 3 years; automatic after 5 years.
+    - >-
+      Request after 7 years; no automatic cancellation.
+  correct: 2
+  explanation: >-
+    Regulations: minors 3 years for a misdemeanour on request; s. 33(ג): automatic after 5 years for non-felonies of minors.
+- id: m07-088
+  module: 7
+  lesson: "07.5"
+  subject: viewing-record
+  difficulty: 1
+  question: >-
+    Where can you view your own criminal information?
+  options:
+    - >-
+      Only at the station that investigated you.
+    - >-
+      Only online with your national login.
+    - >-
+      Only through a lawyer.
+    - >-
+      At any police station you choose.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 4 and viewing regulations reg. 2(א).
+- id: m07-089
+  module: 7
+  lesson: "07.5"
+  subject: viewing-record
+  difficulty: 2
+  question: >-
+    Who may receive a printout of your criminal information?
+  options:
+    - >-
+      Any family member you name in writing.
+    - >-
+      Your employer, with your written consent.
+    - >-
+      Anyone who pays the police printing fee.
+    - >-
+      A lawyer with a special power of attorney.
+  correct: 3
+  explanation: >-
+    Section 4(ד).
+- id: m07-090
+  module: 7
+  lesson: "07.5"
+  subject: viewing-record
+  difficulty: 3
+  question: >-
+    You find a closed file shown as 'open' on your record. Which tool fits?
+  options:
+    - >-
+      A request to correct an error under s. 7.
+    - >-
+      A request to change closure grounds.
+    - >-
+      A petition to the Administrative Court.
+    - >-
+      A President's pardon request.
+  correct: 0
+  explanation: >-
+    Section 7 obliges the police to correct a registration error and notify you.
+- id: m07-091
+  module: 7
+  lesson: "07.5"
+  subject: disclosure
+  difficulty: 2
+  question: >-
+    Who can shorten the limitation and deletion periods of a conviction?
+  options:
+    - >-
+      The police officer in charge.
+    - >-
+      The Minister of Justice.
+    - >-
+      The prosecutor who handled the case.
+    - >-
+      The President.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 25; the police page refers such requests to the President's legal office.
+- id: m07-092
+  module: 7
+  lesson: "07.5"
+  subject: disclosure
+  difficulty: 3
+  question: >-
+    A landlord asks a tenant to bring a 'clean record certificate'. What is the legal point?
+  options:
+    - >-
+      The tenant must bring a police printout within 30 days.
+    - >-
+      The landlord may ask the police directly for the record.
+    - >-
+      He is not entitled, and closed files need not be disclosed.
+    - >-
+      Only felonies must ever be disclosed to landlords.
+  correct: 2
+  explanation: >-
+    Section 37 and the general confidentiality of criminal information (ss. 3, 35).

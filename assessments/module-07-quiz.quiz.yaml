@@ -1,0 +1,179 @@
+- id: q1
+  question: >-
+    Settlers protesting an evacuation order are told by a senior officer, after a whistle signal, to
+    disperse. Twenty minutes later some are still there and are arrested. Which section creates the most
+    serious exposure for those who stayed, and what must the prosecution show?
+  options:
+    - >-
+      Section 194, noise in a public place, which needs only that they were loud.
+    - >-
+      Section 151, unlawful assembly, which needs a licence that was refused.
+    - >-
+      Section 155; it needs a valid s. 153 order and a reasonable time to leave.
+    - >-
+      Section 332, endangering travellers, which needs only that a road was blocked.
+  correct: 2
+  explanation: >-
+    Section 155 is a felony (5 years) and depends on a dispersal order given under s. 153 and a reasonable
+    time to leave. Section 332 needs intent to endanger; s. 151 is not about licences.
+- id: q2
+  question: >-
+    At 23:00 on a Tuesday an activist is arrested for obstruction and held after the officer in charge
+    decides there is a ground for remand. No urgent investigative act is pending. The next evening, at
+    23:30, he is still at the station. What follows?
+  options:
+    - >-
+      Nothing; the police have 48 hours before any hearing.
+    - >-
+      He must be released: no judge within 24 hours (s. 31(ב)).
+    - >-
+      He may be held until the next working morning, when the court opens.
+    - >-
+      He must be released only if he signs release conditions.
+  correct: 1
+  explanation: >-
+    Section 29(א) requires bringing him before a judge within 24 hours; the 48-hour exception (s. 30) needs
+    an urgent investigative act. Section 31(ב): if not brought in time, he must be released.
+- id: q3
+  question: >-
+    An animal-rights activist is arrested after entering a factory farm. At the station she says, "I want
+    a public defender." The investigator replies that she earns too much and starts questioning her. What
+    is the correct position?
+  options:
+    - >-
+      The investigator decides eligibility, so the questioning may go on.
+    - >-
+      She may not be questioned at all until a judge appoints a defender.
+    - >-
+      Eligibility is decided only after an indictment is filed.
+    - >-
+      The Public Defender decides eligibility; she may consult first.
+  correct: 3
+  explanation: >-
+    Public Defender Law s. 19 and reg. 1(ב): the request goes through the investigator to the Public
+    Defender, which checks eligibility. Section 34 gives an arrested person the right to consult a lawyer
+    without delay.
+- id: q4
+  question: >-
+    A left-wing protester is offered release at 03:00 if she agrees to a 30-day ban on contacting six
+    named friends and a 10-day exclusion from central Tel Aviv. She works in central Tel Aviv. Which
+    choice reflects the law?
+  options:
+    - >-
+      She may refuse and be brought before a judge within 24 hours, or accept and file a ערר within 14 days.
+    - >-
+      She must accept, because refusing officer's conditions is an offence of obstruction.
+    - >-
+      She may accept and then ignore the exclusion, since officers cannot exclude people from a city.
+    - >-
+      She must accept the contact ban but may refuse the exclusion, which is over the limit.
+  correct: 0
+  explanation: >-
+    Both conditions are within the s. 42(ב) limits (15 days exclusion, 30 days contact ban) and need
+    consent. Refusing brings her before a judge (s. 42(ד)); accepted conditions can be challenged within
+    14 days (s. 43). Breaking them is an offence (s. 287).
+- id: q5
+  question: >-
+    During questioning a suspect is handed a typed statement that says he "admitted pushing the officer".
+    He said nothing of the kind. What should he do?
+  options:
+    - >-
+      Sign it, since the video will show the truth at trial anyway.
+    - >-
+      Sign it and write "under protest", which cancels its contents.
+    - >-
+      Ask for the correction, and refuse to sign if it is not made.
+    - >-
+      Tear it up, which shows clearly that he rejects its contents.
+  correct: 2
+  explanation: >-
+    The statement is read to him and he is asked to sign (Testimony Ordinance s. 3). He may ask for
+    corrections and refuse to sign; the officer records the refusal. Destroying it can create a new problem.
+- id: q6
+  question: >-
+    At a remand hearing, the police ask for six days of custody "to complete investigative acts". The
+    suspect's lawyer shows that the only remaining act is questioning one witness abroad. What is the
+    strongest legal point?
+  options:
+    - >-
+      The judge must release the suspect because the offence is a misdemeanour.
+    - >-
+      That ground needs acts possible only while the suspect is held.
+    - >-
+      Remand can never be ordered before an indictment is filed.
+    - >-
+      Remand for investigation is limited to 24 hours in total.
+  correct: 1
+  explanation: >-
+    Section 13(א)(3) allows custody for investigative acts only if they cannot be done unless the suspect
+    is held, and for at most 5 days at a time. Questioning a witness abroad does not need the suspect in
+    custody.
+- id: q7
+  question: >-
+    A Haredi activist's file for breaching a lawful order was closed with a letter that states no reason.
+    He wants a clean police record. What is the right order of steps?
+  options:
+    - >-
+      Ask the police to cancel the record at once, then find out the ground.
+    - >-
+      Appeal the closure to the State Attorney within 60 days.
+    - >-
+      Wait seven years, since every closed file is cancelled automatically then.
+    - >-
+      Find out the ground, then ask the closing prosecutor to change it.
+  correct: 3
+  explanation: >-
+    The letter does not state the ground (s. 62(ב)(1)). If the ground is not lack of guilt, the suspect may
+    ask the closing prosecutor to change it (s. 62(ב)(4)). Automatic cancellation after 7 years applies to
+    non-felonies and has exceptions.
+- id: q8
+  question: >-
+    A member of a disability-rights group, arrested at a road block, refuses to give her name and ID
+    number to the officer "until a lawyer arrives". What is the legal risk?
+  options:
+    - >-
+      Refusing identity details can justify arrest; give them, stay silent.
+    - >-
+      None, because the right to silence covers identity details.
+    - >-
+      None, because identity details may be given only in court.
+    - >-
+      Her refusal automatically turns a misdemeanour into a felony.
+  correct: 0
+  explanation: >-
+    Section 23(ב) lets an officer arrest a person who does not comply with lawful detention powers, which
+    include identification. The right to silence protects answers that may incriminate, not your name.
+- id: q9
+  question: >-
+    An activist was acquitted at trial in 2023. A security employer may check some records. What does the
+    law say about the acquittal?
+  options:
+    - >-
+      It stays on the criminal register for four years, like a conviction.
+    - >-
+      It is deleted entirely from every register, with no trace at all.
+    - >-
+      Recorded on the police register; disclosure banned save narrow security uses.
+    - >-
+      It must be disclosed by the activist to any employer who asks about it.
+  correct: 2
+  explanation: >-
+    Section 27(א)(4) records acquittals on the police register; s. 32 bans disclosure except to bodies in
+    s. 10 for specified security purposes. Section 37 protects the activist from having to disclose.
+- id: q10
+  question: >-
+    An activist is excluded by a court from a town for 45 days. On day 20 she gets a job interview in
+    that town. Which route is right, and when?
+  options:
+    - >-
+      A ערר to the Magistrates' Court within 14 days of the interview invitation.
+    - >-
+      Review (עיון חוזר) by the court, asked for before the interview.
+    - >-
+      Nothing; a job interview is an automatic exception to exclusion orders.
+    - >-
+      An appeal to the Supreme Court, because 30 days have passed.
+  correct: 1
+  explanation: >-
+    Section 52 allows review when circumstances change; the s. 43 ערר concerns officer's conditions, and the
+    s. 53 appeal against a court decision runs 30 days from the decision. She must ask before going.

@@ -50,3 +50,17 @@ The numbers change on fixed dates:
 | Planning objection period | 2 months from publication of the deposit, extendable to 3 | Planning and Building Law, s. 102 |
 | Appeal (ערר) against a local committee's plan approval | 15 days | Kol Zchut |
 | Amuta annual fee 2026 | ₪176 for new or small amutot. Otherwise ₪1,338 if paid by 31 March, ₪1,777 after. | gov.il, annual fee service |
+
+## Criminal procedure
+
+| Item | Limit | Source (checked 2026-10-13) |
+|---|---|---|
+| Arrested person brought before a judge | as soon as possible, within 24 hours (Shabbat and holiday rules apply) | Criminal Procedure (Arrest) Law, s. 29 |
+| Delay of a lawyer meeting (ordinary offences) | a few hours, up to 24 hours, or up to 48 hours, depending on the grounds | same, s. 34 |
+| Officer's release conditions (with your consent) | exclusion up to 15 days; contact ban up to 30 days; house arrest up to 5 days; travel ban up to 3 months | same, s. 42(b) |
+| Appeal (ערר) against an officer's bail conditions | 14 days, to the Magistrates' Court | same, s. 43 |
+| One remand order before indictment | up to 15 days | same, s. 17(a) |
+| Appeal (ערר) against a court custody or bail decision | 30 days | same, s. 53(c) |
+| Appeal against a Public Defender refusal | 7 days | Public Defender Regulations, reg. 2(b) |
+| Request to cancel a closed-file police record (adults) | 5 years from the event for a misdemeanour (עוון), 7 for a felony (פשע) | Criminal Information and Rehabilitation of Offenders regulations (police records), 2009 |
+| Complainant's appeal (ערר) against closing a file | 60 days from the notice | Criminal Procedure Law, s. 65 |

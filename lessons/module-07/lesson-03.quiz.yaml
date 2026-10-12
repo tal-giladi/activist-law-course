@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    An arrested protester asks to consult a lawyer. The investigator is in the middle of a line-up that
+    needs the suspect present. What may the police lawfully do under s. 34?
+  options:
+    - >-
+      Refuse any meeting until the investigation is complete, however long it takes.
+    - >-
+      Delay the meeting by a written reasoned decision for the few hours the act needs.
+    - >-
+      Delay the meeting for up to ten days, as for any suspect who is under arrest.
+    - >-
+      Allow the meeting only after the suspect signs a statement.
+  correct: 1
+  explanation: >-
+    Section 34(ד) lets an officer of רב פקד rank or above delay a meeting, in a reasoned written decision,
+    for the time needed to finish an act already under way, and only for a few hours.
+- id: q2
+  question: >-
+    A 17-year-old is arrested at a demonstration. His parents earn well. Can he get a public defender?
+  options:
+    - >-
+      No, because his household is above the means test.
+    - >-
+      Only if he is charged with an offence carrying five years or more.
+    - >-
+      Yes, because an arrested minor is represented regardless of means.
+    - >-
+      Only after a judge decides he cannot conduct the hearing alone.
+  correct: 2
+  explanation: >-
+    The Public Defender Law and its regulations give arrested minors representation without a means test;
+    the Public Defender's own guidance lists "עצור קטין" among those eligible.
+- id: q3
+  question: >-
+    During questioning under warning, the investigator says, "If you stay silent, the court will believe
+    the officers." Which statement about the law is accurate?
+  options:
+    - >-
+      Silence is fully protected, so it can never have any effect on the evidence.
+    - >-
+      Silence is allowed only after a lawyer has formally joined the case.
+    - >-
+      Silence is an offence of obstructing an officer once the warning has been read.
+    - >-
+      You need not incriminate yourself, yet silence may strengthen the evidence.
+  correct: 3
+  explanation: >-
+    The s. 28 warning has three parts: no duty to incriminate yourself, your words may be used, and
+    refusing to answer may strengthen the evidence. That is why the choice is made with a lawyer.
+- id: q4
+  question: >-
+    The district public defender writes that you are not eligible because your income is too high. You
+    think the calculation is wrong. What is the route?
+  options:
+    - >-
+      An appeal to the National Public Defender within 7 days.
+    - >-
+      A petition to the Administrative Court within 45 days.
+    - >-
+      A complaint to the Public Complaints Commissioner within one year.
+    - >-
+      A request to the police officer in charge to appoint a defender instead.
+  correct: 0
+  explanation: >-
+    Public Defender Regulations reg. 2(ב): a refusal must give reasons and tell you of the right to appeal
+    to the National Public Defender within 7 days; reg. 3 sets the form and a 7-day decision.

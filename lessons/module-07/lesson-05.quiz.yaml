@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A protester's file for blocking a road was closed for "insufficient evidence". She has a video showing
+    she stayed on the pavement all the time. What gives her the best chance of a clean police register?
+  options:
+    - >-
+      Asking the police station to delete the file now, because it was closed.
+    - >-
+      A reasoned request to the closing prosecutor to change the ground.
+    - >-
+      Filing an appeal (ערר) against the closure within 60 days under s. 64.
+    - >-
+      Waiting, because insufficient-evidence files are never recorded.
+  correct: 1
+  explanation: >-
+    Section 62(ב)(4) lets a suspect ask the prosecutor who closed the file to change the ground; a file
+    closed for lack of guilt is removed from the police register. The s. 64 appeal is for complainants.
+- id: q2
+  question: >-
+    An adult's file for a misdemeanour (עוון) was closed in March 2023 for insufficient evidence, and a
+    request to change the ground was refused. When can he first ask the police to cancel the record?
+  options:
+    - >-
+      Immediately, since the change request was refused.
+    - >-
+      After 7 years from the event, as for every closed file.
+    - >-
+      After 5 years from the event, subject to the criteria.
+    - >-
+      Never; only the President can cancel a police record.
+  correct: 2
+  explanation: >-
+    Under the 2009 criteria regulations and the police's published guidance, an adult may ask after 5 years
+    from the event for a misdemeanour (7 for a felony). The President's power concerns convictions.
+- id: q3
+  question: >-
+    You want to see your full criminal and police record before a job interview. How does it work?
+  options:
+    - >-
+      You ask the police to post a printed copy to your home address.
+    - >-
+      You download it from the Personal Area on gov.il with your national login.
+    - >-
+      You ask the court that handled your case for a certified copy.
+    - >-
+      You view it on a screen at a police station and may take notes, but not copy it.
+  correct: 3
+  explanation: >-
+    Section 4 and the 2022 viewing regulations: the record is shown on a computer screen at a station of
+    your choice; you may take notes; only a lawyer with a special power of attorney gets a printout.
+- id: q4
+  question: >-
+    A private company asks a job applicant, "Have you ever had a police file?" He had one file closed
+    in 2022. The company is not entitled to criminal information. What does the law say?
+  options:
+    - >-
+      He need not disclose the closed file and bears no liability for not disclosing it.
+    - >-
+      He must disclose it, or he commits a false-statement offence.
+    - >-
+      He must disclose it only if the closure ground was insufficient evidence.
+    - >-
+      He must refer the company to the police, which will answer instead of him.
+  correct: 0
+  explanation: >-
+    Section 37 of the Criminal Information Law: a person need not disclose a closed file to someone not
+    entitled to receive it, and bears no criminal or other liability for not doing so.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    At the station, the officer in charge offers to release an activist if she agrees not to enter
+    Jerusalem for 30 days. What is wrong with this offer?
+  options:
+    - >-
+      Nothing, because an officer may set any condition the investigation needs.
+    - >-
+      An officer may exclude for at most 15 days, and only with consent.
+    - >-
+      Exclusion conditions may be set only after an indictment is filed.
+    - >-
+      Only the Attorney General may approve an exclusion from a city.
+  correct: 1
+  explanation: >-
+    Section 42(ב)(3) allows an officer, with the suspect's consent, to ban entry to a place for up to 15
+    days. Longer exclusions need a court (s. 48).
+- id: q2
+  question: >-
+    A suspect accepted the officer's conditions at 02:00 to go home. A week later, with a lawyer, he wants
+    to challenge them as unreasonable. Which route fits?
+  options:
+    - >-
+      An appeal to the District Court within 30 days of the officer's decision.
+    - >-
+      A complaint to the Police Investigations Department.
+    - >-
+      A petition to the High Court of Justice against the officer.
+    - >-
+      A ערר to the Magistrates' Court within 14 days of the officer's decision.
+  correct: 3
+  explanation: >-
+    Section 43(1): a person released on bail by the officer in charge may challenge the amount or the
+    reasonableness of the conditions before a Magistrates' Court within 14 days.
+- id: q3
+  question: >-
+    At a remand hearing the police ask for five more days of custody. The investigator admits that all
+    witnesses were already questioned and the videos seized. What is the strongest argument?
+  options:
+    - >-
+      Custody is unlawful because the offence is a misdemeanour.
+    - >-
+      The suspect has the right to silence, so custody cannot help the investigation.
+    - >-
+      No ground for custody remains, and conditions can achieve any remaining purpose.
+    - >-
+      The hearing must be held behind closed doors, so the request is invalid.
+  correct: 2
+  explanation: >-
+    Section 13 requires a ground such as a risk of obstruction or acts needing custody, and s. 13(ב)
+    forbids custody when a less harmful alternative achieves the purpose.
+- id: q4
+  question: >-
+    Three weeks after the court excluded an activist from a town, her grandmother dies there and the
+    funeral is tomorrow. What should she do?
+  options:
+    - >-
+      Ask the court for a change of the condition (עיון חוזר) before going.
+    - >-
+      Go to the funeral, since a family event is an automatic exception.
+    - >-
+      Appeal to the District Court, which must hear it within 30 days.
+    - >-
+      Ask the local police station for a verbal permit at the entrance to the town.
+  correct: 0
+  explanation: >-
+    Section 52 allows a review when new facts arise or circumstances change. Going without permission is a
+    breach of conditions and an offence under s. 287.
