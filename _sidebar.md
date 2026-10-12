@@ -69,3 +69,10 @@
   - [43 · Privacy Law for Activists](lessons/module-08/lesson-04.md)
   - [44 · Platforms, Takedowns and Online Harassment](lessons/module-08/lesson-05.md)
   - [Module 8 quiz](assessments/module-08-quiz.md)
+- **Module 9 — Equality and Anti-Discrimination (about 11 hours)**
+  - [45 · The Map of Anti-Discrimination Laws](lessons/module-09/lesson-01.md)
+  - [46 · Discrimination in Services and Entry: Suing Without Proof of Damage](lessons/module-09/lesson-02.md)
+  - [47 · Employment Discrimination and the Commission](lessons/module-09/lesson-03.md)
+  - [48 · Disability Rights and Accessibility Complaints](lessons/module-09/lesson-04.md)
+  - [49 · Collecting Evidence Lawfully](lessons/module-09/lesson-05.md)
+  - [Module 9 quiz](assessments/module-09-quiz.md)

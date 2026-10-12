@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A man refused a rental by phone wants to use a recording of the call, which he made himself without
+    telling the landlord. Is the recording wiretapping?
+  options:
+    - >-
+      Yes, because the landlord did not know he was being recorded.
+    - >-
+      Yes, unless a court approved the recording in advance.
+    - >-
+      No, but it can be used only in a criminal case.
+    - >-
+      No, because he is a party to the conversation and consented.
+  correct: 3
+  explanation: >-
+    Wiretap Law s. 1 defines wiretapping as listening without the consent of any party. A party's own
+    consent is enough, so recording your own conversation is not wiretapping.
+- id: q2
+  question: >-
+    To prove a door policy, an activist leaves her phone recording on a chair near the bouncers and walks
+    away for twenty minutes. What is the legal position?
+  options:
+    - >-
+      Lawful, because the entrance of a club is a public place anyway.
+    - >-
+      Wiretapping, an offence: she is not a party.
+    - >-
+      Lawful if she discloses the recording only to the court.
+    - >-
+      Lawful if one of the people recorded later agrees to its use.
+  correct: 1
+  explanation: >-
+    Once she walks away she is not a party, and no party consented, so it is wiretapping under ss. 1–2.
+    Such a recording is also generally inadmissible (s. 13).
+- id: q3
+  question: >-
+    Two Ethiopian-Israeli women were refused at a gym's "membership desk". Which tester check gives the
+    strongest comparison for s. 6(2)?
+  options:
+    - >-
+      Two women of similar age, not of Ethiopian origin, ask for the same membership soon after.
+    - >-
+      Two men of any background ask the same desk about the gym's opening hours that afternoon.
+    - >-
+      A journalist phones the gym and asks whether it has a discriminatory policy.
+    - >-
+      The two women return the next week with a lawyer and ask again for membership.
+  correct: 0
+  explanation: >-
+    A tester should change only the ground being tested and ask for the same service in the same
+    circumstances. Changing sex or the request weakens the comparison.
+- id: q4
+  question: >-
+    A claimant took photos of a manager inside his private office through a window to show a "no Arabs"
+    note on his desk. What may happen to the photos in court?
+  options:
+    - >-
+      They are always admissible because they prove discrimination.
+    - >-
+      They are admissible only if the claimant acted as a tester.
+    - >-
+      They may be excluded under Privacy Law s. 32.
+    - >-
+      They are admissible if the claimant blurs the manager's face.
+  correct: 2
+  explanation: >-
+    Photographing a person in a private domain is a privacy infringement (s. 2(3)); s. 32 makes such
+    material inadmissible without consent unless the court allows it for recorded reasons or a defence applies.

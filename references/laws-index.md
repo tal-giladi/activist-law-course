@@ -24,3 +24,7 @@ Every law and ruling the course cites, with a free full-text link. Entries are a
 - Movement for Quality Government v. Knesset, HCJ 5658/23 (1.1.2024) — https://versa.cardozo.yu.edu/node/704
 - Ka'adan v. Israel Land Administration, HCJ 6698/95 — https://versa.cardozo.yu.edu/node/167
 - Ressler v. Minister of Defence, HCJ 910/86 — https://versa.cardozo.yu.edu/opinions/ressler-v-minister-defence
+
+## Pending legislation (status not confirmed)
+
+- Private bills to raise the services-law ceiling (reported as P/5247/25) and a bill tabled 26.1.2026 that would reduce compensation without proof of damage (which law it amends was not confirmed). Neither was law on 2026-10-13 as far as Wikisource shows. ⚠️ Check the Knesset bills database before publishing.

@@ -1,0 +1,170 @@
+- id: q1
+  question: >-
+    A 15-employee hi-tech company dismisses a worker a week after she returns from 120 days of reserve
+    duty, saying "the team moved on". She wants to act. Which combination is right?
+  options:
+    - >-
+      Services law, Magistrates' Court, with a presumption under s. 6(2).
+    - >-
+      Employment law, Labour Court; s. 9(א)(2) can move the burden.
+    - >-
+      Women's Equal Rights Law, administrative petition against the company.
+    - >-
+      No claim: reserve duty is protected only by the IDF, not by employment law.
+  correct: 1
+  explanation: >-
+    Reserve duty is a ground in s. 2(א) of the Equal Employment Opportunities Law; s. 9(א)(2) moves the
+    burden to the employer in dismissal if nothing in her conduct justified it; s. 10 gives the Labour Court jurisdiction.
+- id: q2
+  question: >-
+    A Druze couple is refused a room at a Tiberias hotel. The clerk first asked, "Where are you from?",
+    then said the hotel was full. What do they need to prove to shift the burden?
+  options:
+    - >-
+      That the clerk asked about a detail related to a listed ground and then refused (s. 6(1)).
+    - >-
+      That the hotel's owner personally gave a written discriminatory instruction.
+    - >-
+      That they suffered financial damage, such as a more expensive room elsewhere.
+    - >-
+      That the hotel was not full, using its booking records obtained by FOI.
+  correct: 0
+  explanation: >-
+    Section 6(1) presumes discrimination if the defendant refused after asking about details related to
+    a listed ground. No proof of financial damage is needed for compensation under s. 5(ב).
+- id: q3
+  question: >-
+    A secular activist and her two Haredi friends are refused at a café after the owner hears them argue
+    politics. Each wants compensation. Which route lets each of them go to court cheaply and without a lawyer?
+  options:
+    - >-
+      A joint claim by their activist organisation in the Small Claims Court.
+    - >-
+      A complaint to the Equal Employment Opportunities Commission.
+    - >-
+      Individual Small Claims Court claims, each up to the ceiling.
+    - >-
+      An administrative petition against the café's business licence.
+  correct: 2
+  explanation: >-
+    Political view (השקפה) is a ground in s. 3(א). The Small Claims Court hears claims filed by an
+    individual only, so each files her own claim; an organisation would need the Magistrates' Court.
+- id: q4
+  question: >-
+    An activist plans to prove a gym's "no Arabs" policy by hiding a recorder in the gym's office
+    overnight. What is the best advice?
+  options:
+    - >-
+      Go ahead; the recording will be admissible because it proves discrimination.
+    - >-
+      Go ahead, but only if a lawyer listens to it first.
+    - >-
+      Go ahead, provided he later gives the recording only to the police.
+    - >-
+      Don't: recording others' talk is a wiretap offence; use testers instead.
+  correct: 3
+  explanation: >-
+    Recording a conversation without the consent of any party is wiretapping (ss. 1–2) and inadmissible
+    (s. 13). Matched testers who record only their own conversations give lawful comparison evidence.
+- id: q5
+  question: >-
+    A wheelchair user wants compensation without proof of damage from a supermarket with no accessible
+    entrance. The chain says it is carrying out an accessibility order on schedule. What follows?
+  options:
+    - >-
+      No-damage compensation is barred while it complies (s. 19נא(ג)(1)).
+    - >-
+      The order has no effect on her claim; only an exemption would.
+    - >-
+      She must move her claim to the Labour Court, which has jurisdiction.
+    - >-
+      She must first prove that the chain's yearly turnover exceeds a set amount.
+  correct: 0
+  explanation: >-
+    Section 19נא(ג)(1) bars compensation without proof of damage for an accessibility breach if an
+    accessibility order was issued and the defendant is complying with its timetable.
+- id: q6
+  question: >-
+    Ten months after being refused a job, a Bedouin applicant from Rahat asks the Equal Employment
+    Opportunities Commission to help. He also wants to keep the option of suing. Which statement is right?
+  options:
+    - >-
+      He must sue first; the Commission acts only after a judgment.
+    - >-
+      He can complain now; if he later sues, the Commission stops handling it.
+    - >-
+      He is too late for both the Commission and the Labour Court.
+    - >-
+      He can sue in the Labour Court for five years as an applicant.
+  correct: 1
+  explanation: >-
+    The complaint is within the one-year window (s. 18יג(ב)(1)). The Commission does not handle a matter
+    pending in court (s. 18יג(א)(2)). An applicant's limitation period is three years (s. 14).
+- id: q7
+  question: >-
+    A soldier in uniform is refused service at a Tel Aviv bar; a soldier in civilian clothes in the same
+    group is served. Which ground does the claim rest on?
+  options:
+    - >-
+      Political view, because the owner objects to the army.
+    - >-
+      Nationality, because soldiers serve the state and its people.
+    - >-
+      Wearing a security-forces uniform, s. 3(א).
+    - >-
+      Reserve duty, under the equal employment law.
+  correct: 2
+  explanation: >-
+    Section 3(א) of the services law lists wearing the uniform or insignia of the security and rescue
+    forces. The comparison with the soldier in civilian clothes supports the s. 6(2) presumption.
+- id: q8
+  question: >-
+    A blind woman with a guide dog is told at a pharmacy that "dogs are forbidden for hygiene". Which
+    law and which body fit best?
+  options:
+    - >-
+      The services law, s. 3, and a claim in the Small Claims Court only.
+    - >-
+      The Pupils' Rights Law, s. 5, and the Ministry of Education.
+    - >-
+      The Women's Equal Rights Law, and the Labour Court.
+    - >-
+      The disability law, ss. 19ו and 19ו1, and the disability Commission.
+  correct: 3
+  explanation: >-
+    Disability in services is governed by Chapter ה׳1 of the disability law (services law s. 3(ה));
+    s. 19ו1 deals with service animals. The Commission handles complaints and can sue with her consent.
+- id: q9
+  question: >-
+    After a club refused two Ethiopian-Israeli students, their friends filmed the queue from the
+    pavement and wrote statements that night. Which further step most strengthens the file?
+  options:
+    - >-
+      Posting the video with the bouncer's face to pressure the club.
+    - >-
+      Asking the club in writing the next morning to preserve its entrance CCTV.
+    - >-
+      Asking a friend to record the bouncers' conversation with each other.
+    - >-
+      Waiting a few months so emotions calm down before writing anything.
+  correct: 1
+  explanation: >-
+    Footage is overwritten quickly; a written preservation request protects key evidence. Posting faces
+    risks privacy and defamation claims, and recording others' conversations is wiretapping.
+- id: q10
+  question: >-
+    A local authority's pool admits only its own residents at weekends, citing its budget. A resident of
+    the next town sues under the services law, ground place of residence. What will the court examine?
+  options:
+    - >-
+      Whether its functions require the distinction (s. 3(א1)).
+    - >-
+      Nothing; local authorities are not bound by the services law.
+    - >-
+      Only whether the pool charges non-residents an entrance fee.
+    - >-
+      Whether the plaintiff first complained to an equality commission.
+  correct: 0
+  explanation: >-
+    Section 3(א1) prohibits discrimination by place of residence but allows a local authority to
+    distinguish residents to the extent required to perform its functions for them. Section 11 binds the state.

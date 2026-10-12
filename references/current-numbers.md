@@ -72,4 +72,6 @@ These amounts change every month with the consumer price index, so the numbers b
 | Item | About (October 2026) | Source |
 |---|---|---|
 | Defamation, without proof of damage | ₪84,400; double (about ₪168,900) if published with intent to harm | Defamation Prohibition Law, s. 7A |
+| Discrimination in products, services and entry, without proof of damage | ₪79,700 (our calculation; no official figure published) | Prohibition of Discrimination in Products, Services and Entry Law, s. 5 |
+| Disability discrimination, without proof of damage | ₪73,200 (our calculation; the law does not say which month is used) | Equal Rights for Persons with Disabilities Law |
 | Privacy breach, without proof of damage | ₪72,600 | Protection of Privacy Law, s. 29A |

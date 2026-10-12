@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A 30-employee factory refuses to hire a woman after she says she is undergoing fertility
+    treatment. She wants compensation. Where does she file?
+  options:
+    - >-
+      In the Small Claims Court, because the amount is modest.
+    - >-
+      In the Magistrates' Court under the services law.
+    - >-
+      In the Regional Labour Court under the employment law.
+    - >-
+      In the High Court of Justice, because equality is constitutional.
+  correct: 2
+  explanation: >-
+    Fertility treatment is a listed ground in s. 2(א) of the Equal Employment Opportunities Law, and s.
+    10 gives the Labour Court exclusive jurisdiction over civil claims under that law.
+- id: q2
+  question: >-
+    A café refuses to seat a customer who uses a wheelchair, saying the staff are "too busy to help".
+    Which law should his claim be based on?
+  options:
+    - >-
+      The disability law, Chapter ה׳1, which governs disability in services.
+    - >-
+      The services law, s. 3(א), which lists the prohibited grounds.
+    - >-
+      The Women's Equal Rights Law, which covers all forms of equality.
+    - >-
+      The Basic Law: Human Dignity and Liberty, through a petition.
+  correct: 0
+  explanation: >-
+    Section 3(ה) of the services law says that discrimination because of disability in the matters it
+    covers is governed by Chapter ה׳1 of the Equal Rights for Persons with Disabilities Law.
+- id: q3
+  question: >-
+    A Tel Aviv shop refuses to sell to a customer because her ID shows an address in a settlement.
+    What is the strongest statutory basis?
+  options:
+    - >-
+      Nationality in s. 3(א), since residents of the territories are a nationality.
+    - >-
+      Political view in s. 3(א), because the shop disagrees with settlement.
+    - >-
+      None; place of residence is listed only in the employment law.
+    - >-
+      Place of residence in s. 3(א1) of the services law.
+  correct: 3
+  explanation: >-
+    Since the 2017 amendment, s. 3(א1) prohibits discrimination in services because of place of
+    residence. Building the claim on the listed ground is stronger than stretching another one.
+- id: q4
+  question: >-
+    A municipal pool refuses entry to a group of teenagers because of their religion. The municipality
+    says the services law does not apply to public authorities. Is it right?
+  options:
+    - >-
+      Yes; public bodies are bound only by administrative law.
+    - >-
+      No; under s. 11 the state is treated like any other person.
+    - >-
+      Yes, unless the pool charges an entrance fee.
+    - >-
+      No, but only the Attorney General can enforce it.
+  correct: 1
+  explanation: >-
+    Section 11 says the law applies to the state like anyone else, and s. 3(ב) says it does not matter
+    whether a fee is charged. Administrative remedies exist in addition.

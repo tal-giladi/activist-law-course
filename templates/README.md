@@ -4,11 +4,14 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 ## All templates
 
+- [Accessibility Complaint and Query (תלונה ושאילתה לנציבות שוויון זכויות לאנשים עם מוגבלות)](accessibility-complaint.md)
 - [Administrative Petition (עתירה מינהלית)](administrative-petition.md)
 - [Affidavit (תצהיר)](affidavit.md)
 - [Arrest Card (כרטיס זכויות במעצר)](arrest-card.md)
 - [Request to Change Closure Grounds (בקשה לשינוי עילת סגירה)](closure-grounds-request.md)
 - [Decision audit (בדיקת החלטה מינהלית)](decision-audit.md)
+- [Discrimination Demand Letter (מכתב דרישה לפי חוק איסור הפליה)](discrimination-demand-letter.md)
+- [Discrimination Evidence Log (יומן ראיות להפליה)](discrimination-evidence-log.md)
 - [Freedom of Information Request (בקשה לקבלת מידע)](foi-request.md)
 - [FOI Reminder and FOI Unit Complaint (תזכורת ותלונה ליחידה הממשלתית לחופש המידע)](foi-unit-complaint.md)
 - [Formal Letter to an Authority (פנייה לרשות)](formal-letter.md)

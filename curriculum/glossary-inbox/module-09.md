@@ -1,0 +1,32 @@
+# Glossary inbox — Module 9
+
+- **הפליה / אפליה** (haflaya / aflaya) — Discrimination; statutes use הפליה, everyday Hebrew says אפליה.
+- **עילת הפליה** (ilat haflaya) — A prohibited ground of discrimination listed in a statute.
+- **מקום ציבורי** (makom tziburi) — Public place as defined in the services law (s. 2) or the disability law (s. 19ה).
+- **שירות ציבורי** (sherut tziburi) — Public service as defined in the services law (s. 2) or the disability law (s. 19ה).
+- **מי שעיסוקו** (mi she'isuko) — The person whose business it is: owner, holder, manager or person actually in charge (services law s. 3(ג)).
+- **מודעה מפלה** (moda'a mafla) — Discriminatory advertisement (services law s. 4).
+- **פיצוי ללא הוכחת נזק** (pitzui lelo hochachat nezek) — Compensation without proof of damage (services law s. 5(ב); disability law s. 19נא(ב)).
+- **חזקה** (chazaka) — Presumption that shifts the burden of proof (services law s. 6; disability law s. 19סה).
+- **נטל ההוכחה** (netel hahochacha) — Burden of proof (employment law s. 9).
+- **תנאים שלא ממין העניין** (tna'im shelo min ha'inyan) — Irrelevant conditions, treated as discrimination.
+- **העדפה מתקנת** (ha'adafa metakenet) — Affirmative action (Women's Equal Rights Law s. 1ב).
+- **דורש עבודה** (doresh avoda) — Job applicant.
+- **פרופיל צבאי** (profil tzva'i) — IDF medical profile; employers may not ask for it (employment law s. 2א).
+- **נציבות שוויון הזדמנויות בעבודה** (netzivut shivyon hizdamnuyot ba'avoda) — Equal Employment Opportunities Commission.
+- **נציב אזורי** (netziv ezori) — Regional commissioner who handles employment complaints (s. 18יב).
+- **צו כללי** (tzav klali) — General order against an employer, on the Commission's request (s. 18טו).
+- **נציבות שוויון זכויות לאנשים עם מוגבלות** (netzivut shivyon zchuyot la'anashim im mugbalut) — Commission for Equal Rights of Persons with Disabilities.
+- **נגישות** (negishut) — Accessibility.
+- **התאמות נגישות** (hat'amot negishut) — Accessibility adjustments.
+- **צו נגישות** (tzav negishut) — Accessibility order (disability law s. 19מג).
+- **שאילתה** (she'ilta) — Formal query to the disability Commissioner, answered within 60 days (s. 19מד).
+- **נטל כבד מדי** (netel kaved midai) — Undue burden, a ground for exempting an accessibility adjustment (s. 19יג).
+- **עיצום כספי** (itzum kaspi) — Administrative fine.
+- **חיית שירות** (chayat sherut) — Service animal (disability law s. 19ו1).
+- **רכז נגישות** (rakaz negishut) — Accessibility coordinator of a body (s. 19מב).
+- **האזנת סתר** (ha'azanat seter) — Wiretapping: listening without the consent of any party (Wiretap Law s. 1).
+- **בעל שיחה** (ba'al sicha) — A party to a conversation (Wiretap Law s. 1).
+- **בודק / בודקת** (bodek / bodeket) — Tester sent to check whether a business treats groups differently.
+- **יומן ראיות** (yoman re'ayot) — Evidence log.
+- **רשות היחיד** (reshut hayachid) — Private domain (Privacy Law s. 2(3)).

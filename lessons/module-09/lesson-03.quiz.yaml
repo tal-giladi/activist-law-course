@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    At an interview a Haredi applicant is asked, "Will you need to leave early on Fridays in winter?"
+    She is not hired and sues. What does the question do to the burden of proof?
+  options:
+    - >-
+      Nothing; she must still prove the religious motive herself.
+    - >-
+      It moves the burden only if the question was put in writing.
+    - >-
+      It moves the burden to the employer under s. 9(ג).
+    - >-
+      It moves the burden only for workers, not for applicants.
+  correct: 2
+  explanation: >-
+    Section 9(ג) puts the burden on the employer if it asked, directly or indirectly, for information on a
+    prohibited ground, and it applies to applicants and workers alike.
+- id: q2
+  question: >-
+    An activist was dismissed 14 months ago, he believes because of his political views. He has not
+    complained yet. What is his best next step?
+  options:
+    - >-
+      File with the Commission, which must investigate any complaint.
+    - >-
+      Sue in the Labour Court; a Commission complaint may now be dismissed.
+    - >-
+      Do nothing; employment claims expire after one year.
+    - >-
+      Sue in the Magistrates' Court under the services law.
+  correct: 1
+  explanation: >-
+    The Commission may dismiss a complaint filed more than a year after the cause (s. 18יג(ב)(1)), but a
+    worker may sue in the Labour Court for five years (s. 14). Political view is a ground in s. 2(א).
+- id: q3
+  question: >-
+    A job form at a 200-employee company asks for the applicant's IDF medical profile. What does the law say?
+  options:
+    - >-
+      No employer may ask for or use it, bar the Shin Bet and Mossad.
+    - >-
+      The employer may ask, but only for jobs involving physical work.
+    - >-
+      The employer may ask if it keeps the answer strictly confidential.
+    - >-
+      The employer may ask only applicants who served in combat units.
+  correct: 0
+  explanation: >-
+    Section 2א bars any employer from requiring or using the military profile in hiring and other stages;
+    only the Shin Bet and the Mossad are excluded.
+- id: q4
+  question: >-
+    A worker complained to the Commission about unequal pay. A month later the employer cut her shifts.
+    Which provision protects her?
+  options:
+    - >-
+      Section 21, which excludes small employers from the law.
+    - >-
+      Section 2א, on asking for the IDF medical profile.
+    - >-
+      Section 14, on the limitation periods for claims.
+    - >-
+      Section 6, against harm for complaining.
+  correct: 3
+  explanation: >-
+    Section 6 forbids harming a worker because of a complaint or claim under this law or the Equal Pay Law,
+    or because she helped another worker complain.

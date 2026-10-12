@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A deaf man is told at a government office, "Come back with someone who can hear, we can't serve you
+    alone." Which provision is the core of his complaint?
+  options:
+    - >-
+      Section 19ח, because the building lacks a hearing loop.
+    - >-
+      Section 3 of the services law, because the office is a public place.
+    - >-
+      Section 19ו, refusing service or setting a condition because of disability.
+    - >-
+      Section 8, discrimination in employment, because officials are employees.
+  correct: 2
+  explanation: >-
+    Refusing service or demanding a condition not required of others is discrimination under s. 19ו(א).
+    Missing equipment would be a separate accessibility issue under the regulations.
+- id: q2
+  question: >-
+    Before suing a pharmacy chain for compensation without proof of damage over a missing ramp, an
+    activist wants to know whether the branch has an exemption or is under an accessibility order. What
+    should she do?
+  options:
+    - >-
+      Send a query (שאילתה) to the Commissioner, who must answer within 60 days.
+    - >-
+      File an FOI request with the municipality's engineering department.
+    - >-
+      Ask the Small Claims Court for a preliminary ruling on the exemption.
+    - >-
+      Ask the police to check the business licence.
+  correct: 0
+  explanation: >-
+    Section 19מד lets anyone ask the Commissioner whether a place is covered, exempt or under an order;
+    the answer is due within 60 days. An order being complied with bars compensation without proof of damage.
+- id: q3
+  question: >-
+    A shop owner answers a complaint about three steps at his old shop's entrance: "A ramp would cost more
+    than my yearly profit and there is an accessible branch of mine 100 m away." What is he invoking?
+  options:
+    - >-
+      The "nature of the service" exception in the services law.
+    - >-
+      The one-year limit for complaints to the Commission.
+    - >-
+      The bar on suing a business with fewer than six employees.
+    - >-
+      The undue-burden exemption for existing places in s. 19יג(א)(2).
+  correct: 3
+  explanation: >-
+    Section 19יג(א)(2) exempts a specific adjustment in an existing place if it is an undue burden, taking
+    into account cost, turnover and an accessible alternative nearby run by the same body.
+- id: q4
+  question: >-
+    A woman files a Commission complaint about an inaccessible bank branch. Nobody has called her after
+    a week. What does the Commission's published service say?
+  options:
+    - >-
+      A handler is assigned only if she phones *6763 every week.
+    - >-
+      A handler will contact her within 10 business days.
+    - >-
+      She must refile through a lawyer to get a handler.
+    - >-
+      The Commission answers only if the bank agrees to mediation.
+  correct: 1
+  explanation: >-
+    The gov.il service page says the handler contacts the complainant within 10 business days, gives an
+    update every 21 business days, and handles the complaint within up to 53 working days.

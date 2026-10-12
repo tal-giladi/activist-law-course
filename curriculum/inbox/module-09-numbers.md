@@ -1,0 +1,19 @@
+# Numbers inbox — Module 9
+
+Amounts and time limits used in Module 9 that are not yet in `references/current-numbers.md`. Checked 2026-10-13. Lessons 09.2–09.4 link Current Numbers for these. Suggested new section there: "Equality and discrimination".
+
+| Item | Amount | Source | Checked |
+|---|---|---|---|
+| Services law: compensation without proof of damage | up to ₪50,000 linked to the CPI from October 2000, updated on the 16th of each month; about ₪79,700 from 16.9.2026 (August 2026 index). ⚠️ Our calculation with the CBS linkage calculator (Oct 2000 index 106.7 → Aug 2026 index 105.8, chaining coefficient 1.608 = ₪79,735.98); no official published figure found. Recompute monthly or show "about ₪80,000". | Products and Services Law s. 5(ב) — https://he.wikisource.org/wiki/חוק_איסור_הפליה_במוצרים,_בשירותים_ובכניסה_למקומות_בידור_ולמקומות_ציבוריים#סעיף_5 ; CBS calculator API https://api.cbs.gov.il/index/data/calculator/120010?value=50000&date=12-01-2000&toDate=10-12-2026&format=json (opened in the in-app browser) | 2026-10-13 |
+| Disability law: compensation without proof of damage | up to ₪50,000 linked to the CPI from February 2005, updated once a year; about ₪73,200 if updated in January 2026 (November 2025 index). ⚠️ Our calculation (Feb 2005 index 100.2 → Nov 2025 index 103.6, coefficient 1.415 = ₪73,166.49); the law does not name the update month and no official figure was found. Ask the Commission for its published figure. | Disability law s. 19נא(ב), (ו) — https://he.wikisource.org/wiki/חוק_שוויון_זכויות_לאנשים_עם_מוגבלות#סעיף_19נא ; CBS calculator API https://api.cbs.gov.il/index/data/calculator/120010?value=50000&date=04-01-2005&toDate=01-10-2026&format=json | 2026-10-13 |
+| Employment law: compensation without proof of damage for harm linked to sexual harassment (s. 7) | up to ₪120,000, linked to the CPI from August 2013, updated every 1 January with a notice in Reshumot (current figure not checked; not used in lessons) | Equal Employment Opportunities Law s. 10(א)(1), (ב) | 2026-10-13 |
+| Employment law: limitation period | 5 years for a worker; 3 years for a job applicant (amended 5785 / 2024–25) | Equal Employment Opportunities Law s. 14 — https://he.wikisource.org/wiki/חוק_שוויון_ההזדמנויות_בעבודה#סעיף_14 | 2026-10-13 |
+| Employment Commission: complaint may be dismissed | if more than 1 year has passed since the cause | same, s. 18יג(ב)(1) | 2026-10-13 |
+| Employment law: minimum employer size | 6 employees (except s. 7) | same, s. 21(ג) | 2026-10-13 |
+| Services law: limitation period | no special period; general 7 years | Limitation Law s. 5(1) — https://he.wikisource.org/wiki/חוק_ההתיישנות | 2026-10-13 |
+| Disability Commission: answer to a query (שאילתה) | within 60 days | Disability law s. 19מד(ג) | 2026-10-13 |
+| Disability Commission: complaint handling (service standard, not statute) | contact within 10 business days; update every 21 business days; handling up to 53 working days, +17 if an inspector visits | gov.il service page "הגשת תלונה על הפליית אדם עם מוגבלות…" (in-app browser; ⚠️ bots get 403) — https://www.gov.il/he/service/complaint_discrimination_inaccessibility_people_with_disabilities | 2026-10-13 |
+| Disability Commission contacts | \*6763 (Sun–Thu 8:00–16:00); pniotnez@justice.gov.il; fax 02-6462881; P.O.B. 34255, Steiner branch, Jerusalem 9134100 | same page | 2026-10-13 |
+| Employment Commission contacts | 074-7696565; shivion@economy.gov.il; fax 074-7058813; online form https://govforms.gov.il/mw/forms/Shivion@moital.gov.il | Kol Zchut, updated 23.4.2026 (in-app browser) | 2026-10-13 |
+| Government Unit for Coordinating the Fight against Racism | \*3406; antiracismunit@justice.gov.il; fax 02-6468016 | Kol Zchut, updated 8.12.2025 (in-app browser) — not printed in lessons | 2026-10-13 |
+| Wiretapping offence | up to 5 years' imprisonment | Wiretap Law s. 2(א) | 2026-10-13 |

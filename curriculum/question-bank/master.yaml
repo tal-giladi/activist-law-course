@@ -11049,3 +11049,1295 @@
   explanation: >-
     The Knesset database lists it at "preparation for first reading". It did not pass a first
     reading before the Knesset dissolved on 17.7.2026, so it does not carry over automatically.
+- id: m09-001
+  module: 9
+  lesson: '09.1'
+  subject: statute-map
+  difficulty: 1
+  question: Which statute governs discrimination by a hotel against a guest because of religion?
+  options:
+    - The Equal Employment Opportunities Law 1988
+    - The Women's Equal Rights Law 1951
+    - The Pupils' Rights Law 2000
+    - The Products and Services Law 2000
+  correct: 3
+  explanation: >-
+    A hotel supplies a public service and runs a public place; s. 3 of the Products and Services Law
+    covers religion.
+- id: m09-002
+  module: 9
+  lesson: '09.1'
+  subject: statute-map
+  difficulty: 1
+  question: >-
+    Which court has exclusive jurisdiction over civil claims under the Equal Employment
+    Opportunities Law?
+  options:
+    - The Magistrates' Court
+    - The Small Claims Court
+    - The District Court as an administrative court
+    - The Regional Labour Court
+  correct: 3
+  explanation: >-
+    Section 10(א) gives the Labour Court exclusive jurisdiction over civil proceedings under the
+    law.
+- id: m09-003
+  module: 9
+  lesson: '09.1'
+  subject: statute-map
+  difficulty: 1
+  question: Under which law is disability discrimination in a shop claimed?
+  options:
+    - The Products and Services Law, s. 3(א), like any ground
+    - The disability law, Chapter ה׳1
+    - The Women's Equal Rights Law, s. 6, on social rights
+    - The Equal Employment Opportunities Law, s. 2
+  correct: 1
+  explanation: >-
+    Section 3(ה) of the services law sends disability discrimination in its subject areas to Chapter
+    ה׳1 of the disability law.
+- id: m09-004
+  module: 9
+  lesson: '09.1'
+  subject: grounds
+  difficulty: 1
+  question: Which ground appears in the services law but not in the employment law?
+  options:
+    - Religion or a religious group
+    - Wearing a security-forces uniform
+    - Sexual orientation of the customer
+    - Place of residence of the customer
+  correct: 1
+  explanation: >-
+    Uniforms and insignia are listed only in s. 3(א) of the services law; religion, orientation and
+    residence appear in both laws.
+- id: m09-005
+  module: 9
+  lesson: '09.1'
+  subject: grounds
+  difficulty: 1
+  question: Which ground appears in the employment law but not in the services law?
+  options:
+    - Age
+    - Political view
+    - Reserve duty
+    - Parenthood
+  correct: 2
+  explanation: Section 2(א) of the employment law lists reserve duty; the services law does not.
+- id: m09-006
+  module: 9
+  lesson: '09.1'
+  subject: grounds
+  difficulty: 2
+  question: >-
+    A pupil is placed in a separate class because of his parents' socio-economic background. Which
+    statute speaks to this directly?
+  options:
+    - The Products and Services Law, s. 3
+    - The Equal Employment Opportunities Law, s. 2
+    - The Women's Equal Rights Law, s. 1א
+    - The Pupils' Rights Law, s. 5
+  correct: 3
+  explanation: >-
+    Section 5 of the Pupils' Rights Law bars discrimination by socio-economic background, including
+    separate classes in the same school.
+- id: m09-007
+  module: 9
+  lesson: '09.1'
+  subject: coverage
+  difficulty: 2
+  question: >-
+    A free community library run by a non-profit refuses to lend books to a woman because of her
+    nationality. The library says the law does not apply because it charges nothing. Is it right?
+  options:
+    - Yes; only businesses that charge money are covered
+    - No; s. 3(ב) covers non-profit and free services too
+    - Yes; non-profits are bound only by their articles
+    - No, but only the Attorney General may sue it
+  correct: 1
+  explanation: >-
+    Section 3(ב) says it does not matter whether the activity is for profit or whether a fee is
+    charged.
+- id: m09-008
+  module: 9
+  lesson: '09.1'
+  subject: coverage
+  difficulty: 2
+  question: >-
+    A non-profit women's empowerment club runs a members-only course for women. A man claims
+    discrimination. What is the club's best answer?
+  options:
+    - The non-profit special-needs exception in s. 3(ד)(2)
+    - The nature-of-the-job exception in employment s. 2(ג)
+    - The one-year limit for complaints
+    - The rule that clubs are not public places
+  correct: 0
+  explanation: >-
+    Section 3(ד)(2) allows a non-profit organisation or club to serve its members' special needs if
+    this does not contradict the law's purpose.
+- id: m09-009
+  module: 9
+  lesson: '09.1'
+  subject: coverage
+  difficulty: 2
+  question: >-
+    A family company with four employees refuses to hire an applicant because of his religion. Under
+    the employment law, what is the position?
+  options:
+    - The law applies to every employer, whatever the number of workers
+    - Only the Commission may act against small employers
+    - The law's s. 2 does not apply to employers of fewer than six
+    - The services law applies to small employers instead
+  correct: 2
+  explanation: >-
+    Section 21(ג) excludes employers of fewer than six from the law except s. 7; Kol Zchut notes
+    courts may still use good faith and the Basic Law.
+- id: m09-010
+  module: 9
+  lesson: '09.1'
+  subject: forum
+  difficulty: 2
+  question: >-
+    Which body handles complaints about discrimination in shops and restaurants, the way the
+    employment and disability commissions do in their areas?
+  options:
+    - None; only a racism unit takes complaints
+    - The Equal Employment Opportunities Commission
+    - The Public Complaints Commissioner (ombudsman)
+    - The Privacy Protection Authority
+  correct: 0
+  explanation: >-
+    There is no statutory commission for the services law. The Government Unit for Coordinating the
+    Fight against Racism takes complaints but awards no compensation.
+- id: m09-011
+  module: 9
+  lesson: '09.1'
+  subject: forum
+  difficulty: 2
+  question: Which statute lets a class action be filed for discrimination in services?
+  options:
+    - The Courts Law, s. 60, on small claims
+    - The Limitation Law, s. 5, on time limits
+    - The Wiretap Law, s. 13, on admissibility
+    - The Class Actions Law, Second Schedule, item 7
+  correct: 3
+  explanation: >-
+    Item 7 of the Second Schedule to the Class Actions Law covers claims under the Products and
+    Services Law; items 8 and 9 cover employment and disability.
+- id: m09-012
+  module: 9
+  lesson: '09.1'
+  subject: forum
+  difficulty: 3
+  question: >-
+    A municipality's sports centre refuses a Haredi women's group a pool slot, while a secular
+    women's group gets one. They want both compensation and a change in the municipal policy. Which
+    pair of tools fits best?
+  options:
+    - A Labour Court claim and an FOI request to the municipality
+    - A disability Commission complaint and a s. 19מד query
+    - A services-law claim (s. 11) and an administrative petition
+    - Only a High Court petition against the Minister of Interior
+  correct: 2
+  explanation: >-
+    Section 11 makes the services law apply to public bodies for compensation; a policy of a local
+    authority can also be challenged in an administrative petition (05.6).
+- id: m09-013
+  module: 9
+  lesson: '09.1'
+  subject: exceptions
+  difficulty: 2
+  question: A men's mikveh refuses entry to a woman. Which provision most likely makes this lawful?
+  options:
+    - The exception for distinctions required by the nature of the place
+    - The exception for employers of fewer than six workers
+    - The rule that religious bodies are outside every anti-discrimination law
+    - The undue-burden exemption in the disability law
+  correct: 0
+  explanation: >-
+    Section 3(ד)(1) and (3) allow distinctions required by the nature of the place or justified
+    separate frameworks for men and women.
+- id: m09-014
+  module: 9
+  lesson: '09.1'
+  subject: exceptions
+  difficulty: 3
+  question: >-
+    An employer refuses to hire a man for a women's shelter counsellor role, citing the residents'
+    needs. Which argument will the employer raise?
+  options:
+    - That sex is not a ground in the employment law
+    - That the distinction is required by the nature of the job (s. 2(ג))
+    - That the shelter is a non-profit club (services s. 3(ד)(2))
+    - That the applicant should have complained within 30 days
+  correct: 1
+  explanation: >-
+    Section 2(ג) of the employment law says a distinction required by the character or nature of the
+    job is not discrimination; the court will test whether it really is.
+- id: m09-015
+  module: 9
+  lesson: '09.1'
+  subject: womens-equal-rights
+  difficulty: 1
+  question: What does s. 1א(ב) of the Women's Equal Rights Law say about intent?
+  options:
+    - Intent to discriminate does not matter if the result is discrimination
+    - Only intentional discrimination is prohibited by the law
+    - Intent must be proved by the woman who claims discrimination
+    - Intent matters only in criminal cases, not in civil ones
+  correct: 0
+  explanation: >-
+    Section 1א(ב) says it makes no difference whether there was an intention to discriminate behind
+    an act whose result is discrimination.
+- id: m09-016
+  module: 9
+  lesson: '09.1'
+  subject: womens-equal-rights
+  difficulty: 2
+  question: >-
+    A ministry programme reserves training places for women in a field where they are
+    under-represented. A man objects. Which provision supports the ministry?
+  options:
+    - Services law s. 3(א1), on place of residence of customers
+    - Women's Equal Rights Law s. 1ב, permitting affirmative action
+    - Employment law s. 2א, on the IDF medical profile of applicants
+    - Disability law s. 19נא, on compensation without proof of damage
+  correct: 1
+  explanation: >-
+    Section 1ב(2) says a provision or act meant to correct past or existing discrimination of women,
+    or to advance their equality, is not prohibited discrimination.
+- id: m09-017
+  module: 9
+  lesson: '09.2'
+  subject: presumptions
+  difficulty: 1
+  question: How many presumptions does s. 6 of the services law set out?
+  options:
+    - Two
+    - Four
+    - Three
+    - Six
+  correct: 1
+  explanation: >-
+    Section 6(1)–(4): asking about a ground and refusing; refusing the group but not others; an
+    extra condition; a delay.
+- id: m09-018
+  module: 9
+  lesson: '09.2'
+  subject: presumptions
+  difficulty: 1
+  question: What is the effect of a s. 6 presumption?
+  options:
+    - The claim wins automatically at the full ceiling
+    - The defendant must prove it did not discriminate
+    - The case moves from the civil court to the Labour Court
+    - The police must open a criminal file against the owner
+  correct: 1
+  explanation: Once a presumption applies, discrimination is presumed until the defendant proves otherwise.
+- id: m09-019
+  module: 9
+  lesson: '09.2'
+  subject: presumptions
+  difficulty: 2
+  question: >-
+    A taxi company makes Arab passengers pay in advance but lets others pay at the end of the ride.
+    Which presumption applies?
+  options:
+    - 's. 6(1): asking about a ground and then refusing'
+    - 's. 6(3): a condition required only of the group'
+    - 's. 6(4): delaying the group while others go in'
+    - None, because the ride was given in the end
+  correct: 1
+  explanation: Setting a condition for members of a group that is not required of others triggers s. 6(3).
+- id: m09-020
+  module: 9
+  lesson: '09.2'
+  subject: presumptions
+  difficulty: 2
+  question: >-
+    At a nightclub, young women of Mizrahi appearance are kept waiting 40 minutes while others go
+    straight in. Which presumption fits?
+  options:
+    - 's. 6(4): delaying the group but not others'
+    - 's. 6(3): an extra condition for the group'
+    - 's. 6(1): asking about a ground first'
+    - 's. 4: a discriminatory advertisement'
+  correct: 0
+  explanation: >-
+    Section 6(4), added in 2011, covers delaying members of a group while not delaying others in the
+    same circumstances.
+- id: m09-021
+  module: 9
+  lesson: '09.2'
+  subject: presumptions
+  difficulty: 3
+  question: >-
+    A bank clerk asks an older customer his age, then refuses him a guarantor role 'by policy'. A
+    younger friend was accepted the same week. Which statement is most accurate?
+  options:
+    - Only s. 6(2) applies, through the friend
+    - No presumption applies to banks
+    - s. 6(1) and s. 6(2) may both apply
+    - Age is not a ground in the services law
+  correct: 2
+  explanation: >-
+    Financial services are public services (s. 2); age is a ground; asking about it then refusing
+    triggers s. 6(1), and the friend supplies s. 6(2).
+- id: m09-022
+  module: 9
+  lesson: '09.2'
+  subject: compensation
+  difficulty: 1
+  question: From which month's index is the s. 5(ב) ceiling of the services law linked?
+  options:
+    - January 2026
+    - February 2005
+    - October 2000
+    - August 2013
+  correct: 2
+  explanation: >-
+    Section 5(ב) defines the base index as October 2000 and updates the sum on the 16th of every
+    month.
+- id: m09-023
+  module: 9
+  lesson: '09.2'
+  subject: compensation
+  difficulty: 2
+  question: A claimant says the ceiling in s. 5(ב) is 'the amount the court must award'. What is wrong?
+  options:
+    - It is a minimum the court must award in every case
+    - It applies only to claims filed by organisations
+    - It is a fine paid to the state, not to the victim
+    - It is a maximum; the court decides the amount up to it
+  correct: 3
+  explanation: >-
+    The court 'may award' compensation 'not exceeding' the indexed sum; reported awards are usually
+    lower.
+- id: m09-024
+  module: 9
+  lesson: '09.2'
+  subject: compensation
+  difficulty: 2
+  question: Why does compensation without proof of damage matter so much in entry cases?
+  options:
+    - It lets the claimant avoid paying any court fees at all
+    - It makes the bouncer criminally liable for the refusal
+    - Humiliation at a door rarely produces a provable financial loss
+    - It replaces the need to prove the ground of discrimination
+  correct: 2
+  explanation: >-
+    The claimant still proves discrimination, but not money damage; s. 5(ב) lets the court
+    compensate for the wrong itself.
+- id: m09-025
+  module: 9
+  lesson: '09.2'
+  subject: defendants
+  difficulty: 1
+  question: Under s. 3(ג), who counts as 'מי שעיסוקו' in a club?
+  options:
+    - Only the company registered as the owner
+    - Only the bouncer who spoke to the customer
+    - Owner, holder, manager, or whoever controls entry
+    - Only the municipality that licensed the club
+  correct: 2
+  explanation: >-
+    Section 3(ג) includes owners, holders and managers, and anyone actually responsible for the
+    service or entry.
+- id: m09-026
+  module: 9
+  lesson: '09.2'
+  subject: defendants
+  difficulty: 3
+  question: >-
+    A restaurant's active manager says she cannot be personally liable for her company's door
+    policy. When is she right?
+  options:
+    - If she proves she did not know and took reasonable steps
+    - Always, because only companies are liable for door policies
+    - If the company employs more than six workers
+    - If the claim is filed in the Small Claims Court
+  correct: 0
+  explanation: >-
+    Section 8 makes active managers liable unless they prove both lack of knowledge and reasonable
+    preventive steps.
+- id: m09-027
+  module: 9
+  lesson: '09.2'
+  subject: advertising
+  difficulty: 2
+  question: >-
+    A holiday-flat website says 'not suitable for religious families'. No one has been refused yet.
+    Is there a wrong?
+  options:
+    - No; only an actual refusal of a family is a wrong
+    - Only if a religious family later complains
+    - Yes; the advertisement itself is a wrong (ss. 4–5)
+    - Only if the website's owner is Israeli
+  correct: 2
+  explanation: Section 4 bars discriminatory advertisements, and s. 5(א) makes a breach of s. 4 a civil wrong.
+- id: m09-028
+  module: 9
+  lesson: '09.2'
+  subject: routes
+  difficulty: 1
+  question: Who may file a claim in the Small Claims Court?
+  options:
+    - Any company or organisation
+    - An individual only
+    - Only a lawyer on behalf of a client
+    - Only the Attorney General
+  correct: 1
+  explanation: 'Courts Law s. 60(א): the Small Claims Court hears a civil claim filed by an individual (יחיד).'
+- id: m09-029
+  module: 9
+  lesson: '09.2'
+  subject: routes
+  difficulty: 3
+  question: >-
+    A same-sex couple's claim would be worth more than the small-claims ceiling. What is their
+    choice?
+  options:
+    - File two small claims for the same event to double the ceiling
+    - Ask the Small Claims Court to waive its ceiling for them
+    - Up to the ceiling in small claims, or more in the Magistrates' Court
+    - Go to the Labour Court, which has no ceiling at all
+  correct: 2
+  explanation: >-
+    Each individual may claim up to the ceiling in small claims; a larger amount requires the
+    Magistrates' Court and its fuller procedure.
+- id: m09-030
+  module: 9
+  lesson: '09.2'
+  subject: routes
+  difficulty: 2
+  question: In the Small Claims Court, may a claimant bring a lawyer as of right?
+  options:
+    - Yes, always, like in any other civil court
+    - Yes, if the defendant is a company with lawyers
+    - Only with the court's permission, for special reasons
+    - No, and no one may ever help the claimant in court
+  correct: 2
+  explanation: >-
+    Courts Law s. 63(א) allows representation by a lawyer only with the court's permission for
+    special reasons.
+- id: m09-031
+  module: 9
+  lesson: '09.2'
+  subject: routes
+  difficulty: 3
+  question: >-
+    An Arab family's claim was rejected in the Small Claims Court because the judge found no
+    comparison evidence. What would most likely have changed the result?
+  options:
+    - Claiming a higher amount to show seriousness
+    - Filing the claim through an organisation instead
+    - Waiting longer before filing the claim
+    - A friend admitted in the same circumstances (s. 6(2))
+  correct: 3
+  explanation: >-
+    The presumptions depend on comparison facts; without them the claimant must prove intent
+    directly, which is hard.
+- id: m09-032
+  module: 9
+  lesson: '09.2'
+  subject: demand-letter
+  difficulty: 1
+  question: What should a services-law demand letter ask for besides money?
+  options:
+    - An apology published in two national newspapers
+    - A written change of policy and preservation of footage
+    - The dismissal of the bouncer who refused them
+    - A criminal conviction of the owner of the club
+  correct: 1
+  explanation: >-
+    A specific, lawful demand — compensation, a policy change and preserving CCTV — makes a
+    settlement more likely and protects evidence.
+- id: m09-033
+  module: 9
+  lesson: '09.2'
+  subject: demand-letter
+  difficulty: 2
+  question: >-
+    Spot the mistake: a demand letter says 'Pay ₪50,000 by Sunday or I will post your name
+    everywhere and call the police.'
+  options:
+    - It cites the wrong statute for discrimination at the door
+    - It gives the business too long a deadline to answer
+    - It threatens publicity for money instead of a legal step
+    - It does not mention the Labour Court as the forum
+  correct: 2
+  explanation: >-
+    A demand letter should state the legal step you will take; threatening publicity to get money is
+    risky and weakens your position.
+- id: m09-034
+  module: 9
+  lesson: '09.2'
+  subject: limitation-legal-aid
+  difficulty: 3
+  question: >-
+    A man refused by a hotel three years ago asks if the Legal Aid department will check his income
+    before helping with a services-law claim.
+  options:
+    - Yes; the usual income and asset tests apply to everyone
+    - No; Legal Aid never helps in civil claims of any kind
+    - No; such claims skip the means test, but merits are checked
+    - Yes, and only claims under three years old qualify
+  correct: 2
+  explanation: >-
+    Kol Zchut (2025): a person bringing a civil claim under this law is exempt from the economic
+    test; Legal Aid still checks the merits.
+- id: m09-035
+  module: 9
+  lesson: '09.2'
+  subject: criminal
+  difficulty: 2
+  question: Besides a civil claim, what other consequence does the services law provide?
+  options:
+    - Automatic loss of the business licence for a year
+    - Imprisonment of the bouncer for up to five years
+    - A criminal fine, and closure of a repeat offender's business
+    - A ban on the owner leaving Israel until he pays
+  correct: 2
+  explanation: >-
+    Section 9 sets a fine and lets a court order a business closed if the owner was previously
+    convicted of the same offence.
+- id: m09-036
+  module: 9
+  lesson: '09.3'
+  subject: employment-grounds
+  difficulty: 1
+  question: Which stage of employment is NOT listed in s. 2(א) of the employment law?
+  options:
+    - Hiring, including the selection process
+    - Promotion to a more senior position
+    - Assigning customers to a worker
+    - Dismissal and severance pay
+  correct: 2
+  explanation: >-
+    Section 2(א)(1)–(6) covers hiring, conditions, promotion, training, dismissal and severance, and
+    retirement benefits.
+- id: m09-037
+  module: 9
+  lesson: '09.3'
+  subject: employment-grounds
+  difficulty: 1
+  question: Does the employment law protect job applicants or only existing workers?
+  options:
+    - Only workers after three months
+    - Only applicants from outside the company
+    - Both workers and job applicants
+    - Only workers with a written contract
+  correct: 2
+  explanation: Section 2(א) bars discrimination 'between workers or between job applicants'.
+- id: m09-038
+  module: 9
+  lesson: '09.3'
+  subject: employment-grounds
+  difficulty: 2
+  question: >-
+    An employer refuses to promote a worker because her partner is often called for reserve duty. Is
+    this covered?
+  options:
+    - Yes; the partner's reserve duty is a listed ground
+    - No; only the worker's own service counts
+    - Only if the partner works for the same employer
+    - No; reserve duty is a matter for the IDF
+  correct: 0
+  explanation: >-
+    Section 2(א) includes reserve duty of the worker, the worker's spouse or the other parent of the
+    worker's child.
+- id: m09-039
+  module: 9
+  lesson: '09.3'
+  subject: employment-grounds
+  difficulty: 3
+  question: >-
+    A manpower agency places a worker at a factory, and the factory asks the agency to send 'only
+    Jews'. Who breaches the law?
+  options:
+    - Only the agency, as the formal employer of the worker
+    - Only the factory, as the agency just follows orders
+    - Neither, because the two firms have no employment contract
+    - The factory as actual employer, and the agency if it complies
+  correct: 3
+  explanation: >-
+    Section 2(א1) bars the actual employer from discriminating or asking a manpower contractor to do
+    so; the contractor is bound as employer.
+- id: m09-040
+  module: 9
+  lesson: '09.3'
+  subject: burden
+  difficulty: 1
+  question: Under s. 9(א)(2), when does the burden move to the employer in a dismissal case?
+  options:
+    - Always, from the very start of any claim
+    - Only if the employer has more than 100 workers
+    - If he proves nothing in his conduct justified dismissal
+    - Only if the worker was employed for five years or more
+  correct: 2
+  explanation: >-
+    Section 9(א)(2): in dismissal, the burden moves if the worker proves there was no reason in his
+    behaviour or acts.
+- id: m09-041
+  module: 9
+  lesson: '09.3'
+  subject: burden
+  difficulty: 2
+  question: An applicant meets every requirement in the ad but is not hired. What does s. 9(א)(1) do?
+  options:
+    - It entitles her to be given the job immediately
+    - It lets her skip the Labour Court and go to small claims
+    - It makes the candidate who was hired a defendant
+    - It moves the burden to the employer to show no discrimination
+  correct: 3
+  explanation: >-
+    If the applicant shows she met the conditions or qualifications the employer set, the employer
+    must prove it did not discriminate.
+- id: m09-042
+  module: 9
+  lesson: '09.3'
+  subject: burden
+  difficulty: 3
+  question: >-
+    An interviewer asks a woman whether she is married and has small children. She is rejected; the
+    employer says a better candidate was chosen. Which is the strongest legal point?
+  options:
+    - She must prove the other candidate was weaker than her
+    - Such questions are allowed if asked of every candidate
+    - The questions moved the burden to the employer (s. 9(ג))
+    - She can win only if the questions were asked in writing
+  correct: 2
+  explanation: >-
+    Asking for information on a prohibited ground (personal status, parenthood) moves the burden
+    under s. 9(ג); the employer must prove its reasons.
+- id: m09-043
+  module: 9
+  lesson: '09.3'
+  subject: commission
+  difficulty: 1
+  question: To whom is a complaint under s. 18יב of the employment law addressed?
+  options:
+    - The Public Complaints Commissioner at the Comptroller
+    - The registrar of the Regional Labour Court
+    - The Minister of Labour, through the ministry's website
+    - The regional commissioner of the employment Commission
+  correct: 3
+  explanation: 'Section 18יב: anyone may file a written complaint to the regional commissioner (נציב אזורי).'
+- id: m09-044
+  module: 9
+  lesson: '09.3'
+  subject: commission
+  difficulty: 1
+  question: Does a complaint to the Equal Employment Opportunities Commission cost anything?
+  options:
+    - Yes, a fee similar to a small claim
+    - Yes, unless you have a lawyer
+    - Only for complaints by organisations
+    - No, it is free
+  correct: 3
+  explanation: The Commission handles complaints and gives initial legal advice free of charge.
+- id: m09-045
+  module: 9
+  lesson: '09.3'
+  subject: commission
+  difficulty: 2
+  question: Which of these is NOT one of the Commission's options after a complaint?
+  options:
+    - Ordering the employer to pay compensation itself
+    - Sending the matter to mediation with both sides' consent
+    - Suing in the Labour Court in the worker's name
+    - Asking a court for a general order
+  correct: 0
+  explanation: >-
+    Under s. 18יג(ב) the Commission may dismiss, refer, mediate, investigate, sue or seek a general
+    order; compensation is awarded by a court.
+- id: m09-046
+  module: 9
+  lesson: '09.3'
+  subject: commission
+  difficulty: 2
+  question: The Commission decided not to sue in a worker's case. What must it give her?
+  options:
+    - Nothing; its decisions are internal
+    - Written notice with its reasons
+    - An oral explanation only
+    - A refund of her complaint fee
+  correct: 1
+  explanation: >-
+    Section 18יד: the regional commissioner informs the complainant in writing, with reasons, unless
+    it decided to sue.
+- id: m09-047
+  module: 9
+  lesson: '09.3'
+  subject: commission
+  difficulty: 3
+  question: >-
+    A worker sued in the Labour Court and later asks the Commission to investigate the same
+    dismissal. What will happen?
+  options:
+    - The Commission must open an investigation within 30 days
+    - The court must stay the case until the Commission finishes
+    - The worker must withdraw the claim to keep her rights
+    - The Commission will not handle it while it is before the court
+  correct: 3
+  explanation: >-
+    Section 18יג(א)(2): the Commission does not handle a complaint whose cause is being decided by a
+    court; the court may let it be heard (s. 13).
+- id: m09-048
+  module: 9
+  lesson: '09.3'
+  subject: limitation
+  difficulty: 2
+  question: >-
+    A worker was dismissed four years ago, she believes because of her religion. Can she still sue
+    under the employment law?
+  options:
+    - Yes; a worker has five years from the cause
+    - No; workers have three years
+    - No; the Commission's one-year limit applies to the court
+    - Yes, but only if the Commission agrees
+  correct: 0
+  explanation: 'Section 14: five years for a worker, three for a job applicant.'
+- id: m09-049
+  module: 9
+  lesson: '09.3'
+  subject: retaliation
+  difficulty: 2
+  question: >-
+    A worker testified for a colleague at the Commission. Soon after, his bonus is cancelled. Which
+    provision helps him?
+  options:
+    - 'Section 21: the exception for family employees'
+    - 'Section 2א: the ban on asking for the medical profile'
+    - 'Section 14: the limitation periods for claims'
+    - 'Section 6: no harm for helping another worker complain'
+  correct: 3
+  explanation: >-
+    Section 6(א) protects a worker harmed because he complained, sued or assisted another worker
+    under the law or the Equal Pay Law.
+- id: m09-050
+  module: 9
+  lesson: '09.3'
+  subject: employment-disability
+  difficulty: 2
+  question: >-
+    An applicant with a hearing impairment is rejected because the employer won't provide a phone
+    amplifier. Which law and forum?
+  options:
+    - Services law s. 3, in small claims
+    - Employment law s. 2, at the Commission only
+    - Disability law s. 8, in the Labour Court
+    - Women's Equal Rights Law, in an administrative court
+  correct: 2
+  explanation: >-
+    Disability discrimination in employment is governed by ss. 8–14 of the disability law; s. 14
+    gives the Labour Court exclusive jurisdiction.
+- id: m09-051
+  module: 9
+  lesson: '09.3'
+  subject: employment-grounds
+  difficulty: 3
+  question: >-
+    A settler applies to a Tel Aviv company that writes back, 'We don't hire people who live beyond
+    the Green Line.' Which statement is most accurate?
+  options:
+    - Residence is a ground only in the services law
+    - Place of residence is a ground in employment s. 2(א)
+    - He must use the disability Commission
+    - Only an administrative petition is available
+  correct: 1
+  explanation: Section 2(א) of the employment law lists 'מקום מגוריהם'; the written answer is strong evidence.
+- id: m09-052
+  module: 9
+  lesson: '09.4'
+  subject: disability-duties
+  difficulty: 1
+  question: >-
+    Which section states the basic prohibition on discriminating against a person with a disability
+    and harming his right to accessibility?
+  options:
+    - Section 19ג of the disability law
+    - Section 3 of the services law
+    - Section 2 of the employment law
+    - Section 1א of the Women's Equal Rights Law
+  correct: 0
+  explanation: >-
+    Section 19ג: no discrimination against a person with a disability and no harm to the right of
+    accessibility, under Chapter ה׳1.
+- id: m09-053
+  module: 9
+  lesson: '09.4'
+  subject: disability-duties
+  difficulty: 1
+  question: >-
+    Who bears the accessibility duty for adjustments that need no building permit when a public
+    place is run by a tenant?
+  options:
+    - The holder or operator of the place
+    - Only the owner of the building, always
+    - The municipality where the place is
+    - The Commission, which supervises accessibility
+  correct: 0
+  explanation: >-
+    Section 19ח(ג)(2): adjustments without a building permit fall on the owner, but if someone else
+    holds or operates the place, on that holder or operator.
+- id: m09-054
+  module: 9
+  lesson: '09.4'
+  subject: disability-duties
+  difficulty: 2
+  question: Section 19ו(ד) says that the non-discrimination section does not itself require something. What?
+  options:
+    - Carrying out accessibility adjustments
+    - Serving people with disabilities at all
+    - Allowing guide dogs
+    - Answering a Commission query
+  correct: 0
+  explanation: >-
+    Accessibility adjustments come from ss. 19ח, 19יא and the regulations; s. 19ו is about refusals,
+    conditions and worse service.
+- id: m09-055
+  module: 9
+  lesson: '09.4'
+  subject: disability-duties
+  difficulty: 2
+  question: >-
+    A cinema lets a wheelchair user in but only to the front row, while others choose any seat at
+    the same price. Which part of s. 19ו is relevant?
+  options:
+    - Refusing access to the place, s. 19ו(א)(1)(א)
+    - Service on terms worse than usual, s. 19ו(א)(3)
+    - A discriminatory advertisement under the services law
+    - The undue-burden exemption for existing places
+  correct: 1
+  explanation: >-
+    Giving a public service on worse terms than usual is barred by s. 19ו(א)(3), unless the nature
+    of the place requires it.
+- id: m09-056
+  module: 9
+  lesson: '09.4'
+  subject: exemptions
+  difficulty: 1
+  question: >-
+    Which of these is a ground for exempting an existing place from a specific accessibility
+    adjustment?
+  options:
+    - Engineering impossibility confirmed by an accessibility expert
+    - The owner's personal opposition to the accessibility law
+    - A complaint filed more than a year after the visit
+    - The fact that the place charges no entry fee at all
+  correct: 0
+  explanation: >-
+    Section 19יג(א)(1) exempts an adjustment that cannot be done for engineering reasons, as
+    confirmed by a licensed expert.
+- id: m09-057
+  module: 9
+  lesson: '09.4'
+  subject: exemptions
+  difficulty: 3
+  question: >-
+    A historic stone building in Safed has a narrow entrance. The operator says a ramp would destroy
+    its architectural character. Which exemption is that?
+  options:
+    - 's. 19יג(א)(3): historical or architectural value'
+    - 'Section 19יג(א)(2): undue burden because of the cost'
+    - 'Section 19נא(ג)(3): a query sent before the claim'
+    - Section 3(ד)(2) of the services law, on clubs
+  correct: 0
+  explanation: >-
+    Section 19יג(א)(3) exempts an adjustment that substantially harms the special character of a
+    place because of history, archaeology, architecture or nature.
+- id: m09-058
+  module: 9
+  lesson: '09.4'
+  subject: compensation
+  difficulty: 1
+  question: How often is the s. 19נא(ב) ceiling of the disability law updated?
+  options:
+    - Every month, from the October 2000 index
+    - Once a year, from the February 2005 index
+    - Every January, from the August 2013 index
+    - Never; it is fixed at ₪50,000
+  correct: 1
+  explanation: Section 19נא(ו) updates the sum once a year from the base index of February 2005.
+- id: m09-059
+  module: 9
+  lesson: '09.4'
+  subject: compensation
+  difficulty: 2
+  question: For which kind of breach does s. 19נא(ב) allow compensation without proof of damage?
+  options:
+    - Only s. 19ו discrimination by service providers
+    - Only breaches of the planning-law accessibility rules
+    - Only employment discrimination under s. 8
+    - Both s. 19ו discrimination and accessibility breaches
+  correct: 3
+  explanation: >-
+    Section 19נא(ב)(1) covers s. 19ו (and s. 19לה); (ב)(2) covers breaches of the accessibility
+    provisions listed there.
+- id: m09-060
+  module: 9
+  lesson: '09.4'
+  subject: compensation
+  difficulty: 3
+  question: >-
+    A hotel was sued two months ago by another guest for the same missing accessible room and is
+    building one on a reasonable schedule. A second guest now sues. What may the hotel argue?
+  options:
+    - The s. 19נא(ג)(2)(ב) bar for a recent earlier claim
+    - That only one claim per year may be filed per place
+    - That the second guest must sue in the Labour Court
+    - That accessibility claims require proof of intent
+  correct: 0
+  explanation: >-
+    Section 19נא(ג)(2)(ב) bars compensation without proof of damage if the earlier claim was filed
+    less than three months before and the defendant is acting on a reasonable timetable.
+- id: m09-061
+  module: 9
+  lesson: '09.4'
+  subject: commission-disability
+  difficulty: 1
+  question: What is the public phone number of the Commission for Equal Rights of Persons with Disabilities?
+  options:
+    - '*3103'
+    - '*6763'
+    - 074-7696565
+    - '*6405'
+  correct: 1
+  explanation: >-
+    The gov.il service page and Kol Zchut list *6763. *3103 is the Privacy Protection Authority;
+    074-7696565 is the employment Commission.
+- id: m09-062
+  module: 9
+  lesson: '09.4'
+  subject: commission-disability
+  difficulty: 2
+  question: >-
+    Which tool can the disability Commission use against a business that ignores its accessibility
+    duties?
+  options:
+    - An arrest warrant against the owner of the business
+    - An accessibility order (s. 19מג) and administrative fines
+    - Closing the business on the spot by its inspectors
+    - Awarding the complainant compensation itself
+  correct: 1
+  explanation: >-
+    The Commissioner or an inspector may issue an accessibility order after a hearing; Chapter ט
+    adds administrative fines and warnings.
+- id: m09-063
+  module: 9
+  lesson: '09.4'
+  subject: commission-disability
+  difficulty: 2
+  question: Before issuing an accessibility order, what must the Commissioner do?
+  options:
+    - Get a court's approval in advance
+    - Wait for a second complaint about it
+    - Obtain the complainant's written consent
+    - Let the person concerned present arguments
+  correct: 3
+  explanation: 'Section 19מג(ג): no order without an opportunity for the person concerned to make their case.'
+- id: m09-064
+  module: 9
+  lesson: '09.4'
+  subject: query
+  difficulty: 1
+  question: What may NOT be asked in a query (שאילתה) under s. 19מד?
+  options:
+    - How much compensation a court would award
+    - Whether a place is a 'public place'
+    - Whether an exemption applies
+    - Whether an accessibility order was issued
+  correct: 0
+  explanation: >-
+    Section 19מד(ב) limits queries to coverage, exceptions and exemptions, existing orders, and
+    subjects the Minister adds.
+- id: m09-065
+  module: 9
+  lesson: '09.4'
+  subject: service-animals
+  difficulty: 3
+  question: >-
+    A Haredi man with epilepsy uses a certified assistance dog. A clinic refuses entry with the dog.
+    Which provision deals with this?
+  options:
+    - Section 3(ד)(3) of the services law, on separate frameworks
+    - Section 2א of the employment law
+    - Section 19ו1 of the disability law, on service animals
+    - Section 19יג, on undue burden
+  correct: 2
+  explanation: >-
+    Section 19ו1 regulates access with a service animal, including assistance animals certified by a
+    recognised training centre.
+- id: m09-066
+  module: 9
+  lesson: '09.4'
+  subject: complaint-quality
+  difficulty: 2
+  question: 'Spot the weakness: ''The municipal library is not accessible. Please fix it.'''
+  options:
+    - It should be addressed to the Labour Court instead
+    - It must be signed and filed by a lawyer
+    - It should cite the Women's Equal Rights Law first
+    - It lacks the address, details, evidence and a request
+  correct: 3
+  explanation: >-
+    A complaint works when an inspector can find and assess the barrier: exact place, measurements,
+    photos, dates and the action requested.
+- id: m09-067
+  module: 9
+  lesson: '09.4'
+  subject: complaint-quality
+  difficulty: 3
+  question: >-
+    An activist wants to file a Commission complaint about an inaccessible clinic on behalf of her
+    elderly neighbour. What must she do?
+  options:
+    - File in her own name without telling the neighbour
+    - Ask a lawyer to file, since only lawyers may
+    - Get the neighbour's written consent and attach it
+    - File only after the neighbour sues
+  correct: 2
+  explanation: >-
+    Act in your own name or with the affected person's consent; a civil claim by the Commission in a
+    person's matter also requires consent.
+- id: m09-068
+  module: 9
+  lesson: '09.5'
+  subject: recording
+  difficulty: 1
+  question: Under the Wiretap Law, what makes listening 'האזנת סתר'?
+  options:
+    - The recording was made on a phone
+    - The conversation was in a public place
+    - The recording was not reported to the police
+    - No party to the conversation consented
+  correct: 3
+  explanation: >-
+    Section 1 defines wiretapping as listening without the consent of any of the parties to the
+    conversation.
+- id: m09-069
+  module: 9
+  lesson: '09.5'
+  subject: recording
+  difficulty: 1
+  question: What is the maximum penalty for unlawful wiretapping under s. 2(א)?
+  options:
+    - A fine only, with no prison
+    - Five years' imprisonment
+    - One year's imprisonment
+    - Ten years' imprisonment
+  correct: 1
+  explanation: 'Section 2(א): five years'' imprisonment.'
+- id: m09-070
+  module: 9
+  lesson: '09.5'
+  subject: recording
+  difficulty: 2
+  question: >-
+    A woman records her own job interview without telling the interviewers. Under the Wiretap Law,
+    what is the position?
+  options:
+    - Wiretapping, because the interviewers did not know
+    - Not wiretapping, because she is a party to the conversation
+    - Lawful only if the claim is in the Labour Court
+    - Wiretapping unless the employer has fewer than six workers
+  correct: 1
+  explanation: >-
+    A party's own consent suffices under s. 1; whether to record may still affect the relationship,
+    but it is not an offence.
+- id: m09-071
+  module: 9
+  lesson: '09.5'
+  subject: recording
+  difficulty: 3
+  question: >-
+    A friend who was not part of the conversation sends you a recording he made of two managers
+    discussing 'keeping Ethiopians out'. What should you do?
+  options:
+    - Post it online at once to warn the community
+    - Not use or share it; using a wiretap's content is an offence
+    - Give it to the court as your main piece of evidence
+    - Edit out the friend's voice and then use it in court
+  correct: 1
+  explanation: >-
+    Section 2(ב) makes knowingly using or disclosing the content of an unlawful wiretap an offence,
+    and s. 13 makes it inadmissible.
+- id: m09-072
+  module: 9
+  lesson: '09.5'
+  subject: recording
+  difficulty: 3
+  question: >-
+    During a phone call with a landlord, you put the call on speaker so your partner, sitting next
+    to you, can hear and record. The landlord does not know. Which is most accurate?
+  options:
+    - 'Lawful: you are a party and you consented'
+    - Wiretapping, because your partner was not a party
+    - Lawful only if the landlord is told within 24 hours
+    - Wiretapping, because the call was by telephone
+  correct: 0
+  explanation: Wiretapping requires the absence of consent of all parties; your consent as a party is enough.
+- id: m09-073
+  module: 9
+  lesson: '09.5'
+  subject: privacy
+  difficulty: 1
+  question: Which of these is listed as a privacy infringement in s. 2 of the Privacy Law?
+  options:
+    - Photographing a shop's entrance from the street
+    - Writing notes of your own conversation
+    - Saving a screenshot of a public advertisement
+    - Photographing a person while in a private domain
+  correct: 3
+  explanation: >-
+    Section 2(3) lists photographing a person in a private domain; scenes and notices in public
+    places are different.
+- id: m09-074
+  module: 9
+  lesson: '09.5'
+  subject: privacy
+  difficulty: 2
+  question: What does s. 32 of the Privacy Law say about evidence obtained by infringing privacy?
+  options:
+    - It is always admissible in civil discrimination cases
+    - Inadmissible without consent unless the court allows it
+    - It is admissible only if it proves discrimination
+    - It is inadmissible only in criminal proceedings
+  correct: 1
+  explanation: >-
+    Section 32: such material may not be used as evidence without the injured person's consent,
+    unless the court allows it for recorded reasons or a defence applies.
+- id: m09-075
+  module: 9
+  lesson: '09.5'
+  subject: testers
+  difficulty: 1
+  question: What is a tester in a discrimination case?
+  options:
+    - Someone who asks for the same service to check for bias
+    - A court-appointed expert on discrimination cases
+    - A police officer who investigates discrimination complaints
+    - A Commission inspector who measures ramps and doors
+  correct: 0
+  explanation: >-
+    Testers make the same request in the same circumstances, changing only the ground, to produce
+    comparison evidence.
+- id: m09-076
+  module: 9
+  lesson: '09.5'
+  subject: testers
+  difficulty: 2
+  question: >-
+    A tester check sends a secular man in a suit and a Haredi man in a coat to a bar on different
+    nights at different times. What is the main flaw?
+  options:
+    - Testers may only be women, to avoid confrontations
+    - Testers must be lawyers or law students
+    - Night and time changed as well as the ground
+    - Bars cannot be tested because they are private
+  correct: 2
+  explanation: A good test changes only the ground being tested; same time window, request and circumstances.
+- id: m09-077
+  module: 9
+  lesson: '09.5'
+  subject: testers
+  difficulty: 2
+  question: Why should each tester write a statement the same day?
+  options:
+    - To fix the times and words while memory is fresh, for court
+    - Because statements written later are illegal
+    - Because only same-day statements can be notarised
+    - Because the Commission requires it within 24 hours
+  correct: 0
+  explanation: Same-day statements are more reliable and can later become affidavits (02.6).
+- id: m09-078
+  module: 9
+  lesson: '09.5'
+  subject: testers
+  difficulty: 3
+  question: >-
+    A group plans to send testers carrying forged membership cards to see whether a club enforces
+    'members only' only against Arabs. What is the problem?
+  options:
+    - Forgery is deception that taints evidence and exposes testers
+    - Testers may not ask a club about its membership rules
+    - Clubs are not covered by the services law at all
+    - Members-only policies are always lawful in Israel
+  correct: 0
+  explanation: >-
+    Testers should make a real request without invented documents or identities; forgery exposes
+    them and weakens the comparison.
+- id: m09-079
+  module: 9
+  lesson: '09.5'
+  subject: evidence-log
+  difficulty: 1
+  question: In an evidence log, what should be recorded for each item besides the date?
+  options:
+    - Only the name of the file and its size
+    - Who, how, where it is stored, and what it proves
+    - Only whether it helps or hurts the case
+    - Only the serial number of the recording device
+  correct: 1
+  explanation: A full log shows provenance, storage and relevance, which helps the court trust the evidence.
+- id: m09-080
+  module: 9
+  lesson: '09.5'
+  subject: evidence-log
+  difficulty: 2
+  question: Why keep the original recording untouched and work on copies?
+  options:
+    - To answer challenges to authenticity
+    - Because copies are inadmissible
+    - Because editing is a wiretap offence
+    - Because courts accept only cloud files
+  correct: 0
+  explanation: An unedited original with its metadata answers claims that the recording was cut or altered.
+- id: m09-081
+  module: 9
+  lesson: '09.5'
+  subject: cctv
+  difficulty: 2
+  question: When should you ask a business to preserve its CCTV after an incident?
+  options:
+    - Only after a claim has been filed in court
+    - Only through a formal police complaint
+    - Only if the business is a public body
+    - In writing, the same day or the next morning
+  correct: 3
+  explanation: >-
+    Footage is often overwritten within days; a written request also shows the business knew of the
+    claim.
+- id: m09-082
+  module: 9
+  lesson: '09.5'
+  subject: publication
+  difficulty: 3
+  question: >-
+    After winning a small claim against a bar, an activist wants to post the bouncer's photo and the
+    word 'racist'. What is the most careful approach?
+  options:
+    - Post the photo and the label, since the claim was won
+    - Post nothing ever, because judgments are secret
+    - Post only on a private account, which is never publication
+    - Post the facts and judgment without his face, after 08.1–08.4
+  correct: 3
+  explanation: >-
+    Defamation and privacy still apply after a win; publishing proven facts and the judgment,
+    without unnecessary identification, is far safer.
+- id: m09-083
+  module: 9
+  lesson: '09.5'
+  subject: publication
+  difficulty: 3
+  question: Which piece of evidence is safest to publish before any legal step?
+  options:
+    - A video showing customers' faces inside the bar
+    - Your recording of a staff member's private remarks
+    - A list of the bouncers' names and home addresses
+    - A screenshot of the business's own public advertisement
+  correct: 3
+  explanation: >-
+    The business's own public advertisement is already public; faces, private remarks and addresses
+    raise privacy and defamation risks.

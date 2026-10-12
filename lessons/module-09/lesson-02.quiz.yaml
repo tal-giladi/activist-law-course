@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A religious man in a kippah is told at a bar's door that "the place is full". Two minutes later
+    three secular men are let in. He has a friend's time-stamped message proving it. What does this give him?
+  options:
+    - >-
+      Nothing yet; he must still prove that the bouncer intended to discriminate.
+    - >-
+      A s. 6(2) presumption; the bar must now prove another reason.
+    - >-
+      Automatic compensation of the full ceiling under s. 5(ב).
+    - >-
+      A criminal conviction of the bouncer under s. 9 of the law.
+  correct: 1
+  explanation: >-
+    Refusing members of a group while not refusing others in the same circumstances triggers the s. 6(2)
+    presumption; the burden moves to the bar. The court still decides the amount, up to the ceiling.
+- id: q2
+  question: >-
+    An LGBT rights organisation wants to sue a hotel in the Small Claims Court for refusing a
+    same-sex couple, with the couple's consent. What is the problem?
+  options:
+    - >-
+      Organisations may never sue under the services law.
+    - >-
+      Sexual orientation is not a listed ground in the services law.
+    - >-
+      Only an individual may file in the Small Claims Court.
+    - >-
+      The couple must first complain to a commission.
+  correct: 2
+  explanation: >-
+    Section 7 lets an organisation sue with consent, but Courts Law s. 60(א) limits the Small Claims
+    Court to claims filed by an individual. The couple can file there themselves, or the organisation in
+    the Magistrates' Court.
+- id: q3
+  question: >-
+    A club's company refuses entry to Arab customers as a door policy set by its active manager. Whom
+    can the customers sue?
+  options:
+    - >-
+      Only the bouncer, who personally refused them at the door.
+    - >-
+      Only the company, because it holds the business licence.
+    - >-
+      Only the municipality, which licensed the club to operate.
+    - >-
+      The company, and its active manager unless s. 8 clears him.
+  correct: 3
+  explanation: >-
+    Section 8 makes an active manager, partner or responsible senior employee liable for the company's
+    wrong unless they prove they did not know and took reasonable steps to prevent it.
+- id: q4
+  question: >-
+    Eighteen months after being refused service at a shop because of her age, a woman asks whether it
+    is too late to sue under the services law. What is the answer?
+  options:
+    - >-
+      It is not too late; the general seven-year limitation period applies.
+    - >-
+      It is too late; services claims must be filed within one year.
+    - >-
+      It is too late unless she complained to the police within 30 days.
+    - >-
+      It is not too late, but only the Attorney General can now sue.
+  correct: 0
+  explanation: >-
+    The services law sets no special period, so the Limitation Law's general seven years applies. Delay
+    still hurts the evidence, so act early.
