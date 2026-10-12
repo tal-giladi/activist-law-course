@@ -1,0 +1,25 @@
+- [Home](/)
+- [Current Numbers: Fees and Deadlines](references/current-numbers.md)
+- [Where to Get Help](references/where-to-get-help.md)
+- [Free External Resources](references/external-resources.md)
+- [Laws and Rulings Index](references/laws-index.md)
+- [Glossary](glossary.md)
+- [Templates](templates/README.md)
+
+- Stage 1 — Foundations
+- **Module 1 — How Israeli Law Works**
+  - [01 · What This Course Can and Cannot Make You](lessons/module-01/lesson-01.md)
+  - [02 · Where Israeli Law Comes From](lessons/module-01/lesson-02.md)
+  - [03 · The Hierarchy of Norms](lessons/module-01/lesson-03.md)
+  - [04 · The Map of Courts and Tribunals](lessons/module-01/lesson-04.md)
+  - [05 · Reading a Statute](lessons/module-01/lesson-05.md)
+  - [06 · Reading a Ruling](lessons/module-01/lesson-06.md)
+  - [Module 1 quiz](assessments/module-01-quiz.md)
+- **Module 2 — Legal Research and Writing**
+  - [07 · Finding the Current Text of a Law](lessons/module-02/lesson-01.md)
+  - [08 · Finding Rulings for Free](lessons/module-02/lesson-02.md)
+  - [09 · Secondary Sources](lessons/module-02/lesson-03.md)
+  - [10 · Building a Legal Argument](lessons/module-02/lesson-04.md)
+  - [11 · Writing a Formal Letter to an Authority](lessons/module-02/lesson-05.md)
+  - [12 · Affidavits](lessons/module-02/lesson-06.md)
+  - [Module 2 quiz](assessments/module-02-quiz.md)

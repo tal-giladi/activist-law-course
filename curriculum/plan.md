@@ -497,3 +497,17 @@ See `curriculum/course-details.md`:
 3. Certificate wording: approved as in course-details.md (Tal, 2026-10-12).
 4. Lesson 18.4 published without lawyer review, with a not-legal-advice notice (Tal, 2026-10-12).
 5. **Hebrew-only Academy translation later.** Prose is English. If Hebrew translation is switched on, the Hebrew quotes stay as they are.
+
+## 15. Question bank for daily practice (Tal, 2026-10-12)
+
+The tool itself is not built yet. Its purpose is to give the learner daily practice questions drawn from the modules they have already finished.
+
+**Per-module files.** Every module agent writes `curriculum/question-bank/module-NN.yaml` with these rules:
+
+- **Size:** at least 60 questions, ideally 80–100.
+- **Format:** the quiz format, plus the fields `module`, `lesson`, `subject` and `difficulty` (1–3).
+- **New material only:** the questions must not repeat any lesson or module quiz question.
+
+`curriculum/build-spec.md` has the details.
+
+**Master file.** After each module, the main session merges the module files into `curriculum/question-bank/master.yaml`. The checker validates every bank file.
