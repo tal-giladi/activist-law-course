@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A volunteer finds that a suspect in an attack on protesters uses an old password on his Facebook
+    account, and proposes logging in to save his private messages "as open-source evidence". What is
+    the right assessment?
+  options:
+    - >-
+      It is open source, because the password was guessable by anyone.
+    - >-
+      It is allowed if the messages are handed only to the police afterwards.
+    - >-
+      It is unauthorised access, a Computers Law offence, and not open source.
+    - >-
+      It is allowed for serious crimes, under the public-interest defence.
+  correct: 2
+  explanation: >-
+    Open-source information needs no unauthorised access. Logging into another person's account
+    without permission is an offence under the Computers Law s. 4, and the material is likely to be
+    excluded and to expose the volunteer.
+- id: q2
+  question: >-
+    You find a public post with a video of an attack on a bus stop. Which collection is closest to the
+    Berkeley Protocol minimum?
+  options:
+    - >-
+      A phone photo of the screen showing the video, sent to the group chat.
+    - >-
+      URL, dated full-page capture, HTML, the video file, uploader data and hashes.
+    - >-
+      A link to the post saved in a document, to be checked later.
+    - >-
+      The video file downloaded and renamed with a clear description.
+  correct: 1
+  explanation: >-
+    The Protocol asks for the URL, source code, a full-page capture with date and time, the embedded
+    media, metadata, context, collection data and a hash at collection. A link or a renamed file alone
+    may not survive or prove authenticity.
+- id: q3
+  question: >-
+    A video's uploader is a well-known local journalist, so a colleague says no further checks are
+    needed. What is the flaw in that reasoning?
+  options:
+    - >-
+      Journalists' videos are never admissible in Israeli courts.
+    - >-
+      Verification should rely on metadata only, never on the uploader.
+    - >-
+      A journalist's video must first be approved by the platform.
+    - >-
+      Source analysis is one lens; technical and content checks are still needed.
+  correct: 3
+  explanation: >-
+    Reliable people also repost old or edited material. The Protocol treats source, technical and
+    content analysis together and compares them for consistency.
+- id: q4
+  question: >-
+    A viral clip shows no metadata at all when you inspect the downloaded file. What should you
+    conclude?
+  options:
+    - >-
+      Nothing by itself, because platforms often strip metadata on upload.
+    - >-
+      That the clip has certainly been edited to hide its origin.
+    - >-
+      That it is fake and should be logged as "false".
+    - >-
+      That it was filmed with a professional camera, not a phone.
+  correct: 0
+  explanation: >-
+    Many platforms remove embedded metadata. Missing metadata is not proof of manipulation; rely on
+    source and content analysis (earliest upload, geolocation, chronolocation).

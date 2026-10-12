@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A volunteer wants to interview a 15-year-old who says she was assaulted at a protest, "while it
+    is still fresh". What should the group do?
+  options:
+    - >-
+      Interview her at once by video, with her friend present for support.
+    - >-
+      Refer her and her parents to trained professionals instead of interviewing her.
+    - >-
+      Interview her if she signs the consent form herself, since she is over 14.
+    - >-
+      Post a public call for other witnesses before speaking with her.
+  correct: 1
+  explanation: >-
+    Children and survivors of violence need trained interviewers; an untrained interview can
+    re-traumatise her and damage the evidence. Referral, with the parents involved, protects both.
+- id: q2
+  question: >-
+    Halfway through an interview, a witness mentions things she had not planned to share, including
+    a neighbour's name. What should you do before ending the call?
+  options:
+    - >-
+      Thank her and end quickly, since consent was signed at the start.
+    - >-
+      Tell her the recording is final and cannot be changed now.
+    - >-
+      Confirm consent again and ask whether there is anything she wants left out.
+    - >-
+      Promise that the neighbour's name will appear only in the public version.
+  correct: 2
+  explanation: >-
+    The Istanbul Protocol asks for consent to be confirmed again at the end, after the person knows
+    what they disclosed. Asking what to leave out respects her choice and protects the neighbour.
+- id: q3
+  question: >-
+    Which question is the best one to ask first about an incident at a checkpoint?
+  options:
+    - >-
+      "Did the soldier push you because of where you come from?"
+    - >-
+      "The soldier was rude and aggressive to you, wasn't he?"
+    - >-
+      "Did they hit you with their rifles or with their fists?"
+    - >-
+      "In your own words, what happened that morning?"
+  correct: 3
+  explanation: >-
+    A free account first, then open clarifying questions. The other options suggest the answer or
+    the motive, which makes the testimony easy to challenge.
+- id: q4
+  question: >-
+    You plan to audio-record a phone interview with a protester about police conduct. What does the
+    law require and what does good practice add?
+  options:
+    - >-
+      The law allows it as you are a party; good practice is explicit consent on the recording.
+    - >-
+      The law forbids any recording of a phone call without a court permit.
+    - >-
+      The law requires written consent from the police before the protester is recorded.
+    - >-
+      The law allows it only if a lawyer is on the call as a third party.
+  correct: 0
+  explanation: >-
+    Recording a conversation you take part in is not wiretapping (Wiretap Law s. 1). Ethically you
+    still record only with the interviewee's explicit consent, given at the start of the recording.

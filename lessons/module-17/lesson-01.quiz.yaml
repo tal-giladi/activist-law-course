@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A residents' group collects testimonies about demolitions "for a complaint to the ministry". A
+    year later it wants to publish the full testimonies, with names, in a public report. What must it
+    do first?
+  options:
+    - >-
+      Nothing more, because the witnesses already agreed to be documented.
+    - >-
+      Remove only the names of minors, since adults' consent covers any use.
+    - >-
+      Ask the witnesses again, because the new use differs from the original purpose.
+    - >-
+      Wait seven years, after which the testimonies become public records.
+  correct: 2
+  explanation: >-
+    Using information about a person's private affairs for a purpose other than the one it was given
+    for is an invasion of privacy (Privacy Law s. 2(9)). Consent for a complaint is not consent for a
+    public report.
+- id: q2
+  question: >-
+    Which log entry is written the way this lesson recommends?
+  options:
+    - >-
+      "Settlers carried out a pogrom in the village last night, residents report."
+    - >-
+      "W-02 says four masked men stoned two houses at about 22:30; first-hand."
+    - >-
+      "Police brutality again at the protest, as everyone saw on social media."
+    - >-
+      "A terrorist attack took place here, according to many reliable sources."
+  correct: 1
+  explanation: >-
+    The entry describes acts, names the source, says how reliable it is and flags what is uncertain.
+    The others use labels that decide the question or rely on unnamed and repeated sources.
+- id: q3
+  question: >-
+    You are logging an attack on a family. A volunteer wants to add the family's home address, ID
+    numbers and medical history to the shared spreadsheet "in case it is useful later". What is the
+    best response?
+  options:
+    - >-
+      Record only what the stated purpose needs, and keep identifying details in a separate key.
+    - >-
+      Add everything now, since data that is not collected immediately is lost.
+    - >-
+      Add it but share the spreadsheet only with the volunteers in the group chat.
+    - >-
+      Add it in English so that it is not covered by Israeli privacy law.
+  correct: 0
+  explanation: >-
+    Data minimisation means collecting only what the purpose needs. Sensitive details in a shared file
+    can endanger people if it leaks; codes in the working file and a separate, protected key reduce
+    that risk.
+- id: q4
+  question: >-
+    A forwarded 40-second video seems to show an officer striking a person on the ground. There is no
+    time stamp and the uploader is unknown. How should it go into your log?
+  options:
+    - >-
+      As the main evidence, because video cannot lie.
+    - >-
+      Not at all, because forwarded videos are never usable.
+    - >-
+      As first-hand evidence, if at least three friends forwarded it to you.
+    - >-
+      As unverified, with its source and doubts noted until it is verified.
+  correct: 3
+  explanation: >-
+    Forwarded footage may be old, edited or from another place. Log it with its source and doubts,
+    then try to find the original upload and verify it (17.3) before relying on it.

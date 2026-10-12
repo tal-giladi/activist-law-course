@@ -22431,3 +22431,1538 @@
   explanation: >-
     The Coalition for the ICC describes OTPLink and the post as the channels; check the ICC's
     contact page for any change.
+- id: m17-001
+  module: 17
+  lesson: '17.1'
+  subject: documentation-purpose
+  difficulty: 1
+  question: Which step comes first in a documentation project, according to this module?
+  options:
+    - Downloading every video about the issue before it is deleted.
+    - Writing down the purpose of the record and who will use it.
+    - Publishing a call for testimonies on social media.
+    - Choosing the software the team will use to store files.
+  correct: 1
+  explanation: >-
+    The purpose decides the standard of care, the consent you ask for and who may see the material.
+    Collecting first and deciding later leads to wrong consent and unusable material.
+- id: m17-002
+  module: 17
+  lesson: '17.1'
+  subject: documentation-purpose
+  difficulty: 2
+  question: >-
+    A group's material will be used only for a public social-media campaign. Which requirement is
+    most important to add for that purpose?
+  options:
+    - Affidavits signed before a lawyer for every witness.
+    - A transfer log signed by a police officer for every item.
+    - Consent to publish, and removal of details nobody needs.
+    - A medical report confirming each injury described.
+  correct: 2
+  explanation: >-
+    Public advocacy is tested by journalists and opponents, so facts must be accurate, but its
+    special need is consent to publish and data minimisation. Affidavits and medical reports serve
+    litigation.
+- id: m17-003
+  module: 17
+  lesson: '17.1'
+  subject: documentation-purpose
+  difficulty: 3
+  question: >-
+    A group starts collecting testimonies "for a report" and later decides to support a civil claim
+    in court with the same material. What problem is most likely to surface?
+  options:
+    - Reports and court cases may never use the same facts.
+    - The court will refuse any material collected by volunteers.
+    - The claim must be filed within 30 days of the first testimony.
+    - Consent and custody may not cover use in court.
+  correct: 3
+  explanation: >-
+    Litigation needs consent to use in court (and possibly to testify), originals and a chain of
+    custody. Material gathered only "for a report" may lack both, so plan for every likely use
+    early.
+- id: m17-004
+  module: 17
+  lesson: '17.1'
+  subject: five-questions
+  difficulty: 1
+  question: Which set of questions should every incident-log entry answer?
+  options:
+    - What, who, when, where, and how do we know.
+    - Who is guilty, why they did it and what the punishment should be.
+    - What the media said, what officials said and what the public thinks.
+    - Which law was broken, which court applies and what remedy to seek.
+  correct: 0
+  explanation: >-
+    The five questions describe the event and its sources. Guilt, motive and legal analysis come
+    later and are kept apart from the facts.
+- id: m17-005
+  module: 17
+  lesson: '17.1'
+  subject: five-questions
+  difficulty: 2
+  question: A witness says an attack happened "around ten at night". How should the time go into the log?
+  options:
+    - As 22:00 exactly, to keep the log consistent.
+    - As "about 22:00, witness's estimate".
+    - Left empty until a video confirms the exact minute.
+    - As the time the witness called you, which is certain.
+  correct: 1
+  explanation: >-
+    Record the time as precisely as the evidence allows and say how you know it. Turning an estimate
+    into an exact time creates a false precision that can be attacked later.
+- id: m17-006
+  module: 17
+  lesson: '17.1'
+  subject: fact-vs-analysis
+  difficulty: 1
+  question: Which of these belongs in the "analysis" layer rather than the "fact" column?
+  options:
+    - '"W-04 says three men in masks entered the yard at about 01:00."'
+    - '"Video E-07 shows a white pickup leaving the scene."'
+    - '"If confirmed, this may be aggravated assault under the Penal Law."'
+    - '"Police statement of 4.5.2026 says two suspects were detained."'
+  correct: 2
+  explanation: >-
+    The legal characterisation is analysis. The other three describe what a source says or shows,
+    which is what the fact column is for.
+- id: m17-007
+  module: 17
+  lesson: '17.1'
+  subject: fact-vs-analysis
+  difficulty: 2
+  question: >-
+    Spot the mistake in this log entry: "Hamas terrorists massacred residents of the kibbutz;
+    source: survivor W-02, first-hand."
+  options:
+    - A first-hand survivor cannot be a source for a log entry.
+    - The source type should be "hearsay" because she survived.
+    - The time and place are missing, but the wording is fine.
+    - Labels replace a description of what she saw and heard.
+  correct: 3
+  explanation: >-
+    The fact column describes acts — what W-02 saw and heard, when and where. Labels such as
+    "massacred" or "terrorists" may be quoted from a source, but they do not replace the
+    description.
+- id: m17-008
+  module: 17
+  lesson: '17.1'
+  subject: source-types
+  difficulty: 1
+  question: >-
+    A woman tells you that her neighbour told her the police beat her son. How do you classify her
+    account of the beating?
+  options:
+    - Hearsay, because she did not see it herself.
+    - First-hand, because she knows the family personally.
+    - Documentary, because she can describe it in detail.
+    - Official, because it concerns the police.
+  correct: 0
+  explanation: >-
+    She repeats what someone else told her. Record it as hearsay and try to reach the son or a
+    direct witness.
+- id: m17-009
+  module: 17
+  lesson: '17.1'
+  subject: source-types
+  difficulty: 2
+  question: >-
+    Ten Telegram channels report the same number of injured in an incident, all citing one local
+    account. How many independent sources do you have?
+  options:
+    - Ten, because each channel published separately.
+    - One, because they all repeat the same original account.
+    - Five, counting only channels with many followers.
+    - None, because Telegram can never be a source.
+  correct: 1
+  explanation: >-
+    Corroboration needs independent sources. Repetition of one source by many channels adds reach,
+    not reliability.
+- id: m17-010
+  module: 17
+  lesson: '17.1'
+  subject: accuracy
+  difficulty: 2
+  question: >-
+    After publishing a report, your group learns that one incident was dated wrongly. What should it
+    do?
+  options:
+    - Quietly edit the online version so that nobody notices.
+    - Leave it, because the incident itself did happen.
+    - Publish a visible correction with the date and reason.
+    - Withdraw the whole report and stop documenting the issue.
+  correct: 2
+  explanation: >-
+    The Berkeley Protocol's humility principle asks investigators to take responsibility for errors
+    and issue corrections. Open corrections protect the credibility of everything else.
+- id: m17-011
+  module: 17
+  lesson: '17.1'
+  subject: accuracy
+  difficulty: 1
+  question: >-
+    Sources estimate that "between 30 and 60" people took part in an attack. What should your report
+    say?
+  options:
+    - '"About 60", to make sure the harm is not understated.'
+    - '"45", the average of the estimates.'
+    - Nothing about numbers, since they are uncertain.
+    - '"Between 30 and 60, according to [sources]".'
+  correct: 3
+  explanation: >-
+    Use ranges and attribute them. Rounding up or averaging creates a number nobody actually
+    reported.
+- id: m17-012
+  module: 17
+  lesson: '17.1'
+  subject: do-no-harm
+  difficulty: 2
+  question: >-
+    Before recording a testimony about threats from a local gang, which question best applies the
+    "do no harm" principle?
+  options:
+    - Could this record endanger the witness if it leaks or is seized?
+    - Will this testimony get media attention for the cause?
+    - Is the witness willing to be filmed with full name?
+    - How quickly can the testimony be published online?
+  correct: 0
+  explanation: >-
+    Do no harm starts with the risk to the people involved: leaks, seizure, publication. The answer
+    shapes what you collect and how you store it.
+- id: m17-013
+  module: 17
+  lesson: '17.1'
+  subject: data-minimisation
+  difficulty: 2
+  question: >-
+    In a shared log about discrimination at a club's entrance, which detail should normally NOT be
+    recorded?
+  options:
+    - The date and time of the refusal.
+    - The witnesses' home addresses.
+    - What the bouncer said, word for word.
+    - Whether others were let in at the same time.
+  correct: 1
+  explanation: >-
+    Home addresses add nothing to proving the refusal and create risk if the log leaks. Contact
+    details, if needed, go in the separate, protected key.
+- id: m17-014
+  module: 17
+  lesson: '17.1'
+  subject: data-minimisation
+  difficulty: 1
+  question: Why does the module recommend codes such as "W-03" instead of names in working files?
+  options:
+    - Because Israeli courts accept only coded witness lists.
+    - Because codes make the files smaller and faster to share.
+    - So that a leak of the working file does not identify people.
+    - So that witnesses cannot later withdraw their consent.
+  correct: 2
+  explanation: >-
+    The key linking codes to names is stored separately and securely; a leaked working file then
+    reveals much less.
+- id: m17-015
+  module: 17
+  lesson: '17.1'
+  subject: privacy-limits
+  difficulty: 3
+  question: >-
+    A volunteer wants to post a photo, taken minutes after a rocket hit, showing an injured, clearly
+    identifiable neighbour lying on the road. What does Israeli privacy law say?
+  options:
+    - It is allowed, because the photo was taken in a public place.
+    - It is allowed once the neighbour leaves hospital.
+    - It is allowed if the post is in English rather than Hebrew.
+    - It may be an invasion of privacy under s. 2(4א); get consent or blur.
+  correct: 3
+  explanation: >-
+    Section 2(4א) makes publishing an identifiable photo of an injured person, taken during or just
+    after the injury in embarrassing circumstances, an invasion of privacy. Consent or blurring is
+    needed.
+- id: m17-016
+  module: 17
+  lesson: '17.1'
+  subject: neutral-language
+  difficulty: 2
+  question: A source calls an event a "lynch". How should it appear in your incident log?
+  options:
+    - Quoted and attributed, next to a description of the acts.
+    - As the title of the entry, since it summarises the event well.
+    - Replaced by "riot", which is more neutral.
+    - Left out entirely, along with the source's account.
+  correct: 0
+  explanation: >-
+    The fact column describes acts; labels used by sources are quoted and attributed. Swapping one
+    label for another is still a judgement.
+- id: m17-017
+  module: 17
+  lesson: '17.1'
+  subject: existing-documenters
+  difficulty: 3
+  question: >-
+    You want to document attacks on a particular village, and learn that an NGO has already
+    interviewed most victims. What is the best next step?
+  options:
+    - Interview them again yourself, since your group needs its own material.
+    - Ask the NGO to share material, with the victims' consent.
+    - Ignore the NGO's work, which may be biased.
+    - Publish the NGO's interviews, since they are already recorded.
+  correct: 1
+  explanation: >-
+    Repeat interviews risk re-traumatisation and inconsistent accounts. Coordinate and share
+    material with consent instead of building a parallel file.
+- id: m17-018
+  module: 17
+  lesson: '17.2'
+  subject: when-not-to-interview
+  difficulty: 1
+  question: Which of these is a reason NOT to hold an interview now?
+  options:
+    - The witness prefers a video call to meeting in person.
+    - The witness wants to be identified only by initials.
+    - The witness is still in danger where they are speaking from.
+    - The witness speaks Arabic and needs an interpreter.
+  correct: 2
+  explanation: >-
+    Safety comes first. The other situations can be handled with a remote call, an identity choice
+    and an interpreter.
+- id: m17-019
+  module: 17
+  lesson: '17.2'
+  subject: when-not-to-interview
+  difficulty: 3
+  question: >-
+    A family member keeps urging a reluctant witness to "tell them everything" during your call.
+    What should you do?
+  options:
+    - Continue, because the family's support helps the witness talk.
+    - Ask the family member to speak on the witness's behalf.
+    - Record both and decide later which account to use.
+    - Pause, and offer to talk later when the witness is free to choose.
+  correct: 3
+  explanation: >-
+    Consent must be free of pressure, including from family. Offer another time and a private
+    setting; never use pressure to get a testimony.
+- id: m17-020
+  module: 17
+  lesson: '17.2'
+  subject: when-not-to-interview
+  difficulty: 3
+  question: >-
+    A woman tells your group she was sexually assaulted during an attack and wants "someone to
+    record her story". Nobody in the group is trained for this. What should the group do?
+  options:
+    - Connect her with specialised services and trained documenters.
+    - Record her story at once, before her memory of the events fades.
+    - Send her a written questionnaire to fill in alone.
+    - Tell her that her account cannot be documented.
+  correct: 0
+  explanation: >-
+    Survivors of sexual violence need trained interviewers and support (for example the Rape Crisis
+    Centers, 1202/1203). Referral respects her wish to speak without risking further harm.
+- id: m17-021
+  module: 17
+  lesson: '17.2'
+  subject: informed-consent
+  difficulty: 1
+  question: Which element is required for consent to be "informed" under the Istanbul Protocol's standard?
+  options:
+    - A signature witnessed by a lawyer or a notary.
+    - Knowing the uses, storage and who will see it.
+    - A promise that the case will reach court.
+    - A payment that compensates the witness for their time.
+  correct: 1
+  explanation: >-
+    Informed consent requires disclosure of the purpose, risks and benefits, what will happen,
+    limits on confidentiality, use and storage, and who will have access. Payment or promises
+    undermine it.
+- id: m17-022
+  module: 17
+  lesson: '17.2'
+  subject: informed-consent
+  difficulty: 2
+  question: 'Your consent form has one box: "I agree to be documented." What is the main weakness?'
+  options:
+    - It is too short to be legally valid when written in Hebrew.
+    - It should be signed in front of two adult witnesses.
+    - It does not separate uses, identity and recording choices.
+    - It should have been drafted and approved by a lawyer.
+  correct: 2
+  explanation: >-
+    People may agree to a police complaint but not to a public report, or to audio but not video.
+    Each use, the identity choice and each type of recording need their own answer.
+- id: m17-023
+  module: 17
+  lesson: '17.2'
+  subject: informed-consent
+  difficulty: 3
+  question: >-
+    A witness agrees that her testimony may be sent to a UN Special Rapporteur. What must she be
+    told about who may see it?
+  options:
+    - Only UN staff in Geneva will ever be allowed to see it.
+    - Nobody outside your group will see it.
+    - Only Israeli courts can see UN material.
+    - Her details may be passed to the Government of Israel.
+  correct: 3
+  explanation: >-
+    In a Special Procedures communication, names are disclosed to the government by default unless a
+    security concern is stated (lesson 14.4). Consent must cover that.
+- id: m17-024
+  module: 17
+  lesson: '17.2'
+  subject: informed-consent
+  difficulty: 2
+  question: What is the honest way to explain the right to withdraw consent?
+  options:
+    - '"Until we file or publish; then removal may be impossible."'
+    - '"At any time, and everything will always be fully erased."'
+    - '"Once you have signed, you can never withdraw at all."'
+    - '"Only by sending us a formal letter from a lawyer."'
+  correct: 0
+  explanation: >-
+    Withdrawal is a real right, but once something is filed or published it may not be fully
+    removable. Say so plainly and set a clear withdrawal point.
+- id: m17-025
+  module: 17
+  lesson: '17.2'
+  subject: consent-reconfirmation
+  difficulty: 1
+  question: When should consent be confirmed again during an interview?
+  options:
+    - Only if the witness asks for it at some point.
+    - At the end, after the witness knows what they disclosed.
+    - Never; repeating it may make the witness doubt.
+    - Only when the interview lasts more than two hours.
+  correct: 1
+  explanation: >-
+    The Istanbul Protocol asks for consent to be confirmed again at the end of the interview, once
+    the person knows what they actually said.
+- id: m17-026
+  module: 17
+  lesson: '17.2'
+  subject: trauma-informed
+  difficulty: 1
+  question: Which list matches the trauma-informed principles cited in this module?
+  options:
+    - Speed, completeness, accuracy, publicity and impact.
+    - Control, firmness, repetition, detail and closure.
+    - Safety, trust, choice, collaboration and empowerment.
+    - Neutrality, distance, silence, efficiency and order.
+  correct: 2
+  explanation: >-
+    The Istanbul Protocol cites safety, trustworthiness, choice, collaboration and empowerment as
+    strategies to reduce re-traumatisation.
+- id: m17-027
+  module: 17
+  lesson: '17.2'
+  subject: trauma-informed
+  difficulty: 2
+  question: During an interview, the witness goes silent, then starts shaking. What should you do?
+  options:
+    - Ask the next question quickly to keep the momentum.
+    - Remind her the interview was her own idea.
+    - Move to the most important question before she stops.
+    - Offer a break or to stop, and do not push for details.
+  correct: 3
+  explanation: >-
+    Signs of distress call for a pause, a change of subject or ending the interview. Pushing harms
+    the person and the reliability of the account.
+- id: m17-028
+  module: 17
+  lesson: '17.2'
+  subject: trauma-informed
+  difficulty: 3
+  question: >-
+    A witness's account of an attack contains gaps and changes the order of events. What is the best
+    way to treat this?
+  options:
+    - Note it calmly and look for corroboration later.
+    - Challenge her during the interview to test her honesty.
+    - Discard the testimony as unreliable.
+    - Rewrite the account in the right order before filing it.
+  correct: 0
+  explanation: >-
+    Memory of trauma is often fragmented. Do not argue or edit; note inconsistencies and check them
+    against other sources afterwards.
+- id: m17-029
+  module: 17
+  lesson: '17.2'
+  subject: open-questions
+  difficulty: 1
+  question: Which is an open question?
+  options:
+    - '"Was the car white?"'
+    - '"What did the car look like?"'
+    - '"The car was a white pickup, right?"'
+    - '"Was it a pickup or a van?"'
+  correct: 1
+  explanation: >-
+    An open question lets the witness describe in their own words. The others suggest answers or
+    limit them to choices you provided.
+- id: m17-030
+  module: 17
+  lesson: '17.2'
+  subject: open-questions
+  difficulty: 2
+  question: >-
+    Before the witness finishes her account, a volunteer shows her a viral video "to help her
+    remember". Why is this a mistake?
+  options:
+    - Videos may not be shown during interviews under the Privacy Law.
+    - The video will be inadmissible if shown to a witness.
+    - It may change her memory and contaminate the testimony.
+    - The witness must first sign a separate video consent form.
+  correct: 2
+  explanation: >-
+    Showing other material before the account is complete can reshape memory and make the testimony
+    easy to challenge.
+- id: m17-031
+  module: 17
+  lesson: '17.2'
+  subject: open-questions
+  difficulty: 2
+  question: A witness says "the settlers came at night". What is a good follow-up question?
+  options:
+    - '"So they came from the outpost, as usual?"'
+    - '"Were they armed settlers or just youths?"'
+    - '"Why do you think settlers attacked you?"'
+    - '"What made you think they were settlers?"'
+  correct: 3
+  explanation: >-
+    Asking how the witness knows separates what she saw from what she inferred, without suggesting
+    an answer.
+- id: m17-032
+  module: 17
+  lesson: '17.2'
+  subject: recording-law
+  difficulty: 2
+  question: Is it lawful to audio-record your own phone interview with a witness in Israel?
+  options:
+    - Yes, as a party, though ethically you ask first.
+    - No, without a court permit under the Wiretap Law.
+    - Only if the witness is a public official.
+    - Only if the recording is never shown to a court.
+  correct: 0
+  explanation: >-
+    Wiretapping is listening without the consent of any party; you are a party. Good practice adds
+    explicit consent on the recording.
+- id: m17-033
+  module: 17
+  lesson: '17.2'
+  subject: recording-law
+  difficulty: 3
+  question: >-
+    After an interview at a witness's home, you leave your phone recording on the table while you
+    step out and the family keeps talking. What is the legal problem?
+  options:
+    - None, because the family invited you into the home.
+    - Recording a conversation you are not part of may be wiretapping.
+    - None, as long as you delete the recording within a week.
+    - Only a privacy problem if the recording is published.
+  correct: 1
+  explanation: >-
+    Once you leave, you are no longer a party; secretly recording others' conversation can be an
+    offence under the Wiretap Law (s. 2), and the recording is inadmissible (lesson 09.5).
+- id: m17-034
+  module: 17
+  lesson: '17.2'
+  subject: confidentiality
+  difficulty: 3
+  question: >-
+    You promised a witness that her name would appear only in the police complaint. A journalist
+    asks for it. What does the Privacy Law say?
+  options:
+    - You may disclose it if the journalist promises to keep it secret.
+    - You may disclose it because it is already in a police file.
+    - Breaking an agreed confidentiality can be an invasion of privacy.
+    - You may disclose it after the police close the case.
+  correct: 2
+  explanation: >-
+    Section 2(8) makes breach of a confidentiality duty set by express or implied agreement an
+    invasion of privacy. Keep every promise you make.
+- id: m17-035
+  module: 17
+  lesson: '17.2'
+  subject: support-referral
+  difficulty: 1
+  question: Which support line serves people affected by trauma from war and terror, around the clock?
+  options:
+    - ERAN 1201
+    - Rape Crisis Centers 1202
+    - Police 100
+    - NATAL *3362
+  correct: 3
+  explanation: >-
+    NATAL's helpline (*3362) is 24/7 for trauma from war and terror. ERAN (1201) offers general
+    emotional first aid; 1202/1203 serve survivors of sexual assault.
+- id: m17-036
+  module: 17
+  lesson: '17.2'
+  subject: support-referral
+  difficulty: 2
+  question: How should an interview end, according to this module?
+  options:
+    - With support contacts, next steps and a promise you can keep.
+    - With a request for more witnesses' phone numbers.
+    - With a promise that the attacker will be punished.
+    - With a copy of other victims' testimonies for comparison.
+  correct: 0
+  explanation: >-
+    Close with anything to add or remove, consent re-confirmed, support contacts and what happens
+    next. Never promise outcomes you cannot deliver.
+- id: m17-037
+  module: 17
+  lesson: '17.2'
+  subject: interpreters
+  difficulty: 2
+  question: >-
+    An interpreter summarises a witness's long answers instead of translating them. Why is that a
+    problem?
+  options:
+    - Interpreters may not be used in documentation interviews.
+    - Detail and the witness's own words are lost.
+    - Only certified court interpreters may translate testimonies.
+    - The interpreter must be a member of the witness's family.
+  correct: 1
+  explanation: >-
+    Interpreters translate exactly, in the first person, and keep confidentiality. Summaries lose
+    the detail that makes a testimony checkable.
+- id: m17-038
+  module: 17
+  lesson: '17.2'
+  subject: documenter-wellbeing
+  difficulty: 1
+  question: >-
+    A volunteer has heard six testimonies of violence this week and cannot sleep. What does the
+    module suggest?
+  options:
+    - Push through, since the victims suffered more.
+    - Stop documenting permanently.
+    - Debrief, limit interviews and use support if needed.
+    - Listen to the recordings again to get used to them.
+  correct: 2
+  explanation: Vicarious trauma is real. Debriefing, limits and support lines help documenters continue safely.
+- id: m17-039
+  module: 17
+  lesson: '17.2'
+  subject: minors
+  difficulty: 2
+  question: >-
+    A 16-year-old saw officers remove a protest sign without any violence and wants to describe it.
+    What do you need before a short interview?
+  options:
+    - Nothing more, since 16-year-olds can consent alone.
+    - The written approval of the teen's school principal.
+    - A police officer present during the interview.
+    - A parent's or guardian's consent and the teen's agreement.
+  correct: 3
+  explanation: >-
+    For a non-violent matter, a minor may be interviewed with a parent's or guardian's consent, the
+    young person's own agreement and a trusted adult present. Violence involving children is
+    referred.
+- id: m17-040
+  module: 17
+  lesson: '17.2'
+  subject: storage-of-interviews
+  difficulty: 1
+  question: What is the best name for a stored interview recording?
+  options:
+    - '"V-07_2026-05-02_audio.m4a"'
+    - '"Rami_attack_village_full.m4a"'
+    - '"Interview with the farmer from the village.m4a"'
+    - '"Secret testimony - do not share.m4a"'
+  correct: 0
+  explanation: >-
+    A code and date identify the file for the team without identifying the person if it leaks. A
+    "secret" label attracts attention.
+- id: m17-041
+  module: 17
+  lesson: '17.3'
+  subject: open-source-definition
+  difficulty: 1
+  question: Which of these is open-source information under the Berkeley Protocol?
+  options:
+    - Messages read on a friend's phone without asking him.
+    - A public post on a news site's social-media page.
+    - A closed group joined under a false name.
+    - Emails found in a leaked password database.
+  correct: 1
+  explanation: >-
+    Open-source information is what any member of the public can observe, purchase or request
+    without special status or unauthorised access.
+- id: m17-042
+  module: 17
+  lesson: '17.3'
+  subject: open-source-definition
+  difficulty: 2
+  question: >-
+    Satellite images of a demolished village are available to anyone who pays a commercial provider.
+    Are they open source?
+  options:
+    - No, because anything paid for is private information.
+    - No, because only UN bodies may use satellite images.
+    - Yes, because any member of the public can buy them.
+    - Yes, but only if the provider is an Israeli company.
+  correct: 2
+  explanation: >-
+    The Protocol includes information a member of the public can purchase. Paying does not make it
+    closed; unauthorised access does.
+- id: m17-043
+  module: 17
+  lesson: '17.3'
+  subject: computers-law
+  difficulty: 1
+  question: >-
+    What is the maximum penalty in the Computers Law for unlawful access to computer material (s.
+    4)?
+  options:
+    - A fine only, no prison.
+    - One year's imprisonment.
+    - Ten years' imprisonment.
+    - Three years' imprisonment.
+  correct: 3
+  explanation: >-
+    Section 4 carries up to three years; s. 5 raises it to five when access is used to commit
+    another offence, and s. 7 adds a civil claim.
+- id: m17-044
+  module: 17
+  lesson: '17.3'
+  subject: computers-law
+  difficulty: 3
+  question: >-
+    A former member of a far-right group offers you his old login to the group's private forum,
+    "which still works". What is the best course?
+  options:
+    - Decline to log in; ask him to give a testimony of what he saw.
+    - Use it once, since he was a legitimate member before.
+    - Use it, but only to take screenshots, not to post.
+    - Use it if a journalist logs in with you as a witness.
+  correct: 0
+  explanation: >-
+    Using credentials you were not given, to an account you are no longer entitled to, risks
+    unlawful access under s. 4. His own first-hand account, with consent, is lawful evidence.
+- id: m17-045
+  module: 17
+  lesson: '17.3'
+  subject: investigation-cycle
+  difficulty: 1
+  question: Which order matches the Berkeley Protocol's investigation cycle?
+  options:
+    - Collection, publication, verification, inquiries, preservation, analysis.
+    - Inquiries, preliminary assessment, collection, preservation, verification, analysis.
+    - Verification, inquiries, analysis, collection, preservation, assessment.
+    - Analysis, collection, inquiries, verification, assessment, preservation.
+  correct: 1
+  explanation: >-
+    The cycle runs from online inquiries and preliminary assessment through collection and
+    preservation to verification and investigative analysis.
+- id: m17-046
+  module: 17
+  lesson: '17.3'
+  subject: investigation-cycle
+  difficulty: 2
+  question: >-
+    A post seems relevant but you are not yet sure it is reliable, and it may be deleted soon. What
+    does the Protocol suggest?
+  options:
+    - Wait until it is verified, then collect it.
+    - Share it widely so that copies survive.
+    - Collect the best version now and keep verifying.
+    - Ignore it, since unverified material is useless.
+  correct: 2
+  explanation: >-
+    When removal is likely, collect the most reliable known version at once, while verification
+    continues.
+- id: m17-047
+  module: 17
+  lesson: '17.3'
+  subject: collection-minimum
+  difficulty: 1
+  question: Which item is part of the Berkeley Protocol's collection minimum?
+  options:
+    - The uploader's home address.
+    - A comment by your group on the post.
+    - A copy of the platform's terms of service.
+    - The page's HTML source code.
+  correct: 3
+  explanation: >-
+    The minimum includes the URL, source code, a full-page capture, embedded media, metadata,
+    contextual data, collection data and a hash.
+- id: m17-048
+  module: 17
+  lesson: '17.3'
+  subject: collection-minimum
+  difficulty: 2
+  question: >-
+    Why does the Protocol ask you to record collection data such as the collector, the device and
+    whether a research account was used?
+  options:
+    - To show later how and by whom the item was captured.
+    - To allow the platform to bill your organisation.
+    - Because Israeli law requires registration of collectors.
+    - So that the uploader can contact the collector.
+  correct: 0
+  explanation: >-
+    Collection data supports authenticity: who captured the item, when, how, and with what. It is
+    part of the chain of custody.
+- id: m17-049
+  module: 17
+  lesson: '17.3'
+  subject: collection-minimum
+  difficulty: 2
+  question: Why should your computer's clock be set automatically before collecting?
+  options:
+    - Platforms block computers with manual clocks.
+    - So timestamps in your captures are accurate.
+    - Hashes cannot be computed with a manual clock.
+    - Save Page Now refuses requests without network time.
+  correct: 1
+  explanation: >-
+    The Protocol recommends synchronising the clock with a network time server so that time-related
+    data in your captures is reliable.
+- id: m17-050
+  module: 17
+  lesson: '17.3'
+  subject: collection-minimum
+  difficulty: 3
+  question: >-
+    Spot the gap in this collection record: "URL; full-page PDF with date; video downloaded;
+    uploader and post time noted; comments saved."
+  options:
+    - The video should have been screen-recorded instead.
+    - Comments should never be collected.
+    - No hash values were recorded at collection.
+    - The URL should have been shortened.
+  correct: 2
+  explanation: >-
+    Without hashes at the point of collection, you cannot later show the files are unchanged. The
+    record also lacks the HTML and collection data.
+- id: m17-051
+  module: 17
+  lesson: '17.3'
+  subject: verification-source
+  difficulty: 1
+  question: What is "source analysis" in verification?
+  options:
+    - Checking the file for signs of editing.
+    - Matching buildings in the video to satellite images.
+    - Checking the weather on the claimed date.
+    - Finding who first posted it and how reliable they are.
+  correct: 3
+  explanation: >-
+    Source analysis attributes the item to its original source and assesses that source's
+    credibility, independence and links.
+- id: m17-052
+  module: 17
+  lesson: '17.3'
+  subject: verification-source
+  difficulty: 2
+  question: >-
+    A video is posted by an account created two days ago that has posted nothing else. What does
+    that tell you?
+  options:
+    - Be more cautious; look for an earlier upload.
+    - It is fake and should be discarded.
+    - It is genuine, because new accounts are rarely fake.
+    - Nothing, since account age is never relevant.
+  correct: 0
+  explanation: >-
+    A new account with no history is a warning sign, not proof. Look for the earliest upload and
+    check the other two lenses.
+- id: m17-053
+  module: 17
+  lesson: '17.3'
+  subject: verification-technical
+  difficulty: 2
+  question: Which is a sign that an image may be AI-generated or manipulated?
+  options:
+    - The image was posted late in the evening.
+    - Garbled sign text and inconsistent shadows.
+    - The uploader writes the caption in Arabic.
+    - The image has a low resolution and is blurry.
+  correct: 1
+  explanation: >-
+    Inconsistent text, hands, shadows and reflections are common technical warning signs. Low
+    resolution or the uploader's language prove nothing.
+- id: m17-054
+  module: 17
+  lesson: '17.3'
+  subject: verification-content
+  difficulty: 1
+  question: What is "chronolocation"?
+  options:
+    - Finding the place where an image was taken.
+    - Tracking the uploader's location history.
+    - Establishing when an image or video was taken.
+    - Arranging all items in a timeline by upload date.
+  correct: 2
+  explanation: >-
+    Chronolocation uses weather, shadows, season, visible events and the first known upload to
+    establish when something was filmed.
+- id: m17-055
+  module: 17
+  lesson: '17.3'
+  subject: verification-content
+  difficulty: 2
+  question: >-
+    A video said to be from "yesterday in Jerusalem" shows snow on the ground; it is June. What
+    should your verification note say?
+  options:
+    - Confirmed, because Jerusalem sometimes has snow.
+    - Unverifiable, because weather is not evidence.
+    - Confirmed for place, unconfirmed for date.
+    - Date claim false; seek the original date.
+  correct: 3
+  explanation: >-
+    Content analysis shows the date claim cannot be right. Record the contradiction and look for the
+    earliest upload to find the real date.
+- id: m17-056
+  module: 17
+  lesson: '17.3'
+  subject: verification-content
+  difficulty: 3
+  question: >-
+    A clip from your own side's activists seems to show police violence, and it matches your
+    campaign perfectly. Geolocation fits, but the date cannot be confirmed. What is the right
+    confidence level?
+  options:
+    - Place confirmed, date unverified.
+    - Confirmed, since the uploader is trusted by your group.
+    - Confirmed, since geolocation proves the date too.
+    - False, since the date cannot be proved.
+  correct: 0
+  explanation: >-
+    Report each element at the level the evidence supports. Never upgrade "likely" to "confirmed"
+    because an item fits your cause.
+- id: m17-057
+  module: 17
+  lesson: '17.3'
+  subject: ethics-online
+  difficulty: 2
+  question: Why should you avoid "liking" or commenting on posts you are investigating?
+  options:
+    - Platforms delete posts that receive investigators' likes.
+    - It can reveal you to the people you research.
+    - Likes change the post's hash value.
+    - The Computers Law forbids reactions to evidence.
+  correct: 1
+  explanation: >-
+    Interacting leaves a trail that sources and subjects can see. Use a separate research profile
+    and observe only.
+- id: m17-058
+  module: 17
+  lesson: '17.3'
+  subject: ethics-online
+  difficulty: 2
+  question: >-
+    You identify a suspect in a viral attack video through his public posts. A volunteer wants to
+    publish his home address "so people know". What is the right response?
+  options:
+    - Publish it, since he made his posts public.
+    - Publish it only in a closed group of activists.
+    - Do not publish it; give it to the police.
+    - Publish it after blurring his face in the video.
+  correct: 2
+  explanation: >-
+    Doxxing endangers people, including suspects who keep their rights, and can be a privacy
+    invasion (s. 2(1)). Give the information to the police.
+- id: m17-059
+  module: 17
+  lesson: '17.3'
+  subject: privacy-online
+  difficulty: 3
+  question: >-
+    A friend forwards you screenshots of a private WhatsApp chat in which officials discuss a
+    protest. What should you consider first?
+  options:
+    - Nothing; anything forwarded to you is open source.
+    - Whether the screenshots are in high enough resolution.
+    - Whether WhatsApp allows forwarding of screenshots.
+    - It may be a privacy invasion (s. 2(5)); take advice.
+  correct: 3
+  explanation: >-
+    A private chat is not open-source material. Using it without permission can be an invasion of
+    privacy; a public-interest defence may exist, but take advice first (lesson 08.4).
+- id: m17-060
+  module: 17
+  lesson: '17.3'
+  subject: tool-choice
+  difficulty: 3
+  question: >-
+    A free online tool promises to "verify any video" if you upload it. What does the Protocol's
+    Annex V suggest checking first?
+  options:
+    - Who owns it and where uploaded data is stored.
+    - Whether the tool also has a mobile app version.
+    - Whether celebrities recommend it.
+    - Whether the tool's website is in English.
+  correct: 0
+  explanation: >-
+    Annex V asks who owns the tool, whether its code is open or audited, where collected data is
+    stored and who can access it — your uploads may expose sensitive material.
+- id: m17-061
+  module: 17
+  lesson: '17.4'
+  subject: hashing
+  difficulty: 1
+  question: What does a matching SHA-256 hash show?
+  options:
+    - That the video shows a real, genuine event.
+    - That the file's content has not changed.
+    - Who filmed the video and when.
+    - That the file was never copied.
+  correct: 1
+  explanation: >-
+    A hash proves integrity — the content is identical to the hashed version. It says nothing about
+    who filmed it or whether the event is genuine.
+- id: m17-062
+  module: 17
+  lesson: '17.4'
+  subject: hashing
+  difficulty: 2
+  question: Why should MD5 and SHA-1 not be used for evidence today?
+  options:
+    - They work only on Windows computers.
+    - They change every time the file is opened.
+    - They are no longer considered secure.
+    - Israeli courts have banned them by regulation.
+  correct: 2
+  explanation: >-
+    Microsoft's documentation, among others, notes that MD5 and SHA-1 are no longer considered
+    secure. SHA-256 is the common standard today.
+- id: m17-063
+  module: 17
+  lesson: '17.4'
+  subject: hash-commands
+  difficulty: 1
+  question: Which command computes a SHA-256 hash on Linux?
+  options:
+    - Get-FileHash file.mp4
+    - certutil -hashfile file.mp4 SHA256
+    - shasum file.mp4
+    - sha256sum file.mp4
+  correct: 3
+  explanation: >-
+    sha256sum is part of GNU coreutils. Get-FileHash and certutil are Windows tools; plain shasum
+    defaults to SHA-1.
+- id: m17-064
+  module: 17
+  lesson: '17.4'
+  subject: hash-commands
+  difficulty: 2
+  question: On Windows, which command produces a SHA-256 hash without naming the algorithm?
+  options:
+    - Get-FileHash "C:\Evidence\E-01.mp4"
+    - certutil -hashfile "C:\Evidence\E-01.mp4"
+    - shasum "C:\Evidence\E-01.mp4"
+    - dir /hash "C:\Evidence\E-01.mp4"
+  correct: 0
+  explanation: >-
+    Get-FileHash uses SHA-256 by default. certutil should be given SHA256 explicitly; shasum is not
+    a Windows command and dir has no hash option.
+- id: m17-065
+  module: 17
+  lesson: '17.4'
+  subject: hash-commands
+  difficulty: 2
+  question: >-
+    You saved a list with `sha256sum * > hashes.txt` three months ago. Which command re-checks every
+    file at once?
+  options:
+    - sha256sum hashes.txt
+    - sha256sum -c hashes.txt
+    - sha256sum --tag hashes.txt
+    - sha256sum -z hashes.txt
+  correct: 1
+  explanation: The -c (--check) option reads the earlier output and prints OK or FAILED for each file.
+- id: m17-066
+  module: 17
+  lesson: '17.4'
+  subject: hash-commands
+  difficulty: 3
+  question: >-
+    A colleague's Linux hash is lowercase; your PowerShell hash of the same file is uppercase. What
+    does this mean?
+  options:
+    - The files differ, because the hashes look different.
+    - One tool used SHA-1 and the other SHA-256.
+    - Nothing; hex letters are the same in either case.
+    - The file was corrupted when copied to Linux.
+  correct: 2
+  explanation: >-
+    Hash values are hexadecimal; case does not matter. PowerShell's -eq comparison also ignores
+    case.
+- id: m17-067
+  module: 17
+  lesson: '17.4'
+  subject: originals-copies
+  difficulty: 1
+  question: Where should you blur faces in a video you will publish?
+  options:
+    - In the original file, so that no unblurred copy exists.
+    - In the original, after making a backup of it.
+    - Directly on the phone that filmed it.
+    - In a working copy logged as a derived file.
+  correct: 3
+  explanation: >-
+    Originals stay untouched; every edit is a derived working copy, recorded with what changed and
+    its own hash.
+- id: m17-068
+  module: 17
+  lesson: '17.4'
+  subject: originals-copies
+  difficulty: 2
+  question: A witness sends you a video as a regular WhatsApp video message. What risk does this create?
+  options:
+    - The app may compress it and strip metadata.
+    - WhatsApp videos cannot be hashed.
+    - WhatsApp deletes videos after 24 hours.
+    - The video becomes the property of WhatsApp.
+  correct: 0
+  explanation: >-
+    Messaging apps often re-encode media. Ask for the file to be sent as a document, or by an
+    encrypted link, and keep the witness's original if possible.
+- id: m17-069
+  module: 17
+  lesson: '17.4'
+  subject: chain-of-custody
+  difficulty: 1
+  question: What is a chain of custody?
+  options:
+    - A list of people who appear in a video.
+    - A record of who held an item, when and why.
+    - A court order to preserve evidence.
+    - The police's list of seized devices.
+  correct: 1
+  explanation: >-
+    The chain of custody records every hand-over of an item, so you can show it is the same item you
+    collected.
+- id: m17-070
+  module: 17
+  lesson: '17.4'
+  subject: chain-of-custody
+  difficulty: 2
+  question: You send evidence files to a volunteer lawyer. What makes the transfer record strongest?
+  options:
+    - A thank-you email from the lawyer on receipt.
+    - Sending the same files twice, just to be safe.
+    - The lawyer re-hashes and confirms the values match.
+    - Renaming the files with the lawyer's name.
+  correct: 2
+  explanation: >-
+    Sending the hash list and recording the receiver's matching re-hash shows the files arrived
+    unchanged.
+- id: m17-071
+  module: 17
+  lesson: '17.4'
+  subject: chain-of-custody
+  difficulty: 3
+  question: A quarterly re-check shows that one original's hash no longer matches. What should you do?
+  options:
+    - Update the register with the new hash and move on.
+    - Delete the file, since it is now unreliable.
+    - Keep quiet, as reporting it would weaken the case.
+    - Log it, restore from the other copy and note what happened.
+  correct: 3
+  explanation: >-
+    Never "fix" a hash. Record the failure, restore from the second copy, and document the incident
+    honestly.
+- id: m17-072
+  module: 17
+  lesson: '17.4'
+  subject: save-page-now
+  difficulty: 1
+  question: What does the Internet Archive's Save Page Now produce?
+  options:
+    - A dated, public archive copy of one web page.
+    - A legal certificate that the page is true.
+    - A private backup visible only to you.
+    - A complete copy of the whole website.
+  correct: 0
+  explanation: >-
+    It captures one page at a time as it appears now, with the date and time in the archive address.
+    It certifies nothing about the truth of the content.
+- id: m17-073
+  module: 17
+  lesson: '17.4'
+  subject: save-page-now
+  difficulty: 2
+  question: >-
+    Which Save Page Now option needs a signed-in (free) account, according to the page as checked in
+    October 2026?
+  options:
+    - Save outlinks.
+    - Save screenshot.
+    - Save error pages.
+    - Entering the URL.
+  correct: 1
+  explanation: >-
+    Signing in adds Save screenshot, My Web Archive and e-mailed results or WACZ files. Outlinks and
+    error pages are open to all.
+- id: m17-074
+  module: 17
+  lesson: '17.4'
+  subject: save-page-now
+  difficulty: 3
+  question: Why is a Save Page Now link not enough as your only copy of evidence?
+  options:
+    - Archive links expire automatically after one year.
+    - Israeli courts may not look at archive links at all.
+    - Some pages capture badly, and owners can seek exclusion.
+    - The archive deletes captures of political content.
+  correct: 2
+  explanation: >-
+    Pages behind logins and some social networks capture poorly, and site owners can request
+    exclusion. Keep your own hashed capture as well.
+- id: m17-075
+  module: 17
+  lesson: '17.4'
+  subject: metadata
+  difficulty: 1
+  question: Which metadata in a phone photo poses the greatest risk to the person who took it?
+  options:
+    - The image width and height.
+    - The colour profile.
+    - The file format.
+    - The GPS coordinates.
+  correct: 3
+  explanation: >-
+    Location data can reveal where the photographer lives or was standing. Strip it from published
+    copies.
+- id: m17-076
+  module: 17
+  lesson: '17.4'
+  subject: metadata
+  difficulty: 2
+  question: >-
+    On Windows, which choice in "Remove Properties and Personal Information" keeps the original's
+    metadata intact?
+  options:
+    - Create a copy with all possible properties removed.
+    - Remove the following properties from this file.
+    - Select all properties and press Delete.
+    - Change the file extension to .png first.
+  correct: 0
+  explanation: >-
+    The copy option leaves the original untouched; removing properties from the file itself destroys
+    the original's metadata.
+- id: m17-077
+  module: 17
+  lesson: '17.4'
+  subject: metadata
+  difficulty: 2
+  question: You run `exiftool -all= photo.jpg`. What happens to the original file?
+  options:
+    - It is permanently deleted.
+    - ExifTool keeps it as photo.jpg_original.
+    - It is uploaded to the ExifTool website.
+    - Its metadata is copied into a new .txt file.
+  correct: 1
+  explanation: >-
+    ExifTool writes the stripped version and preserves the original by adding "_original" to its
+    name. Log the stripped copy as a derived file.
+- id: m17-078
+  module: 17
+  lesson: '17.4'
+  subject: storage-backup
+  difficulty: 2
+  question: Which storage setup best fits this module's advice for originals?
+  options:
+    - One copy on the phone that filmed it.
+    - One copy on a USB stick in the group's office.
+    - Two encrypted copies in two places, one off-site.
+    - Copies in every volunteer's personal cloud.
+  correct: 2
+  explanation: >-
+    Two encrypted copies in different places protect against loss, seizure and failure, while
+    limiting who has access.
+- id: m17-079
+  module: 17
+  lesson: '17.4'
+  subject: database-security
+  difficulty: 3
+  question: >-
+    Your group holds testimonies with names, health details and political views. Which legal duty
+    applies to it as holder?
+  options:
+    - None, as long as the group is not a registered amuta.
+    - Only to register the database with the police.
+    - Only to delete everything after one year.
+    - To secure it, as a database holder under s. 17.
+  correct: 3
+  explanation: >-
+    Under s. 17(א) whoever controls or holds a database is responsible for its security; after
+    Amendment 13, sensitive information raises the stakes (lesson 08.4).
+- id: m17-080
+  module: 17
+  lesson: '17.4'
+  subject: capture-apps
+  difficulty: 2
+  question: >-
+    What should you know before recommending the eyeWitness to Atrocities app to people filming
+    their own experiences?
+  options:
+    - Footage is sent to a third party that keeps custody.
+    - It works only with Israeli phone numbers.
+    - It publishes all footage automatically online.
+    - Its footage cannot be used in any court.
+  correct: 0
+  explanation: >-
+    The app captures footage with verification metadata and transmits it securely to the eyeWitness
+    organisation, which keeps it for legal use. Users should read the terms first.
+- id: m17-081
+  module: 17
+  lesson: '17.5'
+  subject: threat-model
+  difficulty: 1
+  question: Which question is the first in the EFF security plan?
+  options:
+    - Which encryption app is the best?
+    - What do I want to protect?
+    - How much will security cost?
+    - Which country's law applies to me?
+  correct: 1
+  explanation: >-
+    The plan starts with assets, then asks who you protect them from, how bad and how likely the
+    harm is, what effort you will make, and who your allies are.
+- id: m17-082
+  module: 17
+  lesson: '17.5'
+  subject: threat-model
+  difficulty: 2
+  question: >-
+    Which threat list is the most useful for a group documenting police conduct at protests of all
+    camps?
+  options:
+    - Hackers, in general, from anywhere in the world.
+    - The government and anyone who works for it.
+    - Specific threats from every side, plus accidents.
+    - Everyone who disagrees with us politically.
+  correct: 2
+  explanation: >-
+    Specific threats — harassers from each side, phishing, a lost phone, a departing volunteer —
+    lead to specific measures. Vague labels lead nowhere.
+- id: m17-083
+  module: 17
+  lesson: '17.5'
+  subject: threat-model
+  difficulty: 3
+  question: >-
+    A security plan requires every volunteer to use five new tools and a separate laptop. Nobody
+    follows it. Which EFF question was ignored?
+  options:
+    - Who are my allies?
+    - What do I want to protect?
+    - How likely is it that I will need to protect it?
+    - How much trouble am I willing to go through?
+  correct: 3
+  explanation: A plan the team will not follow protects nothing. Choose measures people will actually use.
+- id: m17-084
+  module: 17
+  lesson: '17.5'
+  subject: devices
+  difficulty: 1
+  question: Why does EFF suggest turning off face or fingerprint unlock when you may be detained?
+  options:
+    - Someone can hold the phone to your face or finger.
+    - Biometric data is sent to the police automatically.
+    - Biometrics drain the battery during protests.
+    - Biometric unlock disables device encryption.
+  correct: 0
+  explanation: >-
+    A passcode must be given; a face or finger can be used against your will. In Israel, a phone
+    search also needs a judge's warrant (07.2).
+- id: m17-085
+  module: 17
+  lesson: '17.5'
+  subject: devices
+  difficulty: 2
+  question: >-
+    Your laptop holds evidence and is stolen from a car. Which earlier step protects the evidence
+    best?
+  options:
+    - A sticker saying "property of a human-rights group".
+    - Disk encryption and an encrypted backup elsewhere.
+    - A strong and unique Wi-Fi password at home.
+    - Keeping the laptop's screen brightness low.
+  correct: 1
+  explanation: >-
+    Encryption stops the thief from reading the data; a separate encrypted backup means you lose
+    nothing.
+- id: m17-086
+  module: 17
+  lesson: '17.5'
+  subject: accounts
+  difficulty: 1
+  question: Which second factor is weakest against account takeover?
+  options:
+    - A hardware security key.
+    - An authenticator app.
+    - A code sent by SMS.
+    - Backup codes kept offline.
+  correct: 2
+  explanation: >-
+    SMS codes can be intercepted or stolen through SIM-swap fraud. Authenticator apps and security
+    keys are stronger.
+- id: m17-087
+  module: 17
+  lesson: '17.5'
+  subject: accounts
+  difficulty: 2
+  question: A volunteer left the group angrily last month. What should have happened on the day she left?
+  options:
+    - A farewell message in the group chat.
+    - A request that she delete her messages.
+    - Nothing, as long as she signed a promise.
+    - Removal of her access to drives and groups.
+  correct: 3
+  explanation: Remove access the day someone leaves and review shared links. Promises do not stop access.
+- id: m17-088
+  module: 17
+  lesson: '17.5'
+  subject: accounts
+  difficulty: 3
+  question: >-
+    You see an unknown "Chrome on Windows" session logged into your group's email. What do you do
+    first?
+  options:
+    - End it, change the password elsewhere, add 2FA.
+    - Leave it, since it is probably a volunteer's laptop.
+    - Send an email asking who logged in.
+    - Delete the email account and open a new one.
+  correct: 0
+  explanation: >-
+    Contain first: end the session, change the password from a clean device, turn on two-factor
+    authentication and check forwarding rules. Then preserve evidence and investigate.
+- id: m17-089
+  module: 17
+  lesson: '17.5'
+  subject: messaging-metadata
+  difficulty: 1
+  question: In Telegram, which chats are end-to-end encrypted?
+  options:
+    - All chats and channels by default.
+    - Only "secret chats".
+    - Only channels with over 1,000 members.
+    - None at all.
+  correct: 1
+  explanation: >-
+    EFF notes that Telegram offers end-to-end encryption only if you turn it on (secret chats).
+    Signal and WhatsApp use it by default.
+- id: m17-090
+  module: 17
+  lesson: '17.5'
+  subject: messaging-metadata
+  difficulty: 2
+  question: >-
+    Your team uses disappearing messages in Signal. A witness sends a crucial voice note there. What
+    should you do?
+  options:
+    - Nothing, since Signal keeps a server copy.
+    - Screenshot the chat window only.
+    - Save it as a file and hash it at once.
+    - Ask the witness to send it again next month.
+  correct: 2
+  explanation: >-
+    Disappearing messages are for coordination, not evidence. Save the original file, hash it and
+    store it before it disappears.
+- id: m17-091
+  module: 17
+  lesson: '17.5'
+  subject: messaging-metadata
+  difficulty: 3
+  question: >-
+    A source wants to stay unknown even though your chats are end-to-end encrypted. What else could
+    reveal her?
+  options:
+    - The colour scheme of the messaging app she uses.
+    - The average length of her messages to you.
+    - The language and alphabet she writes in.
+    - 'Metadata: who contacted whom, when and from where.'
+  correct: 3
+  explanation: >-
+    Encryption protects content, not metadata. Patterns of contact and location can identify a
+    source on their own.
+- id: m17-092
+  module: 17
+  lesson: '17.5'
+  subject: phishing
+  difficulty: 2
+  question: >-
+    A message from a known activist's number says "urgent video of the attack — log in to view" with
+    a link. What is the safest response?
+  options:
+    - Don't use the link; check with her another way.
+    - Click it, since the sender is a known activist.
+    - Forward it to the group so others can check it.
+    - Log in quickly before the video is deleted.
+  correct: 0
+  explanation: >-
+    Urgency plus a login link is a classic phishing pattern, and known contacts' accounts can be
+    hijacked. Verify on another channel and type addresses yourself.
+- id: m17-093
+  module: 17
+  lesson: '17.5'
+  subject: emergency-response
+  difficulty: 2
+  question: What is the right order of steps after an account takeover?
+  options:
+    - Publish a statement, then change passwords, then tell sources.
+    - Contain, preserve, warn, get help, report.
+    - Report to the police, then wait for their instructions.
+    - Delete the account, then open a new one.
+  correct: 1
+  explanation: >-
+    Contain the breach, preserve evidence of the attack, warn the people affected — especially
+    sources — get expert help and report crimes.
+- id: m17-094
+  module: 17
+  lesson: '17.5'
+  subject: access-now
+  difficulty: 1
+  question: How do you contact Access Now's Digital Security Helpline?
+  options:
+    - By phone on a toll-free Israeli number.
+    - Through a form on the Israeli police website.
+    - By email to helpline@accessnow.org.
+    - Only through a partner NGO in Israel.
+  correct: 2
+  explanation: >-
+    The helpline is reached by email (with a PGP key on its page). It is free, 24/7 and replies
+    within two hours.
+- id: m17-095
+  module: 17
+  lesson: '17.5'
+  subject: access-now
+  difficulty: 3
+  question: >-
+    A 17-year-old student activist asks Access Now's helpline for help after her account was hacked.
+    What may happen?
+  options:
+    - She will be served first, as students have priority.
+    - She must pay a reduced fee because she is a minor.
+    - She will be referred to the Israeli police automatically.
+    - It may be declined; the helpline does not serve minors.
+  correct: 3
+  explanation: >-
+    The helpline's mandate allows it to decline people under 18. An adult in her group, a parent or
+    a local organisation may need to help instead.
+- id: m17-096
+  module: 17
+  lesson: '17.5'
+  subject: hack-back
+  difficulty: 3
+  question: >-
+    An activist wants to install tracking software on the phone of a man who harasses her, "to prove
+    it". What does the law say?
+  options:
+    - It is an offence and could make her a defendant.
+    - It is allowed if she reports him to the police first.
+    - It is allowed for victims of harassment.
+    - It is allowed if the software is free.
+  correct: 0
+  explanation: >-
+    Installing software on another's device to access it is an offence under the Computers Law (ss.
+    4, 6) and may also be wiretapping. Preserve the harassment and report it instead.

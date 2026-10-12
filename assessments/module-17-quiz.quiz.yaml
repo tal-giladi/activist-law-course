@@ -1,0 +1,173 @@
+- id: q1
+  question: >-
+    A group documenting attacks on Israeli civilians on 7 October receives a survivor's written
+    account "for the archive only". A journalist later asks for it, and the group wants to help. What
+    does it need first?
+  options:
+    - >-
+      The survivor's new consent for the new use, with the identity choice.
+    - >-
+      Nothing, since the account concerns a public event of national interest.
+    - >-
+      A court order, because archive material is privileged by law.
+    - >-
+      Only to remove the survivor's surname before sending it.
+  correct: 0
+  explanation: >-
+    Information given for one purpose may not be used for another without consent (Privacy Law s.
+    2(9)). Ask the survivor again, including how they want to be identified.
+- id: q2
+  question: >-
+    A volunteer logs a settler-violence incident as "Pogrom in the village: settlers burned homes".
+    The only source is a resident's Facebook post. How should the entry be rewritten?
+  options:
+    - >-
+      Keep it, because the resident is a first-hand witness by definition.
+    - >-
+      Describe the reported acts, name the post as the source, and mark it unverified.
+    - >-
+      Delete it until the army publishes its own account of the incident.
+    - >-
+      Replace "pogrom" with "terror attack", which is the official term.
+  correct: 1
+  explanation: >-
+    The fact column describes acts, not labels, and every fact has a source and a reliability note.
+    A post may be first-hand or hearsay; that needs checking before it is relied on.
+- id: q3
+  question: >-
+    A Haredi community worker wants to video-interview a 13-year-old boy about being beaten by
+    officers at a draft protest, because "children make strong testimony". What is the right course?
+  options:
+    - >-
+      Interview him with his father's signed consent and his own agreement.
+    - >-
+      Interview him by phone only, so that no video exists.
+    - >-
+      Refer the family to trained professionals and help them file a complaint.
+    - >-
+      Interview his friends instead, who saw it and are less upset.
+  correct: 2
+  explanation: >-
+    Interviewing children about violence needs trained interviewers; an untrained interview can harm
+    him and the evidence. Referral, and helping the parents file a complaint (06.4), protects both.
+- id: q4
+  question: >-
+    At the end of a remote interview, an Arab citizen who described police violence at a protest
+    says, "Maybe don't use the part about my cousin." Consent was signed at the start. What do you do?
+  options:
+    - >-
+      Use it anyway, since signed consent covers the whole interview.
+    - >-
+      Use it but replace the cousin's name with initials.
+    - >-
+      Ask the cousin directly for permission to use it.
+    - >-
+      Remove that part and re-confirm consent for the rest.
+  correct: 3
+  explanation: >-
+    Consent is confirmed again at the end, once the person knows what they said. Respect the
+    restriction and record the re-confirmation.
+- id: q5
+  question: >-
+    Investigating harassment of a left-wing protest group, a member finds that one harasser runs a
+    closed Telegram channel. She proposes joining under a fake persona to screenshot the planning
+    messages. What is the best assessment?
+  options:
+    - >-
+      Fine, because Telegram channels are public by nature.
+    - >-
+      Fine, if the screenshots are given only to the police.
+    - >-
+      Not open source; collect public posts and report to the police.
+    - >-
+      Fine, because harassers lose their privacy rights by their conduct.
+  correct: 2
+  explanation: >-
+    The Berkeley Protocol treats eliciting information under a false identity as outside open-source
+    investigation and unethical, and accessing material by deception can be unlawful. Public material
+    and a police complaint are the lawful routes.
+- id: q6
+  question: >-
+    A video titled "Police beat right-wing protesters at Kfar Maimon today" goes viral. Reverse image
+    search finds the same clip posted a year earlier from another protest. What should your log say?
+  options:
+    - >-
+      Genuine but misdated: an earlier event, with its source cited.
+    - >-
+      Fake video, to be deleted from the log entirely.
+    - >-
+      Today's event, since the scene and the uniforms look the same.
+    - >-
+      Unverifiable, because metadata was stripped by the platform.
+  correct: 0
+  explanation: >-
+    An earlier upload of the same clip shows it is older than claimed. Log it as genuine but misdated,
+    with the earlier source; it may still be evidence of the earlier event.
+- id: q7
+  question: >-
+    A lawyer asks for the original video of an attack on a bus driver that your group collected eight
+    months ago. How do you show it is the same file?
+  options:
+    - >-
+      Send the latest edited version, which is clearer for the court.
+    - >-
+      Re-hash it, match the recorded SHA-256 and log the transfer.
+    - >-
+      Send the file through WhatsApp so that the timestamp is added.
+    - >-
+      Write a letter confirming that nobody has opened the file.
+  correct: 1
+  explanation: >-
+    Matching the SHA-256 recorded at collection shows the file is unchanged; the transfer log and the
+    receiver's hash check continue the chain of custody. Messaging apps may compress files.
+- id: q8
+  question: >-
+    A disability-rights group will publish photos of blocked wheelchair ramps taken by members on
+    their phones. Several were taken outside members' homes. What is the correct metadata handling?
+  options:
+    - >-
+      Remove metadata from the originals, so that no copy can ever leak it.
+    - >-
+      Publish the originals, as GPS data makes the complaint stronger.
+    - >-
+      Publish nothing, because photos with metadata cannot be used.
+    - >-
+      Keep originals intact; publish stripped copies logged as derived files.
+  correct: 3
+  explanation: >-
+    Originals keep their metadata as evidence; published copies are stripped of location and device
+    data to protect the members, and logged with their own hashes.
+- id: q9
+  question: >-
+    A small group documenting discrimination against Ethiopian-Israeli youth keeps witness names in a
+    46-member WhatsApp group and a drive shared by link. What should come first?
+  options:
+    - >-
+      Buying a paid encrypted cloud service before changing anything else.
+    - >-
+      Asking every member to delete the group from their phones at once.
+    - >-
+      Moving names to a coded key with limited access, and closing the open shares.
+    - >-
+      Posting the names publicly so that the group has nothing to hide.
+  correct: 2
+  explanation: >-
+    Data minimisation and access control address the biggest risk: names in large, open spaces.
+    Export and hash evidence first, then move to small groups, codes and named access with 2FA.
+- id: q10
+  question: >-
+    A settlers' documentation group wants to archive a Palestinian news site's article that names an
+    injured Israeli teenager, before it is edited. What is the most careful approach?
+  options:
+    - >-
+      Save Page Now at once; public archives never raise privacy issues.
+    - >-
+      Keep a private hashed capture; weigh public archiving against exposing the teen.
+    - >-
+      Do nothing; only the news site may keep copies of its own articles.
+    - >-
+      Ask the news site to remove the teenager's name before saving anything.
+  correct: 1
+  explanation: >-
+    Your own capture with URL, time and hash preserves the evidence. A public archive is permanent,
+    so weigh whether it would keep an injured minor's identity online (Privacy Law s. 2(4א)).

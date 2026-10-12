@@ -1,0 +1,30 @@
+# Glossary inbox — Module 17
+
+- **תיעוד** (ti'ud) — Documentation: creating a reliable, checkable record of events.
+- **יומן אירועים** (yoman eru'im) — Incident log.
+- **עדות** (edut) — Testimony.
+- **עד ראייה** (ed re'iya) — Eyewitness.
+- **עדות שמיעה** (edut shmi'a) — Hearsay: what a person heard from someone else.
+- **מקור ראשוני** (makor rishoni) — Primary (first-hand) source.
+- **אימות** (imut) — Verification: establishing whether information is accurate and genuine.
+- **מזעור מידע** (mizur meida) — Data minimisation: collecting only what the purpose needs.
+- **לא להזיק** (lo lehazik) — Do no harm.
+- **הסכמה מדעת** (haskama mida'at) — Informed consent.
+- **חזרה מהסכמה** (chazara mehaskama) — Withdrawal of consent.
+- **טראומה חוזרת** (trauma chozeret) — Re-traumatisation.
+- **מוגנות** (mugnut) — Safeguarding: protecting people from harm caused by the documentation process.
+- **שאלה פתוחה** (she'ela ptucha) — Open question.
+- **שאלה מנחה** (she'ela mancha) — Leading question.
+- **מידע מקור גלוי** (meida makor galuy) — Open-source information: publicly available information that anyone can see, buy or request.
+- **ייחוס מקור** (yichus makor) — Attribution: finding who first created or posted an item.
+- **איתור מיקום** (itur mikum) — Geolocation: finding where an image or video was taken.
+- **מטא־דאטה** (meta-data) — Metadata: data about a file or a communication (time, device, location, sender).
+- **ערך גיבוב** (erech gibuv) — Hash value: a digital fingerprint of a file's content (SHA-256).
+- **שרשרת משמורת** (sharsheret mishmoret) — Chain of custody: the record of who held an item, when and why.
+- **עותק עבודה** (otek avoda) — Working copy: a copy used for editing, while the original stays untouched.
+- **חדירה לחומר מחשב שלא כדין** (chadira lechomer machshev shelo kadin) — Unlawful access to computer material (Computers Law s. 4).
+- **מודל איומים** (model iyumim) — Threat model: what you protect, from whom, and how likely the harm is.
+- **הצפנה מקצה לקצה** (hatzpana mikatze lekatze) — End-to-end encryption.
+- **אימות דו־שלבי** (imut du-shlavi) — Two-factor authentication (2FA).
+- **דיוג** (diyug) — Phishing.
+- **רוגלה** (rogla) — Spyware.

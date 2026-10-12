@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Your group's email account was taken over, and the attacker is emailing your sources. A
+    volunteer knows the attacker's likely identity and offers to break into his account "to see what
+    he took". What should the group do?
+  options:
+    - >-
+      Accept, as long as nothing is changed in the attacker's account.
+    - >-
+      Contain and preserve evidence, warn sources, get help and report it.
+    - >-
+      Accept, because the public-interest defence covers protecting sources.
+    - >-
+      Do nothing until the police confirm who the attacker is.
+  correct: 1
+  explanation: >-
+    Breaking into the attacker's account is itself an offence under the Computers Law s. 4. Change
+    passwords from a clean device, log out sessions, preserve evidence, warn sources, ask the Access
+    Now helpline for help, and file a police complaint.
+- id: q2
+  question: >-
+    A source asks whether a Signal call with you is "completely untraceable". What is the accurate
+    answer?
+  options:
+    - >-
+      Yes; end-to-end encryption hides both the content and the fact of the call.
+    - >-
+      No; Signal calls are recorded on the company's servers for 30 days.
+    - >-
+      Content is protected; metadata such as location may not be.
+    - >-
+      Only if both phones have biometric unlock switched off.
+  correct: 2
+  explanation: >-
+    End-to-end encryption protects content, not all metadata. Signal collects less metadata than
+    alternatives, but the phone network can still reveal location and that a connection existed.
+- id: q3
+  question: >-
+    Which first measure gives the biggest protection to a small documentation group whose volunteers
+    use personal email and one shared drive?
+  options:
+    - >-
+      Unique passwords and 2FA on every email account and the drive.
+    - >-
+      New phones for every volunteer before taking any other step.
+    - >-
+      Moving all files to a USB drive kept by the group's chair.
+    - >-
+      Switching the group chat from WhatsApp to SMS messages.
+  correct: 0
+  explanation: >-
+    Most incidents come from reused passwords and accounts without a second factor. These basics
+    protect the drive and email cheaply; SMS is not encrypted, and a single USB is a single point of
+    failure.
+- id: q4
+  question: >-
+    An Israeli human-rights group wants help from Access Now's Digital Security Helpline after a
+    phishing attack. Which statement is accurate?
+  options:
+    - >-
+      It charges a fee per incident but answers within two hours.
+    - >-
+      It answers in Hebrew during Israeli office hours only.
+    - >-
+      It will also investigate and prosecute the attacker on the group's behalf.
+    - >-
+      It is free and 24/7, after vetting, and does not work in Hebrew.
+  correct: 3
+  explanation: >-
+    The helpline is free for civil society, available 24/7, answers within two hours, vets every
+    request and works in ten languages including Arabic and English, but not Hebrew. It handles
+    digital security only.

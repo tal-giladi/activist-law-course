@@ -128,3 +128,10 @@
   - [84 · Universal Jurisdiction](/lessons/module-16/lesson-04.md)
   - [85 · Sending Information to International Bodies](/lessons/module-16/lesson-05.md)
   - [Module 16 quiz](/assessments/module-16-quiz.md)
+- **Module 17 — Documenting Human Rights Violations (about 12 hours)**
+  - [86 · Documentation Principles](/lessons/module-17/lesson-01.md)
+  - [87 · Interviews and Informed Consent](/lessons/module-17/lesson-02.md)
+  - [88 · Open-Source and Digital Evidence: the Berkeley Protocol](/lessons/module-17/lesson-03.md)
+  - [89 · Preserving and Archiving Evidence](/lessons/module-17/lesson-04.md)
+  - [90 · Digital Security for Activists](/lessons/module-17/lesson-05.md)
+  - [Module 17 quiz](/assessments/module-17-quiz.md)

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    On a Mac, a volunteer runs `shasum E-04_video.mp4` and records the result in the evidence
+    register as the SHA-256 hash. What is wrong?
+  options:
+    - >-
+      Nothing; shasum always uses SHA-256 on macOS.
+    - >-
+      Without -a 256, shasum gives a SHA-1 value, not SHA-256.
+    - >-
+      shasum cannot hash video files, only text files.
+    - >-
+      The hash must be computed on Windows to be accepted in court.
+  correct: 1
+  explanation: >-
+    shasum defaults to SHA-1. Re-hash with `shasum -a 256` and note the correction in the register;
+    SHA-1 is no longer considered secure for evidence.
+- id: q2
+  question: >-
+    You rename an original file from "IMG_2231.jpg" to "E-05_2026-03-14_photo.jpg" and hash it again.
+    What happens to the hash?
+  options:
+    - >-
+      It stays the same, because the content did not change.
+    - >-
+      It changes, because the file name is part of the hash.
+    - >-
+      It changes only if the file is moved to another folder.
+    - >-
+      It becomes invalid and must be computed with MD5 instead.
+  correct: 0
+  explanation: >-
+    A hash fingerprints the content, not the name. Renaming is safe; editing even one byte changes the
+    hash completely.
+- id: q3
+  question: >-
+    Your group will publish a photo of vandalised graves on its website. The original has GPS data
+    pointing to the photographer's street. What should you do?
+  options:
+    - >-
+      Strip the metadata from the original so that no copy carries it.
+    - >-
+      Publish the original, since metadata proves the photo is authentic.
+    - >-
+      Keep the original intact and publish a stripped, logged copy.
+    - >-
+      Delete the photo and describe the damage in words instead.
+  correct: 2
+  explanation: >-
+    Preserve metadata on the original, which is evidence; strip location and device data from the
+    copy you publish, and log it as a derived file with its own hash.
+- id: q4
+  question: >-
+    A threatening public post names a private victim's home address. A volunteer wants to submit it
+    to Save Page Now "so it can never be deleted". What is the better course?
+  options:
+    - >-
+      Submit it, because public archives are the strongest proof in Israeli courts.
+    - >-
+      Submit it, then ask the platform to delete the original post.
+    - >-
+      Do nothing, because the platform keeps all deleted posts for the police.
+    - >-
+      Keep your own hashed capture and do not archive it publicly.
+  correct: 3
+  explanation: >-
+    An archived page is public and practically permanent. Your own capture with URL, time and hash
+    preserves the evidence without keeping the victim's address online.

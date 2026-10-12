@@ -41,3 +41,11 @@ The lists cover the political spectrum and are alphabetical within each group. B
 - Movement for Governability and Democracy
 - Regavim
 - Shurat HaDin
+
+## Emotional support (for you and for the people you document)
+
+Documenting violations, and being interviewed about them, can be distressing. These lines are free:
+
+- **ERAN, emotional first aid** — 1201; also chat, and WhatsApp on 052-845-1201.
+- **NATAL, trauma helpline for war and terror** — *3362; 24/7, also chat.
+- **Association of Rape Crisis Centers** — 1202 for women, 1203 for men, 04-6566813 in Arabic; anonymous chat also available.
