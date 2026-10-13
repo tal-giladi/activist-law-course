@@ -116,7 +116,7 @@ While an appeal against a permit decision is pending, no permit is issued unless
 
 - **Administrative petition** to the District Court sitting as an Administrative Court, for most planning decisions (First Schedule item 10), within 45 days (lesson 05.6). Use the planning appeal first: the court expects you to exhaust it.
 - **High Court**, for decisions on national and district outline plans, ministers' and Government decisions (including national infrastructure plans), and matters in the enforcement chapter, which the First Schedule leaves out.
-- **Judea and Samaria.** Certain Civil Administration planning decisions go to the Administrative Court in Jerusalem (Fourth Schedule item 2); outline plans, offences and enforcement, and the commander's decisions go to the High Court.
+- **Judea and Samaria (the West Bank; the term used in Israeli legislation).** Certain Civil Administration planning decisions go to the Administrative Court in Jerusalem (Fourth Schedule item 2); outline plans, offences and enforcement, and the commander's decisions go to the High Court.
 - **Enforcement petitions.** Groups on different sides ask courts to make authorities act on illegal building: Regavim has petitioned for enforcement against unpermitted construction by Palestinians in Area C and by Bedouin in the Negev; Peace Now has petitioned for enforcement against unauthorised settlement outposts; residents and Bimkom have petitioned against demolitions and for plans that would make building lawful. Before any of these, write a demand letter to the enforcement body (lesson 05.5) and keep the reply: courts give authorities wide discretion in setting enforcement priorities.
 
 ## Worked example

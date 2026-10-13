@@ -23,6 +23,8 @@ sources:
     url: "https://versa.cardozo.yu.edu/opinions/levi-v-commander-southern-district-israeli-police"
   - title: "Majority Camp v. Israel Police, HCJ 2557/05 (Versa, English)"
     url: "https://versa.cardozo.yu.edu/opinions/majority-camp-v-israel-police"
+  - title: "Times of Israel — High Court okays most of Ben Gvir law, but nixes the part giving him control over investigations policy (2.1.2025)"
+    url: "https://www.timesofisrael.com/liveblog_entry/high-court-okays-most-of-ben-gvir-law-but-nixes-the-part-giving-him-control-over-investigations-policy/"
   - title: "IDI policy paper 198 — חופש המחאה וחופש ההפגנה (2024)"
     url: "https://www.idi.org.il/books/55013"
   - title: "IDI opinion on the National Security Minister's draft protest policy (16.9.2025, PDF)"
@@ -108,7 +110,8 @@ How far that policy power reaches into protest policing has been contested since
 - **The Minister** (Itamar Ben Gvir) has said his policy power includes protests. His August 2025 draft protest policy called for equal enforcement regardless of the protest's camp, and listed main roads that must never be blocked.
 - **The Attorney General's office** told the Minister on 31.8.2025 that publishing the draft in that form would exceed his powers.
 - **The High Court** has repeatedly held that the Minister may set general policy but may not give operational instructions on specific protests: in an interim order of January 2024, and in HCJ 8987/22 (2.1.2025).
-- **The Israel Democracy Institute** published an opinion on 16.9.2025 calling the draft unlawful.
+- **Support for a broad policy power within the Court.** In HCJ 8987/22 all nine justices upheld the Minister's power to set police policy, "priorities, work programs, and general guidelines", and four of the nine would also have upheld the clause letting him set general principles for investigations, which the majority struck down 5–4 (Times of Israel, 2.1.2025).
+- **The Israel Democracy Institute**, a non-governmental research institute, published an opinion on 16.9.2025 calling the draft unlawful. This is an NGO opinion, not a ruling.
 - **Petitions** concerning the Minister's role were still pending in 2026.
 
 For you as an organiser, the practical point is that the decision about your protest is made by the police commander under the Ordinance and the AG guideline. Your letters and petitions go to the police, cite those rules, and copy the police legal adviser.

@@ -135,7 +135,7 @@ A permit holder who breaks the rules can lose the permit; someone who acts as a 
 5. **Use.** The answer gives numbers he uses in an FOI request for the decisions themselves (lesson 05.2) and in a complaint (lesson 05.4).
 6. **Permit?** Fadi is an unpaid volunteer: no lobbyist permit. When the residents' committee considers paying a consultant to lobby, he tells them the consultant would need a permit and would have to disclose the client.
 
-**Mirror test.** The same steps serve residents of a settlement in Samaria asking, through an MK, how many road-safety requests for their access road were received and approved, or a Tel Aviv tenants' group asking about rent-support decisions.
+**Mirror test.** The same steps serve residents of a settlement in the West Bank (Samaria) asking, through an MK, how many road-safety requests for their access road were received and approved, or a Tel Aviv tenants' group asking about rent-support decisions.
 
 ## Do it yourself
 

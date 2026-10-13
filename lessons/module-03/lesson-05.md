@@ -116,14 +116,14 @@ Section 15(ד1), added in July 2023, is shown struck through as annulled by HCJ 
 ### The legal question: can a court review a Basic Law?
 
 - **What the Court has said.** In *Hasson* (2021) the majority held that the Knesset cannot use a Basic Law to negate Israel's character as a Jewish and democratic state (lesson 03.4). In HCJ 5658/23 (2024), 12 of 15 justices held that the Court may review Basic Laws in extreme cases. The Judicial Selection petitions ask the Court to apply that to Amendment No. 4: is it an "unconstitutional constitutional amendment" that seriously damages judicial independence?
-- **What the other side says.** No Basic Law gives the Court power to review Basic Laws, and there is still no Basic Law on how Basic Laws are made (lesson 03.1). Critics of judicial review, from former President Landau to Professor Gavison, argued long before 2023 that the courts created their own power. In HCJ 5658/23, Justices Sohlberg and Mintz, dissenting, found no legal source for such a power; in 2026 the Knesset argued that, at most, it could be used only for damage so severe that it is not present here.
+- **What critics of review say.** No Basic Law gives the Court power to review Basic Laws, and there is still no Basic Law on how Basic Laws are made (lesson 03.1). Critics of judicial review, from former President Landau to Professor Gavison, argued long before 2023 that the courts created their own power. In HCJ 5658/23, Justices Sohlberg and Mintz, dissenting, found no legal source for such a power; in 2026 the Knesset argued that, at most, it could be used only for damage so severe that it is not present here.
 
 ### Who says what about Amendment No. 4 (attributed)
 
 | Who | Position | Source |
 |---|---|---|
 | Knesset legal counsel (Yitzhak Bart) | The change answers criticism that elected officials had too little say and concerns about the Bar's role and conflicts of interest; review should not rest on predictions | JPost, 21.6.2026 |
-| Government counsel (Ya'acov Ben-Shemesh) | Political participation does not in itself harm professionalism or independence; the challenge is premature until the law applies | JPost, 21.6.2026 |
+| Counsel for the government | Political participation does not in itself harm professionalism or independence; the challenge is premature until the law applies | JPost, 21.6.2026 |
 | The Knesset, supplementary brief | Only severe damage to Israel's democratic character could justify voiding a Basic Law, not a view that the old system was better; lowering the Supreme Court threshold from seven votes to five ends the justices' effective veto; fears of paralysis are speculative | JPost, 27.7.2026 |
 | Justice Minister Yariv Levin | The existing system gives an improper veto over candidates; he called for stating that the Court has no authority to intervene in Basic Laws | JPost, 21.6.2026 |
 | Justices at the hearing | President Amit warned that within about 15 years the Supreme Court could be filled by judges chosen only by political actors; other justices asked about incentives for judges seeking promotion and about deadlock. These were questions at a hearing, not a ruling | JPost, 21.6.2026 |

@@ -203,7 +203,7 @@ Fictional file: Avraham, 52, a Haredi activist, was questioned in 2023 after a p
 
 - **Kol Zchut — סגירת תיק חקירה** — FREE-FULL, Hebrew, no signup, about 10 minutes: <https://www.kolzchut.org.il/he/סגירת_תיק_חקירה>. Read the sections on closure grounds and changing the ground. Fallback: the Israel Police page on cancelling closed-file records: <https://www.gov.il/he/departments/general/police_criminal_information_closed_cases>.
 - **Israel Police — ביטול רישום של תיקים סגורים** — FREE-FULL, Hebrew, about 5 minutes (link above). Note the documents it asks for and the contact hours.
-- **ACRI — "Contact with the Police", chapter 12: criminal record** — FREE-FULL, Hebrew, about 15 minutes: <https://law.acri.org.il/he/?p=20854>. Written in 2012 under the 1981 law: read it for background only.
+- **ACRI — "Contact with the Police", chapter 12: criminal record** — FREE-FULL, Hebrew, about 15 minutes: <https://law.acri.org.il/he/?p=20854>. Written in 2012 under the 1981 law: read it for background only. ACRI is a civil-rights NGO; its policy views are its own. Official counterpart: the Israel Police page on [cancelling records of closed files](https://www.gov.il/he/departments/general/police_criminal_information_closed_cases) on gov.il.
 
 ## What goes wrong
 

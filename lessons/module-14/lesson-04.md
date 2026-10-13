@@ -80,7 +80,7 @@ Communications also go to non-state actors and companies in some mandates, and e
 ### Choosing the mandate
 
 - Find the closest **thematic** mandates on the OHCHR Special Procedures pages (for example torture; freedom of expression; peaceful assembly and association; human-rights defenders; freedom of religion; adequate housing; rights of persons with disabilities; violence against women; arbitrary detention).
-- There is also a **country** mandate on the Palestinian territories occupied since 1967. Thematic mandates can be addressed for situations anywhere, including inside Israel.
+- There is also a **country** mandate, the "Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967" (its official title). Thematic mandates can be addressed for situations anywhere, including inside Israel.
 - You may send the same case to several mandates and ask for a **joint** communication — explain why. Some mandates receive more than 100 submissions a week (ISHR), so short and timely wins.
 - **Two exceptions:** the Working Group on Arbitrary Detention and the Working Group on Enforced or Involuntary Disappearances accept cases only from the person concerned, the family, or their representatives (including an NGO acting for them).
 

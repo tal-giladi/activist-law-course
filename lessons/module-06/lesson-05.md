@@ -116,7 +116,7 @@ Harsh criticism of the government, insulting comparisons, satire, anger and "the
 3. **Post C: "Whoever stops this march is doing God's work — be there."** Along this route, where an attacker stabbed marchers in 2015, "stopping" the march can be read as a call to physical action. There is a real possibility of violence. **Rewrite** to "Join our silent protest on the pavement, by the rules agreed with the police."
 4. **Post D: a photo of a march organiser with his home address.** It is not incitement on its face. In this context, though, it could be a threat or harassment, and it invades privacy (Module 8). **Delete.**
 5. **Briefing.** No chants and no physical contact; stewards remove any sign not on the approved list; the group's liaison carries the list.
-6. **Mirror test.** For a Pride group's counter-campaign, or for an anti-occupation group's posts after an attack, ask the same questions. Is there a call to violence, praise of terror, a threat, or a target's home address? Signs that are harsh but non-violent survive; calls and threats do not.
+6. **Mirror test.** For a Pride group's counter-campaign, or for the posts of a group that describes itself as anti-occupation after an attack, ask the same questions. Is there a call to violence, praise of terror, a threat, or a target's home address? Signs that are harsh but non-violent survive; calls and threats do not.
 
 ## Do it yourself
 

@@ -41,6 +41,10 @@ sources:
     url: "https://www.lawfaremedia.org/article/end-of-the-sde-teiman-abuse-case--the-idf-mag-withdraws-indictments"
   - title: "Report of the Commission of Inquiry on the OPT, including East Jerusalem, and Israel, A/HRC/62/22 (8 May 2026), paras 32, 74, 93"
     url: "https://docs.un.org/A/HRC/62/22"
+  - title: "VIN News — 3 soldiers from Sde Teiman base sue prosecutors for 18M NIS over wrongful indictment (1 Sep 2026)"
+    url: "https://vinnews.com/2026/09/01/3-soldiers-from-sde-teiman-base-sue-prosecutors-for-18m-nis-over-wrongful-indictment/"
+  - title: "Jerusalem Post — Soldiers implicated in Sde Teiman affair sue IDF, police, several others for defamation (31 Aug 2026)"
+    url: "https://www.jpost.com/israel-news/article-907146"
   - title: "B'Tselem — position paper on the Attorney General's ICC memorandum (March 2020, PDF)"
     url: "https://www.btselem.org/sites/default/files/publications/202003_position_paper_on_israel_ag_icc_memorandum_eng.pdf"
   - title: "UN Audiovisual Library — Sarah Nouwen, Complementarity (14/11/2019, 49 min)"
@@ -175,7 +179,8 @@ Reactions differed: the Prime Minister and Defence Minister welcomed the withdra
 | UN Commission of Inquiry (A/HRC/62/22, May 2026) | Found a consistent pattern of failure to investigate and punish settler violence, citing Yesh Din's figure that about 93.6% of police investigations in 20 years ended without indictment; called on states to cooperate with the ICC |
 | Israel Democracy Institute (Shany and Cohen, 2024) | A state commission of inquiry empowered to review senior decisions could meet the Statute's test; "it is not sufficient merely to assert that investigations are ongoing" |
 | B'Tselem | Israel accords itself "almost complete criminal and civil immunity" |
-| Israeli critics from the right | Investigations and indictments of soldiers harm the IDF; the Defence Minister called the Sde Teiman charges a "blood libel" |
+| Honenu (legal-aid organisation that represents soldiers and right-wing activists) | Helped three Sde Teiman reservists sue 17 officials and bodies for NIS 18 million (filed 31 Aug 2026), alleging "false accusations, wrongful arrest, invasion of privacy, defamation, an unlawful indictment" (VIN News, 1.9.2026; Jerusalem Post, 31.8.2026). The claims are untested in court |
+| Government ministers (Sde Teiman) | Investigations and indictments of soldiers harm the IDF; the Defence Minister called the Sde Teiman charges a "blood libel" |
 
 The legal question for the ICC is narrow: same person, substantially the same conduct, genuine proceedings. General statistics support arguments but do not decide a specific case.
 

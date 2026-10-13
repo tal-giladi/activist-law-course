@@ -155,7 +155,7 @@ Fictional case if you have none: residents opposed to a new quarry stand in fron
 
 ## Learn more
 
-- **ACRI — Protest guide, chapter "התנהלות בהפגנה והתמודדות עם המשטרה"** — FREE-FULL, Hebrew, no signup, about 15 minutes: <https://protest.acri.org.il/>. Read the chapter on conduct at a protest and note which acts it warns lead to criminal files. Compare with your charge map. Fallback: ACRI's older guide, chapter 3 on short detention (2012, check each rule against this lesson): <https://law.acri.org.il/he/20302>.
+- **ACRI — Protest guide, chapter "התנהלות בהפגנה והתמודדות עם המשטרה"** — FREE-FULL, Hebrew, no signup, about 15 minutes: <https://protest.acri.org.il/>. Read the chapter on conduct at a protest and note which acts it warns lead to criminal files. Compare with your charge map. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. Official counterpart: the Penal Law sections in this lesson's sources and AG guideline 3.1200 (linked in 06.1). Fallback: ACRI's older guide, chapter 3 on short detention (2012, check each rule against this lesson): <https://law.acri.org.il/he/20302>.
 - **Penal Law in English (optional)** — FREE-FULL, an unofficial translation at an older amendment level, useful only to understand section structure: <https://www.icj.org/wp-content/uploads/2013/05/Israel-Penal-Law-5737-1977-eng.pdf>. Always quote the current Hebrew text.
 
 ## What goes wrong

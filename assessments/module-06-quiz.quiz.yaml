@@ -145,22 +145,24 @@
     effective site.
 - id: q9
   question: >-
-    Before a counter-protest at a Pride march, a member of a religious group posts in its chat: "Whoever
-    has the courage — stop them with your own hands tomorrow." What is the main legal risk?
+    The evening before an anti-government protest, a member of the organisers' chat posts: "Let's go to
+    the minister's house tomorrow and make him pay — bring whatever you can carry." What is the main legal
+    risk?
   options:
     - >-
-      Incitement to racism, because the post targets a group by its identity.
+      Insulting a public servant, because the post targets a serving minister.
     - >-
-      Gross offence to religious feelings of the march participants.
+      None: protests at the homes of elected officials are always lawful.
     - >-
-      Defamation of the march organisers, a civil matter only.
+      Defamation of the minister, a civil matter only.
     - >-
       Incitement to violence: a call with a real chance of violence.
   correct: 3
   explanation: >-
-    Section 144ד2 covers calls to violence with a real possibility of leading to it; the timing and the
-    planned confrontation make that possibility real. Sexual orientation is not a racism ground under
-    s. 144א.
+    Section 144ד2 covers calls to violence with a real possibility of leading to it; a named target, a
+    time and "bring whatever you can carry" make that possibility real. Protest near a senior official's
+    home is allowed only with conditions (AG guideline 3.1200 section ה), and a call to violence is never
+    protected.
 - id: q10
   question: >-
     At a rally after a military operation, an officer orders a participant to lower a Palestinian flag,

@@ -19,6 +19,8 @@ sources:
     url: "https://he.wikisource.org/wiki/חוק_העמדה_לדין_בשל_אירועי_טבח_7_באוקטובר_2023_(טבח_שמיני_עצרת)"
   - title: "Reshumot — Sefer HaChukim 3527 (13 May 2026), official PDF"
     url: "https://fs.knesset.gov.il/25/law/25_lsr_13004914.pdf"
+  - title: "Adalah — Israeli Knesset passed the Tribunal Law, establishing a military tribunal lacking fair trial guarantees empowered to sentence Palestinians to death (12 May 2026)"
+    url: "https://www.adalah.org/en/content/view/11609"
   - title: "Times of Israel — Knesset passes law establishing military tribunal to try October 7 perpetrators (12 May 2026)"
     url: "https://www.timesofisrael.com/knesset-passes-law-establishing-military-tribunal-to-try-october-7-perpetrators/"
   - title: "TRIAL International et al. — Universal Jurisdiction Annual Review 2026 (April 2026), PDF"
@@ -130,7 +132,7 @@ In practice, most "universal jurisdiction" systems add conditions: the suspect m
 | Belgian Federal Prosecutor (2025) | Found it "may possess jurisdiction", questioned the two soldiers, then referred the complaints to the ICC (VRT; UJAR 2026) |
 | TRIAL International and partners (UJAR 2026) | Universal jurisdiction is an essential complement to international courts; notes "accusations of double standards" over the differing responses to Ukraine and Gaza, and "very limited action" on Gaza by states usually most active |
 | Israeli Knesset (May 2026) | Passed the 7 October tribunal law by 93–0; the Justice Minister called it one of the most important moments of the current Knesset |
-| Rights groups (on the 2026 law) | Raised concerns about fair trials after long detention without charge and about the death penalty (Times of Israel) |
+| Adalah, with PCATI and HaMoked (on the 2026 law) | "The law denies suspects basic procedural protections essential to a fair trial"; any death sentence would be "an arbitrary deprivation of life" (Adalah, 12.5.2026). The Times of Israel also reports unnamed rights groups' fair-trial concerns (12.5.2026) |
 
 ## Worked example
 

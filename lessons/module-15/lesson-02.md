@@ -39,6 +39,8 @@ sources:
     url: https://he.wikisource.org/wiki/חוק-יסוד:_ירושלים_בירת_ישראל
   - title: "Pnina Sharvit-Baruch, Is the Gaza Strip Occupied by Israel? (Jerusalem Center for Public Affairs, c. 2011), PDF"
     url: https://jcfa.org/wp-content/uploads/2012/02/Kiyum-sharvit-baruch.pdf
+  - title: "Gisha (Bashi and Feldman), Scale of Control: Israel's Continued Responsibility in the Gaza Strip (7 Nov 2011), PDF"
+    url: https://gisha.org/UserFiles/File/scaleofcontrol/scaleofcontrol_en.pdf
   - title: "Sean Watts, The ICJ Obligations of Israel Advisory Opinion: A Quasi-Occupying Power? (Lieber Institute, 29 Oct 2025)"
     url: https://lieber.westpoint.edu/icj-obligations-israel-advisory-opinion-quasi-occupying-power/
   - title: "UN Audiovisual Library — Koutroulis, The Beginning and End of Occupation (2017)"
@@ -158,7 +160,7 @@ Israel applied its law to East Jerusalem in 1967, and Basic Law: Jerusalem, the 
 | **Israel's government** | "As Israel does not exercise effective control over the Gaza Strip, the legal framework governing the present hostilities is not the law of belligerent occupation, but rather the rules of LOAC, in particular those governing the conduct of hostilities" (MFA, November 2023). |
 | **Israel's Supreme Court** | Since September 2005 "Israel no longer has effective control over what happens in the Gaza Strip"; its main obligations "derive from the state of armed conflict", from "the degree of control exercised by the State of Israel over the border crossings", and from "the relationship that was created … after the years of Israeli military rule" (*Al-Bassiouni*, 2008, para. 12). Commentators often call this a *sui generis* position: no occupation, but some residual duties. In March 2025 (HCJ 2280/24, *Gisha*) the Court again found no belligerent occupation during the current war (lesson 15.3). |
 | **The ICJ** | Israel "remained capable of exercising, and continued to exercise, certain key elements of authority over the Gaza Strip", so its withdrawal "has not entirely released it of its obligations under the law of occupation", which are "commensurate with the degree of its effective control" (2024, paras 93–94). In 2025 it found that since 7 October 2023 Israel's control, and so its obligations, "increased significantly" (paras 85–87). |
-| **Scholars** | Pnina Sharvit-Baruch, writing for the Jerusalem Center for Public Affairs, argues that Israel does not have effective control under the established test (JCPA, c. 2011). Sean Watts (Lieber Institute, 2025) accepts that parts of Gaza may be occupied but warns that the Court's "à la carte" functional approach has an unclear legal basis. |
+| **Scholars and NGOs** | Pnina Sharvit-Baruch, writing for the Jerusalem Center for Public Affairs, argues that Israel does not have effective control under the established test (JCPA, c. 2011). Gisha, an Israeli NGO, argues the functional view: "the international law of occupation continues to apply to Israel in the spheres in which it continues to exercise control over the lives of Palestinian residents" (Bashi and Feldman, *Scale of Control*, 7.11.2011). Sean Watts (Lieber Institute, 2025) accepts that parts of Gaza may be occupied but warns that the Court's "à la carte" functional approach has an unclear legal basis. |
 
 ### How to write about it
 

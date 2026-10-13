@@ -167,7 +167,7 @@ When your campaign has an international step (a shadow report, a Special Procedu
    - The remand request makes the case "pending" (s. 71(ב)). A post that argues the case to influence the judge risks s. 71. The group instead reports, in good faith, what was said at the open remand hearing (s. 71(ג)), and tells its own campaign story without arguing the criminal case.
 4. **Interview.** A radio reporter calls. Efrat agrees "on the record", gives her three messages, refers questions about Yoav's case to his lawyer, and sends the FOI answer by e-mail.
 
-**Mirror test.** The same checks apply to a Bedouin parents' committee publishing FOI data on school transport, to activists against the judicial reform after a protest arrest, and to a settlers' group publishing a court decision on a demolition order.
+**Mirror test.** The same checks apply to a Bedouin parents' committee publishing FOI data on school transport, to activists protesting the 2023–2025 judicial legislation after a protest arrest, and to a settlers' group publishing a court decision on a demolition order.
 
 ## Do it yourself
 

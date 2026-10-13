@@ -127,7 +127,7 @@ Ask three questions:
 
 ## Worked example
 
-**Situation.** Shira, a volunteer in a campaign for a new neighbourhood in a Samaria community, ordered 20,000 flyers from a Jerusalem print shop for a rally on 3 June, paying ₪6,800 from her own credit card. The shop promised delivery by 31 May in a WhatsApp message. The flyers arrived on 5 June, after the rally. The shop refuses a refund: "You received the goods."
+**Situation.** Shira, a volunteer in a campaign for a new neighbourhood in a West Bank (Samaria) community, ordered 20,000 flyers from a Jerusalem print shop for a rally on 3 June, paying ₪6,800 from her own credit card. The shop promised delivery by 31 May in a WhatsApp message. The flyers arrived on 5 June, after the rally. The shop refuses a refund: "You received the goods."
 
 1. **What she wants.** Her money back, or most of it. She does not need a precedent.
 2. **The rule.** A breach of the agreed delivery date; she can rely on the shop's own message.

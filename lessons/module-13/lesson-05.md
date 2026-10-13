@@ -40,7 +40,7 @@ Israeli courts do apply international law, but by two different routes: customar
 
 ## Why it matters
 
-Petitions to the High Court regularly cite international law: landowners and villages in Judea and Samaria cite the Hague Regulations; residents and settlers' councils cite the occupying power's duty to keep public order and safety; asylum seekers' organisations cite the Refugee Convention; disability and children's groups cite the CRPD and the CRC; and the State cites international law to defend its decisions. Whether the argument succeeds often depends on one question the court asks first: *is this rule customary, or is it a treaty the Knesset never legislated?* If you build your section on the right route, the court engages with it. If you cite a treaty as if it were a statute, the State answers in one paragraph and the court moves on.
+Petitions to the High Court regularly cite international law: landowners and villages in Judea and Samaria (the West Bank; the term used in Israeli legislation) cite the Hague Regulations; residents and settlers' councils cite the occupying power's duty to keep public order and safety; asylum seekers' organisations cite the Refugee Convention; disability and children's groups cite the CRPD and the CRC; and the State cites international law to defend its decisions. Whether the argument succeeds often depends on one question the court asks first: *is this rule customary, or is it a treaty the Knesset never legislated?* If you build your section on the right route, the court engages with it. If you cite a treaty as if it were a statute, the State answers in one paragraph and the court moves on.
 
 ## Key terms
 

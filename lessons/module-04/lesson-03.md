@@ -29,6 +29,8 @@ sources:
     url: "https://en.idi.org.il/articles/52235"
   - title: "Times of Israel — High Court strikes down reasonableness law (1.1.2024)"
     url: "https://www.timesofisrael.com/in-historic-ruling-high-court-strikes-down-key-judicial-overhaul-legislation/"
+  - title: "Knesset open data — bills of the 25th Knesset (KNS_Bill, checked 13.10.2026)"
+    url: "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Bill?$format=json&$filter=KnessetNum%20eq%2025"
   - title: "Israel Policy Forum — Judicial legislation tracker (checked 12.10.2026)"
     url: "https://israelpolicyforum.org/judicial-legislation-tracker/"
 last_verified: "2026-10-12"
@@ -93,7 +95,7 @@ On 1 January 2024, in *Movement for Quality Government v. Knesset*, HCJ 5658/23,
 - **The amendment is void.** Since 1 January 2024 the ground applies as it did before 2023, to all authorities, including the government and ministers. The Israel Democracy Institute's explainer says the extreme-unreasonableness standard is restored with the same scope it had before the amendment. ([IDI, 3.1.2024](https://en.idi.org.il/articles/52235))
 - **The threshold is high.** Courts intervene only for *extreme* unreasonableness (חוסר סבירות קיצוני). A decision you think is wrong, or worse than an alternative, is not enough.
 - **The dispute continues.** Supporters of the 2023 amendment, including the government, argued that the ground gave the Court too broad a scope to intervene in policy decisions (Times of Israel, 1.1.2024). Critics of the broad doctrine have included former Presidents Landau and Grunis and current Deputy President Sohlberg, who has proposed narrowing it for elected officials and relying more on proportionality. Defenders, among them former Justice Zamir and the IDI, say it is used with restraint and mainly guards against improper appointments and decisions (Hebrew Wikipedia, "עילת הסבירות").
-- **Legislation.** As of 12 October 2026, no new bill to abolish or limit reasonableness review was listed on the Israel Policy Forum's judicial legislation tracker (an advocacy organisation's tracker; it does list pending bills on the Attorney General and ministry legal advisers). Check [references/laws-index.md](../../references/laws-index.md) and the news before relying on this lesson: a new Knesset could legislate again.
+- **Legislation.** No new bill to abolish or limit reasonableness review was found in the Knesset's own bill database for the 25th Knesset (checked 13.10.2026; the only match is the 2023 amendment that the Court annulled). Advocacy trackers such as the Israel Policy Forum's agree (checked 12.10.2026); that tracker does list pending bills on the Attorney General and ministry legal advisers. Check [references/laws-index.md](../../references/laws-index.md) and the news before relying on this lesson: a new Knesset could legislate again.
 - **In practice.** Recent high-profile rulings against government decisions have tended to rest on several grounds together. In May 2025, for example, the Court's 2–1 ruling on the dismissal of the Shin Bet head relied on the failure to consult the senior appointments advisory committee, the lack of a hearing, a conflict of interest and a thin factual basis (lesson 04.4).
 
 **What this means for you.** Use reasonableness as a supporting ground, framed concretely: "the decision gave no weight to X, which the law makes central" or "the decision ignored the data in Y". Lead with authority, considerations, procedure or proportionality whenever your facts allow.

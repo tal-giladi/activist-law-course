@@ -19,6 +19,10 @@ sources:
     url: "https://israelihl.mfa.gov.il/icc"
   - title: "Office of the Attorney General of Israel, The International Criminal Court's Lack of Jurisdiction over the So-Called 'Situation in Palestine' (20 Dec 2019)"
     url: "https://israelihl.mfa.gov.il/sites/default/files/2025-12/the_international_criminal_courts_lack_of_jurisdiction_over_the_so_called_situation_in_palestine.pdf"
+  - title: "ICC press release — Pre-Trial Chamber I issues its decision on the Prosecutor's request related to territorial jurisdiction over Palestine (5 Feb 2021), UNISPAL copy"
+    url: "https://www.un.org/unispal/document/icc-pre-trial-chamber-i-issues-its-decision-on-the-prosecutors-request-related-to-territorial-jurisdiction-over-palestine-press-release/"
+  - title: "Jerusalem Post — ICC grants most requests to weigh in on Palestinian statehood (20 Feb 2020)"
+    url: "https://www.jpost.com/israel-news/icc-grants-most-requests-to-weigh-in-on-palestinian-statehood-618239"
   - title: "B'Tselem — position paper on the Attorney General's ICC memorandum (March 2020, PDF)"
     url: "https://www.btselem.org/sites/default/files/publications/202003_position_paper_on_israel_ag_icc_memorandum_eng.pdf"
   - title: "Israel Democracy Institute — Shany and Cohen, In Search of Complementarity: Israel's Possible Responses to ICC Arrest Warrants (4 Jul 2024)"
@@ -59,7 +63,7 @@ By the end of this lesson you will be able to explain how the International Crim
 
 ## Why it matters
 
-The ICC proceedings touch Israelis and Palestinians directly. Warrants for Israel's Prime Minister and former Defence Minister affect where they can travel; the investigation also covers Hamas and other Palestinian armed groups; the United States has sanctioned ICC officials and Palestinian NGOs over the case; and the Prosecutor who sought the warrants was removed from office in 2026 on unrelated misconduct grounds. Activists of every view write about the case, petition about it and send information to it. Most public texts get the procedure wrong: they confuse the ICC with the ICJ, call warrants convictions, or call the case "over" because of a procedural ruling. A correct timeline is the basis of any credible advocacy, for or against.
+The ICC proceedings touch Israelis and Palestinians directly. Warrants for Israel's Prime Minister and former Defence Minister affect where they can travel; the investigation also covers Hamas and other Palestinian armed groups; the United States has sanctioned ICC officials and Palestinian NGOs over the case; and the Prosecutor who sought the warrants was removed from office in 2026 for sexual misconduct (Assembly of States Parties decision); Israel argues that the same allegations taint the warrants he sought. Activists of every view write about the case, petition about it and send information to it. Most public texts get the procedure wrong: they confuse the ICC with the ICJ, call warrants convictions, or call the case "over" because of a procedural ruling. A correct timeline is the basis of any credible advocacy, for or against.
 
 ## Key terms
 
@@ -124,8 +128,8 @@ The ICC proceedings touch Israelis and Palestinians directly. Warrants for Israe
 | Date | Event | Source |
 |---|---|---|
 | 1–2 Jan 2015 | Palestine lodges an art. 12(3) declaration back-dated to 13 June 2014 and accedes; the Statute enters into force for it on 1 April 2015 | Coalition for the ICC |
-| 20 Dec 2019 | Prosecutor Bensouda finds a reasonable basis to investigate and asks the PTC to confirm territorial jurisdiction; the same day Israel's Attorney General publishes a memorandum denying jurisdiction | B'Tselem paper; AG memorandum |
-| 5 Feb 2021 | PTC I, by majority, rules that jurisdiction extends to the territories occupied since 1967: Gaza and the West Bank, including East Jerusalem. Judge Kovács partly dissents. The Chamber says it is not ruling on borders | ASIL |
+| 20 Dec 2019 | Prosecutor Bensouda announces that all the statutory criteria for opening an investigation are met; on 22 January 2020 she asks the PTC to rule on the scope of territorial jurisdiction. On 20 December 2019 Israel's Attorney General publishes a memorandum denying jurisdiction | ICC press release (5 Feb 2021); AG memorandum |
+| 5 Feb 2021 | PTC I, by majority, rules that the Court's territorial jurisdiction "extends to the territories occupied by Israel since 1967, namely Gaza and the West Bank, including East Jerusalem". Judge Kovács partly dissents. The Chamber says it is not ruling on borders | ICC press release; ASIL |
 | 3 Mar 2021 | The Prosecutor opens the investigation, covering alleged crimes since 13 June 2014 by Israeli forces, Hamas and Palestinian armed groups | Coalition for the ICC |
 | 2023–2024 | Seven States Parties refer the situation; the Appeals Chamber later treats these as part of the same situation | ASIL (Dec 2025) |
 | 20 May 2024 | Prosecutor Khan applies for warrants for Netanyahu, Gallant and three Hamas leaders (Sinwar, Deif, Haniyeh) | IDI |
@@ -145,13 +149,14 @@ The ICC proceedings touch Israelis and Palestinians directly. Warrants for Israe
 | Government of Israel | No sovereign Palestinian state exists, so there is no state that can delegate jurisdiction; the Oslo Accords leave Palestinians without criminal jurisdiction over Area C, Jerusalem and Israeli nationals; Israel has a functioning legal system | AG memorandum (2019); consolidated reply (2025) |
 | ICC Pre-Trial Chamber I (2021) | For the Statute, Palestine is a State Party; territorial jurisdiction covers Gaza and the West Bank, including East Jerusalem; no ruling on borders | PTC decision, as summarised by ASIL |
 | ICC Appeals Chamber (2025) | Israel's art. 19 challenge must be decided on its substance (April); the investigation after 7 October 2023 is part of the existing situation (December) | Opinio Juris; ASIL |
+| Seven States Parties: Australia, Austria, Brazil, the Czech Republic, Germany, Hungary and Uganda | In 2020 they asked to file, and filed, observations with the Chamber arguing, as the Jerusalem Post reported, "that Palestine is not a state" for this purpose. The PTC majority ruled the other way in 2021 | Jerusalem Post, 20.2.2020 |
 | B'Tselem (Israeli NGO) | Disputes the AG memorandum and argues that Israel accords itself "almost complete criminal and civil immunity" at home | B'Tselem position paper (2020) |
 | United States Government | The ICC "has no jurisdiction over the United States or Israel"; it sanctioned the Prosecutor, both Deputy Prosecutors, judges and, on 4 September 2025, Al-Haq, Al Mezan and the Palestinian Centre for Human Rights | Executive Order 14203; Al Jazeera |
 
 ### Sanctions and the Court in 2025–2026
 
 - **Executive Order 14203** (6 February 2025) authorises US sanctions on persons who assist ICC actions against the US or its allies, naming the warrants against Netanyahu and Gallant as a reason. By August 2026, according to Just Security, nine of the Court's 18 judges, both Deputy Prosecutors and the former Prosecutor had been designated, including ICC President Tomoko Akane on 18 August 2026. Lawsuits in US courts challenge the order; some have produced injunctions for individual plaintiffs only.
-- **Removal of the Prosecutor.** The removal was based on findings of sexual misconduct, not on the Palestine case. Israel's November 2025 request to disqualify him, and to annul the warrants he sought, rests on the same allegations. Whether the warrants are affected is for the judges; the Deputy Prosecutors continue the investigation.
+- **Removal of the Prosecutor.** The Assembly of States Parties removed him for serious misconduct, on findings of sexual misconduct (UN News). Israel argues that the same allegations taint the warrants he sought: its November 2025 request to disqualify him, and to annul those warrants, rests on them. Whether the warrants are affected is for the judges; the Deputy Prosecutors continue the investigation.
 
 ### What a warrant does and does not do
 
@@ -242,4 +247,4 @@ No template: use a table with the columns Date | Document no. | Body | Decided |
 - Israel is not a party, informed the UN in 2002 that it does not intend to become one, and rejects the Court's jurisdiction.
 - Warrants for Netanyahu, Gallant and Deif were issued on 21 November 2024; Deif's case was terminated in February 2025; Israel's jurisdiction challenge was remanded in April 2025 and, as of 13 October 2026, no new ruling had been published.
 - A warrant needs only "reasonable grounds to believe"; there is no trial in absentia.
-- US sanctions under EO 14203 target ICC officials and Palestinian NGOs; the Prosecutor was removed in July 2026 on unrelated grounds.
+- US sanctions under EO 14203 target ICC officials and Palestinian NGOs; the Prosecutor was removed in July 2026 for sexual misconduct, and Israel argues the same allegations taint the warrants.

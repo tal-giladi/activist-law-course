@@ -169,7 +169,7 @@ Investigator's script (give it to your partner): start friendly, ask identity qu
 ## Learn more
 
 - **Public Defender — "מידע לעצור" (information for detainees)** — FREE-FULL, Hebrew, about 5 minutes: <https://www.gov.il/he/departments/guides/public_defender_public_information?chapterIndex=3>. Read it twice and copy your district's arrest-department number to your card. Fallback: ACRI, "Arrested at a protest: contacting the Public Defender" (2020; its phone numbers are old): <https://www.acri.org.il/post/__471>.
-- **ACRI — "Contact with the Police", chapter 10: the right to legal representation** — FREE-FULL, Hebrew, about 15 minutes: <https://law.acri.org.il/he/?p=20849>. Written in 2012; use it for the reasoning behind the rights, not for current numbers.
+- **ACRI — "Contact with the Police", chapter 10: the right to legal representation** — FREE-FULL, Hebrew, about 15 minutes: <https://law.acri.org.il/he/?p=20849>. Written in 2012; use it for the reasoning behind the rights, not for current numbers. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. The official counterpart is the Public Defender page above.
 
 ## What goes wrong
 

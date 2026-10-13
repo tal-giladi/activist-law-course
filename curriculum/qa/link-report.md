@@ -79,3 +79,25 @@ These URLs failed to load for a bot from here, or loaded only a JavaScript shell
 
 **web.archive.org**: repeated 429 rate limit, and WebFetch cannot fetch from this domain. `web.archive.org/save` opened (200).
 - https://web.archive.org/web/20160102015819/http://www.mfa.gov.il/mfa/foreignpolicy/peace/guide/pages/israeli%20settlements%20and%20international%20law.aspx
+
+## Module 20 (checked 2026-10-13)
+
+Scope: `lessons/module-20/*.md` and quizzes, `projects/m20-capstone.md`, and the templates `theory-of-change.md`, `legal-strategy-map.md`, `campaign-execution-log.md`, `press-release.md` and `campaign-retrospective.md`. There are 33 unique URLs. Each got a GET with a browser User-Agent, and the check recorded the final URL and the page title.
+
+| Result | Unique URLs |
+|---|---|
+| Fine | 32 |
+| BROKEN / REDIRECTED-WRONG | 0 |
+| BLOCKED (manual check) | 1 |
+
+- All 19 he.wikisource links return 200 with the right page title. Every `#סעיף_N` anchor exists on its page: Basic Law: Judiciary s. 15, Administrative Procedure Amendment Law ss. 2 and 6, FOI Law s. 7, State Comptroller Law s. 45, Penal Law s. 144ד2, Administrative Courts Regulations s. 3 and HCJ Procedure Regulations s. 6.
+- Kol Zchut "לשון הרע" and the three OpenLearn sections returned a Cloudflare 403 to the scripted GET, but they are live:
+  - Kol Zchut: confirmed by HEAD 200 and by the MediaWiki API (page id 16284).
+  - OpenLearn: confirmed by WebFetch. The pages are "Starting with law" §1, "Judicial decision making" section "6 Precedent and interpretation", and "Human rights and law" §2.1.
+- These open with the right content:
+  - the three Holistic Security chapters (1.2, 2.3, 4.1.11), checked by their chapter headings;
+  - Front Line Defenders, theoryofchange.org, edX LouvainX, Versa and the UN AVL lecture series;
+  - the TAU LL.B. booklet PDF, dated 12/08/26.
+- BLOCKED: https://main.knesset.gov.il/Activity/Info/research/Pages/default.aspx (lessons/module-20/lesson-05.md:207) returns HTTP 247. This is the same Knesset bot wall listed above. The page is not dead, so it was left unchanged; open it in a browser to confirm.
+
+No module-20 links needed changing.

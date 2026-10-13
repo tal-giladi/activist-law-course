@@ -19,7 +19,7 @@ sources:
     url: https://he.wikisource.org/wiki/חוק_הגנת_הפרטיות
   - title: "The Civil Commission on October 7th Crimes by Hamas against Women and Children — About"
     url: https://www.civilc.org/about
-  - title: "NBC News — report by the Dinah Project, 'A Quest for Justice' (8 July 2025, corrected 22 July 2025)"
+  - title: "NBC News — report by the Dinah Project, 'A Quest for Justice', with the UN Special Rapporteur's response (8 July 2025, corrected 22 July 2025)"
     url: https://www.nbcnews.com/world/israel/hamas-israel-sexual-violence-rape-war-oct-7-rcna217401
   - title: "Yesh Din — Data sheet: law enforcement on Israeli civilians in the West Bank (settler violence) 2005–2025"
     url: https://www.yesh-din.org/en/data-sheet-law-enforcement-on-israeli-civilians-in-the-west-bank-settler-violence-2005-2025/
@@ -37,7 +37,7 @@ Documentation turns what happened to people into a record that others can check,
 
 Every legal tool in this course runs on facts. A police complaint (06.4), a demand letter (09.2), a petition (05.7), a Special Procedures communication (14.4) and a submission to an international body (16.5) all ask the same questions: what happened, to whom, when, where, who did it, and how do you know. Documentation done well answers them in a way a sceptical reader — a judge, a ministry lawyer, a UN officer, a journalist from the other side — can test. Documentation done badly is worse than none: an exaggerated number, a misdated video or a testimony given under pressure lets the other side dismiss everything else you say, and can hurt the very people you meant to help.
 
-The same discipline serves every cause. Israeli civil groups documented the atrocities of 7 October 2023 for prosecutors and historians; Israeli and Palestinian groups document settler violence and law-enforcement follow-up in the West Bank; protesters from opposite camps have documented police violence at their demonstrations; disability and anti-discrimination groups document refusals and barriers. The methods below do not change with the cause.
+The same discipline serves every cause. Israeli civil groups documented killings, abductions and sexual violence on 7 October 2023 for prosecutors and historians; Israeli and Palestinian groups document settler violence and law-enforcement follow-up in the West Bank; protesters from opposite camps have documented police violence at their demonstrations; disability and anti-discrimination groups document refusals and barriers. The methods below do not change with the cause.
 
 ## Key terms
 
@@ -141,9 +141,9 @@ Analysis belongs to a later stage (15.5 for IHL, 16.1 for international crimes).
 
 You rarely need to start from zero. Examples of documentation work by Israeli civil groups, described here as each group describes itself:
 
-- **The Civil Commission on October 7th Crimes by Hamas against Women and Children** gathers testimonies and keeps an archive for the victims' memory and for future research and prosecution, under its own code of ethics. The **Dinah Project** (Ruth Halperin-Kaddari, Nava Ben-Or, Sharon Zagagi-Pinhas) published "A Quest for Justice" in July 2025, based on hostages' and witnesses' accounts, first responders, forensic and visual material. Its finding that sexual violence was systematic is disputed by the UN Special Rapporteur on violence against women; note both positions when you cite it.
+- **The Civil Commission on October 7th Crimes by Hamas against Women and Children** gathers testimonies and keeps an archive for the victims' memory and for future research and prosecution, under its own code of ethics. The **Dinah Project** (Ruth Halperin-Kaddari, Nava Ben-Or, Sharon Zagagi-Pinhas) published "A Quest for Justice" in July 2025, based on hostages' and witnesses' accounts, first responders, forensic and visual material. Its finding that sexual violence was systematic is disputed by the UN Special Rapporteur on violence against women and girls, Reem Alsalem. In a statement reported by NBC News (8.7.2025), she said that in her understanding no independent human rights mechanism had established such violence against Israelis as a systematic tool of war or genocide, while noting that the UN commission had found patterns indicative of sexual violence and that reports must be independently verified and perpetrators held accountable. Note both positions, with their sources and dates, when you cite the report.
 - **Yesh Din** collects testimonies from Palestinians about violence by Israeli civilians in the West Bank and tracks what happens to the investigation files; its data sheet reports conviction and complaint rates.
-- Protesters from different camps — opponents of the judicial overhaul, Haredi anti-draft demonstrators, settlers evacuated from outposts — have filmed and logged police conduct for complaints to the Police Investigation Department (06.4).
+- Protesters from different camps — opponents of the 2023–2025 judicial legislation, Haredi anti-draft demonstrators, settlers evacuated from outposts — have filmed and logged police conduct for complaints to the Police Investigation Department (06.4).
 
 If a group already works on your issue, ask whether to send material to them instead of building a parallel file. Duplicate interviews hurt victims.
 

@@ -76,7 +76,7 @@ The High Court of Justice is the forum for decisions of the Government and minis
 
 > (1) עתירה נגד החלטה של רשות או של גוף המנוי בתוספת הרביעית, הפועלים ביהודה והשומרון (להלן – האזור), בעניין המנוי בתוספת הרביעית
 
-*Gist:* certain decisions of authorities in Judea and Samaria (FOI, some planning, entry and exit matters) go to the Administrative Court in Jerusalem, not the HCJ. ([חוק בתי משפט לענינים מינהליים, s. 5א(א)(1)](https://he.wikisource.org/wiki/חוק_בתי_משפט_לענינים_מינהליים#סעיף_5א))
+*Gist:* certain decisions of authorities in Judea and Samaria (the West Bank; the term used in Israeli legislation), such as FOI, some planning and entry and exit matters, go to the Administrative Court in Jerusalem, not the HCJ. ([חוק בתי משפט לענינים מינהליים, s. 5א(א)(1)](https://he.wikisource.org/wiki/חוק_בתי_משפט_לענינים_מינהליים#סעיף_5א))
 
 ## How it works in practice
 

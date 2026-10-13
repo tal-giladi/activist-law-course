@@ -169,7 +169,7 @@ Choose one person who is not at the action. They hold your arrest card's back pa
 
 ## Learn more
 
-- **ACRI — "Contact with the Police" guide, chapter 4: arrest (מעצר)** — FREE-FULL, Hebrew, no signup, about 15 minutes: <https://law.acri.org.il/he/?p=20305>. Written in 2012: read it for structure and practical tips, and check every time limit against this lesson. Fallback: Kol Zchut, "מעצר בידי שוטר": <https://www.kolzchut.org.il/he/מעצר_בידי_שוטר>.
+- **ACRI — "Contact with the Police" guide, chapter 4: arrest (מעצר)** — FREE-FULL, Hebrew, no signup, about 15 minutes: <https://law.acri.org.il/he/?p=20305>. Written in 2012: read it for structure and practical tips, and check every time limit against this lesson. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. Official counterpart: the Public Defender's [information for detainees](https://www.gov.il/he/departments/guides/public_defender_public_information?chapterIndex=3) on gov.il. Fallback: Kol Zchut, "מעצר בידי שוטר": <https://www.kolzchut.org.il/he/מעצר_בידי_שוטר>.
 
 ## What goes wrong
 

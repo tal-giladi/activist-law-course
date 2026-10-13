@@ -167,7 +167,7 @@ Section 3 of [protest-legal-plan.md](../../templates/protest-legal-plan.md) — 
 
 ## Learn more
 
-- **ACRI — המדריך למחאה (Protest Guide)** — FREE-FULL, no signup, Hebrew and Arabic, about 30 minutes: <https://protest.acri.org.il/>. Read the chapters "התנהלות בהפגנה והתמודדות עם המשטרה" and "כלים שימושיים". Watch for: practical conduct during detention, and the documentation tips. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. *Fallback:* [ACRI's protest documentation page](https://www.acri.org.il/post/__881) and the Kol Zchut page on megaphones and cameras in sources.
+- **ACRI — המדריך למחאה (Protest Guide)** — FREE-FULL, no signup, Hebrew and Arabic, about 30 minutes: <https://protest.acri.org.il/>. Read the chapters "התנהלות בהפגנה והתמודדות עם המשטרה" and "כלים שימושיים". Watch for: practical conduct during detention, and the documentation tips. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. *Official counterpart:* AG guideline 3.1200 on freedom of demonstration, the binding text the police apply (linked in 06.1's sources). *Fallback:* [ACRI's protest documentation page](https://www.acri.org.il/post/__881) and the Kol Zchut page on megaphones and cameras in sources.
 
 ## What goes wrong
 

@@ -120,9 +120,9 @@ It is not an affidavit, but the same discipline applies (02.6): facts only, no a
 
 ## Worked example
 
-**Situation.** During the evacuation of an unauthorised outpost in Samaria, Yehuda Peretz, 19, sits on the ground with others and is carried out by Border Police officers. After he is handcuffed and seated by a jeep, an officer strikes him twice on the back with a baton. A friend films part of it from 15 metres. Yehuda is released three hours later without charges. That night, a clinic records bruising on his back.
+**Situation.** During the evacuation of an unauthorised outpost in the West Bank (Judea and Samaria), Yehuda Peretz, 19, sits on the ground with others and is carried out by Border Police officers. After he is handcuffed and seated by a jeep, an officer strikes him twice on the back with a baton. A friend films part of it from 15 metres. Yehuda is released three hours later without charges. That night, a clinic records bruising on his back.
 
-1. **Channel.** A blow to a handcuffed person is suspected assault by an officer — an offence over one year. Border Police are police officers, so the matter belongs to מח״ש, whether the event was in Israel or in Judea and Samaria.
+1. **Channel.** A blow to a handcuffed person is suspected assault by an officer — an offence over one year. Border Police are police officers, so the matter belongs to מח״ש, whether the event was in Israel or in the West Bank.
 2. **Lawyer first?** Yehuda was released without charges, but the evacuation could still produce a file for obstruction. He calls a lawyer (from a volunteer legal-aid organisation) before filing. The lawyer advises him to describe only the blow, not the earlier sit-in.
 3. **Complaint.** He files online the next day. It gives the time (about 14:20), the place (by the white jeep at the outpost's entrance), a description of the officer (tall, beard, helmet number partly visible in the video) and the jeep's number. It describes the two blows, attaches the clinic record and the video, and names the friend who filmed. It asks for an investigation and for preservation of the unit's body-camera footage.
 4. **After 5 months.** The file is closed for "insufficient evidence": the officer could not be identified with certainty. Yehuda receives the notice on 3 March.
@@ -171,8 +171,8 @@ It is not an affidavit, but the same discipline applies (02.6): facts only, no a
 
 ## Learn more
 
-- **ACRI — complaining to מח״ש about police violence** — FREE-FULL, Hebrew, about 10 minutes: <https://www.acri.org.il/post/__119>. Read the advice on evidence and the appeal. Watch for: why the first days matter. *Fallback:* the gov.il מח״ש process page in sources, which gives the official timelines and the 60-day appeal.
-- **ACRI — disciplinary complaints** — FREE-FULL, Hebrew, about 5 minutes: <https://www.acri.org.il/post/_1226>. *Fallback:* the police Public Complaints Unit guide on gov.il, chapters on filing and mediation.
+- **ACRI — complaining to מח״ש about police violence** — FREE-FULL, Hebrew, about 10 minutes: <https://www.acri.org.il/post/__119>. Read the advice on evidence and the appeal. Watch for: why the first days matter. ACRI is a civil-rights NGO; its advice on your rights matches the law quoted above, and its policy views are its own. *Official counterpart:* the [gov.il מח״ש process page](https://www.gov.il/he/pages/complaint_against_police), which gives the official timelines and the 60-day appeal.
+- **ACRI — disciplinary complaints** — FREE-FULL, Hebrew, about 5 minutes: <https://www.acri.org.il/post/_1226>. *Official counterpart:* the [police Public Complaints Unit guide on gov.il](https://www.gov.il/he/departments/guides/police_public_complaints_unit?chapterIndex=1), chapters on filing and mediation.
 
 ## What goes wrong
 

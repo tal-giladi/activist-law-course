@@ -163,7 +163,7 @@ Each dispute has a forum, the statute section or schedule item that sends it the
 
 ## Learn more
 
-- **Wikipedia, "Judiciary of Israel", section "Criminal and civil courts"** — FREE-FULL, no signup, about 15 minutes: <https://en.wikipedia.org/wiki/Judiciary_of_Israel>. A good English overview of the court levels and the religious courts. Watch for: some statistics are dated (2012) and the judicial reform section is out of date; money amounts there are not current. Fallback: the sections of the Basic Law and the Courts Law quoted above.
+- **Wikipedia, "Judiciary of Israel", section "Criminal and civil courts"** — FREE-FULL, no signup, about 15 minutes: <https://en.wikipedia.org/wiki/Judiciary_of_Israel>. A good English overview of the court levels and the religious courts. Watch for: some statistics are dated (2012) and its section on the 2023 judicial legislation is out of date; money amounts there are not current. Fallback: the sections of the Basic Law and the Courts Law quoted above.
 
 ## What goes wrong
 

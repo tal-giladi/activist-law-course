@@ -18,7 +18,7 @@ Time: about 5 hours (research 2.5 hours, drafting 1.5 hours, red team and self-a
 
 ## Steps
 
-1. **Choose the dispute.** Use the decision you challenged in Module 4 or 5, or pick a new one. Political direction does not matter; any cause works. Some ideas: a ministry's refusal to provide accessible information (CRPD), a requisition order in Judea and Samaria (Hague Regulations), a council's failure to secure a road (Hague Regulations, Art. 43), a school placement of a migrant child (CRC), an embassy employee's unpaid wages (state immunity).
+1. **Choose the dispute.** Use the decision you challenged in Module 4 or 5, or pick a new one. Political direction does not matter; any cause works. Some ideas: a ministry's refusal to provide accessible information (CRPD), a requisition order in Judea and Samaria, the West Bank (Hague Regulations), a council's failure to secure a road (Hague Regulations, Art. 43), a school placement of a migrant child (CRC), an embassy employee's unpaid wages (state immunity).
 2. **Write the Israeli ground** in two sentences: the statute or Basic Law, and the administrative-law principle.
 3. **Build the source table** (template section 1). Sort each source into its box.
 4. **Check every treaty** on the UN Treaty Collection and Wikisource (section 2). Copy reservations word for word.

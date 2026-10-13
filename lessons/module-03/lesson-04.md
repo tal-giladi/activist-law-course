@@ -113,7 +113,7 @@ The question that decides most cases is: **voluntary or coerced?**
 - *Levi v. Southern District Police Commander* (HCJ 153/83, 1984): after a protester was killed at a Peace Now march, the police refused a licence for a memorial march on the same route. The Court held that "conjectures, speculations and apprehensions" were not enough and ordered the licence granted. ([Versa](https://versa.cardozo.yu.edu/node/583))
 - *Majority Camp v. Israel Police* (HCJ 2557/05, 2006): organisers of a march supporting the Gaza disengagement were told to pay for security. The Court held the police may not shift the cost of security and public order onto demonstrators, which would put a price tag on a constitutional right. ([Versa](https://versa.cardozo.yu.edu/opinions/majority-camp-v-israel-police))
 
-The same tests protect demonstrations against a government and in favour of it. Permits under the Police Ordinance are taught in Module 6.
+The same tests protect demonstrations against a government and in favour of it, whatever the camp: lesson 06.1's worked example applies *Levi* to a right-wing march in support of continuing the war, and its quiz applies it to a Haredi march against the draft law. Permits under the Police Ordinance are taught in Module 6.
 
 ## Worked example
 
