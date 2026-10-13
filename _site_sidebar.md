@@ -152,3 +152,10 @@
   - [100 · A Clinic or NGO Placement](/lessons/module-19/lesson-05.md)
   - [101 · A Real International Submission](/lessons/module-19/lesson-06.md)
   - [Module 19 quiz](/assessments/module-19-quiz.md)
+- **Module 20 — Capstone Campaign (about 60 hours over 3–9 months)**
+  - [102 · Choosing a Cause and a Theory of Change](/lessons/module-20/lesson-01.md)
+  - [103 · The Legal Strategy Map](/lessons/module-20/lesson-02.md)
+  - [104 · Running the Campaign: the Execution Log](/lessons/module-20/lesson-03.md)
+  - [105 · Media and Public Communication Within the Law](/lessons/module-20/lesson-04.md)
+  - [106 · Retrospective and Handing Over](/lessons/module-20/lesson-05.md)
+  - [Module 20 quiz](/assessments/module-20-quiz.md)

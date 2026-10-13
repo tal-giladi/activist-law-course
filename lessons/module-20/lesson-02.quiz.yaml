@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Your strategy map lists, in this order: a High Court petition, an FOI request, a formal letter to
+    the ministry and a press conference. What is the main sequencing error?
+  options:
+    - >-
+      The press conference should come first to build public pressure.
+    - >-
+      The petition comes before any written request and before the facts.
+    - >-
+      The FOI request should be dropped because a petition makes it redundant.
+    - >-
+      Nothing; the order of tools does not matter if all of them are used.
+  correct: 1
+  explanation: >-
+    Ask first in writing and get the facts before arguing. A petition without a prior written request
+    risks dismissal for not exhausting remedies, and an HCJ petition dismissed on its face can bring
+    costs to the State (reg. 6).
+- id: q2
+  question: >-
+    A municipality refused your request on 1 March. You plan a council question at the April meeting,
+    a complaint to the municipal commissioner, and an administrative petition "if all else fails".
+    What must your deadline spine show first?
+  options:
+    - >-
+      The date of the April council meeting.
+    - >-
+      The commissioner's one-year time limit for complaints.
+    - >-
+      The last day to file the petition.
+    - >-
+      The date the local newspaper goes to print.
+  correct: 2
+  explanation: >-
+    Hard deadlines go on the spine first. The petition clock runs from the decision and is not paused
+    by the council question or the complaint, so everything else must fit before it.
+- id: q3
+  question: >-
+    In the decision matrix, which tool is free, needs no lawyer, has no deadline, and usually yields
+    an official answer from a minister within about a month?
+  options:
+    - >-
+      A direct parliamentary question submitted through an MK.
+    - >-
+      An administrative petition with a fee-exemption request.
+    - >-
+      A Special Procedures communication to a UN rapporteur.
+    - >-
+      Information sent to the State Comptroller for an audit.
+  correct: 0
+  explanation: >-
+    A direct question is answered in writing within 21 days (30 if received in the recess). The
+    petition has a fee and a deadline; the Special Procedures and the Comptroller give no guaranteed
+    answer within a month.
+- id: q4
+  question: >-
+    Rina's capstone concerns a municipal bus route. Her map uses a formal letter, FOI, a council
+    question and a press release, and says "no international step". A reviewer says she must add a UN
+    communication "to be thorough". Who is right?
+  options:
+    - >-
+      The reviewer: every capstone must include an international tool.
+    - >-
+      The reviewer: a UN step always increases pressure on a municipality.
+    - >-
+      Neither: she should replace the council question with the UN step.
+    - >-
+      Rina, if her map explains why no international tool adds anything here.
+  correct: 3
+  explanation: >-
+    A good map says why it leaves tools out. The capstone needs four tools from three families, not
+    every family; a tool that creates no precondition only dilutes the campaign.
+- id: q5
+  question: >-
+    You plan to petition after a weak, unreasoned refusal, but you worry about a costs order. Which
+    entry belongs in your risk register?
+  options:
+    - >-
+      "Costs risk: ignore it, because self-represented petitioners never pay costs."
+    - >-
+      "Costs risk: medium; one-hour limited-scope lawyer review before filing."
+    - >-
+      "Costs risk: file in both the HCJ and the Administrative Court to be safe."
+    - >-
+      "Costs risk: skip the pre-petition letter to save time and costs."
+  correct: 1
+  explanation: >-
+    A risk register names the risk, its likelihood and the step that reduces it. Self-represented
+    parties can be ordered to pay costs; filing twice or skipping exhaustion makes it worse.

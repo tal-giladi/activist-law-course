@@ -1,0 +1,29 @@
+# Glossary inbox — Module 20
+
+- **קמפיין** (kampein) — Campaign: a planned series of actions toward one goal.
+- **תאוריית שינוי** (te'oryat shinui) — Theory of change: why a campaign's actions should produce the change it seeks.
+- **מקבל ההחלטה** (mekabel ha-hachlata) — The decision-maker who holds the power a campaign needs.
+- **יעד** (ya'ad) — Goal: the concrete decision wanted, with a date.
+- **תנאי מקדים** (tnai mukdam) — Precondition that must be true before the goal can be reached.
+- **הנחת עבודה** (hanachat avoda) — Working assumption a plan depends on, to be tested.
+- **מפת אסטרטגיה משפטית** (mapat strategya mishpatit) — Legal strategy map: tools, order, deadlines, cost and risk on one page.
+- **סעד חלופי** (sa'ad chalufi) — Alternative remedy: another forum that can give the relief.
+- **הסלמה** (haslama) — Escalation from soft tools to harder ones.
+- **מועד קשיח** (mo'ed kashi'ach) — Hard deadline set by law.
+- **ניהול סיכונים** (nihul sikunim) — Risk management.
+- **יומן ביצוע** (yoman bitzu'a) — Execution log: the dated record of every campaign action.
+- **נספח** (nispach) — Exhibit: a numbered document attached to a record or filing.
+- **אישור מסירה** (ishur mesira) — Proof of delivery.
+- **סירוב ללא נימוקים** (seruv lelo nimukim) — Refusal without reasons, including a deemed refusal after silence.
+- **צמצום מידע** (tzimtzum meida) — Data minimisation.
+- **הודעה לעיתונות** (hoda'a la-itonut) — Press release.
+- **אמברגו** (embargo) — Embargo: not to be published before a stated time.
+- **זכות תגובה** (zchut tguva) — Right of reply given to the person or body criticised.
+- **סוב יודיצה** (sub yudice) — Sub judice: a pending case the law protects from influence (Courts Law s. 71).
+- **עניין פלילי התלוי ועומד** (inyan plili ha-taluy ve-omed) — A criminal matter pending in court, from a remand request or indictment.
+- **תחקיר** (tachkir) — Debrief, after-action review.
+- **לקחים** (lekachim) — Lessons learned.
+- **חפיפה** (chafifa) — Hand-over briefing to the person who takes over.
+- **תיק העברה** (tik ha'avara) — Hand-over pack.
+- **שחיקה** (shchika) — Burnout.
+- **מעקב יישום** (ma'akav yisum) — Monitoring that a decision is carried out.

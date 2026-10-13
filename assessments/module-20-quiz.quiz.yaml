@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Residents of a moshav learn that the regional council approved a new waste-transfer station next
+    to their homes 20 days ago. They want it moved. Their first plan is a protest next month, then
+    "maybe" an FOI request. What should their strategy map put first?
+  options:
+    - >-
+      The protest, because public pressure is strongest at the start.
+    - >-
+      An international complaint about the right to a healthy environment.
+    - >-
+      The court deadline from the decision, then a written demand and FOI inside it.
+    - >-
+      An ombudsman complaint, which pauses the court deadline while it is examined.
+  correct: 2
+  explanation: >-
+    Hard deadlines go on the spine first: the petition clock runs from the decision. Soft tools — a
+    written demand, FOI, a protest — must fit inside it; a complaint never pauses it.
+- id: q2
+  question: >-
+    An Arab parents' committee in a mixed city wants more Arabic-language kindergartens. Which goal is
+    best for a capstone campaign?
+  options:
+    - >-
+      By the budget vote, the municipality decides on two more classes, or gives reasons.
+    - >-
+      Equal education for every Arab child in the city, now and in the years ahead.
+    - >-
+      Raising awareness of kindergarten shortages through the media and social networks.
+    - >-
+      Sending letters, FOI requests and a petition until the situation improves.
+  correct: 0
+  explanation: >-
+    A goal names the decision-maker, the decision and a date, and counts a reasoned refusal as a
+    result. The others are aims or lists of tools with no measure of success.
+- id: q3
+  question: >-
+    A Haredi neighbourhood group asked the municipality in writing to reopen a closed library branch.
+    Four months later the log shows a dated delivery receipt and no answer at all. What is the legal
+    position, and the next step?
+  options:
+    - >-
+      Nothing happened legally; they must wait until the municipality answers.
+    - >-
+      The request lapsed after three months and must be sent again from the start.
+    - >-
+      The silence is an approval, so the library must reopen at once.
+    - >-
+      The silence counts as a refusal without reasons; consider a pre-petition letter.
+  correct: 3
+  explanation: >-
+    Decisions and Reasons Law s. 6(ב): silence past the legal period is deemed a refusal without
+    reasons, and the official then bears the burden of showing the decision was lawful. The dated
+    receipt makes this provable.
+- id: q4
+  question: >-
+    During a campaign for a reservists' childcare grant, a member is detained at a protest and the
+    police file a remand request. The group's admins want to post daily videos arguing he is innocent
+    and calling on the judge to free him. What is the main legal risk?
+  options:
+    - >-
+      Defamation of the judge, because any post about a judge is defamatory.
+    - >-
+      Sub judice: publishing to influence a pending criminal case (Courts Law s. 71).
+    - >-
+      Breach of the protest licence, which covers posts made after the event.
+    - >-
+      None, because the case becomes pending only after an indictment.
+  correct: 1
+  explanation: >-
+    A criminal matter is pending from a remand request or an indictment, whichever comes first
+    (s. 71(ב)). Posts aimed at influencing it risk the offence; good-faith reports of open court are
+    allowed (s. 71(ג)).
+- id: q5
+  question: >-
+    A settlers' committee campaigns for a safer road junction. Its press release says the regional
+    roads official "took bribes to delay the work". The committee has no evidence. What should the
+    spokesperson do before sending it?
+  options:
+    - >-
+      Send it as is, since the official is a public figure who must accept criticism.
+    - >-
+      Send it, but only to journalists who promise not to name the source.
+    - >-
+      Remove the accusation and state documented facts and a request instead.
+    - >-
+      Send it anonymously, so no one in the committee can be sued.
+  correct: 2
+  explanation: >-
+    An unprovable criminal accusation is the classic defamation mistake, and the person who brings it
+    to the media is liable with the editor (s. 11). Documented facts and a clear request are safer and
+    stronger.
+- id: q6
+  question: >-
+    An LGBTQ community centre's campaign for municipal funding used a formal letter, FOI, a council
+    question and a press release. The coordinator is stepping down. Which item matters most in the
+    hand-over pack?
+  options:
+    - >-
+      The coordinator's personal opinions of each council member.
+    - >-
+      A list of every supporter's contact details for the new coordinator's other projects.
+    - >-
+      The coordinator's passwords, written in the pack for convenience.
+    - >-
+      The open clocks, the log, and who now owns each account.
+  correct: 3
+  explanation: >-
+    A new person needs the running deadlines, the log and account ownership moved properly. Passwords
+    should be changed, not written down; supporters' data stays bound to the campaign's purpose.
+- id: q7
+  question: >-
+    A Bedouin village committee's campaign for a school bus has a strong legal claim, an FOI answer and
+    a reasoned refusal from the ministry. The committee asks whether to file a UN Special Procedures
+    communication or an Israeli petition first. What does the strategy map suggest?
+  options:
+    - >-
+      The Israeli forum that can order the decision first; the UN step may follow.
+    - >-
+      The UN communication first, because the government must reply within 60 days.
+    - >-
+      Both on the same day, so that the ministry faces the maximum possible pressure.
+    - >-
+      Neither; a reasoned refusal from a ministry ends the campaign.
+  correct: 0
+  explanation: >-
+    One forum decides each question. An Israeli court can order the decision and has a deadline; a
+    Special Procedures letter has no deadline and no binding power, so it supports rather than
+    replaces the domestic route.
+- id: q8
+  question: >-
+    Halfway through a campaign for a public beach, the FOI answer shows that the plan you opposed was
+    already changed to keep public access. Your goal is now largely met. What does a good execution
+    log and weekly review do with this?
+  options:
+    - >-
+      Ignore it and continue as planned, so the case study looks consistent.
+    - >-
+      Publish a release claiming the campaign forced the change.
+    - >-
+      Record the fact, mark the assumption false, and adjust the goal to implementation.
+    - >-
+      Delete the FOI answer from the log, since it no longer helps the campaign.
+  correct: 2
+  explanation: >-
+    New facts that change the case are results. The weekly review records them and adjusts the plan;
+    claiming credit you cannot prove is a credibility and accuracy risk.
+- id: q9
+  question: >-
+    Tamar, a secular resident, runs her capstone on mixed swimming hours at the municipal pool. A
+    religious neighbour asks Tamar to also file and argue the neighbour's separate dispute with the
+    pool over a fine, for a small payment. What should Tamar do?
+  options:
+    - >-
+      Accept, as long as she files it in the neighbour's name.
+    - >-
+      Accept without payment and argue it before the tribunal for her.
+    - >-
+      Accept, because the dispute is with the same body as her campaign.
+    - >-
+      Give general information and refer the neighbour to free legal help.
+  correct: 3
+  explanation: >-
+    Representing another person and drafting for them, especially for payment, are reserved to lawyers
+    (Bar Association Law s. 20). The capstone runs in Tamar's own name; for others' cases she informs
+    and refers.
+- id: q10
+  question: >-
+    A farmers' group finished its campaign on water quotas with a partial win. The coordinator wants to
+    give the supporters' list to a political party that supports farmers before the elections. What is
+    the right answer?
+  options:
+    - >-
+      Not without consent; the data was given for the campaign, not for a party.
+    - >-
+      Yes, because the party supports the same cause as the campaign.
+    - >-
+      Yes, if the party promises to delete the list after the elections.
+    - >-
+      Yes, but only names and towns, without phone numbers.
+  correct: 0
+  explanation: >-
+    Privacy Protection Law s. 2(9) bars using or passing information for a purpose other than the one
+    it was given for. Political opinions are especially sensitive. Let supporters choose for
+    themselves.

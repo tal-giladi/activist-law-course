@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    A journalist asks you for a quote about the municipal engineer. You say, on the record, "he took
+    money from the developer". You have no evidence. The newspaper prints it. Who can be sued?
+  options:
+    - >-
+      Only the newspaper, because it decided to publish the quote.
+    - >-
+      Only you, because the newspaper merely reported your words.
+    - >-
+      Nobody, because a quote in an interview is an opinion.
+    - >-
+      You and the editor, among others, under the Defamation Law s. 11.
+  correct: 3
+  explanation: >-
+    Section 11(א) makes the person who brought the defamation to the media liable together with the
+    editor and whoever decided to publish. A bribery claim is a statement of fact, not an opinion.
+- id: q2
+  question: >-
+    A fellow activist was taken for police questioning this morning after a protest and has not been
+    charged or brought before a judge. Your group wants to post his name and photo with "Free him!".
+    What should you check first?
+  options:
+    - >-
+      Whether the s. 70(ד1) naming ban still applies, or he consented in writing.
+    - >-
+      Whether the police already announced his name on their own social media.
+    - >-
+      Whether the post will reach more than a thousand followers in total.
+    - >-
+      Whether the protest where he was detained had a police licence.
+  correct: 0
+  explanation: >-
+    For a short period after questioning begins, or until the first hearing, an uncharged suspect's
+    name may not be published unless an exception applies, such as his own written consent.
+- id: q3
+  question: >-
+    A remand hearing for your campaign's coordinator is held in open court. Which publication is
+    allowed while the case is pending?
+  options:
+    - >-
+      A post urging followers to pressure the judge to release him today.
+    - >-
+      A good-faith report of what the prosecutor and the defence said in court.
+    - >-
+      A video arguing that the main police witness is lying, to influence the ruling.
+    - >-
+      A petition to the judge signed by thousands, published before the decision.
+  correct: 1
+  explanation: >-
+    Section 71(ג) allows a good-faith report of what was said or happened in an open session. Posts
+    aimed at influencing the outcome of a pending criminal case risk the s. 71 offence.
+- id: q4
+  question: >-
+    Your campaign is still waiting for the ministry's answer and nothing new has happened for a month.
+    A volunteer proposes a press release "to keep the issue alive". What is the best advice?
+  options:
+    - >-
+      Send it, and make the headline dramatic so editors notice it.
+    - >-
+      Send it to every journalist on your list to maximise reach.
+    - >-
+      Wait for a milestone, such as the end of the legal answer period.
+    - >-
+      Send it, but leave out the request so the ministry is not annoyed.
+  correct: 2
+  explanation: >-
+    Journalists cover facts on the record. The end of the legal period without an answer is itself a
+    milestone; "still campaigning" is not news.
+- id: q5
+  question: >-
+    Before sending a release that criticises a regional council's decision, what step most helps
+    both your credibility and a later good-faith defence?
+  options:
+    - >-
+      Asking the council for comment by a set date and quoting it.
+    - >-
+      Adding a disclaimer that the release is "not legal advice".
+    - >-
+      Publishing it anonymously so the council cannot identify the author.
+    - >-
+      Removing all the sources so the council cannot challenge them.
+  correct: 0
+  explanation: >-
+    Giving the other side a chance to reply, and quoting it, is fair journalism and part of the
+    conduct a court looks at for good faith (lesson 08.2). Sources make a release stronger, not weaker.

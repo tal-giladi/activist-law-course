@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Three months after Omer e-mailed a request to a ministry department, nothing has come back. He
+    wants to treat the silence as a refusal and send a pre-petition letter. What will matter most?
+  options:
+    - >-
+      Proof of the date the department received his request.
+    - >-
+      A newspaper article reporting that the ministry ignores requests.
+    - >-
+      Statements from friends who remember him sending the e-mail.
+    - >-
+      A second copy of the request sent today by ordinary mail.
+  correct: 0
+  explanation: >-
+    Under the Decisions and Reasons Law s. 6(ב), silence past the legal period counts as a refusal
+    without reasons, counted from receipt. A dated proof of receipt in the log is what turns silence
+    into a legal fact.
+- id: q2
+  question: >-
+    Day 30 of your FOI request passes. The log shows an e-mail from the FOI officer that says only
+    "we need more time". What does the log tell you to do next?
+  options:
+    - >-
+      Wait another 60 days, since any extension notice is valid.
+    - >-
+      File an administrative petition today without further contact.
+    - >-
+      Send a reminder noting the extension must be in writing with reasons.
+    - >-
+      Withdraw the request and file a new, broader one.
+  correct: 2
+  explanation: >-
+    FOI Law s. 7(ב) allows an extension only by written notice with the reasons for it. An unreasoned
+    "more time" is a gap to point out in a reminder (lesson 05.3) before escalating.
+- id: q3
+  question: >-
+    Your FOI answer shows that the problem you are campaigning about is smaller than you assumed and
+    affects a different street. What should the weekly review record?
+  options:
+    - >-
+      Nothing, so the case study shows a consistent plan from start to finish.
+    - >-
+      A false assumption and a decision to adjust the goal, as a new plan version.
+    - >-
+      A decision to stop the FOI requests, since they weakened the campaign.
+    - >-
+      A note to keep the original goal and avoid mentioning the data publicly.
+  correct: 1
+  explanation: >-
+    An assumption proved false is a result, not a failure. The review records it and adjusts the plan;
+    the change itself becomes part of the case study.
+- id: q4
+  question: >-
+    Your campaign log includes supporters' phone numbers and the personal stories residents told you.
+    A local political party asks for the list to invite them to its events. What is the right answer?
+  options:
+    - >-
+      Share it, because supporters of the cause would welcome the invitation.
+    - >-
+      Share only the phone numbers, since they are not sensitive.
+    - >-
+      Share it if the party promises to delete it after the event.
+    - >-
+      Decline; the data was given for the campaign, not for another purpose.
+  correct: 3
+  explanation: >-
+    Privacy Protection Law s. 2(9): using or passing on information for a purpose other than the one
+    it was given for is an invasion of privacy. Political opinions are also especially sensitive data.

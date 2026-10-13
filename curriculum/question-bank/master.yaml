@@ -26821,3 +26821,1546 @@
   explanation: >-
     One sourced fact can support your own complaint, a written input and a UN section — each in its
     proper route, in your own name, without acting for others.
+- id: m20-001
+  module: 20
+  lesson: '20.1'
+  subject: cause-selection
+  difficulty: 1
+  question: >-
+    Which of the six filters does a cause fail when no person or body has the power to fix the
+    problem?
+  options:
+    - Legally hooked to a rule.
+    - Within capacity.
+    - Decided by someone.
+    - Timely.
+  correct: 2
+  explanation: >-
+    Filter 3 asks whether a person or body holds the power you need. Without a decision-maker there
+    is nobody to direct the campaign at.
+- id: m20-002
+  module: 20
+  lesson: '20.1'
+  subject: cause-selection
+  difficulty: 2
+  question: >-
+    Noam wants his capstone to fix his own parking fine from the municipality. Why is it a weak
+    capstone cause?
+  options:
+    - It is a personal grievance, better handled as a single complaint or appeal.
+    - Parking fines can never be challenged by a resident.
+    - Municipal matters such as parking are outside the scope of this whole course.
+    - It fails the legal-hook filter because there is no law on fines.
+  correct: 0
+  explanation: >-
+    A personal dispute suits one tool, such as a complaint (lesson 19.3). A capstone is a planned
+    public campaign with a goal that a decision-maker can grant.
+- id: m20-003
+  module: 20
+  lesson: '20.1'
+  subject: cause-selection
+  difficulty: 2
+  question: >-
+    Two candidate causes pass five filters each. Cause A fails "within capacity"; cause B fails
+    "yours" because only affected tenants can act. Which fix is realistic?
+  options:
+    - Pick whichever cause has more media appeal and ignore the failed filter.
+    - Act for the tenants in cause B, since you know the law better.
+    - Drop both, since a cause must pass all six filters at first sight.
+    - Narrow cause A to one decision, or have the tenants form a group that authorises B.
+  correct: 3
+  explanation: >-
+    A failing filter can often be fixed: narrow the goal to fit capacity, or let the affected people
+    act as a group in their own name.
+- id: m20-004
+  module: 20
+  lesson: '20.1'
+  subject: cause-selection
+  difficulty: 3
+  question: >-
+    A secular group wants to challenge a regional council's 2024 decision to fund a religious
+    institution. The decision was published two years ago. What does filter 5 suggest?
+  options:
+    - Petition against the 2024 decision now; delay never matters in public law.
+    - Aim at the next funding decision or budget, since challenging the old one is likely too late.
+    - >-
+      Complain to the ombudsman first, since a complaint extends the petition deadline until it is
+      decided.
+    - Wait for the council to repeat the decision before doing any research.
+  correct: 1
+  explanation: >-
+    Court deadlines run from the decision and delay can bar a petition. Aim at the next decision
+    point and prepare in time for it.
+- id: m20-005
+  module: 20
+  lesson: '20.1'
+  subject: goal-setting
+  difficulty: 1
+  question: What three elements does a campaign goal in lesson 20.1 name?
+  options:
+    - The cause, the slogan and the media outlet.
+    - The decision-maker, the decision and a date.
+    - The law, the court and the fee.
+    - The allies, the opponents and the budget.
+  correct: 1
+  explanation: >-
+    A goal says who must decide what, by when, and counts a reasoned refusal as a result you can
+    challenge.
+- id: m20-006
+  module: 20
+  lesson: '20.1'
+  subject: goal-setting
+  difficulty: 2
+  question: Why does the goal formula add "or a reasoned written decision explaining why not"?
+  options:
+    - Authorities are obliged by law to grant any request that is phrased in this particular way.
+    - It makes the goal sound more polite to officials.
+    - It replaces the need for a deadline in the goal.
+    - A reasoned refusal is a decision you can challenge, so it is a result you control.
+  correct: 3
+  explanation: >-
+    Without reasons you cannot judge or challenge the decision. A reasoned refusal moves the
+    campaign to review, appeal or a petition.
+- id: m20-007
+  module: 20
+  lesson: '20.1'
+  subject: goal-setting
+  difficulty: 2
+  question: >-
+    A Druze village committee writes the goal "improve the village's roads". Which rewrite fits the
+    formula?
+  options:
+    - '"By the 2027 budget, the regional council decides to pave the school road, or gives reasons."'
+    - '"Improve the village''s roads as quickly as possible with public support."'
+    - '"Make the state and the regional council recognise all of the village''s needs in every area."'
+    - '"Hold three protests and send ten letters about the roads."'
+  correct: 0
+  explanation: >-
+    The rewrite names the decision-maker, the decision and a date, and treats a reasoned refusal as
+    a result.
+- id: m20-008
+  module: 20
+  lesson: '20.1'
+  subject: theory-of-change
+  difficulty: 1
+  question: In a theory of change built backwards, what comes immediately before the long-term goal?
+  options:
+    - The full list of tools from the course that you already know how to use.
+    - The press release announcing the campaign.
+    - The preconditions that must be true just before the decision.
+    - The final retrospective of the campaign.
+  correct: 2
+  explanation: You map backwards from the goal to the preconditions, then to the actions that create each one.
+- id: m20-009
+  module: 20
+  lesson: '20.1'
+  subject: theory-of-change
+  difficulty: 2
+  question: Which is an assumption, in the sense of lesson 20.1?
+  options:
+    - '"We will send an FOI request to the ministry in week one."'
+    - '"The goal is a decision by 1 June."'
+    - '"Our group meets every Sunday."'
+    - '"The ministry keeps the waiting-list data we need."'
+  correct: 3
+  explanation: >-
+    An assumption is something the plan depends on that might be false. An FOI request tests whether
+    the data exists.
+- id: m20-010
+  module: 20
+  lesson: '20.1'
+  subject: theory-of-change
+  difficulty: 2
+  question: A parents' group lists ten actions but no preconditions. What is the risk?
+  options:
+    - The actions will be rejected for lack of a preconditions section.
+    - The campaign will automatically need a lawyer.
+    - Actions that create nothing the decision-maker needs to act.
+    - No risk; actions are what matter in a campaign.
+  correct: 2
+  explanation: >-
+    Every action should create a precondition. Without the map, tools are collected, not chosen, and
+    effort is wasted.
+- id: m20-011
+  module: 20
+  lesson: '20.1'
+  subject: theory-of-change
+  difficulty: 3
+  question: >-
+    Your theory of change assumes the matter is a municipal decision. The municipality answers that
+    the ministry decides and it only carries out instructions. What should you do?
+  options:
+    - Mark the assumption false, re-trace the power, and redirect the plan to the ministry.
+    - Ignore the answer and keep writing to the municipality.
+    - >-
+      File a petition against the municipality at once for giving you a wrong answer about its
+      powers.
+    - Publish that the municipality is evading responsibility.
+  correct: 0
+  explanation: >-
+    A false assumption changes the decision-maker. Check the source of the power (lesson 04.1) and
+    redirect the tools.
+- id: m20-012
+  module: 20
+  lesson: '20.1'
+  subject: own-name-limits
+  difficulty: 1
+  question: In whose name does a capstone campaign act?
+  options:
+    - Any person affected who asks you for help.
+    - Your own, or a group's or amuta's that authorised you.
+    - The course's, as an educational project.
+    - The most affected person, with you as their speaker.
+  correct: 1
+  explanation: >-
+    The Bar Association Law s. 20 reserves representing and drafting for others to lawyers when done
+    as an occupation or for payment.
+- id: m20-013
+  module: 20
+  lesson: '20.1'
+  subject: own-name-limits
+  difficulty: 2
+  question: >-
+    A campaign for disability access involves many families. What may the campaigner do for an
+    individual family's benefit appeal?
+  options:
+    - Give general information and refer them to free legal help.
+    - Write the appeal in the family's name for a small fee.
+    - Represent the family at the appeals committee.
+    - Tell the family exactly what they are entitled to.
+  correct: 0
+  explanation: >-
+    General information and referral are allowed. Drafting for others, representing them and
+    individual legal advice, as an occupation or for payment, are reserved acts.
+- id: m20-014
+  module: 20
+  lesson: '20.1'
+  subject: deadlines
+  difficulty: 2
+  question: Which statement about soft tools and hard deadlines is correct?
+  options:
+    - An ombudsman complaint pauses the petition deadline until the finding.
+    - A complaint to an oversight body does not extend a statutory deadline.
+    - A council question restarts the deadline from the council meeting.
+    - A press release counts as exhausting remedies.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint does not extend any deadline set by law. Plan
+    soft tools inside the hard deadlines.
+- id: m20-015
+  module: 20
+  lesson: '20.1'
+  subject: cause-selection
+  difficulty: 3
+  question: >-
+    A learner with strong views on the territories wants a capstone that "proves the other side
+    wrong". What does the course expect?
+  options:
+    - No contested topics; they are excluded from the capstone.
+    - Only the learner's position, since it is their campaign.
+    - A concrete goal, and a fair, attributed account of the opposing position.
+    - A neutral goal that does not ask any decision-maker for anything.
+  correct: 2
+  explanation: >-
+    Any cause is allowed. The case study must state the other side's position fairly and attribute
+    contested claims (plan §5).
+- id: m20-016
+  module: 20
+  lesson: '20.1'
+  subject: theory-of-change
+  difficulty: 1
+  question: What is an indicator in a theory of change?
+  options:
+    - The final decision you want from the decision-maker, written as a date and a result.
+    - An assumption you decided not to test.
+    - The name of the official who decides.
+    - A sign that a precondition is in place, such as an item on the council agenda.
+  correct: 3
+  explanation: >-
+    Indicators show progress toward each precondition, so the weekly review can tell whether the
+    plan is working.
+- id: m20-017
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 1
+  question: In the lesson 20.2 matrix, what does the "chance" column describe?
+  options:
+    - The official success rate published by the courts each year.
+    - The chance of winning the whole campaign if you rely on that one tool and no other.
+    - A rough judgement of how often the tool yields its typical result when used well.
+    - The probability that the tool's fee will be waived.
+  correct: 2
+  explanation: >-
+    Chance is the course's rough judgement for the tool's typical result, not a statistic and not
+    the campaign's overall chance.
+- id: m20-018
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 1
+  question: Which tool in the matrix has no fee and no deadline, but also no guaranteed answer?
+  options:
+    - Information sent to the State Comptroller for a possible audit.
+    - An administrative petition filed together with a fee-exemption request.
+    - A planning objection during the deposit period.
+    - An FOI request to a local authority.
+  correct: 0
+  explanation: >-
+    The Comptroller may audit but owes you no answer. The petition and the objection have deadlines;
+    FOI has a fee and an answer period.
+- id: m20-019
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 2
+  question: Which tool is limited to complaints about government ministries and their units?
+  options:
+    - The local authority's complaints commissioner.
+    - A council question through a member.
+    - A planning appeal.
+    - The Government FOI Unit complaint.
+  correct: 3
+  explanation: >-
+    The FOI Unit handles ministries and their units only (lesson 05.3). Local bodies have their own
+    routes.
+- id: m20-020
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 2
+  question: Which tool usually gives the fastest official answer from a minister?
+  options:
+    - A shadow report to a UN treaty body.
+    - A direct question submitted through an MK.
+    - A High Court petition.
+    - Information sent to the State Comptroller.
+  correct: 1
+  explanation: >-
+    A direct question is answered in writing within a set period (lesson 12.4). The others take
+    months or years, or promise no answer.
+- id: m20-021
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 2
+  question: Which risk does the matrix list as the main one for a protest?
+  options:
+    - A costs order to the State.
+    - Detention and arrest.
+    - Missing the objection period.
+    - A privacy fine from the regulator.
+  correct: 1
+  explanation: >-
+    Protests carry criminal-law exposure (Module 7); costs orders belong to litigation, and
+    objection periods to planning.
+- id: m20-022
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 3
+  question: >-
+    A disabled resident wants a ramp at a municipal office. Which pair of tools fits best early in
+    the campaign?
+  options:
+    - >-
+      A High Court petition against the mayor and a UN Special Procedures communication about
+      access.
+    - A small claim for compensation and a protest without notice.
+    - A planning objection and an Article 15 communication.
+    - A formal letter to the municipality and a complaint or query to the disability Commission.
+  correct: 3
+  explanation: >-
+    Ask the decision-maker in writing and use the specialist regulator (lesson 09.4). Courts and UN
+    routes come later, if at all.
+- id: m20-023
+  module: 20
+  lesson: '20.2'
+  subject: sequencing
+  difficulty: 2
+  question: Why does rule 2 put facts before arguments?
+  options:
+    - A petition or submission built on unverified facts is costly and easy to defeat.
+    - Courts refuse to hear any legal argument that was made before the FOI answer arrived.
+    - FOI requests are free, so they must always be first.
+    - Arguments are not allowed in a formal letter.
+  correct: 0
+  explanation: >-
+    FOI and documentation often reveal the authority's real reasons and prevent a weak petition or a
+    defamation risk.
+- id: m20-024
+  module: 20
+  lesson: '20.2'
+  subject: sequencing
+  difficulty: 2
+  question: >-
+    Your campaign wants both an oversight finding and a court order on the same refusal. How does
+    rule 4 apply?
+  options:
+    - File both and ask each to decide first.
+    - >-
+      Wait for the oversight body's finding first, and then petition however late that turns out to
+      be.
+    - Let the court decide the question; use the oversight body for a record, inside the deadline.
+    - Choose the oversight body because it is free and binding.
+  correct: 2
+  explanation: >-
+    One forum decides each question. Oversight findings help but are not binding, and they never
+    pause the court clock.
+- id: m20-025
+  module: 20
+  lesson: '20.2'
+  subject: sequencing
+  difficulty: 3
+  question: >-
+    A Jordan Valley farmers' group has a planning objection period ending in 3 weeks and an FOI
+    request pending for the plan's surveys. What should it do?
+  options:
+    - Wait for the FOI answer, since facts come before arguments.
+    - Skip the objection and petition the High Court later.
+    - >-
+      Ask the FOI officer to extend the objection period until the surveys have been released to
+      you.
+    - File the objection on time with what it has, and add the FOI material later if allowed.
+  correct: 3
+  explanation: >-
+    Hard deadlines govern. Rule 2 never justifies missing a statutory period; file on time and build
+    on later facts.
+- id: m20-026
+  module: 20
+  lesson: '20.2'
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    Your matter is listed in the First Schedule of the Administrative Courts Law. Where does a
+    petition go?
+  options:
+    - The High Court of Justice, which hears all public law.
+    - The Magistrates' Court in your town.
+    - The District Court sitting as an Administrative Court.
+    - The Small Claims Court, if the fee is lower.
+  correct: 2
+  explanation: >-
+    First Schedule matters go to the Administrative Court; the HCJ hears only what no other court
+    can (Basic Law: The Judiciary s. 15(ג)).
+- id: m20-027
+  module: 20
+  lesson: '20.2'
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    A campaign's map lists a UN Special Procedures communication as the first step against a
+    municipal decision. What is the main objection?
+  options:
+    - Domestic routes that can order a decision come first; the UN step adds little here.
+    - >-
+      Special Procedures accept communications only from lawyers or registered organisations, not
+      individuals.
+    - A communication must be sent after a final court judgment.
+    - UN bodies charge a filing fee for municipal matters.
+  correct: 0
+  explanation: >-
+    Special Procedures need no exhaustion or fee, but they cannot order a municipality to act.
+    Strategy puts the forum that decides first.
+- id: m20-028
+  module: 20
+  lesson: '20.2'
+  subject: risk-budget
+  difficulty: 1
+  question: What belongs in a campaign's risk register?
+  options:
+    - Only the fees for each tool.
+    - Each tool's main risk, its likelihood and the step that reduces it.
+    - A list of the opponents' personal details, with their home addresses.
+    - The press coverage you hope to get.
+  correct: 1
+  explanation: A risk register names the risk, how likely it is in your case and what you will do about it.
+- id: m20-029
+  module: 20
+  lesson: '20.2'
+  subject: risk-budget
+  difficulty: 2
+  question: Your budget cannot cover the petition fee. What does the map record?
+  options:
+    - The fee-exemption route with its affidavit, from lesson 11.6.
+    - That the petition will be filed without paying.
+    - That a supporter will file the petition in their name instead.
+    - That the petition is dropped from all plans.
+  correct: 0
+  explanation: >-
+    A fee-exemption request is the lawful route when you cannot pay. Filing in someone else's name
+    changes who the party is.
+- id: m20-030
+  module: 20
+  lesson: '20.2'
+  subject: risk-budget
+  difficulty: 2
+  question: Which mitigation fits the costs risk of a self-represented petition?
+  options:
+    - Filing the same petition in two courts at once to keep one of them alive.
+    - A limited-scope lawyer or clinic review of the draft before filing.
+    - Leaving out the respondents' legal adviser.
+    - Skipping the pre-petition letter to save time.
+  correct: 1
+  explanation: >-
+    A short review catches threshold problems. The other options increase the risk of dismissal and
+    costs.
+- id: m20-031
+  module: 20
+  lesson: '20.2'
+  subject: sequencing
+  difficulty: 2
+  question: Which is a good reason, in a strategy map, for not using a protest?
+  options:
+    - Protests are always unlawful unless the police have issued a licence in advance.
+    - Protests always require an amuta to organise them.
+    - It would add arrest risk without creating any precondition the goal needs.
+    - Protests count as a reserved act under s. 20.
+  correct: 2
+  explanation: >-
+    Many gatherings need no licence. A tool is left out when it serves no precondition and adds
+    risk.
+- id: m20-032
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 3
+  question: >-
+    A campaign has three months. Which tool is least likely to produce a visible result within that
+    time?
+  options:
+    - A formal letter with the duty to decide.
+    - A council question through a member.
+    - An FOI request to a ministry.
+    - Information sent to the ICC Prosecutor.
+  correct: 3
+  explanation: >-
+    International criminal processes take years and give one sender little visibility. The others
+    produce answers within weeks or months.
+- id: m20-033
+  module: 20
+  lesson: '20.2'
+  subject: deadline-spine
+  difficulty: 1
+  question: When drawing the deadline spine, what goes on it first?
+  options:
+    - The dates of planned press releases.
+    - The group's weekly meetings.
+    - Every hard deadline set by law.
+    - The soft tools, in order of cost.
+  correct: 2
+  explanation: Hard deadlines first, then the soft tools are fitted before them.
+- id: m20-034
+  module: 20
+  lesson: '20.2'
+  subject: deadline-spine
+  difficulty: 2
+  question: >-
+    A written refusal arrives. On the spine, what clock does it usually start for a First Schedule
+    matter?
+  options:
+    - The period for an administrative petition, counted from the decision.
+    - The one-year period that the FOI Law allows for filing any new request.
+    - The 60-day reply period of the Special Procedures.
+    - The minister's 21 days to answer a question.
+  correct: 0
+  explanation: >-
+    A refusal is a decision; the administrative petition clock runs from it (reg. 3). Check the
+    current period on Current Numbers.
+- id: m20-035
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 1
+  question: When should a line be written in the execution log?
+  options:
+    - At the end of each month.
+    - When the campaign ends.
+    - Only when a reply arrives.
+    - On the day the event happens.
+  correct: 3
+  explanation: Same-day lines are accurate and stronger evidence; reconstructed logs are usually wrong.
+- id: m20-036
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 1
+  question: What must every "sent" line in the log include?
+  options:
+    - A copy of the press release about it.
+    - Proof of sending or receipt, with an exhibit number.
+    - The signatures of all the members of the campaign group.
+    - The recipient's home address.
+  correct: 1
+  explanation: Without proof the authority can deny receiving the letter, and silence cannot be relied on.
+- id: m20-037
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 2
+  question: >-
+    A volunteer edits a protest photo to improve the lighting and saves over the original. What was
+    lost?
+  options:
+    - Nothing, since the content is the same.
+    - The original's value as evidence.
+    - The copyright in the photo.
+    - The right to publish the photo at all.
+  correct: 1
+  explanation: Keep originals untouched and work on copies; edits break the chain of custody (lesson 17.4).
+- id: m20-038
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 3
+  question: >-
+    Your log line reads: "the official is hiding the report because he is corrupt". The log may
+    later be attached to a petition. What should you do?
+  options:
+    - Leave it; a log is private and cannot be used in court.
+    - Add a disclaimer that the line is not legal advice.
+    - Delete the whole log and start again.
+    - Keep facts in the log and move opinions to private notes.
+  correct: 3
+  explanation: >-
+    The log records facts. Accusations in a document you may file or that may leak create defamation
+    risk.
+- id: m20-039
+  module: 20
+  lesson: '20.3'
+  subject: deemed-refusal
+  difficulty: 1
+  question: >-
+    Under the Decisions and Reasons Law s. 6(ב), what does an official's silence past the legal
+    period count as?
+  options:
+    - A refusal without reasons.
+    - An approval of the request.
+    - A request to start again.
+    - A referral to the ombudsman.
+  correct: 0
+  explanation: Silence is treated, for every legal purpose, as a refusal without reasons.
+- id: m20-040
+  module: 20
+  lesson: '20.3'
+  subject: deemed-refusal
+  difficulty: 2
+  question: What extra advantage does s. 6(א) give you when no reasoned answer was given?
+  options:
+    - The court must rule in your favour without holding any hearing on the merits.
+    - The fee for a petition is waived.
+    - In court, the official bears the burden of showing the decision was lawful.
+    - The deadline to petition is doubled.
+  correct: 2
+  explanation: >-
+    Section 6(א): where no answer or reasons were given, the burden shifts to the official to show
+    legality.
+- id: m20-041
+  module: 20
+  lesson: '20.3'
+  subject: foi-clock
+  difficulty: 2
+  question: >-
+    Day 30 of an FOI request: the officer e-mails "we will answer in another 30 days because of the
+    volume of material". What does the log record?
+  options:
+    - A deemed refusal; petition at once.
+    - An unlawful delay; complain to the police about the FOI officer.
+    - A final answer, closing the request.
+    - A written, reasoned extension, and a new reminder date.
+  correct: 3
+  explanation: FOI Law s. 7(ב) allows a written extension with reasons. Log it and set the next reminder.
+- id: m20-042
+  module: 20
+  lesson: '20.3'
+  subject: foi-clock
+  difficulty: 3
+  question: >-
+    A ministry gave a reasoned refusal of part of your FOI request. You also complained to the FOI
+    Unit. When does your petition clock start for the refused part?
+  options:
+    - From the FOI Unit's reply to your complaint.
+    - Only after a second FOI request is refused.
+    - From the refusal; the complaint does not pause it.
+    - From the date you publish the refusal.
+  correct: 2
+  explanation: A written refusal starts the petition clock and no complaint pauses it (lesson 05.3).
+- id: m20-043
+  module: 20
+  lesson: '20.3'
+  subject: plan-adjustment
+  difficulty: 1
+  question: What should every weekly review end with?
+  options:
+    - 'A decision: continue, adjust or escalate.'
+    - A new press release about the campaign's progress.
+    - A new FOI request.
+    - A message to all supporters.
+  correct: 0
+  explanation: The review turns new facts into a decision recorded in the log.
+- id: m20-044
+  module: 20
+  lesson: '20.3'
+  subject: plan-adjustment
+  difficulty: 2
+  question: The municipality decides in your favour. What is the typical next step?
+  options:
+    - Close the campaign and archive the whole log on the same day.
+    - Get it in writing and log the implementation dates.
+    - File a petition to make the decision binding.
+    - Publish the officials' names to thank them.
+  correct: 1
+  explanation: A decision needs to be carried out; monitoring implementation is part of the campaign.
+- id: m20-045
+  module: 20
+  lesson: '20.3'
+  subject: plan-adjustment
+  difficulty: 2
+  question: >-
+    You receive a lawyer's demand letter about a post from your campaign. What does the
+    change-of-plan table say?
+  options:
+    - Stop publishing on that point and follow the steps in lesson 08.3.
+    - Repost the claim more widely to show the other side you are not afraid.
+    - Ignore it; demand letters have no legal effect.
+    - Delete the whole campaign page and all evidence.
+  correct: 0
+  explanation: >-
+    Preserve, analyse and reply carefully (lesson 08.3). Deleting evidence or escalating can harm
+    you.
+- id: m20-046
+  module: 20
+  lesson: '20.3'
+  subject: plan-adjustment
+  difficulty: 3
+  question: >-
+    After the October 2026 elections, the minister who received your letter is replaced. What should
+    the campaign do?
+  options:
+    - Wait for the old minister's answer, since letters bind the office forever.
+    - Write again to the new holder of the power, referring to the earlier letter.
+    - Petition at once, since the change voids the request.
+    - Drop the campaign; a new government cancels open requests.
+  correct: 1
+  explanation: >-
+    Powers belong to the office, but preconditions may reset with a new holder. A fresh letter keeps
+    the file moving.
+- id: m20-047
+  module: 20
+  lesson: '20.3'
+  subject: campaign-data-privacy
+  difficulty: 2
+  question: >-
+    Your group keeps a shared spreadsheet of supporters with their phone numbers and political
+    views. What should the personal-data note say?
+  options:
+    - That supporters agreed to anything by joining the group chat.
+    - That political views are not personal data under the Privacy Protection Law at all.
+    - What is held, why, who can see it, how it is protected and when it will be deleted.
+    - That the spreadsheet is public so nothing needs protecting.
+  correct: 2
+  explanation: >-
+    Political opinions are especially sensitive data. Record purpose, access, protection and
+    deletion.
+- id: m20-048
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 2
+  question: Which action counts toward the capstone's three real actions?
+  options:
+    - A petition you drafted but decided not to file.
+    - A press release you wrote but did not send.
+    - A meeting you planned with a council member who never replied to your messages.
+    - An FOI request you actually filed, with the form confirmation in the log.
+  correct: 3
+  explanation: >-
+    Real actions are steps taken in the world in your own name, with proof. Drafts are dry runs,
+    recorded with reasons.
+- id: m20-049
+  module: 20
+  lesson: '20.3'
+  subject: execution-log
+  difficulty: 3
+  question: >-
+    Your capstone includes an oversight complaint you filed in lesson 19.3 two months before
+    planning the campaign. Can it count?
+  options:
+    - Yes, any real action from Module 19 counts automatically.
+    - No, actions from Module 19 can never count.
+    - Only if it was part of this campaign's plan toward the same goal.
+    - Yes, as long as you file it again under the capstone campaign's name.
+  correct: 2
+  explanation: >-
+    You may build on Module 19 actions, but the capstone is one planned campaign; an unrelated
+    earlier action does not count.
+- id: m20-050
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 1
+  question: What should a press release's headline state?
+  options:
+    - The fact, not an adjective.
+    - The campaign's slogan.
+    - The names of the officials involved.
+    - The date of the next protest.
+  correct: 0
+  explanation: Journalists cover facts; "Ministry did not answer for three months" is stronger than "Scandal!".
+- id: m20-051
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 1
+  question: Where does your opinion belong in a press release?
+  options:
+    - In the headline.
+    - In the lead paragraph, stated as a fact.
+    - In the facts section, with sources.
+    - In a quote, clearly as your opinion.
+  correct: 3
+  explanation: Keep facts and opinions apart; the quote is where your opinion goes.
+- id: m20-052
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 2
+  question: Which milestone is the best reason to send a release?
+  options:
+    - The campaign's one-month anniversary.
+    - An FOI answer with figures nobody has published.
+    - A new logo and a new colour scheme for the campaign.
+    - A supporter's personal story with no documents.
+  correct: 1
+  explanation: Facts on the record are news; anniversaries and logos are not.
+- id: m20-053
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 2
+  question: Your release lacks a request. What is the consequence?
+  options:
+    - Journalists are not allowed to publish it.
+    - Coverage without pressure on any decision-maker.
+    - The release becomes defamatory.
+    - The authority must then answer the release within 30 days.
+  correct: 1
+  explanation: A release should ask one decision-maker for one decision by a date.
+- id: m20-054
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 3
+  question: >-
+    An English release for a UN-related step describes the Israeli government's position. How should
+    it be written?
+  options:
+    - Left out, since the UN already knows it.
+    - Paraphrased in the campaign's own words without a source.
+    - Described as propaganda, to show the contrast.
+    - Fairly, attributed to a specific official source and date.
+  correct: 3
+  explanation: >-
+    Contested matters are presented with official positions next to others, each attributed (plan
+    §5).
+- id: m20-055
+  module: 20
+  lesson: '20.4'
+  subject: defamation-media
+  difficulty: 1
+  question: Under the Defamation Law s. 11, who is liable when defamation is published in a newspaper?
+  options:
+    - The person who brought it to the media, the editor and whoever decided to publish.
+    - Only the journalist who wrote the article.
+    - Only the newspaper's owner.
+    - Nobody at all, if the newspaper printed a correction within a week of the publication.
+  correct: 0
+  explanation: Section 11(א) makes the source liable alongside the editor and the decision-maker at the outlet.
+- id: m20-056
+  module: 20
+  lesson: '20.4'
+  subject: defamation-media
+  difficulty: 2
+  question: Which sentence in a release is safest?
+  options:
+    - '"The director closed the clinic to punish our neighbourhood."'
+    - '"The director is a liar who hides the truth."'
+    - '"The FOI answer shows the clinic was closed on 40 of 90 days."'
+    - '"Everyone knows the director takes orders from developers."'
+  correct: 2
+  explanation: >-
+    A documented fact is defensible; motives, insults and rumours are the usual sources of
+    liability.
+- id: m20-057
+  module: 20
+  lesson: '20.4'
+  subject: defamation-media
+  difficulty: 2
+  question: Under the Defamation Law s. 2, which of these is a publication?
+  options:
+    - A thought you never shared with anyone.
+    - A note in a locked diary nobody else reads.
+    - A draft deleted before anyone saw it.
+    - An answer you give in a recorded radio interview.
+  correct: 3
+  explanation: >-
+    Publication includes spoken words and any means by which the words reach someone other than the
+    person concerned.
+- id: m20-058
+  module: 20
+  lesson: '20.4'
+  subject: defamation-media
+  difficulty: 3
+  question: A post that crossed a line about a named official has been up for a day. What helps most?
+  options:
+    - Leaving it up to avoid looking weak.
+    - Editing it silently without telling anyone.
+    - Removing it quickly and publishing a correction.
+    - Reposting it from an anonymous account.
+  correct: 2
+  explanation: Quick removal and correction help a good-faith defence and reduce harm (lesson 08.2).
+- id: m20-059
+  module: 20
+  lesson: '20.4'
+  subject: publication-bans
+  difficulty: 1
+  question: What does Courts Law s. 70(א) forbid?
+  options:
+    - Publishing about a hearing held behind closed doors without permission.
+    - Publishing any report at all about any court hearing, whether open or closed.
+    - Naming a judge in a newspaper.
+    - Quoting a public judgment.
+  correct: 0
+  explanation: Closed-door hearings may not be reported without the court's permission; open hearings may.
+- id: m20-060
+  module: 20
+  lesson: '20.4'
+  subject: publication-bans
+  difficulty: 1
+  question: Who can order a ban on publishing details of a court proceeding to protect a witness's safety?
+  options:
+    - The police spokesperson.
+    - The court, under s. 70(ד).
+    - Any party to the case.
+    - The Knesset committee concerned.
+  correct: 1
+  explanation: >-
+    Section 70(ד) lets the court ban publication to protect safety or prevent a serious invasion of
+    privacy.
+- id: m20-061
+  module: 20
+  lesson: '20.4'
+  subject: publication-bans
+  difficulty: 2
+  question: >-
+    You are not sure whether a gag order covers a case your campaign wants to mention. What should
+    you do?
+  options:
+    - Ask the court secretariat or a party's lawyer before publishing.
+    - Publish and remove it if someone complains.
+    - Assume no ban exists unless the police announced one.
+    - Publish only on social media, where court publication bans do not apply.
+  correct: 0
+  explanation: Bans apply to every publication. Check first; breaching s. 70 is an offence.
+- id: m20-062
+  module: 20
+  lesson: '20.4'
+  subject: publication-bans
+  difficulty: 2
+  question: >-
+    A campaign member was summoned for questioning yesterday and has not been charged. Which
+    exception lets you publish his name during the s. 70(ד1) period?
+  options:
+    - A majority vote of the campaign group.
+    - His own written consent.
+    - The fact that he is a public figure in the town.
+    - A statement that he is innocent.
+  correct: 1
+  explanation: Section 70(ד1)(2) lists exceptions, including the suspect's written request or consent.
+- id: m20-063
+  module: 20
+  lesson: '20.4'
+  subject: publication-bans
+  difficulty: 3
+  question: >-
+    A campaign about a children's home wants to publish details of a minor's court case discussed at
+    a hearing. What applies?
+  options:
+    - Nothing, if the parents agree on social media.
+    - Only a defamation risk, which disappears completely if the content you publish is true.
+    - Publication about such a minor's case needs the court's permission (s. 70(ג)).
+    - Nothing, if the minor's first name is used.
+  correct: 2
+  explanation: >-
+    Section 70(ג) restricts publications about certain minors' cases without the court's permission;
+    privacy rules also apply.
+- id: m20-064
+  module: 20
+  lesson: '20.4'
+  subject: sub-judice
+  difficulty: 1
+  question: From when is a criminal matter "pending" for the sub judice rule?
+  options:
+    - Only from the first witness's testimony.
+    - From the moment of the arrest.
+    - From the end of the police investigation and the transfer to the prosecutor.
+    - From a remand request or an indictment, whichever comes first.
+  correct: 3
+  explanation: Section 71(ב) defines the start and the end of a pending criminal matter.
+- id: m20-065
+  module: 20
+  lesson: '20.4'
+  subject: sub-judice
+  difficulty: 2
+  question: Which publication is protected during a pending criminal case?
+  options:
+    - A post urging the judge to rule a certain way.
+    - A video analysing the witnesses' credibility to sway the verdict.
+    - A good-faith report of what was said in an open court session.
+    - A petition to the judge signed by thousands.
+  correct: 2
+  explanation: >-
+    Section 71(ג) protects good-faith reports of open sessions; content aimed at influencing the
+    case risks the offence.
+- id: m20-066
+  module: 20
+  lesson: '20.4'
+  subject: sub-judice
+  difficulty: 3
+  question: >-
+    Your campaign against a factory's pollution continues while the factory manager faces a criminal
+    environmental charge. Can you keep campaigning?
+  options:
+    - Yes, about the pollution and the regulator, without arguing the criminal case to sway it.
+    - No, all publications about the factory are banned until the verdict.
+    - Yes, including posts that the manager is guilty, since the facts are public.
+    - >-
+      No, not until the campaign has asked for and received the court's written permission to
+      continue.
+  correct: 0
+  explanation: >-
+    Section 71 targets publications aimed at influencing the case. Campaigning on the policy issue,
+    without arguing guilt, remains possible.
+- id: m20-067
+  module: 20
+  lesson: '20.4'
+  subject: privacy-incitement
+  difficulty: 2
+  question: >-
+    A campaign video shows a private resident's face in her own garden, without consent. What is the
+    risk?
+  options:
+    - None, since the video is for a good cause.
+    - Only a copyright problem with whoever owns the camera that filmed it.
+    - A sub judice offence, because a complaint may follow.
+    - An invasion of privacy; blur her face or get written consent.
+  correct: 3
+  explanation: >-
+    Filming a person in a private place and publishing it can invade privacy (s. 2). Blur or get
+    consent.
+- id: m20-068
+  module: 20
+  lesson: '20.4'
+  subject: privacy-incitement
+  difficulty: 3
+  question: >-
+    After an attack, a campaign member drafts a post praising violence against the attackers'
+    community. What should the spokesperson do?
+  options:
+    - Post it, because anger after an attack is protected speech.
+    - Stop it; praise of violence likely to lead to violence is a crime, whoever the target.
+    - Post it from a private account so the group is not liable.
+    - >-
+      Post it, adding a clear note that it is only the member's personal opinion and not the
+      group's.
+  correct: 1
+  explanation: >-
+    Penal Law s. 144ד2 applies to every camp and target; group admins can be liable too (lesson
+    06.5).
+- id: m20-069
+  module: 20
+  lesson: '20.4'
+  subject: journalists
+  difficulty: 1
+  question: What is the legal status of an "off the record" agreement with a journalist?
+  options:
+    - A confidentiality order that the courts will enforce against the outlet.
+    - An agreement with the journalist, not a legal protection.
+    - A ban on publication under s. 70.
+    - A waiver of the Defamation Law.
+  correct: 1
+  explanation: Terms like off the record depend on trust. If you do not want to read it, do not say it.
+- id: m20-070
+  module: 20
+  lesson: '20.4'
+  subject: journalists
+  difficulty: 2
+  question: A journalist asks about a fellow activist's pending criminal case. What is the best answer?
+  options:
+    - Explain in detail why the activist is innocent and why the police witnesses lied.
+    - Give the journalist the activist's medical records to show the harm.
+    - Speculate about the likely sentence.
+    - Refer the question to the activist's lawyer and return to your campaign messages.
+  correct: 3
+  explanation: >-
+    Leave the criminal case to the lawyer; arguing it risks s. 71, and medical details invade
+    privacy.
+- id: m20-071
+  module: 20
+  lesson: '20.4'
+  subject: journalists
+  difficulty: 2
+  question: A news item misreports your FOI figures. What should you do?
+  options:
+    - Ask the journalist in writing for a correction, with the document.
+    - Post that the newspaper is lying.
+    - Ignore it, since corrections never happen.
+    - Send the newspaper a demand letter threatening a defamation lawsuit.
+  correct: 0
+  explanation: A polite written correction with the source document is the usual and effective route; log it.
+- id: m20-072
+  module: 20
+  lesson: '20.4'
+  subject: journalists
+  difficulty: 3
+  question: >-
+    A campaign has a spokesperson chosen in its group agreement. A local radio station calls a
+    member who is not the spokesperson. What should the member do?
+  options:
+    - Speak for the whole group on air, since the station's call came to them.
+    - Give the station other members' private phone numbers.
+    - Refer the station to the spokesperson, or speak only for themselves.
+    - Refuse all contact with the media from now on.
+  correct: 2
+  explanation: >-
+    Group discipline on spokespeople (lesson 18.1) keeps the message accurate; members speak only
+    for themselves.
+- id: m20-073
+  module: 20
+  lesson: '20.4'
+  subject: right-of-reply
+  difficulty: 2
+  question: Why ask the authority for comment before sending a critical release?
+  options:
+    - The law forbids publishing without the authority's approval.
+    - It gives the authority power to veto the release.
+    - It turns the release into a privileged publication.
+    - It is fair, improves accuracy and supports a good-faith defence.
+  correct: 3
+  explanation: Right of reply is part of responsible publication; it does not give anyone a veto.
+- id: m20-074
+  module: 20
+  lesson: '20.5'
+  subject: retrospective
+  difficulty: 1
+  question: What should every claim in the retrospective point to?
+  options:
+    - The coordinator's memory.
+    - Media coverage.
+    - A log line or an exhibit.
+    - The other side's statements.
+  correct: 2
+  explanation: The log is the evidence base; a retrospective from memory is usually flattering and wrong.
+- id: m20-075
+  module: 20
+  lesson: '20.5'
+  subject: retrospective
+  difficulty: 2
+  question: A campaign got a partial result. How does the capstone rubric treat it?
+  options:
+    - It can still score full marks if strategy, execution and review are strong.
+    - It fails, because the goal was not fully reached.
+    - It passes only if the other side admits in writing that the campaign caused the change.
+    - It must be rewritten as a full success.
+  correct: 0
+  explanation: The rubric judges strategy, execution and honest review, not the outcome.
+- id: m20-076
+  module: 20
+  lesson: '20.5'
+  subject: retrospective
+  difficulty: 2
+  question: Which retrospective sentence is most useful?
+  options:
+    - '"The campaign was a huge success thanks to everyone."'
+    - '"The FOI request took 74 days and produced the figure that moved the council."'
+    - '"The authorities were against us from the start."'
+    - '"We learned a great deal from all of it and would happily do the whole thing again."'
+  correct: 1
+  explanation: Specific, evidenced statements teach the next campaign; general praise does not.
+- id: m20-077
+  module: 20
+  lesson: '20.5'
+  subject: retrospective
+  difficulty: 3
+  question: >-
+    Your retrospective shows the press release, not the council question, triggered the decision.
+    What should you write about the council question?
+  options:
+    - What it produced and whether you would use it again, earlier or later.
+    - Nothing, since it did not cause the decision.
+    - That it was a mistake to use any political tool.
+    - That it caused the decision anyway, to keep the story simple for readers.
+  correct: 0
+  explanation: >-
+    Each tool is judged honestly against its expected chance; a weak tool can still have value on
+    the record.
+- id: m20-078
+  module: 20
+  lesson: '20.5'
+  subject: handover
+  difficulty: 2
+  question: What does "move ownership, not just passwords" mean for social media pages?
+  options:
+    - Give the new person your personal password.
+    - Add the new person as an administrator, remove yourself, then change shared passwords.
+    - Delete the page and let the new person start a new one.
+    - Keep sole ownership of the page but share your personal password with the whole group.
+  correct: 1
+  explanation: Ownership transfer keeps access lawful and secure when the old coordinator leaves.
+- id: m20-079
+  module: 20
+  lesson: '20.5'
+  subject: handover
+  difficulty: 2
+  question: >-
+    You won a commitment that the municipality will act "next year". What must the hand-over pack
+    include?
+  options:
+    - A note that the campaign is over.
+    - A request to delete the execution log.
+    - Implementation dates and who will check them.
+    - A list of officials to thank publicly.
+  correct: 2
+  explanation: Campaigns are often lost after they are won; implementation watch keeps the result real.
+- id: m20-080
+  module: 20
+  lesson: '20.5'
+  subject: handover
+  difficulty: 3
+  question: >-
+    You filed a planning objection in your own name; you are leaving the campaign before the
+    hearing. What is lawful?
+  options:
+    - The new coordinator appears at the hearing as you.
+    - You transfer the objection to the new coordinator by sending the planning committee an e-mail.
+    - The objection automatically lapses when you leave the group.
+    - You attend or withdraw; others may have filed their own objections and speak for those.
+  correct: 3
+  explanation: >-
+    A filing in your name stays yours. Others act in their own names; representing you would be
+    acting for another person.
+- id: m20-081
+  module: 20
+  lesson: '20.5'
+  subject: handover
+  difficulty: 3
+  question: >-
+    Your FOI answers will keep arriving at your e-mail after the hand-over. What should the pack
+    say?
+  options:
+    - That the authority must redirect them to the group.
+    - That the requests transfer to the new coordinator's name.
+    - Who reads them and how they are passed to the new coordinator.
+    - Nothing; the new coordinator will file new requests anyway.
+  correct: 2
+  explanation: Requests remain yours; plan who reads the replies so no deadline or answer is missed.
+- id: m20-082
+  module: 20
+  lesson: '20.5'
+  subject: campaign-data-privacy
+  difficulty: 2
+  question: When a campaign closes and nobody continues, what happens to supporters' personal data?
+  options:
+    - Delete or anonymise it according to the personal-data note, after a final update.
+    - Keep it indefinitely in case of a future campaign.
+    - Sell it to cover campaign costs.
+    - Give it to the most similar organisation you know, so the supporters stay active in the cause.
+  correct: 0
+  explanation: >-
+    Data is bound to its purpose (s. 2(9)) and must be kept secure (s. 17); when the purpose ends,
+    delete or anonymise.
+- id: m20-083
+  module: 20
+  lesson: '20.5'
+  subject: campaign-data-privacy
+  difficulty: 1
+  question: >-
+    Under the Privacy Protection Law s. 17(א), who is responsible for securing a database of
+    personal information?
+  options:
+    - Only the Privacy Protection Authority.
+    - Only the person who collected the first entry.
+    - Nobody, if the database is under 100 names.
+    - Both the controller and the holder of the database.
+  correct: 3
+  explanation: Each of the controller and the holder is responsible for the database's security.
+- id: m20-084
+  module: 20
+  lesson: '20.5'
+  subject: burnout-safety
+  difficulty: 1
+  question: Which of these is a sign of burnout listed in lesson 20.5?
+  options:
+    - Taking a planned rest for a few days after a court hearing.
+    - Cynicism about the cause and irritability with allies.
+    - Sharing roles with other members.
+    - Writing down weekly hours.
+  correct: 1
+  explanation: >-
+    Cynicism, irritability, lost sleep and exhaustion are warning signs; rest and shared roles are
+    remedies.
+- id: m20-085
+  module: 20
+  lesson: '20.5'
+  subject: burnout-safety
+  difficulty: 2
+  question: An online threat names your home address and a time. What comes first?
+  options:
+    - Reply publicly to show you are not afraid.
+    - 'Treat it as a physical safety issue: call the police and tell people you trust.'
+    - Expose the sender's home address in return.
+    - Ignore it, since online threats against activists are rarely serious or carried out.
+  correct: 1
+  explanation: Specific threats are safety issues first (lesson 08.5). Do not confront or expose the sender.
+- id: m20-086
+  module: 20
+  lesson: '20.5'
+  subject: burnout-safety
+  difficulty: 2
+  question: Why does lesson 20.5 say stress affects safety, not just wellbeing?
+  options:
+    - Stressed people are legally barred from filing petitions.
+    - Police treat stressed activists as suspects.
+    - Courts tend to dismiss cases filed by petitioners who are visibly exhausted at the hearing.
+    - Stress and fatigue distort how you judge risk, so you may miss or exaggerate threats.
+  correct: 3
+  explanation: Holistic Security (chapter 1.2) explains how stress distorts threat perception.
+- id: m20-087
+  module: 20
+  lesson: '20.5'
+  subject: burnout-safety
+  difficulty: 3
+  question: >-
+    Halfway through, you realise the campaign is harming your health and you must stop. What does
+    the capstone allow?
+  options:
+    - Stop, hand over or close, and write an honest retrospective of the campaign so far.
+    - Nothing; the capstone fails unless the campaign continues to the goal.
+    - Invent the remaining steps as if they happened.
+    - Restart the capstone with a new cause and leave the first campaign out of the case study.
+  correct: 0
+  explanation: >-
+    A campaign ended early, honestly explained, is a valid capstone. Inventing steps is never
+    acceptable.
+- id: m20-088
+  module: 20
+  lesson: '20.5'
+  subject: debrief
+  difficulty: 2
+  question: Which item belongs in the end-of-campaign safety review?
+  options:
+    - The number of likes on the last post.
+    - The colours of the campaign logo.
+    - Open demand letters and any pending criminal case from campaign events.
+    - The names and addresses of the opponents' family members, for reference.
+  correct: 2
+  explanation: Legal exposure and threats that remain open must be known to whoever continues, and to you.
+- id: m20-089
+  module: 20
+  lesson: '20.5'
+  subject: what-next
+  difficulty: 1
+  question: What is this course, in its own standard wording?
+  options:
+    - A nano degree in law recognised by the Bar.
+    - A preparatory course that qualifies you to sit the Israel Bar Association's licensing exam.
+    - A licence to represent others in small claims.
+    - A free course teaching you to act for yourself, not a law degree or legal advice.
+  correct: 3
+  explanation: The course is not a law degree, does not license you to practise law and is not legal advice.
+- id: m20-090
+  module: 20
+  lesson: '20.5'
+  subject: what-next
+  difficulty: 2
+  question: Which addition would bring a capstone case study closest to a university seminar paper?
+  options:
+    - More press releases and social media posts.
+    - A longer execution log with more weekly reviews.
+    - A research question engaging scholarship, full citations and review by a qualified reader.
+    - A second full campaign on a different cause, planned, run and logged in exactly the same way.
+  correct: 2
+  explanation: >-
+    A seminar is judged on research and argument; adding a legal research question and scholarly
+    engagement moves the case study toward it.
+- id: m20-091
+  module: 20
+  lesson: '20.5'
+  subject: what-next
+  difficulty: 2
+  question: Which free resource lets you read full Israeli Supreme Court judgments in English?
+  options:
+    - Versa (Cardozo School of Law).
+    - The UN Audiovisual Library.
+    - The Knesset lobbyist register.
+    - The OHCHR treaty body database.
+  correct: 0
+  explanation: >-
+    Versa publishes translated Israeli Supreme Court opinions; the UN library has international-law
+    lectures.
+- id: m20-092
+  module: 20
+  lesson: '20.5'
+  subject: what-next
+  difficulty: 3
+  question: >-
+    A learner wants an edX course whose audit is free for a limited window. What does the course's
+    resource policy say?
+  options:
+    - It is PAID, so it can never be suggested.
+    - 'It is FREE-AUDIT: enrol only when you have time, and note the limit.'
+    - It is FREE-FULL, since the content is free.
+    - It must be avoided entirely because edX requires you to sign up for an account.
+  correct: 1
+  explanation: >-
+    FREE-AUDIT resources are allowed when the assigned content is free and the limit is stated (plan
+    §4).
+- id: m20-093
+  module: 20
+  lesson: '20.5'
+  subject: handover
+  difficulty: 1
+  question: Which of these should never be in the contacts part of a hand-over pack?
+  options:
+    - People who did not agree to be passed on.
+    - The council member who agreed to keep helping.
+    - The FOI officer's official e-mail address.
+    - The journalist who asked to stay in touch.
+  correct: 0
+  explanation: Pass on only contacts who agreed; official contact details of public bodies are fine.
+- id: m20-094
+  module: 20
+  lesson: '20.2'
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    A religious-Zionist parents' group wants a ministry's national directive on school prayer rooms
+    changed. The directive applies to every school. Where would a petition most likely go?
+  options:
+    - The Administrative Court in the parents' district.
+    - The High Court of Justice, since national directives are generally outside the First Schedule.
+    - The Small Claims Court, as a claim for each family.
+    - >-
+      The local council's appeals committee, which hears all disputes about school facilities in the
+      town.
+  correct: 1
+  explanation: >-
+    First Schedule items often exclude national rules and ministers' decisions; check the item, and
+    if excluded, the HCJ hears it (lesson 05.1).
+- id: m20-095
+  module: 20
+  lesson: '20.2'
+  subject: sequencing
+  difficulty: 3
+  question: >-
+    An Ethiopian-Israeli community group suspects discrimination at a nightclub door. Which order
+    fits the course?
+  options:
+    - A press release naming the doorman, then evidence later.
+    - A protest at the club, then a High Court petition.
+    - >-
+      Lawful evidence, demand letter, then a claim or complaint, with a release after a fact is on
+      the record.
+    - >-
+      A communication to the UN Special Rapporteur on racism first, and a demand letter to the club
+      afterwards.
+  correct: 2
+  explanation: Facts first (lesson 09.5), ask first in writing (09.2), communicate at milestones (20.4).
+- id: m20-096
+  module: 20
+  lesson: '20.3'
+  subject: plan-adjustment
+  difficulty: 3
+  question: >-
+    Your environmental complaint led the regulator to inspect the factory and issue a warning, but
+    the pollution continues. What fits the plan-adjustment table?
+  options:
+    - Close the campaign as a full success.
+    - Publish that the regulator is corrupt.
+    - >-
+      Restart the whole campaign with a new and longer complaint to the same environmental
+      regulator.
+    - Log the partial result and escalate, for example with the 60-day notice before a suit.
+  correct: 3
+  explanation: >-
+    A partial result narrows the dispute; the next tool (lesson 10.5) builds on the regulator's
+    finding.
+- id: m20-097
+  module: 20
+  lesson: '20.4'
+  subject: press-release
+  difficulty: 3
+  question: >-
+    A campaign wants to publish the Special Procedures communication it sent. What should it check
+    first?
+  options:
+    - Whether the rapporteur has replied within 7 days.
+    - Whether the Israeli government approves the text.
+    - Consent from every person named, and whether it asked for confidentiality.
+    - Whether the communication was first translated into Hebrew and approved by a lawyer.
+  correct: 2
+  explanation: >-
+    Names go to the government by default and need consent; publishing them yourself needs the same
+    care (lesson 14.4).
+- id: m20-098
+  module: 20
+  lesson: '20.1'
+  subject: own-name-limits
+  difficulty: 3
+  question: >-
+    A settlers' local committee and a Palestinian village both object to the same road plan for
+    different reasons. A learner from the village wants to file one joint objection for everyone.
+    What is lawful?
+  options:
+    - >-
+      Each person or body files in its own name; a group may file in its members' names with
+      authority.
+    - The learner files for everyone as their representative.
+    - Only lawyers may object to road plans.
+    - >-
+      Joint objections signed by people from different communities are banned under Israeli planning
+      law.
+  correct: 0
+  explanation: >-
+    Objections are filed by those affected in their own names; a group can act for its members with
+    authority, not a single person for strangers.
+- id: m20-099
+  module: 20
+  lesson: '20.2'
+  subject: decision-matrix
+  difficulty: 2
+  question: Which tool does the matrix list as free, with no fee, during the deposit period of a plan?
+  options:
+    - A planning appeal.
+    - An administrative petition.
+    - A small claim.
+    - A planning objection.
+  correct: 3
+  explanation: Objections carry no fee (lesson 10.3); appeals and petitions have fees.
+- id: m20-100
+  module: 20
+  lesson: '20.3'
+  subject: deemed-refusal
+  difficulty: 3
+  question: >-
+    Your formal letter was sent by ordinary e-mail with no confirmation, and three months passed in
+    silence. What is the best next step?
+  options:
+    - Petition at once, citing the deemed refusal from the first e-mail.
+    - Resend now with proof of receipt and log both, before relying on silence.
+    - Complain to the police that the ministry deliberately ignored your formal letter.
+    - Wait another three months in case the reply was lost.
+  correct: 1
+  explanation: >-
+    Without proof of receipt the deemed refusal is hard to establish. Fix the proof now and restart
+    the clock knowingly.

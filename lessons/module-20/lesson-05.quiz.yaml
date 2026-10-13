@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Leah filed an administrative petition in her own name as part of her campaign. She is moving
+    abroad and wants the group's new coordinator, Amir, to "take over the petition" and argue it at
+    the hearing. What is the lawful way forward?
+  options:
+    - >-
+      Amir argues it in Leah's name, since he is unpaid and acting for the cause.
+    - >-
+      Leah stays the petitioner or withdraws; Amir files his own steps in his name.
+    - >-
+      Leah signs a letter to the court authorising Amir to appear instead of her.
+    - >-
+      The petition transfers automatically to the group that ran the campaign.
+  correct: 1
+  explanation: >-
+    A filing in your name stays yours. Representing another person in court is a reserved act; Amir
+    can act in his own name or the group in its own, while Leah remains the party, gets a lawyer, or
+    withdraws.
+- id: q2
+  question: >-
+    Your campaign ends. A friendly NGO working on a different issue asks for your supporters' list to
+    invite them to its own campaign. What does the Privacy Protection Law require?
+  options:
+    - >-
+      You may share it, because the NGO is a registered non-profit.
+    - >-
+      You may share it if you keep a record of exactly what you sent.
+    - >-
+      Not without the supporters' consent for that new purpose.
+    - >-
+      You may share names but must remove the e-mail addresses.
+  correct: 2
+  explanation: >-
+    Section 2(9): passing information to another person for a purpose other than the one it was
+    given for is an invasion of privacy. Send supporters a final update with a link to the NGO so they
+    can choose for themselves.
+- id: q3
+  question: >-
+    The municipality has promised in writing to build what you asked for "during the coming year".
+    What is the most important item for the hand-over pack?
+  options:
+    - >-
+      A celebratory press release so the campaign ends on a high note.
+    - >-
+      Deleting the execution log, since the goal was reached.
+    - >-
+      Removing all contacts from the pack to protect their privacy.
+    - >-
+      Implementation dates and who will check the promise is carried out.
+  correct: 3
+  explanation: >-
+    Campaigns are often lost after they are won. Monitoring implementation, with dates in the pack, is
+    the job that keeps the result real.
+- id: q4
+  question: >-
+    In her weekly reviews Dana logged 15–20 campaign hours a week for two months, on top of a full-time
+    job, and she now dreads opening her e-mail. What does lesson 20.5 recommend?
+  options:
+    - >-
+      Share roles, cut hours to the planned budget, and plan rest after milestones.
+    - >-
+      Push through to the end, since stopping early fails the capstone.
+    - >-
+      Stop logging hours, since recording them adds to the stress.
+    - >-
+      Hand everything to one volunteer so she can rest completely.
+  correct: 0
+  explanation: >-
+    These are signs of burnout. Shared roles, an hours budget and planned rest make a campaign
+    sustainable; a campaign ended early and honestly explained is still a valid capstone.

@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    Dan wants his capstone to be "ending air pollution in Haifa Bay". He works full time and can give
+    the campaign about four hours a week for six months. Which revision best fits the six filters?
+  options:
+    - >-
+      Keep the goal; a big goal attracts more volunteers and media coverage.
+    - >-
+      Petition the High Court at once, since pollution affects everyone.
+    - >-
+      Narrow it to one permit decision by a named regulator, with a date.
+    - >-
+      Switch to an international submission, which needs no deadline.
+  correct: 2
+  explanation: >-
+    The original goal fails "decided by someone" and "within capacity". Narrowing to one decision by a
+    named body, with a date, makes the campaign measurable and winnable in the time Dan has.
+- id: q2
+  question: >-
+    Which of these is a campaign goal in the sense of lesson 20.1?
+  options:
+    - >-
+      "Raise public awareness of the lack of accessible playgrounds in our city."
+    - >-
+      "The municipality decides by 1 May 2027 to make Ha-Prachim playground accessible."
+    - >-
+      "Make the city more inclusive for children with disabilities over the coming years."
+    - >-
+      "Send letters, FOI requests and a petition about playgrounds until something changes."
+  correct: 1
+  explanation: >-
+    A goal names the decision-maker, the decision and the date, and treats a reasoned written refusal
+    as a result that can be challenged. The others are aims or lists of tools.
+- id: q3
+  question: >-
+    A neighbour asks Maya to run her capstone on the neighbour's own dispute with the National
+    Insurance Institute: Maya would write and file the appeal and speak for the neighbour at the
+    hearing, for a small thank-you payment. What should Maya do?
+  options:
+    - >-
+      Accept, as long as she charges much less than a lawyer would.
+    - >-
+      Accept without payment but sign the documents in her own name.
+    - >-
+      Accept, because a capstone is a course exercise and not an occupation.
+    - >-
+      Decline that role; inform in general terms and refer her.
+  correct: 3
+  explanation: >-
+    Representing another person and drafting for them, for payment, are reserved acts under the Bar
+    Association Law s. 20. The capstone runs in Maya's own name; for the neighbour's case she informs
+    and refers (lesson 18.4).
+- id: q4
+  question: >-
+    Your theory of change assumes that the municipality holds a traffic survey of your street. When
+    should you test that assumption?
+  options:
+    - >-
+      Early, with an FOI request, before steps that rely on it.
+    - >-
+      Only after the municipality has refused your formal letter.
+    - >-
+      At the end, in the retrospective, when you review what worked.
+    - >-
+      Never; assumptions are background and are not tested.
+  correct: 0
+  explanation: >-
+    Each assumption gets an early test. If the survey does not exist, the plan changes — for example,
+    to ask the municipality to carry one out — before you build letters and arguments on it.
+- id: q5
+  question: >-
+    You file a complaint with the Public Complaints Commissioner about a municipal decision and plan to
+    petition the Administrative Court "if the complaint fails". What is the risk?
+  options:
+    - >-
+      None: the complaint pauses the petition deadline while it is investigated.
+    - >-
+      The petition deadline keeps running and may pass during the investigation.
+    - >-
+      The Commissioner will refuse the complaint if a petition is possible.
+    - >-
+      The court will treat the complaint as a petition and charge the fee.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint does not extend a statutory deadline. Plan the
+    complaint inside the petition clock, not before it.
