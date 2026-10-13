@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your campaign compares how three municipalities maintain public parks. What is the best way to
+    word the requests?
+  options:
+    - >-
+      Tailor each request to what you guess each city holds, so none is refused.
+    - >-
+      Send one identical request to all three, naming records, dates and format.
+    - >-
+      Send one request to the Ministry of Interior asking it to collect the data.
+    - >-
+      Ask each city for "all information about park maintenance since 2020".
+  correct: 1
+  explanation: >-
+    Comparison needs identical, precise requests to comparable bodies. A ministry is not obliged to
+    collect other bodies' data for you, and "all information" invites an s. 8(1) refusal.
+- id: q2
+  question: >-
+    A municipality has not answered your request by day 30 and sent no extension notice. Your reminder
+    is also ignored. Where do you turn next?
+  options:
+    - >-
+      The Government FOI Unit, which supervises all public authorities.
+    - >-
+      The State Comptroller's FOI department, which handles late answers.
+    - >-
+      The head of the authority in writing, then a petition if it is worth it.
+    - >-
+      The Magistrates' Court, which hears all FOI disputes about fees and delays.
+  correct: 2
+  explanation: >-
+    The FOI Unit supervises ministries and their units, not municipalities. Write to the head of the
+    authority; a refusal or silence can be challenged in the Administrative Court (s. 17). The
+    Magistrates' Court hears only fee appeals.
+- id: q3
+  question: >-
+    A ministry answers 50 days after receipt and payment, without having sent an extension notice,
+    and asks you to pay handling fees for six hours of work. What do you reply?
+  options:
+    - >-
+      You pay only the hours above the three free hours, as usual.
+    - >-
+      You pay, because the answer arrived within the 60-day maximum.
+    - >-
+      You ask for a fee waiver on public-interest grounds under s. 10.
+    - >-
+      You refuse: a body that missed its deadline may not charge handling fees.
+  correct: 3
+  explanation: >-
+    FOI Fees Regulations reg. 6א bars handling and production fees when the body did not meet the
+    deadlines, including when it did not extend them properly under s. 7.
+- id: q4
+  question: >-
+    One municipality's answer includes a list of residents who complained, with their phone numbers.
+    You want to publish your campaign results. What should you do?
+  options:
+    - >-
+      Publish the analysis without the residents' names and phone numbers.
+    - >-
+      Publish everything, since the municipality released it lawfully.
+    - >-
+      Publish only the residents' names, since phone numbers are the private part.
+    - >-
+      Return the documents and drop the campaign, since it is now tainted.
+  correct: 0
+  explanation: >-
+    Release under FOI does not make republication of private details lawful or wise. Redact personal
+    details before publishing (Module 8) and keep the analysis.

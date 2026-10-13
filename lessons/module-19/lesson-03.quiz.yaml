@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You need a real complaint for your portfolio, but nothing has gone wrong for you lately. A friend
+    suggests complaining about potholes in a street you never use. What is the right course?
+  options:
+    - >-
+      File it with the local commissioner, since anyone may complain under s. 5(א).
+    - >-
+      File it with the State Ombudsman, which accepts complaints on public issues.
+    - >-
+      File it as a group complaint signed by several residents to show public harm.
+    - >-
+      Wait for a real grievance, or pass the issue to residents who are directly affected.
+  correct: 3
+  explanation: >-
+    Both commissioners investigate only direct harm to the complainant or a consenting person. An
+    invented complaint wastes public resources; keep the lesson open until a real one arises.
+- id: q2
+  question: >-
+    A municipality refused your disability-parking permit without reasons. You complained to its
+    complaints commissioner. Should you also file with the State Ombudsman to be safe?
+  options:
+    - >-
+      Yes, filing with both doubles the pressure and speeds up the answer.
+    - >-
+      No, a matter filed with the state Ombudsman is not investigated locally; choose one.
+    - >-
+      Yes, the state Ombudsman must review every local commissioner's work.
+    - >-
+      No, the state Ombudsman has no power over local authorities at all.
+  correct: 1
+  explanation: >-
+    The local law (s. 7) excludes a matter already filed with the state Ombudsman. The state Ombudsman
+    can investigate local authorities, but you choose one route.
+- id: q3
+  question: >-
+    Your complaint about a ministry's refusal is with the Ombudsman. Day 40 of the 45-day period for
+    an administrative petition arrives with no finding. What does the law say?
+  options:
+    - >-
+      The petition deadline is frozen while the Ombudsman investigates.
+    - >-
+      The petition deadline starts again from the Ombudsman's finding.
+    - >-
+      The complaint does not extend the deadline; decide now whether to petition.
+    - >-
+      The court will not hear a petition while a complaint is open.
+  correct: 2
+  explanation: >-
+    State Comptroller Law s. 45 says a complaint does not extend any legal deadline. Mark court
+    deadlines separately and decide in time.
+- id: q4
+  question: >-
+    A neighbour asks you to complain to the Ombudsman about National Insurance delays in her claim,
+    because her Hebrew is weak. What makes this lawful and effective?
+  options:
+    - >-
+      Her signed consent, with her own facts and documents, and no fee from her.
+    - >-
+      A power of attorney from a lawyer, since only lawyers may complain for others.
+    - >-
+      Filing it under your name as if the harm were yours, to keep it simple.
+    - >-
+      Filing it anonymously, so that her identity is protected from the office.
+  correct: 0
+  explanation: >-
+    Section 37(1) allows a complaint about harm to another person who consented. Use her facts, keep
+    it unpaid and one-off (lesson 18.4), and never present her harm as yours. Anonymous complaints are
+    not investigated.

@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    You volunteer four hours a week, unpaid, on an NGO hotline. A caller asks whether he should sign
+    the settlement his landlord offered. What do you do?
+  options:
+    - >-
+      Give your honest view, since unpaid help is outside s. 20.
+    - >-
+      Explain the general rules on settlements and let him decide alone.
+    - >-
+      Tell him not to sign, since settlements usually favour landlords.
+    - >-
+      Record his facts on the intake form and book him with the staff lawyer.
+  correct: 3
+  explanation: >-
+    Regular volunteering can be "as an occupation" even without pay, so advice on his own case is a
+    reserved act (s. 20(4)). Take the facts and refer him to the supervising lawyer.
+- id: q2
+  question: >-
+    You are not a law student but want to join the Human Rights Clinic at a university faculty for
+    your placement. What is the realistic path?
+  options:
+    - >-
+      Enrol in the clinic course directly; clinics accept anyone with a cause.
+    - >-
+      Choose an NGO placement, or ask whether the clinic takes non-student volunteers.
+    - >-
+      Ask the clinic's supervising lawyer to register you as a legal intern.
+    - >-
+      Join the clinic remotely, since online work does not need enrolment.
+  correct: 1
+  explanation: >-
+    Clinics are academic courses for enrolled law students. Non-students should choose an NGO, or ask
+    whether the clinic has a separate volunteer role.
+- id: q3
+  question: >-
+    Three weeks into your placement, your tasks keep changing and include drafting letters for clients
+    that you sign. What is the best next step?
+  options:
+    - >-
+      Ask for a written task list and supervisor, and stop signing client letters.
+    - >-
+      Continue, because the organisation is responsible for what volunteers do.
+    - >-
+      Quit at once and choose another organisation for the lesson.
+    - >-
+      Keep drafting but sign the letters with the organisation's name instead.
+  correct: 0
+  explanation: >-
+    Drafting legal documents for clients is a reserved act (s. 20(3)) unless a lawyer takes
+    responsibility for them. Fix the scope in writing with a named supervisor.
+- id: q4
+  question: >-
+    For your portfolio you want to include a memo you wrote for the organisation about a detainee's
+    case. Which version may go into the portfolio?
+  options:
+    - >-
+      The full memo, because you wrote it yourself.
+    - >-
+      The full memo, marked as confidential on each page.
+    - >-
+      An anonymised version the organisation cleared.
+    - >-
+      No version: volunteers may never keep any work samples.
+  correct: 2
+  explanation: >-
+    Client details belong to the organisation's confidential files. Use a sample the organisation
+    cleared and anonymised; most organisations agree to that.
+- id: q5
+  question: >-
+    Your NGO asks you to present its paper at a Knesset committee. Its main funders are foreign state
+    entities. What should you check first?
+  options:
+    - >-
+      Whether you need a lobbyist permit, since the NGO is foreign-funded.
+    - >-
+      How the NGO meets its duty to disclose that funding.
+    - >-
+      Whether foreign-funded NGOs are barred from committees.
+    - >-
+      Whether you must disclose your own donations to the NGO.
+  correct: 1
+  explanation: >-
+    The Foreign State Entity Disclosure Law s. 5א requires such organisations to disclose the funding
+    when their representatives address officials or committees. Volunteers speaking for their cause
+    are not lobbyists.

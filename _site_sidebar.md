@@ -144,3 +144,11 @@
   - [94 · What Non-Lawyers May and May Not Do for Others](/lessons/module-18/lesson-04.md)
   - [95 · Using Lawyers Smartly: Clinics, Pro Bono and Legal Aid](/lessons/module-18/lesson-05.md)
   - [Module 18 quiz](/assessments/module-18-quiz.md)
+- **Module 19 — Practicum (about 100 hours over 4–6 months)**
+  - [96 · Court Observation: Ten Hearings](/lessons/module-19/lesson-01.md)
+  - [97 · A Real Freedom of Information Campaign](/lessons/module-19/lesson-02.md)
+  - [98 · A Real Complaint to an Oversight Body](/lessons/module-19/lesson-03.md)
+  - [99 · Taking Part in the Knesset or Your Local Council](/lessons/module-19/lesson-04.md)
+  - [100 · A Clinic or NGO Placement](/lessons/module-19/lesson-05.md)
+  - [101 · A Real International Submission](/lessons/module-19/lesson-06.md)
+  - [Module 19 quiz](/assessments/module-19-quiz.md)

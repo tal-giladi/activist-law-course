@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your group has five years of data showing long waits for disability benefits decisions. No single
+    recent event stands out. Which international route fits best?
+  options:
+    - >-
+      A Special Procedures communication through the online form, sent at once.
+    - >-
+      An individual complaint to the CRPD Committee on behalf of one claimant.
+    - >-
+      An Article 15 communication to the ICC Prosecutor about the delays.
+    - >-
+      A section of a shadow report or UPR submission, timed to the next review.
+  correct: 3
+  explanation: >-
+    Long-term patterns belong in shadow reports or UPR submissions. Communications suit specific
+    events; Israel accepts no treaty-body individual complaints; and the ICC is not a human-rights
+    complaint body.
+- id: q2
+  question: >-
+    A coalition asks you for a section of its UPR joint submission. The UN deadline is in eight
+    weeks; the coalition's internal deadline is in four. Which date do you plan to?
+  options:
+    - >-
+      The UN deadline, since the coalition can merge late sections.
+    - >-
+      The coalition's internal deadline, which leaves time to edit and merge.
+    - >-
+      Either date, since UPR deadlines are routinely extended for coalitions.
+    - >-
+      A date after the Working Group session, when follow-up is accepted.
+  correct: 1
+  explanation: >-
+    Coalitions need weeks to edit, cut to the word limit and agree on a joint text. A section that
+    misses the internal deadline is usually left out.
+- id: q3
+  question: >-
+    You are drafting a communication about a protester injured during a dispersal. He agreed to the
+    UN knowing his name but is afraid of the police learning it. What do you do?
+  options:
+    - >-
+      Send it with his name; the experts never share names with governments.
+    - >-
+      Send it without telling him that the government may see his name.
+    - >-
+      Record his choice and state the security concern in the submission.
+    - >-
+      Drop the case, since a communication without the government seeing the name is useless.
+  correct: 2
+  explanation: >-
+    By default the experts' letter to the government names the victims, unless the submission makes
+    clear there are security concerns. Record consent precisely and state the concern.
+- id: q4
+  question: >-
+    Your draft communication about a planned demolition cites three news articles and nothing else.
+    What must change before you send it?
+  options:
+    - >-
+      Add first-hand sources, such as the family's account and the order.
+    - >-
+      Add more news articles from outlets with different political views.
+    - >-
+      Nothing, as long as the articles are from reputable outlets.
+    - >-
+      Remove the sources, since the experts verify every fact themselves.
+  correct: 0
+  explanation: >-
+    Code of Conduct art. 9(e): a communication should not be based exclusively on mass-media reports.
+    Direct accounts and official documents make it admissible and credible.

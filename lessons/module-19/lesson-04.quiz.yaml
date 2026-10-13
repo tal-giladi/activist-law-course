@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    It is mid-October 2026 and you want to complete this lesson within a month. Which plan is most
+    realistic?
+  options:
+    - >-
+      Request to speak at next week's Knesset committee session on your bill.
+    - >-
+      Ask an MK to table a parliamentary question during the recess.
+    - >-
+      Take part in a local council meeting through a council member's question.
+    - >-
+      Watch three recorded committee sessions online in place of attending.
+  correct: 2
+  explanation: >-
+    The Knesset is in its election recess and the new committees form only after the new Knesset
+    convenes. Council meetings run monthly. A broadcast does not meet the in-person requirement.
+- id: q2
+  question: >-
+    At a city council meeting on a park you care about, the mayor's answer is misleading. What may you
+    do as a resident in the public seats?
+  options:
+    - >-
+      Ask the chair for two minutes to correct the record, as any resident may.
+    - >-
+      Take notes, and afterwards ask a council member to file a direct question.
+    - >-
+      Call out the correct figure, since the meeting is public.
+    - >-
+      Hand the members a printed correction during the debate.
+  correct: 1
+  explanation: >-
+    Residents have no right to speak at council meetings and disrupting can get you removed. Act
+    through a member: a direct question to the mayor gets a written answer within 21 days (s. 38).
+- id: q3
+  question: >-
+    You arrive at the Knesset for a committee session wearing a T-shirt with your campaign's slogan.
+    What is the likely result?
+  options:
+    - >-
+      You may enter, because committee sessions are public.
+    - >-
+      You may enter but must sit at the back of the room.
+    - >-
+      You may enter if the chair approves it at the start of the session.
+    - >-
+      You may be refused entry under the visitors' dress code.
+  correct: 3
+  explanation: >-
+    The Knesset's visitors' dress code, as reported, bans shirts with political slogans, along with
+    shorts and flip-flops. Public sessions still require you to meet the entry rules.
+- id: q4
+  question: >-
+    The published protocol records you as asking for "30 days" when you asked for "60 days". What
+    should you do?
+  options:
+    - >-
+      Ask the protocol department in writing to correct the error (s. 119(ג)).
+    - >-
+      Publish a correction on social media; protocols cannot be changed.
+    - >-
+      Ask the chair to reopen the session so that you can repeat your request.
+    - >-
+      File a complaint with the State Ombudsman against the committee.
+  correct: 0
+  explanation: >-
+    Rules of Procedure s. 119(ג) lets every speaker ask the protocol department in writing to correct
+    errors and omissions in how their words were recorded.

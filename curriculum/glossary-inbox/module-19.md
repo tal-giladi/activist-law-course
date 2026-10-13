@@ -1,0 +1,23 @@
+# Glossary inbox — Module 19
+
+- **פומביות הדיון** (pumbiyut hadiyun) — The principle that court hearings are public (Basic Law: The Judiciary s. 3; Courts Law s. 68).
+- **דלתיים סגורות** (dlatayim sgurot) — Closed doors: a hearing or part of one that the public may not attend.
+- **יומן בית משפט / יומן דיונים** (yoman beit mishpat / yoman diyunim) — Court diary: the published list of hearings by date, court and judge.
+- **מותב** (motav) — The judge or panel of judges hearing a case.
+- **משמר בתי המשפט** (mishmar batei hamishpat) — The Court Guard: the security service at court buildings, with search and ID powers (Courts Law s. 106ז).
+- **צו איסור פרסום** (tzav isur pirsum) — A court order banning publication of details of a case.
+- **הפרעה לדיון** (hafra'a ladiyun) — Disturbing a court hearing; the court may remove the person and, after a warning, punish on the spot (Courts Law s. 72).
+- **קמפיין חופש מידע** (kampein chofesh meida) — FOI campaign: a planned series of requests to several bodies on one public question.
+- **מפת מידע** (mapat meida) — Data map: a list of which body holds which record, used to plan FOI requests.
+- **מסירה חלקית** (mesira chelkit) — Partial disclosure of requested information, with the exempt parts removed (FOI Law s. 11).
+- **תלונה מוצדקת** (tluna mutzdeket) — A complaint that an oversight body found justified.
+- **מיצוי פנייה** (mitzui pniya) — Having written to the body concerned before complaining to an oversight body.
+- **רשות דיבור** (reshut dibur) — Permission to speak in a Knesset committee, given by the chair.
+- **מזכירות הוועדה** (mazkirut hava'ada) — A Knesset committee's secretariat, which handles participation requests and the entry list.
+- **התנדבות** (hitnadvut) — Volunteering.
+- **רכז/ת מתנדבים** (rakaz/rakezet mitnadvim) — Volunteer coordinator in an organisation.
+- **התחייבות לסודיות** (hitchayvut lesodiyut) — Confidentiality undertaking signed by a volunteer or employee.
+- **קריאה להגשת מידע** (kri'a lehagashat meida) — Call for input: a UN mandate's or committee's public request for information.
+- **הגשה משותפת** (hagasha meshutefet) — Joint submission by a coalition of organisations to a UN mechanism.
+- **התנכלות (פעולות תגמול)** (hitnaklut) — Reprisals against people who cooperate with the UN.
+- **תיק עבודות** (tik avodot) — Portfolio: the record of the practicum's real actions.

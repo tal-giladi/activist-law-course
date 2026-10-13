@@ -25482,3 +25482,1342 @@
   explanation: >-
     Complaints about lawyers' professional conduct are handled by the Bar Association's district
     ethics committees. Raise the problem with the lawyer first.
+- id: m19-001
+  module: 19
+  lesson: '19.1'
+  subject: hearing-publicity
+  difficulty: 1
+  question: What is the default rule for court hearings in Israel?
+  options:
+    - Hearings are closed unless a party asks for a public hearing.
+    - Hearings are public unless a law or a court order under a law says otherwise.
+    - Hearings are public only in the Supreme Court; lower courts decide case by case.
+    - Hearings are public only for people registered in advance with the court.
+  correct: 1
+  explanation: >-
+    Basic Law: The Judiciary s. 3 and Courts Law s. 68(א): courts sit in public; exceptions must
+    rest on a law.
+- id: m19-002
+  module: 19
+  lesson: '19.1'
+  subject: hearing-publicity
+  difficulty: 1
+  question: Which of these hearings are you most likely to be refused entry to as a member of the public?
+  options:
+    - A small-claims hearing between two neighbours.
+    - An administrative petition against a municipality.
+    - A sentencing hearing in a District Court.
+    - A custody dispute in the Family Court.
+  correct: 3
+  explanation: Family matters are heard behind closed doors unless the court orders otherwise (s. 68(ה)).
+- id: m19-003
+  module: 19
+  lesson: '19.1'
+  subject: finding-hearings
+  difficulty: 1
+  question: In the court diary you see a case numbered מ"י. What kind of hearing is it?
+  options:
+    - A police request to remand a suspect.
+    - An administrative petition against a body.
+    - A small claim between two private parties.
+    - A civil appeal to the District Court.
+  correct: 0
+  explanation: >-
+    מ"י is a remand request (מעצר ימים) before indictment; these hearings are short and frequent in
+    the Magistrates' Courts.
+- id: m19-004
+  module: 19
+  lesson: '19.1'
+  subject: finding-hearings
+  difficulty: 2
+  question: >-
+    You want to watch a High Court of Justice hearing on a petition about religious services next
+    week. Where do you find the date and panel?
+  options:
+    - The Knesset committee schedule, which lists petitions about laws.
+    - The Magistrates' Court diary for Jerusalem.
+    - The Supreme Court's hearing diary on its website.
+    - The Ministry of Justice FOI answers database.
+  correct: 2
+  explanation: >-
+    The Supreme Court publishes its own hearing diary (יומן דיונים), with the panel and hearing
+    type.
+- id: m19-005
+  module: 19
+  lesson: '19.1'
+  subject: courtroom-conduct
+  difficulty: 2
+  question: >-
+    During a hearing about a protest you support, the judge releases the suspects and the public
+    benches applaud. What risk does applauding carry?
+  options:
+    - None, since the decision had already been given.
+    - A fine, but only if the prosecutor complains in writing.
+    - Removal, and after a warning, a penalty under s. 72.
+    - An automatic ban on attending any court for a year.
+  correct: 2
+  explanation: >-
+    Courts Law s. 72 covers making noise to express agreement or disagreement with a court decision;
+    the court may remove you and, after an ignored warning, punish on the spot.
+- id: m19-006
+  module: 19
+  lesson: '19.1'
+  subject: courtroom-conduct
+  difficulty: 1
+  question: Which way of taking notes in a courtroom fits the rules taught in this lesson?
+  options:
+    - Writing on paper, or in a notes app in flight mode where the usher allows it.
+    - Photographing the screen that shows the case list inside the courtroom.
+    - Recording the hearing on your phone and transcribing it at home.
+    - Filming only your own notebook so that no party appears.
+  correct: 0
+  explanation: >-
+    Photographing in a courtroom needs the court's permission (s. 70(ב)) and recording is not
+    allowed without it; written notes are the safe method.
+- id: m19-007
+  module: 19
+  lesson: '19.1'
+  subject: court-security
+  difficulty: 1
+  question: Which document should you bring to pass court security?
+  options:
+    - A printout of the court diary showing the hearing you will attend.
+    - A photo of your ID card on your phone.
+    - A letter from the course confirming you are a learner.
+    - Your original ID card, passport or driving licence.
+  correct: 3
+  explanation: >-
+    Court guards may demand an ID card or other official identity document (s. 106ז(א)(2)); bring
+    the original.
+- id: m19-008
+  module: 19
+  lesson: '19.1'
+  subject: observation-report
+  difficulty: 2
+  question: >-
+    Spot the problem in this observation report line: "The arrogant prosecutor, Adv. X, bullied the
+    poor 19-year-old Yossi Levi until he cried."
+  options:
+    - It names the prosecutor, which is forbidden in public hearings.
+    - It mixes opinion into the facts and names a private party.
+    - It gives the defendant's age, which is always confidential.
+    - It is too short; reports need a paragraph per line.
+  correct: 1
+  explanation: >-
+    Facts and analysis go in separate sections, and private parties are described by role or
+    initials. A public prosecutor's conduct in open court may be reported accurately.
+- id: m19-009
+  module: 19
+  lesson: '19.1'
+  subject: observation-variety
+  difficulty: 2
+  question: Which set of ten hearings meets the variety requirement of lesson 19.1?
+  options:
+    - Remand, a small claim, an administrative petition, two court levels.
+    - Five remand hearings and five arraignments in one District Court.
+    - Ten small claims spread across two different Magistrates' Courts.
+    - Ten High Court petitions watched on the Supreme Court's broadcasts.
+  correct: 0
+  explanation: >-
+    The ten must cover criminal, civil with a self-represented party and public law, across at least
+    two court levels; broadcasts may replace at most two.
+- id: m19-010
+  module: 19
+  lesson: '19.1'
+  subject: supreme-court-tours
+  difficulty: 1
+  question: Who coordinates tours of the Supreme Court building?
+  options:
+    - The Israel Bar Association's public relations office.
+    - The Knesset Visitors' Centre, which runs all government tours.
+    - The Supreme Court's Department of Foreign Relations.
+    - The Ministry of Tourism through licensed guides only.
+  correct: 2
+  explanation: >-
+    The Supreme Court's Department of Foreign Relations coordinates tours for individuals and
+    groups, Sunday to Thursday; book through the contacts on its tours page.
+- id: m19-011
+  module: 19
+  lesson: '19.1'
+  subject: publication-limits
+  difficulty: 3
+  question: >-
+    You attended a remand hearing of a well-known activist from your own camp. A friend asks you to
+    post "the judge must release him tomorrow or face the street" before the next hearing. Why is
+    this a bad idea in law?
+  options:
+    - Posts about remand hearings need the approval of the police first.
+    - It may be publication meant to influence a pending criminal case (s. 71).
+    - Judges may sue for defamation over any criticism of their decisions.
+    - Only lawyers may comment publicly on pending criminal proceedings.
+  correct: 1
+  explanation: >-
+    Section 71 bars publishing about a pending criminal case with the aim of influencing its course
+    or outcome. Reporting what happened in open court accurately is different from pressuring the
+    judge.
+- id: m19-012
+  module: 19
+  lesson: '19.1'
+  subject: hearing-publicity
+  difficulty: 3
+  question: >-
+    Midway through an open criminal trial, the judge orders the public out while a witness who fears
+    the defendant testifies. What does the order rest on, and what may you report?
+  options:
+    - Nothing in the law; you may stay and ask the judge to explain the order.
+    - The judge's general discretion; you may report the testimony without names.
+    - Section 70(ג), protecting minors; you may report the testimony after the trial.
+    - Section 68(ב), protecting a witness; nothing about the closed part without permission.
+  correct: 3
+  explanation: >-
+    Section 68(ב) lets the court close a hearing when publicity could deter a witness from
+    testifying freely, and s. 70(א) bars publishing anything about the closed part without
+    permission.
+- id: m19-013
+  module: 19
+  lesson: '19.1'
+  subject: lawful-observer
+  difficulty: 3
+  question: >-
+    A self-represented tenant you just watched asks you in the corridor to help him "write the
+    appeal, since you understand these things". You are a regular volunteer with a housing group.
+    What fits the law and the course?
+  options:
+    - Write it for him for free, since a single favour is outside s. 20.
+    - Write it but have him sign it, which makes it his own document.
+    - Charge only for printing, which is not payment for legal work.
+    - Explain you cannot draft it, and give him a blank template and referral routes.
+  correct: 3
+  explanation: >-
+    As a regular volunteer your help can be "as an occupation", and drafting for another person is
+    reserved (s. 20(3)). A blank template and a referral are fine; any payment makes it worse.
+- id: m19-014
+  module: 19
+  lesson: '19.1'
+  subject: observation-report
+  difficulty: 2
+  question: When should you write the analysis section of a court observation report?
+  options:
+    - During the hearing, alongside the facts, so nothing is lost.
+    - The same day, after the facts section, kept separate from it.
+    - Only after the written decision is published, which may take months.
+    - At the end of all ten hearings, comparing them in one essay.
+  correct: 1
+  explanation: >-
+    Facts are taken in the room; the analysis is written the same day while memory is fresh, and
+    kept separate so readers can tell what happened from what you think.
+- id: m19-015
+  module: 19
+  lesson: '19.2'
+  subject: foi-campaign-design
+  difficulty: 1
+  question: What is the minimum shape of the FOI campaign in lesson 19.2?
+  options:
+    - One detailed request to one body, followed up to a final answer.
+    - Ten requests to ten different bodies on ten different topics.
+    - Three or more precise requests to two or more bodies on one question.
+    - Two requests, one to the FOI Unit and one to the State Comptroller.
+  correct: 2
+  explanation: >-
+    A campaign chases one public question with at least three precise requests to at least two
+    bodies, so answers can be compared and used.
+- id: m19-016
+  module: 19
+  lesson: '19.2'
+  subject: foi-campaign-design
+  difficulty: 2
+  question: Before drafting your requests, what does a data map tell you?
+  options:
+    - Which body holds which record, and what is already published.
+    - Which officials to name personally in your published output.
+    - Which exemptions in s. 9 each body is most likely to use.
+    - Which journalists have written about the issue before.
+  correct: 0
+  explanation: >-
+    The data map lists each piece of information, the body that holds it and its form, and checks
+    published sources and the answers database first.
+- id: m19-017
+  module: 19
+  lesson: '19.2'
+  subject: foi-eligibility
+  difficulty: 1
+  question: >-
+    A tourist who lives abroad wants to join your campaign by filing one of the requests about
+    municipal budgets. What does the FOI Law say?
+  options:
+    - Anyone in the world may file, since no reason is required.
+    - A non-resident may ask only about their own rights in Israel.
+    - A non-resident may file if an Israeli resident co-signs.
+    - A non-resident may file only through the Ministry of Foreign Affairs.
+  correct: 1
+  explanation: >-
+    Section 1 gives the right to citizens and residents; s. 12 extends it to others only for
+    information about their rights in Israel.
+- id: m19-018
+  module: 19
+  lesson: '19.2'
+  subject: foi-tracking
+  difficulty: 2
+  question: >-
+    You filed a request on 3 May and paid the fee on 5 May. Which date goes into your tracking table
+    as the start of the 30 days?
+  options:
+    - 3 May, the filing date.
+    - 1 June, the first of the next month.
+    - The date the officer acknowledges the request.
+    - 5 May, the later of receipt and payment.
+  correct: 3
+  explanation: 'FOI Fees Regulations reg. 9(א): the periods run from receipt or payment, whichever is later.'
+- id: m19-019
+  module: 19
+  lesson: '19.2'
+  subject: foi-escalation
+  difficulty: 2
+  question: >-
+    A government company in your campaign misses its deadline. Is a complaint to the Government FOI
+    Unit the right next step?
+  options:
+    - No; remind the company and its head, and consider a petition.
+    - Yes, but only after a petition has been filed.
+    - Yes, because the Unit supervises every body covered by the FOI Law.
+    - No; complain to the Privacy Protection Authority instead.
+  correct: 0
+  explanation: >-
+    The Government FOI Unit supervises ministries and their units. For other bodies, remind, write
+    to the head and, if worth it, petition the Administrative Court (s. 17).
+- id: m19-020
+  module: 19
+  lesson: '19.2'
+  subject: foi-escalation
+  difficulty: 1
+  question: Which court hears a petition against a public authority's FOI refusal?
+  options:
+    - The Magistrates' Court.
+    - The High Court of Justice.
+    - The Administrative Court.
+    - The Labour Court.
+  correct: 2
+  explanation: >-
+    FOI Law s. 17(א): petitions against FOI decisions are heard by the Administrative Court (the
+    District Court sitting in administrative matters).
+- id: m19-021
+  module: 19
+  lesson: '19.2'
+  subject: foi-request-quality
+  difficulty: 2
+  question: >-
+    Spot the weakness in this campaign request: "Please send all information about how the city
+    deals with stray cats."
+  options:
+    - It does not give a reason for the request.
+    - It is addressed to the city, which is not covered by the FOI Law.
+    - It names no record types, date range or format.
+    - It should be sent to the Ministry of Agriculture instead.
+  correct: 2
+  explanation: >-
+    No reason is needed (s. 7(א)), but "all information" invites an unreasonable-resources refusal.
+    Name records (contracts, budgets, treatment logs), dates and a format.
+- id: m19-022
+  module: 19
+  lesson: '19.2'
+  subject: foi-partial-disclosure
+  difficulty: 2
+  question: >-
+    A municipality releases shelter maintenance budgets but removes shelter addresses, citing state
+    security. Your request asked for partial release. How do you treat this in your campaign?
+  options:
+    - As a likely lawful partial release, and use the budgets you got.
+    - As unlawful, since security grounds apply only to the army.
+    - As a full refusal, and file a petition at once.
+    - As a reason to re-file the same request with another officer.
+  correct: 0
+  explanation: >-
+    Section 11 provides for partial release; withholding addresses on security grounds (s. 9(א)(1))
+    may well be lawful. Accept what is reasonable and use the data you received.
+- id: m19-023
+  module: 19
+  lesson: '19.2'
+  subject: foi-output
+  difficulty: 1
+  question: When should you decide what your campaign's output will be?
+  options:
+    - At the end of the course, in the portfolio reflection.
+    - After all answers arrive, so you know what you have.
+    - Only if a body refuses, to decide on a petition.
+    - At the design stage, before the first request.
+  correct: 3
+  explanation: >-
+    Deciding the output first (a one-pager, a letter, a position paper) shapes which records you ask
+    for and keeps the campaign from ending in a folder of unused answers.
+- id: m19-024
+  module: 19
+  lesson: '19.2'
+  subject: foi-own-name
+  difficulty: 3
+  question: >-
+    A neighbour who cannot use computers asks you to file an FOI request "for her" about her late
+    husband's pension file at a ministry, under your login. What is the right approach?
+  options:
+    - File it under your login, since FOI requests need no reason.
+    - Help her file in her own name with your blank template and her consent.
+    - Refuse, since information about other people is always exempt.
+    - File it in your name, then forward the answer to her.
+  correct: 1
+  explanation: >-
+    The information concerns her rights, and filing in your name would also expose private
+    information to you. She files in her own name; you may help her use a blank template (lesson
+    18.4).
+- id: m19-025
+  module: 19
+  lesson: '19.2'
+  subject: foi-fees
+  difficulty: 3
+  question: >-
+    Three weeks after filing, a ministry tells you the handling fee will exceed the cap you
+    committed to and asks you to agree. You think the estimate is inflated. What are your options?
+  options:
+    - Narrow it or refuse the extra; fee decisions can be appealed.
+    - Pay first and complain later, since fee demands cannot be challenged.
+    - Ignore the message, since the ministry must then release it all free.
+    - Ask the FOI Unit to set the fee, since ministries cannot set fees.
+  correct: 0
+  explanation: >-
+    Above the cap the officer needs your consent (reg. 4); you can narrow the request, and a fee
+    decision can be appealed to the Magistrates' Court within 30 days (reg. 8).
+- id: m19-026
+  module: 19
+  lesson: '19.2'
+  subject: foi-tracking
+  difficulty: 2
+  question: >-
+    A ministry sends a 30-day extension notice on day 29, with reasons. When is the new decision
+    date?
+  options:
+    - Day 30 still applies, since extensions need the requester's consent.
+    - Day 59, since the extension runs from the notice.
+    - Day 60 from receipt and payment.
+    - Day 90, since every extension doubles the period.
+  correct: 2
+  explanation: >-
+    Section 7(ב) allows the head of the authority to extend by 30 more days with reasoned written
+    notice, so the date moves to day 60 from the original start.
+- id: m19-027
+  module: 19
+  lesson: '19.2'
+  subject: foi-publication
+  difficulty: 3
+  question: >-
+    Your campaign's answers show that one city's head of maintenance approved repairs at his
+    brother's company. You want to publish this. What is the safest first step?
+  options:
+    - Publish the name at once, since FOI documents are public by definition.
+    - Check the facts against the documents and the defamation rules before publishing.
+    - Send the documents anonymously to a journalist without checking them.
+    - Do nothing, since FOI answers may not be used to criticise officials.
+  correct: 1
+  explanation: >-
+    FOI material can support criticism, but publishing an allegation about a named person needs the
+    defamation checks of Module 8 (truth, public interest, good faith) and a fair reading of the
+    record.
+- id: m19-028
+  module: 19
+  lesson: '19.2'
+  subject: foi-answers-database
+  difficulty: 1
+  question: Why search the FOI Unit's answers database before filing?
+  options:
+    - Requests are void unless the database was searched first.
+    - The database lets you file without paying the fee.
+    - The database lists which officers refuse most often.
+    - Someone may already have received the information you need.
+  correct: 3
+  explanation: >-
+    The database holds answers already given; you may have your data today, and it shows what a body
+    has released before.
+- id: m19-029
+  module: 19
+  lesson: '19.3'
+  subject: complaint-eligibility
+  difficulty: 1
+  question: Which of these is the core requirement for a complaint to the State Ombudsman?
+  options:
+    - The complainant paid the Ombudsman filing fee in advance.
+    - The complainant is an Israeli citizen aged 18 years or over.
+    - The complaint is filed and signed through a licensed lawyer.
+    - Direct harm to the complainant, or to a consenting person.
+  correct: 3
+  explanation: >-
+    Section 37(1) requires direct harm to the complainant, or to another person who consented;
+    anyone may complain, free, with no lawyer (s. 33).
+- id: m19-030
+  module: 19
+  lesson: '19.3'
+  subject: complaint-eligibility
+  difficulty: 1
+  question: How long after the act do you normally have to complain to the State Ombudsman?
+  options:
+    - 30 days from the act itself.
+    - A year from the act or from learning of it.
+    - 90 days from the body's last letter to you.
+    - There is no time limit at all for complaints.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 39(2): complaints filed after a year from the act, or from when you
+    learned of it, are investigated only for a special reason.
+- id: m19-031
+  module: 19
+  lesson: '19.3'
+  subject: choosing-oversight-body
+  difficulty: 2
+  question: >-
+    A police officer at a demonstration in your town shouted insults at you and refused to give his
+    name, but did not touch you. Which body handles this?
+  options:
+    - The Police Investigations Department (מח״ש).
+    - The State Ombudsman.
+    - The police Public Complaints Unit.
+    - The Magistrates' Court, as a private criminal complaint.
+  correct: 2
+  explanation: >-
+    Conduct without a criminal offence — rudeness, refusing to identify — goes to the police Public
+    Complaints Unit; suspected offences go to מח״ש (lesson 06.4).
+- id: m19-032
+  module: 19
+  lesson: '19.3'
+  subject: choosing-oversight-body
+  difficulty: 2
+  question: >-
+    Your municipality's website published your ID number in a list of property-tax debtors. Which
+    specialised oversight body handles this?
+  options:
+    - The Privacy Protection Authority.
+    - The Government FOI Unit.
+    - The Equal Employment Opportunities Commission.
+    - The Israel Bar Association.
+  correct: 0
+  explanation: >-
+    Misuse of personal data by a public body is the Privacy Protection Authority's field; the local
+    complaints commissioner is an alternative for the municipality's conduct.
+- id: m19-033
+  module: 19
+  lesson: '19.3'
+  subject: letter-first
+  difficulty: 1
+  question: Why does lesson 19.3 ask you to write to the body itself before complaining?
+  options:
+    - The law makes a complaint void without a prior letter.
+    - Oversight bodies expect it and often return complaints without it.
+    - The letter starts the one-year time limit running.
+    - The letter is needed to obtain a complaint reference number.
+  correct: 1
+  explanation: >-
+    It is not a legal condition in s. 37, but the Ombudsman expects the body to have had a chance to
+    fix the problem, and complaints without it are often sent back.
+- id: m19-034
+  module: 19
+  lesson: '19.3'
+  subject: complaint-drafting
+  difficulty: 2
+  question: >-
+    Which element is missing from this complaint: "On 3.2 the ministry rejected my grant request
+    without reasons. I lost ₪12,000 in planned income. Attached: the request and the rejection."?
+  options:
+    - The date of the act.
+    - The harm to the complainant.
+    - Any exhibit at all.
+    - The remedy requested.
+  correct: 3
+  explanation: >-
+    It has the date, the harm and exhibits, but no remedy — for example, a reasoned decision within
+    30 days. The defect (no reasons) should also be named with its rule.
+- id: m19-035
+  module: 19
+  lesson: '19.3'
+  subject: complaint-court-exclusion
+  difficulty: 2
+  question: >-
+    You already filed a small claim against the municipality over the same damage. Can the local
+    complaints commissioner investigate your complaint about it?
+  options:
+    - No, a matter pending in court is not investigated.
+    - Yes, if you first ask the court to stay the claim.
+    - Yes, investigations and court cases always run in parallel.
+    - No, small claims must first go to the State Ombudsman.
+  correct: 0
+  explanation: >-
+    Both the state law (s. 38(5)) and the local law (s. 7) exclude matters pending in court. Choose
+    the route before filing.
+- id: m19-036
+  module: 19
+  lesson: '19.3'
+  subject: complaint-eligibility
+  difficulty: 3
+  question: >-
+    A ministry's new policy cuts funding to all Arabic-language libraries. You are a Jewish
+    volunteer who never uses them. What is the best route for you personally?
+  options:
+    - An Ombudsman complaint in your own name about the harm to readers.
+    - A complaint to the local commissioner of every affected town.
+    - Audit information to the Comptroller, or help readers complain themselves.
+    - An Ombudsman complaint signed "on behalf of the Arab public".
+  correct: 2
+  explanation: >-
+    You are not directly harmed, so a complaint in your name fails s. 37. Send audit information, or
+    support affected people to complain in their own names or with their written consent.
+- id: m19-037
+  module: 19
+  lesson: '19.3'
+  subject: complaint-outcome
+  difficulty: 1
+  question: Can you go to court against the Ombudsman's finding on your complaint?
+  options:
+    - Yes, to the Administrative Court within 45 days.
+    - Yes, but only to the High Court of Justice.
+    - No, no court will hear a request for relief against it.
+    - No, but the State Control Committee can overturn it.
+  correct: 2
+  explanation: >-
+    State Comptroller Law s. 45(ב): no court will entertain a request for relief against the
+    Ombudsman's decisions and findings on a complaint.
+- id: m19-038
+  module: 19
+  lesson: '19.3'
+  subject: complaint-truth
+  difficulty: 2
+  question: >-
+    In your complaint you believe, but do not know, that the official acted from personal hostility.
+    How should the complaint say it?
+  options:
+    - Mark it as your belief and give the facts behind it.
+    - Leave it out completely, even if you have evidence.
+    - State it as a fact, since complaints are confidential.
+    - Ask a friend to sign a statement confirming it as fact.
+  correct: 0
+  explanation: >-
+    Say what you know as fact and mark beliefs with their basis. A complaint is a statement to an
+    official body; good faith protects it, knowing falsehood does not.
+- id: m19-039
+  module: 19
+  lesson: '19.3'
+  subject: complaint-follow-up
+  difficulty: 2
+  question: >-
+    The Ombudsman finds your complaint justified and the body promises to change its procedure
+    within two months. What should P-03 record next?
+  options:
+    - Nothing more; the entry closes with the finding.
+    - A petition, since a justified finding opens the court route.
+    - A new complaint, to make sure the body keeps its word.
+    - A check after two months that the change happened.
+  correct: 3
+  explanation: >-
+    The rubric rewards checking implementation. The body must report what it did (s. 43); you verify
+    it and record the result.
+- id: m19-040
+  module: 19
+  lesson: '19.3'
+  subject: choosing-oversight-body
+  difficulty: 1
+  question: >-
+    A municipal school's new building has no accessible entrance for your daughter's wheelchair.
+    Which specialised body could you complain to?
+  options:
+    - The Government Freedom of Information Unit at the Ministry of Justice.
+    - The Commission for Equal Rights of Persons with Disabilities.
+    - The Police Public Complaints Unit in the district of the school.
+    - The Knesset Education Committee, through a position paper.
+  correct: 1
+  explanation: >-
+    The Commission handles accessibility complaints (lesson 09.4); the local commissioner or the
+    Ombudsman are alternatives for the municipality's conduct.
+- id: m19-041
+  module: 19
+  lesson: '19.3'
+  subject: complaint-for-others
+  difficulty: 3
+  question: >-
+    A residents' committee wants you, a regular volunteer, to file fifty Ombudsman complaints for
+    residents about water bills, each written by you in your words. What is the safer model?
+  options:
+    - A workshop where each resident fills and signs a blank template.
+    - Write them all, since Ombudsman complaints are not legal documents.
+    - File all fifty in your name as the committee's representative.
+    - Charge each resident a small fee to cover the committee's costs.
+  correct: 0
+  explanation: >-
+    Regularly drafting documents for others risks s. 20(3), and fees make it worse. A workshop with
+    blank templates lets each resident act in their own name (lesson 18.4).
+- id: m19-042
+  module: 19
+  lesson: '19.3'
+  subject: complaint-eligibility
+  difficulty: 3
+  question: >-
+    Fourteen months ago a ministry wrongly cancelled your benefit; you learned of it only two months
+    ago when your bank told you. Is your Ombudsman complaint in time?
+  options:
+    - No, the year runs from the act itself, so the complaint is late.
+    - No, complaints about benefits must always be filed within 90 days.
+    - Yes, the year runs from the later of the act and learning of it.
+    - Yes, there is no time limit at all for complaints about benefits.
+  correct: 2
+  explanation: >-
+    Section 39(2) counts the year from the act or from when the complainant learned of it, whichever
+    is later. Explain when and how you learned.
+- id: m19-043
+  module: 19
+  lesson: '19.4'
+  subject: knesset-calendar
+  difficulty: 1
+  question: Within how long of election day does the new Knesset convene?
+  options:
+    - Within 7 days.
+    - Within 14 days.
+    - Within 45 days.
+    - Within 90 days.
+  correct: 1
+  explanation: 'Basic Law: The Knesset s. 12. Committees of the new Knesset are formed only after it convenes.'
+- id: m19-044
+  module: 19
+  lesson: '19.4'
+  subject: committee-participation
+  difficulty: 1
+  question: Who decides whether a member of the public speaks in a Knesset committee session?
+  options:
+    - The Knesset Speaker.
+    - The minister whose bill is discussed.
+    - The Knesset legal adviser.
+    - The committee chair.
+  correct: 3
+  explanation: >-
+    Rules of Procedure s. 125: the chair may invite and hear anyone with knowledge or an interest;
+    speaking is by the chair's leave.
+- id: m19-045
+  module: 19
+  lesson: '19.4'
+  subject: committee-participation
+  difficulty: 2
+  question: >-
+    The agenda for a committee session on your issue was posted today for next Tuesday. What should
+    you do today?
+  options:
+    - Wait until Monday, so your request is fresh in the clerk's mind.
+    - Post on social media that you will speak, so the chair notices.
+    - Ask an MK to bring you in as a guest, bypassing the secretariat.
+    - Email the secretariat a request with your paper and ID details.
+  correct: 3
+  explanation: >-
+    Request as soon as the agenda is posted, attach the paper or summary, and give ID details for
+    the entry list; then confirm by phone.
+- id: m19-046
+  module: 19
+  lesson: '19.4'
+  subject: knesset-entry
+  difficulty: 2
+  question: >-
+    You were confirmed for a committee session. Which outfit is most likely to get you through the
+    Knesset entrance?
+  options:
+    - Shorts and a plain T-shirt, since it is summer.
+    - Long trousers, a plain shirt and closed shoes.
+    - Jeans and a shirt printed with your campaign's slogan.
+    - A dress well above the knee, with flip-flops.
+  correct: 1
+  explanation: >-
+    The visitors' dress code, as reported, bans shorts, slogans, short skirts and flip-flops, among
+    others. Check the current rules before you go.
+- id: m19-047
+  module: 19
+  lesson: '19.4'
+  subject: committee-speaking
+  difficulty: 2
+  question: The chair gives you ninety seconds. Which structure uses them best?
+  options:
+    - Your organisation's history and its sources of funding.
+    - Thanks to every member present, then a summary of your whole paper.
+    - Who you are, one fact, and one specific drafting request.
+    - A critique of the minister's past statements on the issue.
+  correct: 2
+  explanation: >-
+    Short, factual and concrete wins: identify yourself, give a fact the committee lacks, and ask
+    for a specific change to a clause.
+- id: m19-048
+  module: 19
+  lesson: '19.4'
+  subject: council-participation
+  difficulty: 1
+  question: How does a resident usually get a question answered at a city council meeting?
+  options:
+    - Through a council member who files it as a question.
+    - By sending it to the Ministry of Interior.
+    - By asking it from the public seats during the debate.
+    - By filing it with the local complaints commissioner.
+  correct: 0
+  explanation: >-
+    Residents have no right to speak at council meetings; a member files a question (s. 36) or a
+    direct question (s. 38).
+- id: m19-049
+  module: 19
+  lesson: '19.4'
+  subject: council-participation
+  difficulty: 2
+  question: How far ahead must a council member file a question for a regular council meeting?
+  options:
+    - At least 48 hours before.
+    - At least 7 days before.
+    - At least one month before.
+    - At least 21 days before.
+  correct: 1
+  explanation: >-
+    Second Schedule s. 36: a written question at least 7 days before a regular meeting. Send your
+    draft to members about 10 days ahead.
+- id: m19-050
+  module: 19
+  lesson: '19.4'
+  subject: council-protocols
+  difficulty: 2
+  question: >-
+    Three weeks after the council approved the protocol of the meeting you attended, it is still not
+    online. What does the law require, and what do you do?
+  options:
+    - Online only on request; ask the mayor's office for a print.
+    - Online within a month; wait one more week before asking.
+    - No duty to publish; file an FOI request for a copy.
+    - Online in two working days; write to the coordinator, then FOI.
+  correct: 3
+  explanation: >-
+    Municipalities Ordinance s. 248ב: the approved protocol and a recording or transcript go online
+    within two working days of approval.
+- id: m19-051
+  module: 19
+  lesson: '19.4'
+  subject: committee-protocols
+  difficulty: 1
+  question: Where are Knesset committee protocols published?
+  options:
+    - On the Knesset website, and searchable on Open Knesset.
+    - Only to participants who ask the secretariat in writing.
+    - Only in the Knesset library, on paper, by appointment.
+    - In the Official Gazette (Reshumot), once a month.
+  correct: 0
+  explanation: >-
+    Rules of Procedure s. 120(א): protocols are open to the public and published on the Knesset
+    website, except confidential sessions.
+- id: m19-052
+  module: 19
+  lesson: '19.4'
+  subject: lobbying-rules
+  difficulty: 3
+  question: >-
+    A consulting firm offers to pay you to present a client's position at a committee as if it were
+    your own residents' view. What is wrong with this?
+  options:
+    - Nothing, as long as you are a resident of the affected area.
+    - Only the amount, if the payment exceeds a set ceiling.
+    - It is paid lobbying for a client, and hiding the client misleads.
+    - Nothing, since committees do not ask who sent a speaker.
+  correct: 2
+  explanation: >-
+    A person paid by a client to persuade MKs is a lobbyist who needs a permit and must disclose the
+    client (Knesset Law ch. 12); presenting it as your own view is also dishonest.
+- id: m19-053
+  module: 19
+  lesson: '19.4'
+  subject: committee-safety
+  difficulty: 3
+  question: >-
+    You are a victim of a crime that the bill under discussion addresses, and speaking in public
+    could expose you to harm. What can you ask for?
+  options:
+    - To speak under a false name in the open session.
+    - To have the session moved to a court, which can close its doors.
+    - To appear without the public present, asked before the session.
+    - Nothing; committee sessions are always fully public.
+  correct: 2
+  explanation: >-
+    Rules of Procedure s. 126 lets the chair allow an invitee to appear without others present, if
+    asked before the session starts.
+- id: m19-054
+  module: 19
+  lesson: '19.4'
+  subject: minimum-requirement
+  difficulty: 2
+  question: Which of these meets the minimum for lesson 19.4?
+  options:
+    - Attending a council meeting after a member filed your question.
+    - Emailing every MK on a committee with your opinion.
+    - Watching three committee sessions live on the Knesset Channel.
+    - Posting a video about a bill and tagging the committee chair.
+  correct: 0
+  explanation: >-
+    The minimum is one session attended in person and one written input on the record — a paper to a
+    committee, or a question or motion filed by an elected member.
+- id: m19-055
+  module: 19
+  lesson: '19.4'
+  subject: council-closed-session
+  difficulty: 3
+  question: >-
+    The mayor announces that the item on your issue, a land deal, will be discussed in a closed
+    session "for convenience". On what grounds may a council close a session?
+  options:
+    - Commercial sensitivity, on the mayor's decision alone.
+    - Only during election periods, to avoid campaigning.
+    - Any reason a majority of the members approves.
+    - Security or privacy, on the legal adviser's opinion.
+  correct: 3
+  explanation: >-
+    Second Schedule s. 18(א): closed sessions only for state security or privacy, on the legal
+    adviser's opinion laid before the members. Ask a member to request that opinion.
+- id: m19-056
+  module: 19
+  lesson: '19.4'
+  subject: committee-conduct
+  difficulty: 2
+  question: >-
+    Your group wants to unfurl a banner in the committee room when the vote is taken. What is the
+    likely result?
+  options:
+    - The banner is allowed, because sessions are public.
+    - Removal, and possibly a ban from the building.
+    - Your paper is read into the protocol automatically.
+    - The vote is postponed to the next session.
+  correct: 1
+  explanation: >-
+    Signs and props are not allowed in committee rooms; disruption gets people removed and weakens
+    the paper you came to present. Protest outside, within the law.
+- id: m19-057
+  module: 19
+  lesson: '19.5'
+  subject: placement-eligibility
+  difficulty: 1
+  question: What is the minimum placement this lesson requires?
+  options:
+    - At least three months and about 50 hours of work.
+    - Two weeks full-time at any law office.
+    - One year in a university legal clinic.
+    - Ten hours of online volunteering, any time.
+  correct: 0
+  explanation: >-
+    Lesson 19.5 requires at least three months and about 50 logged hours with a public-interest
+    organisation or, for law students, a clinic.
+- id: m19-058
+  module: 19
+  lesson: '19.5'
+  subject: placement-eligibility
+  difficulty: 1
+  question: Who can join a university legal clinic as a clinic participant?
+  options:
+    - Any adult who passes an interview.
+    - Graduates of this course, on request.
+    - Law students enrolled at that faculty.
+    - Members of the Israel Bar, as supervisors only.
+  correct: 2
+  explanation: >-
+    Clinics are academic courses for the faculty's own law students, who work on real cases under
+    supervising lawyers.
+- id: m19-059
+  module: 19
+  lesson: '19.5'
+  subject: section-20
+  difficulty: 2
+  question: Why can unpaid volunteering still fall under Bar Association Law s. 20?
+  options:
+    - Because volunteers receive training, which counts as payment.
+    - Because regular activity can be "as an occupation" without pay.
+    - Because every NGO is treated as a law office by default.
+    - Because s. 20 applies to all legal information, paid or not.
+  correct: 1
+  explanation: >-
+    Section 20 has two triggers: "as an occupation" or "for consideration". Regular volunteering can
+    meet the first even without payment.
+- id: m19-060
+  module: 19
+  lesson: '19.5'
+  subject: section-20
+  difficulty: 2
+  question: Which task is fine for a non-lawyer volunteer without special supervision?
+  options:
+    - Telling a worker whether his dismissal claim will succeed.
+    - Drafting a client's appeal and sending it in your own name.
+    - Representing a tenant before the Execution Office.
+    - Researching the protocols of committee sessions on a bill.
+  correct: 3
+  explanation: >-
+    Research is not a reserved act. Advice on a case, drafting for a client and representation
+    before a listed authority are reserved (s. 20(1)–(4)).
+- id: m19-061
+  module: 19
+  lesson: '19.5'
+  subject: placement-request
+  difficulty: 1
+  question: How many organisations should you approach with a placement request, according to the lesson?
+  options:
+    - One, so that you do not waste anyone's time.
+    - Only those that advertise a paid internship.
+    - As many as possible, with one standard email.
+    - Two or three, with an email adapted to each.
+  correct: 3
+  explanation: Two or three targeted emails beat a mass mailing; adapt each to the organisation's current work.
+- id: m19-062
+  module: 19
+  lesson: '19.5'
+  subject: placement-agreement
+  difficulty: 2
+  question: What should the written placement agreement cover at minimum?
+  options:
+    - Your political views and the organisation's donors.
+    - Tasks, hours, duration, supervisor and confidentiality.
+    - A promise of a job offer at the end of the placement.
+    - The clients you will represent and the fees they pay.
+  correct: 1
+  explanation: >-
+    A short written agreement — an email is enough — fixes tasks, hours, duration, a named
+    supervisor and confidentiality, and protects both sides.
+- id: m19-063
+  module: 19
+  lesson: '19.5'
+  subject: confidentiality
+  difficulty: 2
+  question: >-
+    You want to finish a data task at home over the weekend. The files include clients' names and ID
+    numbers. What do you do?
+  options:
+    - Copy them to your personal laptop and delete them on Monday.
+    - Email them to your private address, which is password-protected.
+    - Work only through the organisation's systems, or wait until Monday.
+    - Print them and keep them in a locked drawer at home.
+  correct: 2
+  explanation: >-
+    Client data stays in the organisation's systems; personal devices and accounts create privacy
+    risks and breach most confidentiality undertakings.
+- id: m19-064
+  module: 19
+  lesson: '19.5'
+  subject: placement-safety
+  difficulty: 2
+  question: >-
+    Your NGO offers you a place on a field monitoring tour in an area under frequent rocket alerts,
+    "for the portfolio". What does the course say?
+  options:
+    - Decline for this lesson; the course covers remote work only.
+    - Go only if you first sign a personal safety waiver for the course.
+    - Go, but leave the tour out of the portfolio entry afterwards.
+    - Go, since the NGO is responsible for your safety on the tour.
+  correct: 0
+  explanation: >-
+    Field documentation in dangerous areas is outside the course's scope; do desk, remote and
+    open-source work for the placement.
+- id: m19-065
+  module: 19
+  lesson: '19.5'
+  subject: placement-choice
+  difficulty: 2
+  question: >-
+    You support stricter enforcement against illegal construction, and also care about planning
+    rights for minorities. How should you choose your placement?
+  options:
+    - Only by which organisation's views you share most strongly.
+    - 'By cause and fit: the work, your skills, location and hours.'
+    - By which organisation is listed first in the course.
+    - By which organisation is largest, since it will teach more.
+  correct: 1
+  explanation: >-
+    Choose by cause first, then fit — what the organisation needs, what you can offer, and whether
+    you can keep the hours for three months.
+- id: m19-066
+  module: 19
+  lesson: '19.5'
+  subject: section-20
+  difficulty: 3
+  question: >-
+    A hotline caller insists: "Just tell me what you would do in my place." You are a volunteer with
+    an approved script. Which answer stays within the law?
+  options:
+    - '"In your place I would sue; but this is not legal advice."'
+    - '"I am not allowed to say, but I would not sign that settlement."'
+    - '"Most people in your situation win, so it is worth trying."'
+    - '"I can explain the general rules and book you with our lawyer."'
+  correct: 3
+  explanation: >-
+    A disclaimer does not turn advice into information. General rules plus a referral to the
+    supervising lawyer keep you outside s. 20(4).
+- id: m19-067
+  module: 19
+  lesson: '19.5'
+  subject: placement-portfolio
+  difficulty: 1
+  question: Which document confirms your placement hours in the portfolio?
+  options:
+    - A short confirmation from your supervisor of dates and hours.
+    - A screenshot of the organisation's home page and volunteer form.
+    - Your own declaration of the hours, signed before a lawyer.
+    - A receipt for a donation you made to the organisation that year.
+  correct: 0
+  explanation: >-
+    P-05 needs your log, cleared work samples, and the supervisor's short confirmation of dates and
+    hours.
+- id: m19-068
+  module: 19
+  lesson: '19.5'
+  subject: foreign-funding-disclosure
+  difficulty: 3
+  question: >-
+    Your NGO is mainly funded by foreign state entities. You will send a letter in its name to a
+    ministry official. What does the disclosure law require?
+  options:
+    - Nothing; the law applies only to Knesset committee sessions.
+    - You must register personally as a foreign agent.
+    - The organisation must disclose that funding in such communications.
+    - The letter must be approved by the Registrar of Associations.
+  correct: 2
+  explanation: >-
+    Foreign State Entity Disclosure Law s. 5א requires such organisations to disclose the funding in
+    publications and when addressing officials or Knesset committees. Follow the staff's procedure.
+- id: m19-069
+  module: 19
+  lesson: '19.5'
+  subject: supervised-tasks
+  difficulty: 3
+  question: You prepare a first draft of a petition for your NGO. Which arrangement keeps this lawful?
+  options:
+    - You sign it, since you wrote it, and the lawyer reads it later.
+    - The client signs it, which makes it the client's own document.
+    - A staff lawyer reviews, takes responsibility for and signs it.
+    - Nobody signs it, and it is filed as the organisation's position.
+  correct: 2
+  explanation: >-
+    Under the Bar's 2009 ethics decision, legal services by organisations are run by lawyers who
+    carry the responsibility; volunteers' drafts go through them.
+- id: m19-070
+  module: 19
+  lesson: '19.5'
+  subject: placement-request
+  difficulty: 2
+  question: >-
+    Spot the weakest line in this placement email: "I am available whenever you need, for as long as
+    you like, to do whatever is needed, including advising your clients."
+  options:
+    - It offers advice to clients and gives no hours or duration.
+    - It is too informal and too friendly for a first contact email.
+    - It does not mention the name of the course you are taking.
+    - It should be written in English rather than in Hebrew.
+  correct: 0
+  explanation: >-
+    Good requests state hours, duration and lawful tasks; offering to advise clients signals that
+    you do not know the s. 20 limit.
+- id: m19-071
+  module: 19
+  lesson: '19.6'
+  subject: un-route-choice
+  difficulty: 1
+  question: Which international route fits a specific, recent event affecting identified people who consent?
+  options:
+    - A UPR stakeholder submission.
+    - An individual complaint to the Human Rights Committee.
+    - A shadow report to a treaty body.
+    - A Special Procedures communication.
+  correct: 3
+  explanation: >-
+    Communications suit specific, recent or imminent events. Israel accepts no treaty-body
+    individual complaints; UPR and shadow reports suit long-term patterns.
+- id: m19-072
+  module: 19
+  lesson: '19.6'
+  subject: upr-limits
+  difficulty: 1
+  question: What is the word limit for a joint (coalition) UPR stakeholder submission?
+  options:
+    - 2,815 words.
+    - 5,630 words.
+    - 4,000 words.
+    - There is no limit for coalitions.
+  correct: 1
+  explanation: 'OHCHR technical guidelines: 2,815 words for an individual submission and 5,630 for a coalition.'
+- id: m19-073
+  module: 19
+  lesson: '19.6'
+  subject: live-deadlines
+  difficulty: 2
+  question: >-
+    A blog post says the CEDAW review of Israel is in February. Before planning your contribution,
+    where do you confirm the date?
+  options:
+    - The OHCHR treaty body page and the session's civil-society note.
+    - Another blog post, from a larger and better-known organisation.
+    - The Ministry of Foreign Affairs press office, by phone or email.
+    - The course's own lesson, which lists the exact session dates.
+  correct: 0
+  explanation: >-
+    Dates move; confirm on the UN body's own page and the session note, and record the date you
+    checked.
+- id: m19-074
+  module: 19
+  lesson: '19.6'
+  subject: un-consent
+  difficulty: 2
+  question: By default, what happens to victims' names in a Special Procedures letter to the government?
+  options:
+    - They are always removed before the letter is sent to the government.
+    - They are included only when the victim is over 18 years of age.
+    - They are included unless the submission states security concerns.
+    - They are published in a press release on the same day it is sent.
+  correct: 2
+  explanation: >-
+    The experts' letter names victims unless the submission makes clear there are security concerns.
+    Names of minors and victims of sexual violence are not published in public reports.
+- id: m19-075
+  module: 19
+  lesson: '19.6'
+  subject: un-criteria
+  difficulty: 2
+  question: Which line would most likely make a communication fail the Code of Conduct criteria?
+  options:
+    - '"On 4 March, at 22:10, officers entered the family''s home in Lod."'
+    - '"The regime of criminals and murderers continues its crimes."'
+    - '"The family filed a complaint with the police on 6 March."'
+    - '"Attached: the medical report dated 5 March."'
+  correct: 1
+  explanation: >-
+    Art. 9 requires non-abusive language and dated, sourced facts. Abusive or political language
+    gets a communication set aside.
+- id: m19-076
+  module: 19
+  lesson: '19.6'
+  subject: coalition-work
+  difficulty: 2
+  question: You offer a section to a coalition shadow report. What should you agree on before writing?
+  options:
+    - That the coalition will pay your expenses for the drafting work.
+    - Which states will be asked to criticise Israel during the session.
+    - That your section will be published under your own name only.
+    - Credit, who submits, consent for everyone named, and the deadline.
+  correct: 3
+  explanation: Agree on credit, who signs and submits, consent and the internal deadline before you write.
+- id: m19-077
+  module: 19
+  lesson: '19.6'
+  subject: un-scope
+  difficulty: 2
+  question: Why does lesson 19.6 exclude an Article 15 communication to the ICC Prosecutor?
+  options:
+    - The ICC does not accept information from individuals.
+    - Article 15 communications must be filed by states only.
+    - Israel's courts forbid citizens to contact the ICC.
+    - It is a criminal-justice step with higher legal and personal risk.
+  correct: 3
+  explanation: >-
+    Module 16 covers it, but for the practicum it is out of scope: higher legal and personal risk,
+    and it needs a lawyer.
+- id: m19-078
+  module: 19
+  lesson: '19.6'
+  subject: un-evidence
+  difficulty: 3
+  question: >-
+    Your shadow-report section on hate crimes against Haredi men in one city relies on police data
+    obtained by FOI and two consented accounts. What else strengthens it most?
+  options:
+    - Adding an opinion column from a popular website.
+    - Quoting what Israel's report to the committee says on the issue.
+    - Listing every incident you have heard about on social media.
+    - Removing the dates so that the victims cannot be traced.
+  correct: 1
+  explanation: >-
+    Shadow reports work by contrasting the state's report (quoted with its paragraph) with the
+    facts. Dates can stay if identities are protected.
+- id: m19-079
+  module: 19
+  lesson: '19.6'
+  subject: un-follow-up
+  difficulty: 1
+  question: Where can you later check whether the experts sent a letter about your communication?
+  options:
+    - In the Official Gazette (Reshumot), under UN notices.
+    - In the protocols of the Knesset Foreign Affairs Committee.
+    - In the communications database, after the reply period.
+    - Only by calling the Ministry of Foreign Affairs in Jerusalem.
+  correct: 2
+  explanation: >-
+    Letters and replies are published in the communications database after the reply period, usually
+    about 60 days.
+- id: m19-080
+  module: 19
+  lesson: '19.6'
+  subject: un-route-choice
+  difficulty: 3
+  question: >-
+    A mandate-holder posts a call for input on threats to journalists, due in three weeks. You have
+    anonymised data on online threats to local reporters from all camps. What do you send?
+  options:
+    - A short response to the call, with your data and sources.
+    - A communication through the online form about each reporter.
+    - A UPR submission, since the call concerns Israel.
+    - Nothing, since calls for input are only for states.
+  correct: 0
+  explanation: >-
+    Calls for input invite thematic information from anyone. A short, sourced response fits;
+    separate communications need specific cases and each reporter's consent.
+- id: m19-081
+  module: 19
+  lesson: '19.6'
+  subject: un-reprisals
+  difficulty: 2
+  question: >-
+    After your submission, a person in it is threatened for cooperating with the UN. What should you
+    do?
+  options:
+    - Withdraw the submission publicly to calm the situation down.
+    - Report the reprisal to OHCHR and support the person's safety.
+    - Publish the person's name so that the threat becomes visible.
+    - Wait until the review session in Geneva to raise the issue.
+  correct: 1
+  explanation: >-
+    OHCHR collects reprisal cases; report promptly and protect the person. Publicity can increase
+    the risk.
+- id: m19-082
+  module: 19
+  lesson: '19.6'
+  subject: un-language
+  difficulty: 1
+  question: In which language should a submission to a UN treaty body normally be written?
+  options:
+    - Hebrew, with a short Arabic summary attached at the end.
+    - Only English, with no exceptions for other languages.
+    - Any language, since the UN translates every submission.
+    - English, French or Spanish, or with an English summary.
+  correct: 3
+  explanation: Use English, French or Spanish; if you write in another language, add an English summary.
+- id: m19-083
+  module: 19
+  lesson: '19.2'
+  subject: practicum-integration
+  difficulty: 3
+  question: You are planning the whole practicum in October. Which order makes the best use of time?
+  options:
+    - Start the placement and FOI campaign first, and fit the rest around them.
+    - Do the six lessons one after another, finishing each before the next.
+    - Start with the international submission, which has the earliest deadline.
+    - Start with the complaint, inventing a case if none has arisen yet.
+  correct: 0
+  explanation: >-
+    The placement and FOI campaign take longest in calendar time; court days and council meetings
+    fit around them, the complaint waits for a real grievance, and the UN step follows a live
+    deadline.
+- id: m19-084
+  module: 19
+  lesson: '19.3'
+  subject: practicum-integration
+  difficulty: 3
+  question: >-
+    Your FOI answers show that a ministry routinely misses a legal deadline, and one of those delays
+    harmed you directly. How can one fact serve several practicum entries?
+  options:
+    - Use it only once, to avoid repetition in the portfolio entries.
+    - File complaints for every affected person you find in the data.
+    - Your own complaint, a written council input, and UN context.
+    - Publish the officials' names first, to pressure the ministry.
+  correct: 2
+  explanation: >-
+    One sourced fact can support your own complaint, a written input and a UN section — each in its
+    proper route, in your own name, without acting for others.

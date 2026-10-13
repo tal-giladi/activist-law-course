@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    You planned to watch a hearing listed in the court diary, but when you enter, the usher says the
+    case is a family matter and asks the public to leave. What do you do?
+  options:
+    - >-
+      Stay seated and ask the judge to rule on your right to attend under Basic Law: The Judiciary.
+    - >-
+      Leave quietly, note the hearing as closed under s. 68(ה), and pick another hearing.
+    - >-
+      Leave, then wait outside to ask the parties for a summary for your report.
+    - >-
+      Ask the usher to let you stay if you promise not to publish anything about it.
+  correct: 1
+  explanation: >-
+    Family matters are heard behind closed doors unless the court orders otherwise (Courts Law
+    s. 68(ה)). Leave without argument and record the reason; asking the parties about a closed hearing
+    defeats its purpose.
+- id: q2
+  question: >-
+    During a small-claims hearing you want a photo of the courtroom layout for your portfolio. The
+    judge has not been asked. What is the rule?
+  options:
+    - >-
+      A photo is allowed if no party appears in it and you do not publish it.
+    - >-
+      A photo is allowed during breaks, when the court is not in session.
+    - >-
+      No photo: photographing in a courtroom needs the court's permission (s. 70(ב)).
+    - >-
+      A photo is allowed in small claims, because those hearings are informal.
+  correct: 2
+  explanation: >-
+    Courts Law s. 70(ב) bans photographing in a courtroom, and publishing such a photo, without the
+    court's permission. Describe the layout in words instead.
+- id: q3
+  question: >-
+    Your ten planned hearings are all short remand extensions in one Magistrates' Court. Why will this
+    plan score low, and what fixes it best?
+  options:
+    - >-
+      No variety; add civil and public-law hearings and a second court level.
+    - >-
+      Too criminal; swap all of them for small claims, which are easier to follow.
+    - >-
+      Fine in number; add a Supreme Court tour to cover the higher court level.
+    - >-
+      Too short; watch each remand hearing twice to reach the 20-minute minimum.
+  correct: 0
+  explanation: >-
+    The task needs two court levels and criminal, civil and public-law hearings, with at least five
+    longer ones. A tour adds context but is not a hearing.
+- id: q4
+  question: >-
+    At the entrance a court guard asks for your ID and wants to search your bag. You think the search
+    is unnecessary. What happens if you refuse?
+  options:
+    - >-
+      The guard must call the police before refusing you entry.
+    - >-
+      The guard may refuse you entry to the court building (s. 106ז(ד)).
+    - >-
+      Nothing: the public's right to attend overrides the guard's powers.
+    - >-
+      The guard may search you only with a judge's written order.
+  correct: 1
+  explanation: >-
+    Court guards may search entrants without a warrant and demand ID (s. 106ז(א)); a person who
+    refuses their lawful instructions may be refused entry (s. 106ז(ד)). The right to a public hearing
+    does not include a right to skip security.
+- id: q5
+  question: >-
+    After a protest-related remand hearing, you want to post your observation report on social media.
+    Which version is lawful and fits the course rules?
+  options:
+    - >-
+      The full report with the suspect's name, since the hearing was public.
+    - >-
+      A summary urging readers to call the judge before the next hearing.
+    - >-
+      What was said in open court, with private parties described by role only.
+    - >-
+      The report plus a short audio clip you recorded quietly from the benches.
+  correct: 2
+  explanation: >-
+    Keep to what was said in open court and anonymise private parties. Pressuring the court on a
+    pending criminal case risks s. 71, and recording without permission is not allowed.

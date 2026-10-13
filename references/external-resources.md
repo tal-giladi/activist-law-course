@@ -249,3 +249,27 @@ These are the free courses, lectures and guides the lessons send you to. Each is
 | Ono Academic College — המרכז למשפט קליני-חברתי | https://www.ono.ac.il/the-ono-center-for-social-and-clinical-law/clinics/ | FREE-FULL | n | Hebrew | 5 min | 18.5 | 2026-10-13 (HTTP 200) |
 | Kol Zchut — שכר מצווה – סיוע משפטי בהתנדבות למעוטי אמצעים | https://www.kolzchut.org.il/he/שכר_מצווה_–_סיוע_משפטי_בהתנדבות_למעוטי_אמצעים | FREE-FULL | n | Hebrew | 10 min | 18.5 | ⚠️ manual check (bot-blocked; URL from search results) |
 | Israel Bar Association (fallback for "שכר מצווה") | https://www.israelbar.org.il/ | FREE-FULL | n | Hebrew | — | 18.5 | 2026-10-13 (HTTP 200) |
+| Supreme Court — Department of Foreign Relations: tours (סיורים) | https://supreme.court.gov.il/Pages/Tours.aspx | FREE-FULL | n | Hebrew | 5 min | 19.1 | 2026-10-13 (page downloaded with curl and text read; tours Sun–Thu 8:30–14:30, phone 074-7480612, pa@court.gov.il; no fee stated) |
+| Supreme Court — hearing diary (יומן דיונים) | https://supreme.court.gov.il/Pages/External.aspx | FREE-FULL | n | Hebrew | 10 min | 19.1 (source only) | 2026-10-13 (HTTP 200, title confirmed; JavaScript page — ⚠️ manual check of the search) |
+| Net HaMishpat — home page (public court diary, judge's daily hearings) | https://www.court.gov.il/NGCS.Web.Site/HomePage.aspx | FREE-FULL | n | Hebrew | 10 min | 19.1 | 2026-10-13 (opened; menu items btnCourtDiary and btnJudgeDiscussion present; Hebrew labels garbled in the fetch — ⚠️ manual check of the labels) |
+| Government FOI Unit — landing page | https://www.gov.il/he/departments/foi/govil-landing-page | FREE-FULL | n (National Digital Identity to file) | Hebrew | 15 min | 19.2 | 2026-10-12 (from Module 5; gov.il blocks bots — ⚠️ manual check) |
+| Times of Israel — Knesset dress code for visitors (30.11.2016) | https://www.timesofisrael.com/knesset-bans-miniskirts-and-short-dresses/ | FREE-FULL | n | English | 3 min | 19.4 (source only) | 2026-10-13 (opened; 2016 report — check the Knesset's current visitor rules) |
+| Ono Academic College — קליניקות משפטיות | https://www.ono.ac.il/clinical-law/ | FREE-FULL | n | Hebrew | 10 min | 19.5 (list) | 2026-10-13 (HTTP 200; the research file's URL redirects here) |
+| Organisation | URL | Note |
+|---|---|---|
+| Movement for Freedom of Information | https://www.meida.org.il/ | 200 |
+| Movement for Governability and Democracy | https://meshilut.org/ | 200, title confirmed |
+| Movement for Quality Government | https://mqg.org.il/ | 200; /volunteers/ redirects to home |
+| Kohelet Policy Forum | https://kohelet.org.il/ | 200 |
+| Lavi | https://www.lavi.org.il/ | 200 |
+| Adalah | https://www.adalah.org/ | 200 |
+| ACRI | https://www.acri.org.il/ | 200 |
+| Tag Meir | https://www.tag-meir.org.il/en/ | 200; mentions volunteers |
+| Bimkom | https://bimkom.org/ | 200 |
+| Regavim | https://www.regavim.org/ | 200 |
+| HIAS Israel | https://hias.org.il/ | 200 |
+| Kav LaOved | https://www.kavlaoved.org.il/ | 200; homepage mentions התנדבות (the /volunteering/ path is 404) |
+| HaMoked | https://hamoked.org.il/ | 200 |
+| Honenu | https://www.honenu.org.il/ | 200, title confirmed |
+| Shurat HaDin – Israel Law Center | https://israellawcenter.org/ | 200, title "Shurat Hadin – Israel Law Center" — resolves the research gap "Shurat HaDin official site" |
+| Yesh Din | https://www.yesh-din.org/ | 200 |

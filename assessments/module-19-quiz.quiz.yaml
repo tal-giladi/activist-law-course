@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    Moshe watches a sentencing hearing in a District Court. Afterwards the defendant's mother asks him
+    in the corridor whether her son should appeal. Moshe volunteers weekly at a prisoners' rights NGO.
+    What should he say?
+  options:
+    - >-
+      That appeals against sentences usually fail, so it is not worth it.
+    - >-
+      That he cannot advise on the case, and point her to the Public Defender.
+    - >-
+      That she should appeal within the deadline, which he will calculate for her.
+    - >-
+      That he will ask his NGO to draft the appeal for her son for free.
+  correct: 1
+  explanation: >-
+    Advising on a specific case is a reserved act when done regularly or for payment (s. 20(4)).
+    Moshe is an observer; the right answer is a referral to the Public Defender or a lawyer.
+- id: q2
+  question: >-
+    Leila's FOI campaign sent identical requests to a ministry and two municipalities on 1 March (fees
+    paid the same day). By 2 April the ministry and one municipality are silent and sent no extension
+    notice. What is her correct next step?
+  options:
+    - >-
+      Reminders to all three, then an FOI Unit complaint about the ministry only.
+    - >-
+      An FOI Unit complaint about both silent bodies, since both broke s. 7.
+    - >-
+      An administrative petition against both bodies, since the deadline passed.
+    - >-
+      Reminders to the two silent bodies, then an FOI Unit complaint about the ministry.
+  correct: 3
+  explanation: >-
+    Remind the late bodies first. The FOI Unit supervises ministries, not municipalities; for the
+    municipality, write to its head and consider a petition later. The answered body needs no reminder.
+- id: q3
+  question: >-
+    Rabbi Cohen's yeshiva was refused a municipal grant without reasons six weeks ago. He wants to
+    complain to the city's complaints commissioner and also keep the option of an administrative
+    petition. What should he do about the 45-day petition period?
+  options:
+    - >-
+      Nothing yet: the complaint freezes the petition period until the finding.
+    - >-
+      Nothing: the 45 days start only after the commissioner's finding.
+    - >-
+      Treat the period as running, and decide on the petition or ask for an extension.
+    - >-
+      Withdraw the complaint, because complaints and petitions cannot run together.
+  correct: 2
+  explanation: >-
+    A complaint does not extend any court deadline (local law s. 14). Both can run in parallel, but
+    the petition clock keeps running.
+- id: q4
+  question: >-
+    Dov, a farmer, wants to complete lesson 19.4 in November 2026 by speaking at the Knesset Economy
+    Committee on a water-pricing bill. Which plan reflects the calendar?
+  options:
+    - >-
+      Email the committee chair now, as committees meet as usual before elections.
+    - >-
+      Prepare his paper and wait for the new committees to post agendas.
+    - >-
+      Ask an MK to file a parliamentary question in the plenum during the recess.
+    - >-
+      Submit his paper to the outgoing committee, which forwards it to the new one.
+  correct: 1
+  explanation: >-
+    The Knesset is in its election recess until the elections on 27 October 2026; new committees form
+    after the new Knesset convenes. Preparing early and waiting for the new agendas fits the calendar.
+- id: q5
+  question: >-
+    Noa volunteers with a land-enforcement NGO and is asked to complete a planning objection form for
+    a farmer who visits the office, in Noa's words, and sign it as his "representative". What does
+    she do?
+  options:
+    - >-
+      Decline and refer it to the NGO's lawyer, since drafting for another person is reserved.
+    - >-
+      Complete it, since planning objections are not court proceedings.
+    - >-
+      Complete it but leave the signature to the farmer, which makes it his document.
+    - >-
+      Complete it if the farmer pays only a symbolic fee for the NGO's costs.
+  correct: 0
+  explanation: >-
+    Drafting a document of a legal character for another person regularly, or for any consideration,
+    is reserved (s. 20(3)). A symbolic fee makes it worse. The lawyer, not the volunteer, takes it on.
+- id: q6
+  question: >-
+    Yusuf observes an administrative petition in which a municipality's lawyer mentions the name of a
+    13-year-old pupil. He wants to post a summary of the hearing. What must the post leave out?
+  options:
+    - >-
+      The judge's name, since judges may not be named without permission.
+    - >-
+      The case number, since case numbers are confidential.
+    - >-
+      Anything identifying the pupil, without the court's permission.
+    - >-
+      The municipality's arguments, since only rulings may be published.
+  correct: 2
+  explanation: >-
+    Courts Law s. 70(ג) bans publication about a minor's matter without the court's permission. Open
+    hearings, judges and case numbers can otherwise be reported accurately.
+- id: q7
+  question: >-
+    Tamar's state-funded health clinic lost her test results and charged her for repeat tests. She
+    wrote to the clinic four weeks ago and got no answer. What makes her Ombudsman complaint strong?
+  options:
+    - >-
+      A petition already filed, so that the Ombudsman sees she is serious.
+    - >-
+      Signatures from other patients, to show the problem is widespread.
+    - >-
+      A complaint to both the Ombudsman and the Ministry of Health's complaints unit.
+    - >-
+      Dated facts, her letter and proof of payment, the defect, and a concrete remedy.
+  correct: 3
+  explanation: >-
+    The Ombudsman needs direct harm, a defect and a remedy, with the letter to the body first. A
+    pending court case would exclude the complaint (s. 38(5)), and signatures do not show her own harm.
+- id: q8
+  question: >-
+    Avraham coordinates a section on antisemitic hate crimes in a coalition's submission to a Special
+    Procedures call for input. Two victims agreed to be quoted but not named. What does he record?
+  options:
+    - >-
+      Each victim's written consent covering quotation, anonymity and publication.
+    - >-
+      Only the coalition's approval, since anonymous victims need no consent.
+    - >-
+      The victims' ID numbers, so that OHCHR can verify them if needed.
+    - >-
+      Nothing, because calls for input are not published.
+  correct: 0
+  explanation: >-
+    Consent must cover what is used and how it is disclosed and published, even when anonymised.
+    Submissions in response to calls for input are often published.
+- id: q9
+  question: >-
+    Gal planned ten court hearings. On day one, guards ask to search her bag, which holds a pocket
+    knife. What is the best course?
+  options:
+    - >-
+      Refuse the search, since attending public hearings is a constitutional right.
+    - >-
+      Let the guards decide; leave the knife or go home, and bring nothing similar again.
+    - >-
+      Hide the knife in a coat pocket, since only bags are searched.
+    - >-
+      Ask the judge in the first hearing to order the guards to let her in.
+  correct: 1
+  explanation: >-
+    Court guards may search entrants without a warrant and refuse entry to those who refuse
+    (Courts Law s. 106ז). Knives and similar items are the classic reason for confiscation.
+- id: q10
+  question: >-
+    At the end of the practicum Omer has ten court reports, a closed FOI campaign, an Ombudsman
+    complaint still pending, a council meeting attended with a question filed, a three-month
+    placement and a coalition submission awaiting the UN review. How should the portfolio treat the
+    open items?
+  options:
+    - >-
+      Leave them out until they are finished, so the portfolio shows only results.
+    - >-
+      Record them as complete, since the hard work is already done.
+    - >-
+      Include them marked pending, with the timeline to date and a review date.
+    - >-
+      Replace them with dry runs that can be completed now.
+  correct: 2
+  explanation: >-
+    Real processes often outlast the course. The portfolio records real actions with their timelines;
+    pending items are shown honestly with a date to review them.
