@@ -263,7 +263,7 @@ Signup:
   - s.38: exclusions;
   - s.39(2): a one-year time limit.
   — FREE-FULL — ✅
-- [Online complaint form](https://complaint.mevaker.gov.il/) ([English version](https://complaint.mevaker.gov.il/?lang=en)) and the [mevaker.gov.il complaints section](https://www.mevaker.gov.il/he/complaints) — FREE; the form is a JavaScript app, so it was not confirmed whether it needs signup — ✅
+- [Online complaint form](https://complaint.mevaker.gov.il/) ([English version](https://complaint.mevaker.gov.il/?lang=en)) and the [mevaker.gov.il complaints section](https://www.mevaker.gov.il/ombudsman) — FREE; the form is a JavaScript app, so it was not confirmed whether it needs signup — ✅
 - [Kol Zchut: complaining to the Commissioner — הגשת תלונה לנציב תלונות הציבור (מבקר המדינה)](https://www.kolzchut.org.il/he/הגשת_תלונה_לנציב_תלונות_הציבור_(מבקר_המדינה)) — you can file orally, in writing, online or by post (POB 1081, Jerusalem 9101001). The one-year limit applies, and mediation is available. — FREE-FULL — ✅
 
 ### Courts, procedure, fees

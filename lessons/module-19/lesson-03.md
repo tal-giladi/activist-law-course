@@ -18,7 +18,7 @@ sources:
   - title: "State Comptroller and Ombudsman — online complaint form"
     url: "https://complaint.mevaker.gov.il/"
   - title: "State Comptroller and Ombudsman — complaints page"
-    url: "https://www.mevaker.gov.il/he/complaints"
+    url: "https://www.mevaker.gov.il/ombudsman"
   - title: "gov.il — Israel Police: תלונות ופניות ציבור (Public Complaints Unit guide)"
     url: "https://www.gov.il/he/departments/guides/police_public_complaints_unit?chapterIndex=1"
   - title: "gov.il — המחלקה לחקירות שוטרים: הגשת תלונה"
@@ -203,7 +203,7 @@ Score each row 0, 1 or 2. 11 or more out of 14 means this part of the portfolio 
 
 ## Learn more
 
-- **State Comptroller and Ombudsman — complaints page** — FREE-FULL, Hebrew (forms also in Arabic, English and Russian), 10 minutes: <https://www.mevaker.gov.il/he/complaints>. Read what the Ombudsman can and cannot investigate. Fallback: lesson [05.4](../module-05/lesson-04.md).
+- **State Comptroller and Ombudsman — complaints page** — FREE-FULL, Hebrew (forms also in Arabic, English and Russian), 10 minutes: <https://www.mevaker.gov.il/ombudsman>. Read what the Ombudsman can and cannot investigate. Fallback: lesson [05.4](../module-05/lesson-04.md).
 - **Israel Police — Public Complaints Unit guide** — FREE-FULL, Hebrew, 10 minutes: <https://www.gov.il/he/departments/guides/police_public_complaints_unit?chapterIndex=1> (open in a normal browser). Fallback: lesson [06.4](../module-06/lesson-04.md).
 
 ## What goes wrong

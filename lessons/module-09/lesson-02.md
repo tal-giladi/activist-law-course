@@ -18,7 +18,7 @@ sources:
   - title: "חוק ההתיישנות, התשי״ח–1958 — s. 5 (Hebrew Wikisource)"
     url: https://he.wikisource.org/wiki/חוק_ההתיישנות
   - title: "Central Bureau of Statistics — CPI linkage calculator (October 2000 to August 2026 index), used to compute the s. 5(ב) ceiling"
-    url: https://www.cbs.gov.il/he/Pages/%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%9F-%D7%94%D7%A6%D7%9E%D7%93%D7%94.aspx
+    url: https://www.cbs.gov.il/he/subjects/Pages/%D7%9E%D7%93%D7%93-%D7%94%D7%9E%D7%97%D7%99%D7%A8%D7%99%D7%9D-%D7%9C%D7%A6%D7%A8%D7%9B%D7%9F.aspx
   - title: "Kol Zchut — איסור אפליה במקומות ציבוריים (updated 5.5.2025)"
     url: https://www.kolzchut.org.il/he/איסור_אפליה_במקומות_ציבוריים
   - title: "Kol Zchut — ruling summary, Nazareth Magistrates' Court, תא 30239-04-17 (12.6.2018): ₪33,000 to each of two Arab club-goers"

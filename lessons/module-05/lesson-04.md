@@ -13,7 +13,7 @@ sources:
   - title: "חוק מבקר המדינה, התשי״ח–1958 [נוסח משולב], ss. 9, 33–45"
     url: "https://he.wikisource.org/wiki/חוק_מבקר_המדינה"
   - title: "State Comptroller and Ombudsman — complaints page"
-    url: "https://www.mevaker.gov.il/he/complaints"
+    url: "https://www.mevaker.gov.il/ombudsman"
   - title: "State Comptroller and Ombudsman — online complaint form"
     url: "https://complaint.mevaker.gov.il/"
   - title: "State Comptroller — procedure for handling public inquiries (נוהל טיפול בפניות הציבור למשרד מבקר המדינה)"
@@ -163,7 +163,7 @@ Write it like an audit lead: the body, the failure, the period, numbers, documen
 
 ## Learn more
 
-- **Kol Zchut — הגשת תלונה לנציב תלונות הציבור (מבקר המדינה)** — FREE-FULL, Hebrew (also Arabic), 10 minutes: <https://www.kolzchut.org.il/he/הגשת_תלונה_לנציב_תלונות_הציבור_(מבקר_המדינה)>. Read the channels, the one-year limit and the mediation option. Fallback: the [complaints page of mevaker.gov.il](https://www.mevaker.gov.il/he/complaints) and ss. 33–45 of the law quoted above.
+- **Kol Zchut — הגשת תלונה לנציב תלונות הציבור (מבקר המדינה)** — FREE-FULL, Hebrew (also Arabic), 10 minutes: <https://www.kolzchut.org.il/he/הגשת_תלונה_לנציב_תלונות_הציבור_(מבקר_המדינה)>. Read the channels, the one-year limit and the mediation option. Fallback: the [complaints page of mevaker.gov.il](https://www.mevaker.gov.il/ombudsman) and ss. 33–45 of the law quoted above.
 
 ## What goes wrong
 

@@ -70,7 +70,7 @@ The numbers change on fixed dates:
 
 ## Compensation without proof of damage (linked to the price index)
 
-These amounts change every month with the consumer price index, so the numbers below are approximate. Before you claim, recalculate them with the Central Bureau of Statistics index calculator, starting from the base amount and base date written in the law.
+These amounts change every month with the consumer price index, so the numbers below are approximate. Before you claim, recalculate them from the consumer price index published by the Central Bureau of Statistics, starting from the base amount and base date written in the law.
 
 | Item | About (October 2026) | Source |
 |---|---|---|
