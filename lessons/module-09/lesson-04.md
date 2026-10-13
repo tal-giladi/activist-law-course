@@ -19,7 +19,7 @@ sources:
     url: https://www.gov.il/he/service/accessibility_query_people_with_disabilities
   - title: "Kol Zchut — נציבות שוויון זכויות לאנשים עם מוגבלות (updated 6.2.2024)"
     url: https://www.kolzchut.org.il/he/נציבות_שוויון_זכויות_לאנשים_עם_מוגבלות
-  - title: "Central Bureau of Statistics — CPI linkage calculator (February 2005 to November 2025 index), used to estimate the s. 19נא(ב) ceiling"
+  - title: "Central Bureau of Statistics — consumer price index, used to estimate the s. 19נא(ב) ceiling"
     url: https://www.cbs.gov.il/he/subjects/Pages/%D7%9E%D7%93%D7%93-%D7%94%D7%9E%D7%97%D7%99%D7%A8%D7%99%D7%9D-%D7%9C%D7%A6%D7%A8%D7%9B%D7%9F.aspx
 last_verified: "2026-10-13"
 ---
